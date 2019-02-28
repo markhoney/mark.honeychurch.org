@@ -1,0 +1,121 @@
+[{
+		"name": "Capricorn",
+		"symbol": "♑",
+		"element": "Earth",
+		"modality": "Cardinal",
+		"polarity": "Negative",
+		"start": "2014-12-22",
+		"end": "2015-01-20",
+		"total": 4
+	},
+	{
+		"name": "Aquarius",
+		"symbol": "♒",
+		"element": "Air",
+		"modality": "Fixed",
+		"polarity": "Positive",
+		"start": "2014-01-21",
+		"end": "2014-02-19",
+		"total": 11
+	},
+	{
+		"name": "Pisces",
+		"symbol": "♓",
+		"element": "Water",
+		"modality": "Mutable",
+		"polarity": "Negative",
+		"start": "2014-02-20",
+		"end": "2014-03-20",
+		"total": 2
+	},
+	{
+		"name": "Aries",
+		"symbol": "♈",
+		"element": "Fire",
+		"modality": "Cardinal",
+		"polarity": "Positive",
+		"start": "2014-03-21",
+		"end": "2014-04-20",
+		"total": 2
+	},
+	{
+		"name": "Taurus",
+		"symbol": "♉",
+		"element": "Earth",
+		"modality": "Fixed",
+		"polarity": "Negative",
+		"start": "2014-04-21",
+		"end": "2014-05-21",
+		"total": 6
+	},
+	{
+		"name": "Gemini",
+		"symbol": "♊",
+		"element": "Air",
+		"modality": "Mutable",
+		"polarity": "Positive",
+		"start": "2014-05-22",
+		"end": "2014-06-21",
+		"total": 6
+	},
+	{
+		"name": "Cancer",
+		"symbol": "♋",
+		"element": "Water",
+		"modality": "Cardinal",
+		"polarity": "Negative",
+		"start": "2014-06-22",
+		"end": "2014-07-22",
+		"total": 3
+	},
+	{
+		"name": "Leo",
+		"symbol": "♌",
+		"element": "Fire",
+		"modality": "Fixed",
+		"polarity": "Positive",
+		"start": "2014-07-23",
+		"end": "2014-08-22",
+		"total": 4
+	},
+	{
+		"name": "Virgo",
+		"symbol": "♍",
+		"element": "Earth",
+		"modality": "Mutable",
+		"polarity": "Negative",
+		"start": "2014-08-23",
+		"end": "2014-09-23",
+		"total": 9
+	},
+	{
+		"name": "Libra",
+		"symbol": "♎",
+		"element": "Air",
+		"modality": "Cardinal",
+		"polarity": "Positive",
+		"start": "2014-09-24",
+		"end": "2014-10-23",
+		"total": 7
+	},
+	{
+		"name": "Scorpio",
+		"symbol": "♏",
+		"element": "Water",
+		"modality": "Fixed",
+		"polarity": "Negative",
+		"start": "2014-10-24",
+		"end": "2014-11-22",
+		"total": 4
+	},
+	{
+		"name": "Sagittarius",
+		"symbol": "♐",
+		"element": "Fire",
+		"modality": "Mutable",
+		"polarity": "Positive",
+		"start": "2014-11-23",
+		"end": "2014-12-21",
+		"total": 3
+	}
+]

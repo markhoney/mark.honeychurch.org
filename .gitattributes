@@ -1,0 +1,2 @@
+* text=auto eol=lf
+# src/.vuepress/lfs filter=lfs diff=lfs merge=lfs -text

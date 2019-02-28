@@ -1,0 +1,57 @@
+{
+	"name": "mark.honeychurch.org",
+	"version": "1.0.0",
+	"description": "Mark Honeychurch's Personal Website",
+	"author": "Mark Honeychurch",
+	"license": "ISC",
+	"homepage": "https://mark.honeychurch.org",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/markhoney/mark.honeychurch.org.git"
+	},
+	"scripts": {
+		"csp": "./node_modules/.bin/seespee --root ./docs/ ./docs/media/index.html > ./src/.vuepress/website/csp.txt",
+		"favicon": "./node_modules/.bin/real-favicon generate ./src/.vuepress/website/faviconDescription.json ./src/.vuepress/public/media/images/icons/faviconData.json ./src/.vuepress/public/media/images/icons",
+		"cv": "node ./src/cv/cv.js",
+		"dev": "./node_modules/.bin/vuepress dev src",
+		"build": "cross-env NODE_OPTIONS='--max-old-space-size=4096' ./node_modules/.bin/vuepress build src"
+	},
+	"directories": {
+		"doc": "docs"
+	},
+	"devDependencies": {
+		"@vuepress/plugin-blog": "^1.0.0-alpha.37",
+		"@vuepress/plugin-google-analytics": "^1.0.0-alpha.37",
+		"@vuepress/plugin-medium-zoom": "^1.0.0-alpha.37",
+		"@vuepress/plugin-pagination": "^1.0.0-alpha.37",
+		"@vuepress/plugin-pwa": "^1.0.0-alpha.37",
+		"axios": "^0.18.0",
+		"cheerio": "^1.0.0-rc.2",
+		"cli-real-favicon": "^0.0.7",
+		"cross-env": "^5.2.0",
+		"favicons": "^5.3.0",
+		"markdown-it-abbr": "^1.0.4",
+		"markdown-it-attrs": "^2.3.2",
+		"markdown-it-fontawesome": "^0.3.0",
+		"markdown-it-footnote": "^3.0.1",
+		"markdown-it-sub": "^1.0.0",
+		"markdown-it-sup": "^1.0.0",
+		"markdown-it-video": "^0.6.3",
+		"markdown-pdf": "^9.0.0",
+		"pdfvuer": "^1.0.5",
+		"seespee": "^2.1.1",
+		"vue-google-charts": "^0.3.2",
+		"vue-head": "^2.1.1",
+		"vue-meta": "^1.5.8",
+		"vue-pdf": "^4.0.6",
+		"vue-qriously": "^1.1.1",
+		"vue-tabs-component": "^1.5.0",
+		"vuepress": "^1.0.0-alpha.37",
+		"vuepress-plugin-feed": "^0.1.4",
+		"vuepress-plugin-minimal-analytics": "^0.1.4",
+		"vuepress-plugin-reading-time": "^0.1.1",
+		"vuepress-plugin-seo": "^0.1.2",
+		"vuepress-plugin-sitemap": "^2.1.1",
+		"vuepress-plugin-tabs": "^0.2.1"
+	}
+}

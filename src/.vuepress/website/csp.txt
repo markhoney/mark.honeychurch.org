@@ -1,0 +1,32 @@
+Content-Security-Policy:
+  default-src 'none';
+  img-src 'self' assets.libsyn.com data: s.ytimg.com secure.gravatar.com static.libsyn.com
+    tokenskeptic.org www.gstatic.com www.youtube.com;
+  manifest-src 'self';
+  style-src 'sha256-OyKg6OHgnmapAcgq002yGA58wB21FOR7EcTwPWSs54E=' 'sha256-SubIskOBJ03vM47p4IIjcblqq78zMjtHSs8i9nMRCZA='
+    'sha256-YUxHkshkQNxKHSAsxFsKBGT3wOuoiTI7mzzyYisVbwI='
+    'sha256-iYSFKCjYC4zjGSY0Q7bAZ4TEwsH5GV96Pmuxivonxj4='
+    'sha256-uQgePFXhFnMK34Kt3dYw+pK1IAoUfMTRXeikCXQSf0Y='
+    'sha256-xm/9esc36huM1xky2T1NUEpYE27P1BSDSFe+MwunnWo='
+    'unsafe-inline' fonts.googleapis.com maxcdn.bootstrapcdn.com static.libsyn.com
+    tokenskeptic.org use.fontawesome.com www.youtube.com;
+  font-src fonts.gstatic.com maxcdn.bootstrapcdn.com static.libsyn.com use.fontawesome.com
+    wordpress.com;
+  frame-src html5-player.libsyn.com tokenskeptic.org www.youtube.com;
+  script-src 'sha256-+TD4aEpcPDxgN4/mGe+g3n3z85+rZ2hg0bY740hITWI=' 'sha256-5U7lPvHjOHsvOQe6xhcL7+IyzP/b7C3J9mm+Kt8sfw8='
+    'sha256-DYmlMQxghsfmBB5HmYDNa1Wblac8FBV8Kc74dNBYGaA='
+    'sha256-E1RzThv8A/90ZhCDRMq8Bx5bC0fomDgM7twxHAUW9sk='
+    'sha256-FQkU6Ey8coKg7SSQbM9zIIOCj+I+Htf9n4vYdkQpkH8='
+    'sha256-Oee0s9rW9Xoyj6RHVq+SrM9bAewGv53GLFlE2VRK12E='
+    'sha256-W5SmVoPmaA5RqAY/I00ce8qoiIF+ahz0a6hF6kQhoTg='
+    'sha256-bTcPYxHVpiZ68QXKgIaJSm6AgHI0RGSegb+yWWUjaGA='
+    'sha256-fW7dKdbng43I3wSfS1ICZ2UaTl7CWv4z2Ha4iiXbS90='
+    'sha256-gBYAhUXiovtCIi2uFI8Mp34QqH4p+kiEmbIaBfYBtW8='
+    'sha256-hRRFCdz/GORHPSXZPOi/lmo1vtsSPu1OsLkT4DS+HzA='
+    'sha256-kff1x+SPpKVwP1FRJcZDvNTemcAQGa3xUf7JgetX230='
+    'sha256-r7KyHynNXX/FtjqOoC7OlklgO55joq+lWSfFCDReHuc='
+    'sha256-rOHyjXJIS0/gsaCLqNeUpV30Lny4KDLvZw8cm9FEUFU='
+    'sha256-xEuWKrSBPdxb6nZ3VDdUmC4bPb5ZNxYZFe3RRXLB2uU='
+    'unsafe-inline' cdn.embed.ly cdn.jsdelivr.net maxcdn.bootstrapcdn.com
+    tokenskeptic.org www.youtube.com;
+  media-src podcast.radionz.co.nz traffic.libsyn.com;

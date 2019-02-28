@@ -1,0 +1,60 @@
+[{
+		"text": "Life",
+		"title": "My occasional life",
+		"link": "/blog/life/",
+		"description": "Infrequent blogging about my life",
+		"full": "Here are my sporadic blog entries from over the years. I've never been great at talking about my day-to-day life, as it all seems a little bit boring!"
+	},
+	{
+		"text": "Random",
+		"title": "Mark's.random(musings);",
+		"link": "/blog/random/",
+		"description": "Random thoughts I've had on disparate topics",
+		"full": "Here are a collection of random thoughts I've felt like jotting down and pursuing in the past - a mixture of geeky and strange, often the product of a bored mind."
+	},
+	{
+		"text": "Code",
+		"title": "Code I've Written",
+		"link": "/blog/code/",
+		"description": "Some of the code I've written when I've needed to scratch an itch",
+		"full": "Over the years I've written some bad code, and some okay code. But one constant is that I've always enjoyed writing code, and always enjoyed the challenge of learning new languages and libraries.\nI guess I started learning to code at primary school with <a href=\"https: //en.wikipedia.org/wiki/Logo_(programming_language)\" target=\"_blank\" rel=\"noopener noreferrer\">Logo</a>, before dabbling with <a href=\"https://en.wikipedia.org/wiki/BASIC\" target=\"_blank\" rel=\"noopener noreferrer\">BASIC</a> in secondary school. At University I learned <a href=\"https://en.wikipedia.org/wiki/Pascal_(programming_language)\" target=\"_blank\" rel=\"noopener noreferrer\">Pascal</a> and <a href=\"https://en.wikipedia.org/wiki/C%2B%2B\" target=\"_blank\" rel=\"noopener noreferrer\">C++</a>.\nSince then I've learned, to varying degrees of competence (and in roughly chronological order): <a href=\"https://en.wikipedia.org/wiki/Visual_Basic_for_Applications\" target=\"_blank\" rel=\"noopener noreferrer\">VBA</a>, <a href=\"https://en.wikipedia.org/wiki/Perl\" target=\"_blank\" rel=\"noopener noreferrer\">Perl</a>, <a href=\"https://en.wikipedia.org/wiki/PHP\" target=\"_blank\" rel=\"noopener noreferrer\">PHP</a>, <a href=\"https://en.wikipedia.org/wiki/KiXtart\" target=\"_blank\" rel=\"noopener noreferrer\">KiXtart</a>, <a href=\"https://en.wikipedia.org/wiki/Rexx\" target=\"_blank\" rel=\"noopener noreferrer\">Rexx</a>, <a href=\"https://en.wikipedia.org/wiki/Python_(programming_language)\" target=\"_blank\" rel=\"noopener noreferrer\">Python</a>, <a href=\"https://en.wikipedia.org/wiki/C_(programming_language)\" target=\"_blank\" rel=\"noopener noreferrer\">C</a>, <a href=\"https://en.wikipedia.org/wiki/C_Sharp_(programming_language)\" target=\"_blank\" rel=\"noopener noreferrer\">C#</a>, <a href=\"https://en.wikipedia.org/wiki/JavaScript\" target=\"_blank\" rel=\"noopener noreferrer\">Javascript</a>.\nHere are some of the projects I 've worked on."
+	},
+	{
+		"text": "How To",
+		"title": "How To...",
+		"link": "/blog/howto/",
+		"description": "How to guides for technical tasks",
+		"full": "Some of my projects I've done and issues I've fixed have been niche enough that I wasn't able to find any help online, and had to muddle through them by myself. Here are the write-ups of some of the solutions I've come up with, or dug up from an obscure manual or forum post after hours or searching."
+	},
+	{
+		"text": "Projects",
+		"title": "Tech Projects I've built",
+		"link": "/blog/projects/",
+		"description": "Geeky projects I've completed",
+		"full": "I enjoy playing with tech, and have taken pictures of and written up some of the more fun and/or cool projects that I've worked on."
+	},
+	{
+		"text": "Skeptical Thoughts",
+		"title": "Skeptical Thoughts with Mark Honeychurch",
+		"link": "/blog/skepticism/",
+		"description": "Notes from my radio segments",
+		"full": "I've been very fortunate to have been allowed to talk on the radio for the last few years, on the topic of skepticism. Anything and everything has been fair game, and I've tried to mix a skeptical critique of news stories with some field work - going out and visiting various weird and wonderful places and groups and talking about my experiences.\nHere are my notes from the show, which I tend to write a few hours before I go live. I don't often use the notes while I'm on air, but they help me to sort out my thoughts. Some of these are fully typed up, but others (especially when I've had limited time after an event to put my thoughts together) are just lists of talking points.",
+		"items": [{
+				"text": "2015",
+				"link": "/blog/skepticism/2015/"
+			},
+			{
+				"text": "2016",
+				"link": "/blog/skepticism/2016/"
+			},
+			{
+				"text": "2017",
+				"link": "/blog/skepticism/2017/"
+			},
+			{
+				"text": "2018",
+				"link": "/blog/skepticism/2018/"
+			}
+		]
+	}
+]

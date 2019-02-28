@@ -1,4 +1,8 @@
-## My Steam Account
+---
+layout: Page
+---
+
+# My Steam Account
 
 Here are all the Steam games I own - most of them have been purchased in [Humble Bundles](https://www.humblebundle.com/).
 

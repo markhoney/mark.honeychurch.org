@@ -8,6 +8,7 @@
 #     details: I write software for work and for fun, using modern tools. I like helping people to adopt new technologies, and I teach kids how to code.
 #   - title: PLAY
 #     details: I am an active Skeptic and Humanist, with a common sense view of the world. I work to inform the public and protect them from nonsense.
+layout: Page
 ---
 
 <template-page-home />

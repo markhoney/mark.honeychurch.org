@@ -27,9 +27,8 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 input {
   width: 100%;
 }
-width: 100%;
 </style>

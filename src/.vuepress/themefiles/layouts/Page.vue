@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import Layout from '@vuepress/theme-default/layouts/Layout.vue';
+import Layout from './Layout.vue';
 import pagebottom from '../../components/template/section/footer.vue';
 export default {
   components: { Layout, pagebottom }

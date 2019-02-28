@@ -71,3 +71,9 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+input {
+  width: auto;
+}
+</style>

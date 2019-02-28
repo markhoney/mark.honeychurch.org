@@ -1,3 +1,7 @@
+---
+layout: Page
+---
+
 # Pictures of me
 
 Here are some royalty free pictures of me that you are welcome to use.

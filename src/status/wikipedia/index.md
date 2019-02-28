@@ -1,4 +1,8 @@
-## My Wikipedia Edits
+---
+layout: Page
+---
+
+# My Wikipedia Edits
 
 I've had a Wikipedia account since way back in 2005, and since then I've made edits to quite a few pages - mostly small edits, such as fixing typos.
 

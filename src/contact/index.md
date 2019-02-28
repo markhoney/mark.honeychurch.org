@@ -1,3 +1,7 @@
+---
+layout: Page
+---
+
 # Contact
 
 If you need to contact me, you can email me at [mark@honeychurch.org](mailto:mark@honeychurch.org).

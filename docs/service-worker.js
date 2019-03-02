@@ -25,7 +25,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/css/0.styles.css",
-    "revision": "3cbf748a42f71b625e10276d4d5efea6"
+    "revision": "c9ae9e6184742c1ed01bf28e5f579189"
   },
   {
     "url": "assets/img/0001.jpg",
@@ -1349,23 +1349,23 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/165.js",
-    "revision": "4a8c4f775a0d5a6ae60bbb3b1303570e"
+    "revision": "06eef5f5804cd300f6bea3801f5b0d0a"
   },
   {
     "url": "assets/js/166.js",
-    "revision": "214b4fff28a31806fe09a4f3a1a18b10"
+    "revision": "a9a5d8bd76d44609cf8ec2026fbe30c4"
   },
   {
     "url": "assets/js/167.js",
-    "revision": "2ecafe9d69343b84d369f85a4cc2f4ee"
+    "revision": "3722a1b50383b6b01f3060b9eb614918"
   },
   {
     "url": "assets/js/168.js",
-    "revision": "6edc0f98f8a121306b685f34c49646b1"
+    "revision": "33c619b5d3669f870e4e9f80a0ba6d08"
   },
   {
     "url": "assets/js/169.js",
-    "revision": "1424dfc48896b0046fe42cd3bae9b389"
+    "revision": "cbf918539279f3c461eca4f219f5f7e5"
   },
   {
     "url": "assets/js/17.js",
@@ -1661,11 +1661,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/235.js",
-    "revision": "0a0b5f6dbf821503d513f91de7cdb897"
+    "revision": "3aa99dd79f305c9b12f56f1d5846355f"
   },
   {
     "url": "assets/js/236.js",
-    "revision": "c0222f7cb5978a26eb08af6ac3da5e30"
+    "revision": "2ea1a026c9b418447ed3ee8d5cdf5c66"
   },
   {
     "url": "assets/js/237.js",
@@ -1725,7 +1725,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/25.js",
-    "revision": "684347cc193eb1bcfa4136704ef88244"
+    "revision": "1d0628a1d25e909a05cb3229e8114302"
   },
   {
     "url": "assets/js/250.js",
@@ -1821,11 +1821,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/271.js",
-    "revision": "6ede06c357ebdd660aff92964b9e205b"
+    "revision": "14bb9717d5a740369925698ab7053503"
   },
   {
     "url": "assets/js/272.js",
-    "revision": "d6cd8cb2fcda7af56264fb9c732c0ce0"
+    "revision": "a3832732342909d5edc4fa4813263102"
   },
   {
     "url": "assets/js/273.js",
@@ -1837,19 +1837,19 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/275.js",
-    "revision": "8a006f893f8efcb2d882be32384d59e8"
+    "revision": "2e20813283791c218b71978f0c2c8943"
   },
   {
     "url": "assets/js/276.js",
-    "revision": "c9bb5da67422e22d329b35fa6b9b7f77"
+    "revision": "a2400d5ce310f654651511f0c43e109d"
   },
   {
     "url": "assets/js/277.js",
-    "revision": "22ae33c01b2f5ca06211f8099a28a86c"
+    "revision": "cd032f5db844866b785cb1dd0e9dedc1"
   },
   {
     "url": "assets/js/278.js",
-    "revision": "c662a1d8aa47fed38c3f82df1dee6f60"
+    "revision": "2f8c6d94649313ec0b2c58ec41fed500"
   },
   {
     "url": "assets/js/279.js",
@@ -1877,11 +1877,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/284.js",
-    "revision": "a54fdb8a0435a1c2a25515b2c8a01e83"
+    "revision": "af02aeb377dc31f35529736a4f33d00a"
   },
   {
     "url": "assets/js/285.js",
-    "revision": "d43b02aac9d3076ed342d5445c7406f9"
+    "revision": "8348e0b1058fefc240a03ca974a91987"
   },
   {
     "url": "assets/js/286.js",
@@ -1941,7 +1941,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/299.js",
-    "revision": "a1fd913439707ddcdbcdad25d674e261"
+    "revision": "4f4a35d86c121493b11f65788e0f0d59"
   },
   {
     "url": "assets/js/30.js",
@@ -1949,7 +1949,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/300.js",
-    "revision": "94d33c603d7a10f33968e31b20477040"
+    "revision": "d282e1f669fe29bb0ed8acb8c10e6814"
   },
   {
     "url": "assets/js/301.js",
@@ -2061,7 +2061,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/326.js",
-    "revision": "d83b881c375421461fdf21dd6f014cd9"
+    "revision": "df099f44da2f44a2382f887fab3e6615"
   },
   {
     "url": "assets/js/327.js",
@@ -2105,11 +2105,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/336.js",
-    "revision": "76e822c29354fd1516830bd45ae349e6"
+    "revision": "8f246cdc7b7fdbb37d160f8b208dc8e2"
   },
   {
     "url": "assets/js/337.js",
-    "revision": "031f017cdb7cceb251de24ebe48fb00d"
+    "revision": "822829b8095a24ad685c0d8f0e89a87f"
   },
   {
     "url": "assets/js/338.js",
@@ -2193,7 +2193,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/356.js",
-    "revision": "27f2e7cd43fb930bff4568e88d07b54c"
+    "revision": "1dbc3a50f179867b3cf576f3ec2e5c22"
   },
   {
     "url": "assets/js/357.js",
@@ -2229,11 +2229,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/364.js",
-    "revision": "08452cae07e85fdc1271b2d5895eeb3f"
+    "revision": "3547b37cf8e5dfc5a0807d550ab64f62"
   },
   {
     "url": "assets/js/365.js",
-    "revision": "84e4ef0a38593ef6ef86968a27035557"
+    "revision": "b631b686647257a3aa638284af383015"
   },
   {
     "url": "assets/js/366.js",
@@ -2241,11 +2241,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/367.js",
-    "revision": "832e46cac80ba8cbf80d011e1b13ec61"
+    "revision": "42a55b519ee5133612fdb39e2fb5f664"
   },
   {
     "url": "assets/js/368.js",
-    "revision": "43ff4a55eba9494ffaf9f8a6b508ba80"
+    "revision": "34e412a8be140f5a671e69e4aefd138c"
   },
   {
     "url": "assets/js/369.js",
@@ -2273,7 +2273,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/374.js",
-    "revision": "0aef464803d36251b06d36e3fc5b3610"
+    "revision": "a51e6c35a342dfb5f674e7409878a3cb"
   },
   {
     "url": "assets/js/375.js",
@@ -2301,7 +2301,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/380.js",
-    "revision": "aa08f420b785d2ebca0f28c95681bec5"
+    "revision": "cc322ce5a42bb1cb89ec826526b52e2f"
   },
   {
     "url": "assets/js/381.js",
@@ -2321,15 +2321,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/385.js",
-    "revision": "cefae27a92f280fdede49e3d1b54dde6"
+    "revision": "992599e02113e703586b09ab3eab8eff"
   },
   {
     "url": "assets/js/386.js",
-    "revision": "61dee9efe3dd335afa540a8a0419bb09"
+    "revision": "5375c234c82c730b08e9c87c47da0279"
   },
   {
     "url": "assets/js/387.js",
-    "revision": "4865106cceeee4930dd48a629e443b1c"
+    "revision": "f56190511dd0cd9ccbe4e04bdbf6c23a"
   },
   {
     "url": "assets/js/388.js",
@@ -2353,11 +2353,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/392.js",
-    "revision": "6b301e9af8948a894494762facfd1060"
+    "revision": "ce4d97b72fecad680a6f0ff3d16cbf8c"
   },
   {
     "url": "assets/js/393.js",
-    "revision": "4b923415d96f32aae96abdacc097912c"
+    "revision": "0dc98e4ed2f01696a753803ba59f7309"
   },
   {
     "url": "assets/js/394.js",
@@ -2369,11 +2369,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/396.js",
-    "revision": "e8f91d3fe8c5c2060d8b8321204ca085"
+    "revision": "602767b6288fa2b1d63b53606cadaf40"
   },
   {
     "url": "assets/js/397.js",
-    "revision": "816b82487fffa2b06d87fd33dc9b09d9"
+    "revision": "370a18e8aebcb9916cc2e56aacc4cae9"
   },
   {
     "url": "assets/js/398.js",
@@ -2397,39 +2397,39 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/401.js",
-    "revision": "30c2aedc14cebefc4a9a0f4a9664f32a"
+    "revision": "992c09a774f5d9780f433f2ff5ff6464"
   },
   {
     "url": "assets/js/402.js",
-    "revision": "de35b22d4accc5f9c0858e4d6d0a2b84"
+    "revision": "0ec230f21ccb7edc37cf70245dbac8cd"
   },
   {
     "url": "assets/js/403.js",
-    "revision": "a4886adad628a565f9fde61033888086"
+    "revision": "315d6751b765026be022b1f956d3f76f"
   },
   {
     "url": "assets/js/404.js",
-    "revision": "c0334d62ce261b37815248e83c7206e7"
+    "revision": "fd586b8bc34901bdf211ec8cc3d177ef"
   },
   {
     "url": "assets/js/405.js",
-    "revision": "d0a9055e33c281e11a6804aef90887bf"
+    "revision": "f89aafdc71f0c1396346afbcd9c98a1c"
   },
   {
     "url": "assets/js/406.js",
-    "revision": "390364a2a150524a56fa80ab30a4c66d"
+    "revision": "2bdc864d6e70e9b736058856486837d5"
   },
   {
     "url": "assets/js/407.js",
-    "revision": "013382211dd1db93f2c39ab5fa2ac777"
+    "revision": "1ea6a8a560b7017d70668bc21e27becb"
   },
   {
     "url": "assets/js/408.js",
-    "revision": "ec3a078ba50b93aa7b762ade97dcdb78"
+    "revision": "8dc05df253046ec6bb7e28d1f89e587e"
   },
   {
     "url": "assets/js/409.js",
-    "revision": "f3e862bde30b620097330302ffc3757f"
+    "revision": "c6983a48807d5189b4ac6726a4c1d20d"
   },
   {
     "url": "assets/js/41.js",
@@ -2437,15 +2437,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/410.js",
-    "revision": "acca7762e7979bd3848328831d289b12"
+    "revision": "672810ab907781b71176e1c14c40acb9"
   },
   {
     "url": "assets/js/411.js",
-    "revision": "92ddad68eed5245905714cd0f714132a"
+    "revision": "38393d44d54c57ad6c96c1fb5fff27db"
   },
   {
     "url": "assets/js/412.js",
-    "revision": "9ca455b13089133838e7b00919017b9a"
+    "revision": "9d165710c6a4081cad876fff964883bf"
   },
   {
     "url": "assets/js/413.js",
@@ -2453,27 +2453,27 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/414.js",
-    "revision": "af8215c5b96128c9e2a8d432507195da"
+    "revision": "695006615b22726fd1fdb71326c106e3"
   },
   {
     "url": "assets/js/415.js",
-    "revision": "f69d0bcfc759b67ff58717f7fc584e00"
+    "revision": "4097f7670ec32f9fe8513d5460d55f34"
   },
   {
     "url": "assets/js/416.js",
-    "revision": "fcae5299d71cadf009fbc5ee393176d0"
+    "revision": "c33ef16f032c27d774b9e0cf1735b530"
   },
   {
     "url": "assets/js/417.js",
-    "revision": "632fddf61fc23d55f078dae9ae520c1a"
+    "revision": "cd446cac7a5f0eed5a39f9ddc50da41c"
   },
   {
     "url": "assets/js/418.js",
-    "revision": "1e25c153c621c01d9909c062cc5acfc4"
+    "revision": "51e6f5a0edf991dee7ef6ed6b373afb2"
   },
   {
     "url": "assets/js/419.js",
-    "revision": "85b52406c811f6543a3163cf442f230c"
+    "revision": "684ef28867cdcba3b2e1cbc4327dff34"
   },
   {
     "url": "assets/js/42.js",
@@ -2481,15 +2481,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/420.js",
-    "revision": "a7b3882709bf8d3dfae2756a84625619"
+    "revision": "9617dbd9c71722d27a18f7719045c805"
   },
   {
     "url": "assets/js/421.js",
-    "revision": "ad83f745616817a9671c961ff281725e"
+    "revision": "c385df12d7a21ccd9dc95824c398d1b8"
   },
   {
     "url": "assets/js/422.js",
-    "revision": "abcaeff26f1a61be695f64b5beb0778a"
+    "revision": "58896075afd89cc3346a43a176d74b0a"
   },
   {
     "url": "assets/js/423.js",
@@ -2497,11 +2497,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/424.js",
-    "revision": "e00191399555c58336e30d38ce6785e3"
+    "revision": "c65c82d86ab669e8e1a5fb3f56646612"
   },
   {
     "url": "assets/js/425.js",
-    "revision": "f9092b76eb4d2e801ac2231ca6a5eb59"
+    "revision": "7b889e49aec97df3c5ed923afd05e1e6"
   },
   {
     "url": "assets/js/426.js",
@@ -2509,15 +2509,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/427.js",
-    "revision": "5cc59a2e1cae511d1b90a60338508da4"
+    "revision": "bccc1dc419432133ddc017ac8808d302"
   },
   {
     "url": "assets/js/428.js",
-    "revision": "e59e920860b084a19781b3e3dbddee5e"
+    "revision": "26305a13e61923b183bae9301bfba70b"
   },
   {
     "url": "assets/js/429.js",
-    "revision": "90058d7ca78cd52d1ed4d66343374f40"
+    "revision": "2914153019991fbb940814f44844614c"
   },
   {
     "url": "assets/js/43.js",
@@ -2525,43 +2525,43 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/430.js",
-    "revision": "1dd9ee0a8db5be91afdff22fb8a251c0"
+    "revision": "817b2e06672bb9a6c6a66ce9783f051c"
   },
   {
     "url": "assets/js/431.js",
-    "revision": "86fe1f51c64bd64cf33bd230d398286a"
+    "revision": "33006f511a32c5c9683b53e46be16946"
   },
   {
     "url": "assets/js/432.js",
-    "revision": "80febdb743f9f9d38839e999dac5b0a9"
+    "revision": "5b48b3e331a030cb9c0ec5bc4d927150"
   },
   {
     "url": "assets/js/433.js",
-    "revision": "9109df3244d4b9976e105ad95f85f156"
+    "revision": "a519818cf9b4b1eaef27bc0a1dfe2c0c"
   },
   {
     "url": "assets/js/434.js",
-    "revision": "245ab54473e658f3a6d57b32f0cf6a00"
+    "revision": "7bc7631266b76ac5a378e2478a1947db"
   },
   {
     "url": "assets/js/435.js",
-    "revision": "1558b81739d45c45f86ce364755a341a"
+    "revision": "6cd1b321d00213522607f144f51e7048"
   },
   {
     "url": "assets/js/436.js",
-    "revision": "e4b5fa6b5d37087d4b93db34ea73aa72"
+    "revision": "329b38d4295ed22c72f96cfbfb6d4124"
   },
   {
     "url": "assets/js/437.js",
-    "revision": "970eacdfa0d4da53f090fe34daf29a51"
+    "revision": "b1a6480a1acb333439096b9b7f816dc6"
   },
   {
     "url": "assets/js/438.js",
-    "revision": "f7c8c1ec622f29dca7488b77ea64f2f6"
+    "revision": "452c13dcc2fddba177048b2a4ce94790"
   },
   {
     "url": "assets/js/439.js",
-    "revision": "81584f431e4893ca9bf3edd168dfb6e6"
+    "revision": "398ff223e8ce5389e04083822ac8ec8a"
   },
   {
     "url": "assets/js/44.js",
@@ -2569,23 +2569,23 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/440.js",
-    "revision": "6b9cb045f5d70ec06f99df8c696b064b"
+    "revision": "b84cbcc272e8a80ac29abd591d61f66d"
   },
   {
     "url": "assets/js/441.js",
-    "revision": "465c4639e6f1a8273edb55f5ba4f0a0e"
+    "revision": "4000e3f97879a4d12abc2f36152d8405"
   },
   {
     "url": "assets/js/442.js",
-    "revision": "f61230ea14d30a88419a0db67a0ef239"
+    "revision": "3d26a204b7653b71156991300bc42e4a"
   },
   {
     "url": "assets/js/443.js",
-    "revision": "1c0364290e78fd118fb5c59bd2bcac59"
+    "revision": "47a28a258b35d0cca0d4031690f62df5"
   },
   {
     "url": "assets/js/444.js",
-    "revision": "a864de04a203c1b552898288cdc0768b"
+    "revision": "f4ff0c9ce12834079b4d874c5e48992c"
   },
   {
     "url": "assets/js/445.js",
@@ -2593,19 +2593,19 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/446.js",
-    "revision": "5733cd76b619f86ccc5660459b041c97"
+    "revision": "2584b552c98a7f69395d031f9cba7896"
   },
   {
     "url": "assets/js/447.js",
-    "revision": "5e144922fc2f2e8c47ff0ff7625c4476"
+    "revision": "0af29319119eff7a49503b726c8ae675"
   },
   {
     "url": "assets/js/448.js",
-    "revision": "b21672aeb5bcb3e0ef6a221350f99874"
+    "revision": "85d240af65f408f4559d2ae9db2d0619"
   },
   {
     "url": "assets/js/449.js",
-    "revision": "16ad1b0603bb61e061ab6d139697c576"
+    "revision": "9f70eec11c850bc73ebfdeb1f9ae45c3"
   },
   {
     "url": "assets/js/45.js",
@@ -2613,15 +2613,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/450.js",
-    "revision": "8fbd0b352637bfc205df233de352b0f7"
+    "revision": "534f141f4bdf6cb75b558ffc67514e38"
   },
   {
     "url": "assets/js/451.js",
-    "revision": "df735c0c944e5491fcbfc240181a5581"
+    "revision": "efe7a6d6a3dbd1987f8e5187922f3ff1"
   },
   {
     "url": "assets/js/452.js",
-    "revision": "1c52f61f350d0e10ee19fd086dad1562"
+    "revision": "8d43720de7c5d76560cd6189092471ab"
   },
   {
     "url": "assets/js/453.js",
@@ -2629,11 +2629,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/454.js",
-    "revision": "67fe922bd79bea7db0860474f29bd355"
+    "revision": "d0a322242153e22a85d048df44299117"
   },
   {
     "url": "assets/js/455.js",
-    "revision": "93117950df58ae1e836cc13601970f82"
+    "revision": "5b20749d9d8239371c3e99184a850bd9"
   },
   {
     "url": "assets/js/456.js",
@@ -2641,15 +2641,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/457.js",
-    "revision": "27c60b98ac6db04b1f703f1271bf60ec"
+    "revision": "4bf53d4e42627e69c95288d227fc1270"
   },
   {
     "url": "assets/js/458.js",
-    "revision": "7486d51b85d48b37437468b01fb73655"
+    "revision": "bb070f0eec5be8b60db4b1eab5e34e1f"
   },
   {
     "url": "assets/js/459.js",
-    "revision": "be15e2a00df87437c618c04c1423406f"
+    "revision": "5d0c28a01961aa187b579759fa9ee0b5"
   },
   {
     "url": "assets/js/46.js",
@@ -2657,15 +2657,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/460.js",
-    "revision": "b7ca7e2f683b2e6390d609a5aea8b358"
+    "revision": "07b608a7c6d74ba964835865e9362d0d"
   },
   {
     "url": "assets/js/461.js",
-    "revision": "ad3a544243a5aed2d5ece2d0ea0d4052"
+    "revision": "add9f4e959e39f08b2a722443445f5db"
   },
   {
     "url": "assets/js/462.js",
-    "revision": "15b1b76f7b58c0a50c353e7f22d61fc6"
+    "revision": "302d46ec15552496045d5131a7bbb022"
   },
   {
     "url": "assets/js/463.js",
@@ -2729,15 +2729,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/477.js",
-    "revision": "fbcabd1985b49cfd16841517514e4eed"
+    "revision": "c0c282056b17e800487ad73b79728f6f"
   },
   {
     "url": "assets/js/478.js",
-    "revision": "8a8213cee9d1780554475106dc09b18d"
+    "revision": "d9bba40811da1e8ab906ba27651a47a1"
   },
   {
     "url": "assets/js/479.js",
-    "revision": "259890fd55b82db689627190bd2fe009"
+    "revision": "a0604f0ee9d33e83f271b652f2da5d2e"
   },
   {
     "url": "assets/js/48.js",
@@ -2753,35 +2753,35 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/482.js",
-    "revision": "fce379e3e9d904d4606ba93a89d3ffde"
+    "revision": "f2b46e32edfdcdd59396b41aeed761d1"
   },
   {
     "url": "assets/js/483.js",
-    "revision": "2f6804212b1dde601040eaa7a64873c1"
+    "revision": "c8af0d176ca112bcdd4fe2f2dca57fb9"
   },
   {
     "url": "assets/js/484.js",
-    "revision": "b5a333e7585baa45c29639404807bbb8"
+    "revision": "b92552d997e8a6c4a255174419318922"
   },
   {
     "url": "assets/js/485.js",
-    "revision": "f6d1677204541ed2c1d49ad0c9aefb88"
+    "revision": "76d139ac635e8bff144a1acf6a159e95"
   },
   {
     "url": "assets/js/486.js",
-    "revision": "71a8eb318e9fc0e89eee5ec0eb52d935"
+    "revision": "1473370f8509444b7ea1e2799700e6ed"
   },
   {
     "url": "assets/js/487.js",
-    "revision": "4f223e282d6526eba2ba1d5c5acbcf3d"
+    "revision": "21f6bf244b358b142000e812d2508b8d"
   },
   {
     "url": "assets/js/488.js",
-    "revision": "63186fa7dd609ab116f594081a606ede"
+    "revision": "0f719d1f0f13b1a526cc8694550bcfe7"
   },
   {
     "url": "assets/js/489.js",
-    "revision": "d29ec1f917e306ddf5bf599948e0141b"
+    "revision": "0f8bba45c74a9a70a9990f9df2dfb8fe"
   },
   {
     "url": "assets/js/49.js",
@@ -2789,39 +2789,39 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/490.js",
-    "revision": "3d8e53634e502f3385df1e24a30341d4"
+    "revision": "4a321116d5d92acf4a6220cb603550c0"
   },
   {
     "url": "assets/js/491.js",
-    "revision": "45e7262720b04300390cde92b8cdb619"
+    "revision": "61bc7ada6eccc5eed81f2ef4bbe80d06"
   },
   {
     "url": "assets/js/492.js",
-    "revision": "dbb47bb22abd156388d966ef3c82d938"
+    "revision": "438e7650c6809320ae408d4099264ec7"
   },
   {
     "url": "assets/js/493.js",
-    "revision": "9c4ba04a726bc48de748bc273c1ec04a"
+    "revision": "203b87ed45b2df3636e429e86e4be913"
   },
   {
     "url": "assets/js/494.js",
-    "revision": "65935ce6f726fbe3bd855b3dd639ce8f"
+    "revision": "17c8a5d0c48018829adb122199726ac3"
   },
   {
     "url": "assets/js/495.js",
-    "revision": "c91b59828a7e5f3ddb2902ca125d1cb4"
+    "revision": "b8874abd54dfb69d9c735bcd20a372dc"
   },
   {
     "url": "assets/js/496.js",
-    "revision": "b0ae205b773cc71821660d24c0f9f340"
+    "revision": "3d138c2b8e4b46d62b05665acded9c6c"
   },
   {
     "url": "assets/js/497.js",
-    "revision": "88ec2409aafd07d226146436e5df5e2b"
+    "revision": "16e5475eaf308e504ec5abad07ecc633"
   },
   {
     "url": "assets/js/498.js",
-    "revision": "b5624d16dcd80d49c3b7e997c6bc7f79"
+    "revision": "127b168010962695caf356881e2af748"
   },
   {
     "url": "assets/js/499.js",
@@ -2833,15 +2833,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/50.js",
-    "revision": "ba30c0dc669b61db1690853a25867f33"
+    "revision": "3b9ab2e8a7fef4f984bb8f0d453216db"
   },
   {
     "url": "assets/js/500.js",
-    "revision": "255ae5442490328fded7ec310060172f"
+    "revision": "d7421037774619c64c0398089c06afe8"
   },
   {
     "url": "assets/js/501.js",
-    "revision": "a1a03efe59aaed095cf4b088e6eb409b"
+    "revision": "b1fd576929fca1d35ec3048a0bebc9f3"
   },
   {
     "url": "assets/js/502.js",
@@ -2849,11 +2849,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/503.js",
-    "revision": "e43e614e8fa1825373acd39878fab49a"
+    "revision": "f66d0c290ee44d5341965fd3422059ba"
   },
   {
     "url": "assets/js/504.js",
-    "revision": "dfe2d152fce0b4ba8d6086bc6716ddb7"
+    "revision": "db436ac8a3fac554570fddaf5d1adbfb"
   },
   {
     "url": "assets/js/505.js",
@@ -3009,7 +3009,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/54.js",
-    "revision": "9e0a99af6b3af493b086e2557dd7d42b"
+    "revision": "6ecf1a9a8b36af675bab2beb42ceebf8"
   },
   {
     "url": "assets/js/540.js",
@@ -3129,7 +3129,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/567.js",
-    "revision": "f5198474b27c7270d1b31bb2dcf7b22b"
+    "revision": "eb0d2cc1bb92edc152640e0a14b9a021"
   },
   {
     "url": "assets/js/568.js",
@@ -3241,7 +3241,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/6.js",
-    "revision": "36c3de747af38b32a7d55222fab91101"
+    "revision": "830a98a95cc00fc6d192e4f8f06f642f"
   },
   {
     "url": "assets/js/60.js",
@@ -3261,7 +3261,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/64.js",
-    "revision": "51e4d0e1c204edf5ab902938cf13985a"
+    "revision": "dcc41d6e5d36c082c0fcaddf11fc95ad"
   },
   {
     "url": "assets/js/65.js",
@@ -3321,7 +3321,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/78.js",
-    "revision": "7f6cf7d6dc6842d0ef9ecd43fd9b7d59"
+    "revision": "abde8c501438cd9a1a4c85030c76f3d0"
   },
   {
     "url": "assets/js/79.js",
@@ -3373,15 +3373,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/9.js",
-    "revision": "ff1084073df9be4d8e16e1f9bfae74ab"
+    "revision": "7b933e2a068db53f178fcb4baee71192"
   },
   {
     "url": "assets/js/90.js",
-    "revision": "8365517a4f7f68e749b87a69ddf3af8d"
+    "revision": "4743ec21400d000e23d4b27bc7c6f35d"
   },
   {
     "url": "assets/js/91.js",
-    "revision": "7301b10b7986d26b7344ccf9fcb2ab53"
+    "revision": "630ae31d5a16a06aea49a1ebb37b45b6"
   },
   {
     "url": "assets/js/92.js",
@@ -3389,7 +3389,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/93.js",
-    "revision": "a15b3b688b3650e117200586732ddd63"
+    "revision": "f264851ddd1d729a2108a4156c6e52fc"
   },
   {
     "url": "assets/js/94.js",
@@ -3397,15 +3397,15 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/95.js",
-    "revision": "2f3fde21f33d21f5ab6f907773c6fe17"
+    "revision": "cec68c2025a56c1edadea84a3e4f507b"
   },
   {
     "url": "assets/js/96.js",
-    "revision": "a0827a4eea23509cf835d27dc26bb552"
+    "revision": "805d6fa712e81bcde0ba50bf702da656"
   },
   {
     "url": "assets/js/97.js",
-    "revision": "c8be5b595d9debebb225ab459d21e682"
+    "revision": "8654f67c83e3f68e3c539ab1080482b8"
   },
   {
     "url": "assets/js/98.js",
@@ -3417,7 +3417,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/app.js",
-    "revision": "1b1db9510a827dafa0fe7e277d7aea79"
+    "revision": "9dc240a21acd852c73f20b1ca52424b7"
   },
   {
     "url": "assets/js/styles.js",
@@ -3429,55 +3429,55 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/code/artists/index.html",
-    "revision": "ea0534af68394719122144a9c0400c38"
+    "revision": "058d6411b95a43ce8359cb659c69f2a2"
   },
   {
     "url": "blog/code/asa.sbh.nz/index.html",
-    "revision": "23cd2c910e0e0e70a512046de55cfd22"
+    "revision": "0861bdbbafd3b02b80b56df5285c273e"
   },
   {
     "url": "blog/code/divider/index.html",
-    "revision": "7b780be218a3ac466341364f932cefb1"
+    "revision": "2c594db7f2788ebbdbad9db78da546b7"
   },
   {
     "url": "blog/code/first/index.html",
-    "revision": "88766efe76792378d9c588fb445d1728"
+    "revision": "79af2a0dfccfd7dc43723a4c695336f7"
   },
   {
     "url": "blog/code/fishbarrel/index.html",
-    "revision": "4e299a21d5313edb476bbae1fc937307"
+    "revision": "dc60071d6bca5114a5c71193d9d51ae6"
   },
   {
     "url": "blog/code/indent/index.html",
-    "revision": "e698997842927fbb643b7ed9e9d360f4"
+    "revision": "4f723ad72eab183df3c7c5ea67d4b3cd"
   },
   {
     "url": "blog/code/index.html",
-    "revision": "1c0ef6b0cc2e5db576c26a9f94ffc73d"
+    "revision": "5c1aca9024869df2eac73fc3b8d899f6"
   },
   {
     "url": "blog/code/ingoa.nz/index.html",
-    "revision": "bcba4663d459cde8e313752381699b69"
+    "revision": "32d495bfeb53583dcccf0748a16bbf4c"
   },
   {
     "url": "blog/code/nzondemand/index.html",
-    "revision": "b964c9598535d3e1d7de5e403f8c331b"
+    "revision": "88ae3f606c6f16b5620286e07adb2d38"
   },
   {
     "url": "blog/code/picard/index.html",
-    "revision": "f4da69d03584e981b5a148eaef5ac550"
+    "revision": "d64c7c2a72250f7925ba912e6fd32f2d"
   },
   {
     "url": "blog/code/qr/index.html",
-    "revision": "2a2e6568b917df6541a4118cbc51cbc2"
+    "revision": "5cc27430fda2a0a6ecec124a9665359a"
   },
   {
     "url": "blog/code/rotx/index.html",
-    "revision": "b999995391922035d9205307c4aa424e"
+    "revision": "a9c479e33a375df242147c27cac253a1"
   },
   {
     "url": "blog/code/website/index.html",
-    "revision": "e91090e5275ab08ee2c502a6e1aebbe0"
+    "revision": "ca8a65f72382e4bcbd9679dc638c475c"
   },
   {
     "url": "blog/code/website/route/index.html",
@@ -3485,2063 +3485,2063 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/code/website/site/index.html",
-    "revision": "600dd0fd2e63141dfc779eb67782b860"
+    "revision": "f5ae673ca81d6d4dc6bf07c355b43837"
   },
   {
     "url": "blog/code/xmltv.co.nz/index.html",
-    "revision": "c35dc4fec6e70c020116cc8532e9102a"
+    "revision": "e79c457a4511900be0f12a1b51d607e9"
   },
   {
     "url": "blog/howto/index.html",
-    "revision": "f71e07dae6d96a7755d8898827cd5c3b"
+    "revision": "78c70a5976152d3324d8cdc6894ff692"
   },
   {
     "url": "blog/howto/intel865/index.html",
-    "revision": "f644bfee2a0ecfe08c538a5440a9ba53"
+    "revision": "ff251c354db04aa36c77608876d84ec3"
   },
   {
     "url": "blog/howto/nexentastor/index.html",
-    "revision": "3d2094b2b9fd0ff29492bfb8a5e4c3b5"
+    "revision": "b58191e683bbcbbd0b80bf304332ab33"
   },
   {
     "url": "blog/howto/pcloadletter/index.html",
-    "revision": "140702f9f1f86ae17fc92271cfc36526"
+    "revision": "51abdde64c20942cf1fefb09a77dc429"
   },
   {
     "url": "blog/howto/raid5/index.html",
-    "revision": "fe9058db594a8821ebafb7f14b3bfb1e"
+    "revision": "57f2440f2b8a25b0e012de3601f9d064"
   },
   {
     "url": "blog/index.html",
-    "revision": "a5dfd9f9468c2ed0f92845d787372b3d"
+    "revision": "65d8fc83146ad01818cd4d1ca60b3014"
   },
   {
     "url": "blog/life/anotheryear/index.html",
-    "revision": "aed61cc561bc5c0ab7b390b4364f5767"
+    "revision": "a03d66087fce5b9ea13ae0e4a2f6e655"
   },
   {
     "url": "blog/life/birthday/index.html",
-    "revision": "ada2e0ba4e5ee8f9cbce9baa58ebb226"
+    "revision": "c3851fdbd4fb8b38ed83d4990123a87b"
   },
   {
     "url": "blog/life/blasphemy/index.html",
-    "revision": "9a21031e1d1c9d54cde86670b090b69e"
+    "revision": "dcf2d793ec7375e57e4744ad14452a5f"
   },
   {
     "url": "blog/life/blogger/index.html",
-    "revision": "bb7dc952048b84103651032d043e578a"
+    "revision": "467351d9ef128f154d543785089e655c"
   },
   {
     "url": "blog/life/blurry/index.html",
-    "revision": "73384e4f4537f71ccfcb97d3c47f8429"
+    "revision": "acc9598266a196a224c331036b364fb4"
   },
   {
     "url": "blog/life/domain/index.html",
-    "revision": "499c33d06848882c4cbf54aab5c0601e"
+    "revision": "dab85f2be40ad235e88c1d8dafd6690c"
   },
   {
     "url": "blog/life/exams/index.html",
-    "revision": "832e0f1fd4911166f3bc818f38fe8b07"
+    "revision": "e88073ee26c26bc27eb01532e3141f76"
   },
   {
     "url": "blog/life/food/index.html",
-    "revision": "12067b17a01b796b11bce12e02356c44"
+    "revision": "c93c816fa88b55b2194700c14a916c3a"
   },
   {
     "url": "blog/life/glenview/index.html",
-    "revision": "5d5aa8f4593ce66ee3f922026a8a7cf5"
+    "revision": "230bf8cfa4f0f28004c78d49dbf08a6d"
   },
   {
     "url": "blog/life/headlines/index.html",
-    "revision": "b0fecf5b1b8f67a44fb9590db7040b40"
+    "revision": "1c9707e5c7c6f47f49b3c5e77f469165"
   },
   {
     "url": "blog/life/index.html",
-    "revision": "01bb86acbe7fb3b7122ffd6daa5c6ad8"
+    "revision": "773ae65f61ffea191040fbb6a471076a"
   },
   {
     "url": "blog/life/jws/index.html",
-    "revision": "9018450ed73e94c370ac2e3b93940ca7"
+    "revision": "e76741b740694e71a742442b43f112f5"
   },
   {
     "url": "blog/life/keyboard/index.html",
-    "revision": "d3e90bf2683898f2260ea17da6bfcbdd"
+    "revision": "9e55a62921abaf18548f3daf1232e675"
   },
   {
     "url": "blog/life/lpi201/index.html",
-    "revision": "8fabc456cdf2dcef710e3a20a004b229"
+    "revision": "836b15386ac2d8311b4594c876f68705"
   },
   {
     "url": "blog/life/mashup/index.html",
-    "revision": "cf951ee29d47f64eb03ac6ecd8ed7794"
+    "revision": "212aeeed7e6c94fbedcf1dc87960dfda"
   },
   {
     "url": "blog/life/motorweb/index.html",
-    "revision": "41d0fb08472cf92937397ec3fed391cd"
+    "revision": "493ad8a3bacb01420cdc53a02443eff1"
   },
   {
     "url": "blog/life/nxe/index.html",
-    "revision": "3026de892754069a4a35932f3e99fec3"
+    "revision": "43cfca2cd329d446941ef4a00570d3a9"
   },
   {
     "url": "blog/life/plates/index.html",
-    "revision": "e69a1f1c17f7444b522b459510614529"
+    "revision": "bd3073578ff62a7ccfa738ac368bc447"
   },
   {
     "url": "blog/life/queenstown/index.html",
-    "revision": "db4f845a18cff0e53755e64351ede3f9"
+    "revision": "fab431207621e465e1d76fe304d87213"
   },
   {
     "url": "blog/life/racism/index.html",
-    "revision": "569f79ff9a0e6427be588890b1f4fd5e"
+    "revision": "371bf3ea381ffb02c79531f094c9aece"
   },
   {
     "url": "blog/life/roads/index.html",
-    "revision": "039ae815a416d3f5faec0a15197af0cc"
+    "revision": "e353bc5949005bb278580fc6fd9363ff"
   },
   {
     "url": "blog/life/scare/index.html",
-    "revision": "eb0dadd67b5671bbb3af501c274d5220"
+    "revision": "b4448f3be4ceb6267d4d864d84760d31"
   },
   {
     "url": "blog/life/scary/index.html",
-    "revision": "8763a0a6c64fc311a3de200e74ad2f91"
+    "revision": "9981ea4e772232d7a041a4618ff213df"
   },
   {
     "url": "blog/life/seti/index.html",
-    "revision": "54d7f040c8ce62677a49445add94090e"
+    "revision": "32afae5902a197c54667c8dd2e6fa493"
   },
   {
     "url": "blog/life/skeptical/index.html",
-    "revision": "7f52f72112eee5d72a57df03021d2e73"
+    "revision": "850f55f84dbbb6cf7b1bf236c2d67e90"
   },
   {
     "url": "blog/life/skepticzone/index.html",
-    "revision": "d47e5463d7068539874678b51625016f"
+    "revision": "b37072def474b05cfea20c2b5a35712a"
   },
   {
     "url": "blog/life/spam/index.html",
-    "revision": "014198e2811aa7d8cd7672861c701eb9"
+    "revision": "e639540c3a448ba3f442645e4fe19ed7"
   },
   {
     "url": "blog/life/trademe/index.html",
-    "revision": "0b1af41a5d74630744904533f43e7032"
+    "revision": "8da0491b9793d4bdf675b1920e618736"
   },
   {
     "url": "blog/life/unforeseen/index.html",
-    "revision": "ca291cc2621f8e223df5fd7eccc3529e"
+    "revision": "b09e969f6ceb25874811d5408b861859"
   },
   {
     "url": "blog/life/wobbly/index.html",
-    "revision": "c297bf0c6479f8dff1c27067f25acd6a"
+    "revision": "9f55cd970b6b80e987c578c040c9bce5"
   },
   {
     "url": "blog/projects/airbag/index.html",
-    "revision": "4c79dc9f619666a2f6c2a6a374c94d20"
+    "revision": "15f95cfbf457b57a7ed4120068717ab4"
   },
   {
     "url": "blog/projects/ambilight/index.html",
-    "revision": "80875c576659dfef33db4b29853e0bb8"
+    "revision": "a69873e2b4c9c06f849bb44a55527360"
   },
   {
     "url": "blog/projects/automation/index.html",
-    "revision": "c9384687e7311b6dfe83f8b01cc44a4e"
+    "revision": "8464fc6418b580ed34ffb9a6e5b4f316"
   },
   {
     "url": "blog/projects/eyes/index.html",
-    "revision": "71d41f7bb496ddd630cf9a2e18485069"
+    "revision": "d598766be15663549b4248e36d3467ec"
   },
   {
     "url": "blog/projects/glitch/index.html",
-    "revision": "c67cd0fb3e3565e89e8aa42763265d8c"
+    "revision": "c092f32f68813d7b48ae2308497c9e85"
   },
   {
     "url": "blog/projects/index.html",
-    "revision": "c8e24ad48ec521654763a35194667f1e"
+    "revision": "ec7e86771d1b7c89dc296eed9c4e443b"
   },
   {
     "url": "blog/projects/it100/index.html",
-    "revision": "d931c60b1786c9911e24faae21bc01ac"
+    "revision": "31398d10be0b24ea33a493e1aae86f31"
   },
   {
     "url": "blog/projects/microscope/index.html",
-    "revision": "2116a1833fa1111bfda928a7a8f42aff"
+    "revision": "af4aa1928264a16d7e62c9511703067a"
   },
   {
     "url": "blog/projects/mirror/index.html",
-    "revision": "f8f3e9ef438ef43c42a927d4f5b55fa1"
+    "revision": "e21a5deba4f2fe6acd3f8822603c991d"
   },
   {
     "url": "blog/projects/picture/index.html",
-    "revision": "517cccb82956a5797293b7c78d173da2"
+    "revision": "858aee762f22dcc3700882cc5d49b3ff"
   },
   {
     "url": "blog/projects/pizza/index.html",
-    "revision": "fe551c30c3ae6b8cecb6d5fdcae3b243"
+    "revision": "e7a3ca691e9ab3ab84f14014d98a3133"
   },
   {
     "url": "blog/projects/podcast/index.html",
-    "revision": "cc6a67e3848e22de84a536482adb7bb3"
+    "revision": "6b2751bc8404e93aac71fe325db7521f"
   },
   {
     "url": "blog/projects/reflow/index.html",
-    "revision": "073cbdccebed7efd48d81f07786a1b73"
+    "revision": "9d884f44ceed3c4c4687d889fe8392b3"
   },
   {
     "url": "blog/projects/sandbox/index.html",
-    "revision": "84367114e977e595aaaa1a1a2cad0f68"
+    "revision": "f1cccc6d1461a3b0ac36af557dba06c7"
   },
   {
     "url": "blog/projects/screens/index.html",
-    "revision": "7a239d8caee8b325fdf828c07013c2c5"
+    "revision": "55d70aafe583c21dd9abf3ed47e285ca"
   },
   {
     "url": "blog/projects/sky/index.html",
-    "revision": "1f05e10b865b56f3984cb48d2062cff5"
+    "revision": "2b681ac47fd2755c5a5ba42bbf7e3fbb"
   },
   {
     "url": "blog/projects/starwars/index.html",
-    "revision": "92fd66225ade874d1b448ed0d1392735"
+    "revision": "11d5eaf7d6196900615a6b1ccdee6e4c"
   },
   {
     "url": "blog/projects/xbox/index.html",
-    "revision": "c82669ea0a9dc8fcb0fe2fb904bc3c66"
+    "revision": "5012e6e5cc3c322c50b7711e2c8a0fca"
   },
   {
     "url": "blog/random/addresses/index.html",
-    "revision": "2c7f15bdcbcc60cd208af4eb528291e2"
+    "revision": "27313ab391335405a578855a6645b6cc"
   },
   {
     "url": "blog/random/alphabet/index.html",
-    "revision": "fe91d8a8b6905725d1e0cecc694aef2c"
+    "revision": "22b5e26fe503344af6a83611f108f647"
   },
   {
     "url": "blog/random/astrology/index.html",
-    "revision": "f1e8d3484aeaa2f487afe7ec2ba427dd"
+    "revision": "6b9dd5d8bee0bb67cb1a169e4cdedd31"
   },
   {
     "url": "blog/random/chicken/index.html",
-    "revision": "d35ad752e6bd58abc778bf0067a8b008"
+    "revision": "612c07aef7cad3bdc8dd78c6331cf8a4"
   },
   {
     "url": "blog/random/dns/index.html",
-    "revision": "37b00751d74666a3ae720952a7f1f1fd"
+    "revision": "458cff7fb5df696e3e5740639e3ff2c1"
   },
   {
     "url": "blog/random/evp/index.html",
-    "revision": "e0380ea401b9ddf61e27e20c0f5f7143"
+    "revision": "30b0f7bf05028c921f39f37be34f7695"
   },
   {
     "url": "blog/random/flip/index.html",
-    "revision": "c3c5b84da1d281d61818fd36e8937f13"
+    "revision": "db563e6c706ca2fa6514552de5d08ccb"
   },
   {
     "url": "blog/random/honeychurch/index.html",
-    "revision": "2b7f0dc5ce5d9cd807d4d8124d98ca6a"
+    "revision": "590a57800fe444052f991b7aea456bd5"
   },
   {
     "url": "blog/random/index.html",
-    "revision": "7a56754d12d82ad95c82820fe31e75c5"
+    "revision": "a3bf937333627929a53568ba1f2591da"
   },
   {
     "url": "blog/random/lottery/index.html",
-    "revision": "7c8c547fcebf591b8e260e973d6c613d"
+    "revision": "eedec3e51adc31a3b84190bf95744cd9"
   },
   {
     "url": "blog/random/music/index.html",
-    "revision": "62a5f3a06f8fbd2f95a4ba2749c9b72a"
+    "revision": "2fe5ec0234d5ddb00b25fc241c554b55"
   },
   {
     "url": "blog/random/octal/index.html",
-    "revision": "d9b5a4207c45db6c57f1a99886a37a5e"
+    "revision": "e414478a7856210be87294a352389ea2"
   },
   {
     "url": "blog/random/os/index.html",
-    "revision": "5f32c8ab4ed57d54088fd37aa0c537e5"
+    "revision": "1092dcd0754517bf82e8dda171c2b693"
   },
   {
     "url": "blog/random/propellers/index.html",
-    "revision": "3ec4ff61d6128e05f5e164cf79cb5d95"
+    "revision": "3d08e1fed10731e6bf1cf54cb1d1d16f"
   },
   {
     "url": "blog/random/robux/index.html",
-    "revision": "efed54bc7d1e961240fc48ccad1e26c6"
+    "revision": "4c9018ba08c0201887e81d8ed2420aec"
   },
   {
     "url": "blog/random/super/index.html",
-    "revision": "1196fb0e37dfdc36e32016fea4a66102"
+    "revision": "42e5dba69d279e844cbed0bf5ee925d9"
   },
   {
     "url": "blog/random/times/index.html",
-    "revision": "296414388beeb1935780e61767a0e41d"
+    "revision": "6ff52503ef6761c4f13f1329cb9c2ae8"
   },
   {
     "url": "blog/random/travel/index.html",
-    "revision": "0c74424049755962a4b1c1d7ec411da5"
+    "revision": "81dc2e352d3061c4fdbad19132b03b0d"
   },
   {
     "url": "blog/random/wilhelm/index.html",
-    "revision": "45188ddaa7e6ae3bbfcd5bf50d13eaaa"
+    "revision": "6caa20cba084ec8c58a6b4aac5f0aaf6"
   },
   {
     "url": "blog/random/year/index.html",
-    "revision": "da8b6509f1580ae45e35c02381cfdc97"
+    "revision": "f2f0bf01e39f689d8db09fb4b69cceb1"
   },
   {
     "url": "blog/skepticism/2015/08/16/asa/index.html",
-    "revision": "a937dd26957a1fb8bec9a2241b731ff4"
+    "revision": "9858edc74f1b9ad477090e94507ad161"
   },
   {
     "url": "blog/skepticism/2015/08/16/awards/index.html",
-    "revision": "df6110751dc19f32d80086ff9cd1eb71"
+    "revision": "7d02144fce5352606fdba9838ec2f492"
   },
   {
     "url": "blog/skepticism/2015/08/16/bravo/index.html",
-    "revision": "5121649ac30a5502633b234482878eb2"
+    "revision": "c09c5cd7563cd80b3f8dd64d85e753ac"
   },
   {
     "url": "blog/skepticism/2015/08/16/index.html",
-    "revision": "85140d3ad2ec6d2bc639e40e1e9b98ba"
+    "revision": "06442f1b5c7f6aa028c6908e96987cd5"
   },
   {
     "url": "blog/skepticism/2015/08/16/jim/index.html",
-    "revision": "a548040c35ea38a634ba40ea38edf49d"
+    "revision": "1517c435942ef92360fe98820f4a4064"
   },
   {
     "url": "blog/skepticism/2015/08/16/naholo/index.html",
-    "revision": "c8e5bda1b07f8da46a8a5f1101846194"
+    "revision": "1638f28f9109e311029559f6489cfb5f"
   },
   {
     "url": "blog/skepticism/2015/08/16/resene/index.html",
-    "revision": "d113ba0bdc83fcf81f1ac6ce7380ab90"
+    "revision": "8144f366dfc031ce5309fbc685d1f7d6"
   },
   {
     "url": "blog/skepticism/2015/08/index.html",
-    "revision": "309d633e8ef811efd83b78ecbf1b251b"
+    "revision": "78ee9129a75660ab575d1bfb79201d37"
   },
   {
     "url": "blog/skepticism/2015/09/20/gop/index.html",
-    "revision": "49983a14afe16149e82771628f1e363e"
+    "revision": "dfdd6b554609d49ad4eb5ecbd67d2253"
   },
   {
     "url": "blog/skepticism/2015/09/20/ignobel/index.html",
-    "revision": "6c802c78cf0ad619055d8b98afbe0b93"
+    "revision": "750b48b83feddcab118396e72335b4a2"
   },
   {
     "url": "blog/skepticism/2015/09/20/index.html",
-    "revision": "683667c72506352f6b84961e76c13b1a"
+    "revision": "cc7875b5a880ef594e226c7375bad817"
   },
   {
     "url": "blog/skepticism/2015/09/20/supplements/index.html",
-    "revision": "ddac227663be02919dfb31f6730fa0da"
+    "revision": "ed2856682fc27bbc0c23dd066cae55fb"
   },
   {
     "url": "blog/skepticism/2015/09/27/ayahuasca/index.html",
-    "revision": "0d115c4a88f704da81c12ab544732e60"
+    "revision": "435400641a40d5e84f15fb175eb37782"
   },
   {
     "url": "blog/skepticism/2015/09/27/drought/index.html",
-    "revision": "8a19f9d0f6700a83ea246b80ffc2a991"
+    "revision": "7d6fda183596ab1ffa2c8cc6f16edafd"
   },
   {
     "url": "blog/skepticism/2015/09/27/index.html",
-    "revision": "c411d1318a43f9ab86c7967960149473"
+    "revision": "455118ffbb5145764815a1fed2540d1c"
   },
   {
     "url": "blog/skepticism/2015/09/27/lama/index.html",
-    "revision": "a90be2752cb7a81c1704582945f5f720"
+    "revision": "e649d0e45f54d538fa25c2903b5ea331"
   },
   {
     "url": "blog/skepticism/2015/09/27/moon/index.html",
-    "revision": "73cedb3180dd58ad423b063e7a2a043f"
+    "revision": "c5079f443a423036d8e57a303efac1e5"
   },
   {
     "url": "blog/skepticism/2015/09/27/scan/index.html",
-    "revision": "8d4761755d76b78f4ce95487720ca85f"
+    "revision": "cdd3184963cc4a75bb62297e002f753c"
   },
   {
     "url": "blog/skepticism/2015/09/index.html",
-    "revision": "e795d873c334326fcf413e1497db607a"
+    "revision": "fbd2d5a19a8459a0623e20c20c51654d"
   },
   {
     "url": "blog/skepticism/2015/10/04/ghost/index.html",
-    "revision": "58382cc74a40a07e7af6894a5525819a"
+    "revision": "9c1e119727754038e904bed14d3e6dba"
   },
   {
     "url": "blog/skepticism/2015/10/04/haka/index.html",
-    "revision": "b733d23d5f1d0f69893cc5d14308c048"
+    "revision": "f7cebd5aeef9c37856b02424640a9f3f"
   },
   {
     "url": "blog/skepticism/2015/10/04/index.html",
-    "revision": "32c5657c3c29c54d5e9aca5284471b97"
+    "revision": "d9c58a4286b4b5c293ef0f5327964420"
   },
   {
     "url": "blog/skepticism/2015/10/04/mars/index.html",
-    "revision": "97e1336c5b267d9b739a1a9d4c7dd21c"
+    "revision": "6b324aa2b1549917375a78caf37546cd"
   },
   {
     "url": "blog/skepticism/2015/10/04/pharmacy/index.html",
-    "revision": "1ee31554322f2e73bd4777e546463a0b"
+    "revision": "315e17c1397791aeea01c11f80ae1be4"
   },
   {
     "url": "blog/skepticism/2015/10/04/prostate/index.html",
-    "revision": "0089cd191750d5406b79e9ad0dc6036d"
+    "revision": "e21c9cdba827d31262a9159ab65d1551"
   },
   {
     "url": "blog/skepticism/2015/10/11/armageddon/index.html",
-    "revision": "67d1e26fd8e06d05a5b86fd9e9223e73"
+    "revision": "2df3f470ee575fa3bcbe3984c256a998"
   },
   {
     "url": "blog/skepticism/2015/10/11/climate/index.html",
-    "revision": "ba3012090e7933432cc4a63e73c823c4"
+    "revision": "afe3966035f69ecc8f1fe66a1f6f82f0"
   },
   {
     "url": "blog/skepticism/2015/10/11/ghost/index.html",
-    "revision": "f568cc39c4c855969a8278a64f1be052"
+    "revision": "0e46fd55a4f511d8a8ce40fde163bdef"
   },
   {
     "url": "blog/skepticism/2015/10/11/index.html",
-    "revision": "d8e73a2f59c8b352df40b7660f2d8613"
+    "revision": "6fcbef3d0bb3d68fb9437a8bbfb1c0c7"
   },
   {
     "url": "blog/skepticism/2015/10/11/magnesleep/index.html",
-    "revision": "33fcb936d2908be92273b8923a0b0acc"
+    "revision": "f12876b836208eacf7a225a3c9291b49"
   },
   {
     "url": "blog/skepticism/2015/10/11/nhs/index.html",
-    "revision": "fa0eb0ba7f114e1da7a8127d4c2deab6"
+    "revision": "1bed655acbadb31a468736406616aa15"
   },
   {
     "url": "blog/skepticism/2015/10/11/prophet/index.html",
-    "revision": "a09e8a2ddc8c0daea6e72e12a3400fbf"
+    "revision": "bb9b6c47fddf17f0a7d235d90e78b15b"
   },
   {
     "url": "blog/skepticism/2015/10/index.html",
-    "revision": "c6e65676da5af1e6d671b5868b136c4f"
+    "revision": "063dd78953589d061615dc1eb99b190e"
   },
   {
     "url": "blog/skepticism/2015/11/15/end/index.html",
-    "revision": "e04bfc6ab732a435f37cf82d70d69e1d"
+    "revision": "8831e1d783ea16be858e4e2ce3d28582"
   },
   {
     "url": "blog/skepticism/2015/11/15/index.html",
-    "revision": "dde5549bcd2f76dc5bd2e4518a986fe4"
+    "revision": "7dd32302f650ab65f2165c1f8140a3e0"
   },
   {
     "url": "blog/skepticism/2015/11/index.html",
-    "revision": "98c8f674d8af4226e5f496cecda03a11"
+    "revision": "f284345e470082cd534728051a6e7233"
   },
   {
     "url": "blog/skepticism/2015/12/13/astrology/index.html",
-    "revision": "1b1ffffcf31b567d9d8ab0cb2afca9df"
+    "revision": "05a35eeacf8534d389907e097bdac28c"
   },
   {
     "url": "blog/skepticism/2015/12/13/cancer/index.html",
-    "revision": "878213637210cf54545d9b26400518ee"
+    "revision": "51e69570b5db5794830809a7af13069d"
   },
   {
     "url": "blog/skepticism/2015/12/13/chickenpox/index.html",
-    "revision": "56675a469a53fe60166b31c28954a9f6"
+    "revision": "a92ec80beed9299062f4c289fe4e2a23"
   },
   {
     "url": "blog/skepticism/2015/12/13/index.html",
-    "revision": "3495193bc2a4f95abc8986a6cb67fdd5"
+    "revision": "1960d825cddaf28615f8a965efd6de46"
   },
   {
     "url": "blog/skepticism/2015/12/13/osteopath/index.html",
-    "revision": "5c3b20942ebb2cd6eee62a866f8a333e"
+    "revision": "3f3463d3e44607f449e699c83337b542"
   },
   {
     "url": "blog/skepticism/2015/12/13/priest/index.html",
-    "revision": "b18dcc1da3896b4a6334eb198c396ccb"
+    "revision": "eb881f65fb42344f2f54fe25182f30e5"
   },
   {
     "url": "blog/skepticism/2015/12/13/psychic/index.html",
-    "revision": "b972241558f9384b3eed5ec774497578"
+    "revision": "4244d212cedcc8fba7d225506f10fbd4"
   },
   {
     "url": "blog/skepticism/2015/12/13/vaccines/index.html",
-    "revision": "afc7afec95beeccf91f1ed5982764014"
+    "revision": "1fa59bd5f596001f2c7d9e8414a6e861"
   },
   {
     "url": "blog/skepticism/2015/12/index.html",
-    "revision": "bb886b1e0cba814ba002e8c21fa69f1e"
+    "revision": "07cd35194443bfe8cf0b67db33859734"
   },
   {
     "url": "blog/skepticism/2015/index.html",
-    "revision": "6a2400393ec7c2ec123c5f2a1e2eef51"
+    "revision": "a8df6d44077ea31b697d7cdba605e221"
   },
   {
     "url": "blog/skepticism/2016/02/07/antioxidant/index.html",
-    "revision": "7a159f761a6a42df422e0a72216a564c"
+    "revision": "fdecfad13fe3381918e8951c9399bcce"
   },
   {
     "url": "blog/skepticism/2016/02/07/index.html",
-    "revision": "daca8bb276712906740d3f8532b32efd"
+    "revision": "2b10de19c278de66db35c2f3c1623f2d"
   },
   {
     "url": "blog/skepticism/2016/02/07/kfc/index.html",
-    "revision": "aab668a3bd6ece227980ae2c0ca13514"
+    "revision": "04cdef623283911913d0ae1f45b6ed27"
   },
   {
     "url": "blog/skepticism/2016/02/07/ph/index.html",
-    "revision": "b3004bf53edcf805d7cdbd3f3df6cf82"
+    "revision": "01b2a6b447cf3424612bae4d22369912"
   },
   {
     "url": "blog/skepticism/2016/02/07/sandy/index.html",
-    "revision": "fff9392127ea7ed3b47380be93e22c1d"
+    "revision": "2d4a8ddaf4fcf524054ccb8043da3e6a"
   },
   {
     "url": "blog/skepticism/2016/02/07/sarfati/index.html",
-    "revision": "4397c17e92b8c0055717d2620df24375"
+    "revision": "836e28bd87d56bfa696761e11c747e23"
   },
   {
     "url": "blog/skepticism/2016/02/07/trump/index.html",
-    "revision": "0df819ddddfd322118375b630fbdcdad"
+    "revision": "386640519e8e3dbf105270c4835b456c"
   },
   {
     "url": "blog/skepticism/2016/02/14/coins/index.html",
-    "revision": "aa162f107f03cd2cb6a38f3d741fef1a"
+    "revision": "f513663ea3209f69884e0a6c43f3ba63"
   },
   {
     "url": "blog/skepticism/2016/02/14/fast/index.html",
-    "revision": "252748703ece2fc398251bd10ebb9de7"
+    "revision": "3e47a98ab49a09a25edec312e5aed78f"
   },
   {
     "url": "blog/skepticism/2016/02/14/fluoride/index.html",
-    "revision": "1d0b046eb5be0cf5d45bf419a31b0d41"
+    "revision": "75fc28a5f71c48be3ffaaa947bf74dcd"
   },
   {
     "url": "blog/skepticism/2016/02/14/icke/index.html",
-    "revision": "4c0a1085f27eab8511e7449f207e99fc"
+    "revision": "906cdabce006a34fc2837a44bcede1e6"
   },
   {
     "url": "blog/skepticism/2016/02/14/index.html",
-    "revision": "35503e0116e841e2b5a84a3b517cf68c"
+    "revision": "39ae727bf7984a5158ce85063566c20b"
   },
   {
     "url": "blog/skepticism/2016/02/14/yeti/index.html",
-    "revision": "87ff0ffd5aade83c46e4f5e18f75c53b"
+    "revision": "470828fcaa7f6cabea2a2fe01bac64f3"
   },
   {
     "url": "blog/skepticism/2016/02/21/homeopathy/index.html",
-    "revision": "d3224cc8670444d47b8c10a5d5087796"
+    "revision": "1bd1998f78d365a85c3cee168f886db0"
   },
   {
     "url": "blog/skepticism/2016/02/21/index.html",
-    "revision": "eb02c6f058b5e6c2c07ecdc9ee301244"
+    "revision": "81b416af5a745615d98a4951721fa7f6"
   },
   {
     "url": "blog/skepticism/2016/02/21/monster/index.html",
-    "revision": "1feb9f83dc58ddeaa627c61ec260d0ca"
+    "revision": "00f606e601dbe93f733cb1444e19ecaa"
   },
   {
     "url": "blog/skepticism/2016/02/21/scalia/index.html",
-    "revision": "b4e22108bb880853cd76c5358dc786a8"
+    "revision": "cdc139f63848fa890d2df2442f6da2be"
   },
   {
     "url": "blog/skepticism/2016/02/21/shane/index.html",
-    "revision": "110d313523cee5932469ce5de441779a"
+    "revision": "1518dd7fcb59f73b37bf3699096935cd"
   },
   {
     "url": "blog/skepticism/2016/02/21/texas/index.html",
-    "revision": "d3ae0bdb21f3c1a10d65620c9b6d0e21"
+    "revision": "45dbe7027f9aea98de736c8be653e2f4"
   },
   {
     "url": "blog/skepticism/2016/02/28/acupuncture/index.html",
-    "revision": "b415e6e169f71db5a43f5532d88276d8"
+    "revision": "b91eee56fe0b21514d73454cdabe6983"
   },
   {
     "url": "blog/skepticism/2016/02/28/fsm/index.html",
-    "revision": "d6ef6e1f27ca604c4f321f46efdbe4ce"
+    "revision": "8c5696736ebd555c4691ed4ccf7e22f3"
   },
   {
     "url": "blog/skepticism/2016/02/28/index.html",
-    "revision": "c2adeaad5cb6f420649b478e31c097d6"
+    "revision": "3146b23388912477dae68d38aeec200a"
   },
   {
     "url": "blog/skepticism/2016/02/28/iv/index.html",
-    "revision": "de3a758af1962d280f43bc7a3f703892"
+    "revision": "638cf720a07d8723e7dcd407d232e953"
   },
   {
     "url": "blog/skepticism/2016/02/28/natural/index.html",
-    "revision": "2dbe42aff9de211922a83d058f1a9f8d"
+    "revision": "47a97056110d758c1fa0d74fe9578f93"
   },
   {
     "url": "blog/skepticism/2016/02/28/talc/index.html",
-    "revision": "007ac1dc6c3219972bd9495122fb7289"
+    "revision": "2659e7b12103b63a1643fc30934eaf68"
   },
   {
     "url": "blog/skepticism/2016/02/index.html",
-    "revision": "ca53a5025e07a14e4f9ca52f10d4bfb6"
+    "revision": "35b9dac8dc3f300ac75265cf70e2b9ae"
   },
   {
     "url": "blog/skepticism/2016/03/13/herbs/index.html",
-    "revision": "6481afebc339e7a6c4d9a5c9035b0659"
+    "revision": "eac4e3b4df0d5efe48b15db42f74ce76"
   },
   {
     "url": "blog/skepticism/2016/03/13/index.html",
-    "revision": "273032ffe01309d35cdf4564e6259a6d"
+    "revision": "9de7a1f0dbab2e45c769235e0a1b926f"
   },
   {
     "url": "blog/skepticism/2016/03/13/mandala/index.html",
-    "revision": "9e70b1bb001bc870a9c4eded6f1606b7"
+    "revision": "aba7b129fb37cfd34c451db355fd6d4c"
   },
   {
     "url": "blog/skepticism/2016/03/13/mandela/index.html",
-    "revision": "72ff1c52d2f8c8085bb19030c57cf517"
+    "revision": "2f0a5f780fbd2cdf2b267c00eed923a2"
   },
   {
     "url": "blog/skepticism/2016/03/13/spray/index.html",
-    "revision": "e423965553fa5c7f74ebc94ba7bbae71"
+    "revision": "68b1d4665ed66521e077bca42e184421"
   },
   {
     "url": "blog/skepticism/2016/03/index.html",
-    "revision": "004774964c634f55f4c452cdc3bafaf1"
+    "revision": "5a1916596e8c218883df6c15f8db915b"
   },
   {
     "url": "blog/skepticism/2016/04/17/charity/index.html",
-    "revision": "c2b3016bd97085edd98ac1ff277ed194"
+    "revision": "af67c0c379c9c4a1e8d0379ddcb0bfe8"
   },
   {
     "url": "blog/skepticism/2016/04/17/chiro/index.html",
-    "revision": "718322438ca2fdf20bde78bf558b886f"
+    "revision": "17634f3488fb2873477b42c9b0c8e0cf"
   },
   {
     "url": "blog/skepticism/2016/04/17/fluoride/index.html",
-    "revision": "87aec43bd501d7045bbfd0ada0a5ec10"
+    "revision": "a8f025f541a62ce5883c9fb74794e9b6"
   },
   {
     "url": "blog/skepticism/2016/04/17/index.html",
-    "revision": "928fa35c50cfb69094ee5d557fbd626b"
+    "revision": "ab61c671b7e6ad5f68092e231f3a568a"
   },
   {
     "url": "blog/skepticism/2016/04/17/lotto/index.html",
-    "revision": "6645dd5b9f255165aad9dc86afad6e0f"
+    "revision": "c24ac8dfb0709f81a883256970a5b4e3"
   },
   {
     "url": "blog/skepticism/2016/04/17/mind/index.html",
-    "revision": "a94a2d9af3b49200d4b4050996a7601a"
+    "revision": "e0de70128089431ff2c1fc88f6e0af68"
   },
   {
     "url": "blog/skepticism/2016/04/17/whooping/index.html",
-    "revision": "01aaa05d1b2f174811fa92b32edae37a"
+    "revision": "84cb412db4396925ce6424777a1bfb41"
   },
   {
     "url": "blog/skepticism/2016/04/index.html",
-    "revision": "f38152a3d2eecc8fc72ca36891cc0c82"
+    "revision": "e2f97fc058548338ddce9b7f5264e19d"
   },
   {
     "url": "blog/skepticism/2016/06/05/1080/index.html",
-    "revision": "1324fbd38253ed687143e13bddd85028"
+    "revision": "6cfa61e33ea0d45878ba0fa8a7caaf70"
   },
   {
     "url": "blog/skepticism/2016/06/05/acupuncture/index.html",
-    "revision": "d8584495da3cdc398f2d0fb908f528b9"
+    "revision": "2144eb31e0b7dbef25adf4ee5974d28e"
   },
   {
     "url": "blog/skepticism/2016/06/05/family/index.html",
-    "revision": "7a522cc2fc021aca7a8521baa30f8cd8"
+    "revision": "a9c6774923a1376a22ede5c63a5e42a0"
   },
   {
     "url": "blog/skepticism/2016/06/05/index.html",
-    "revision": "c30e5d7ab5b610e9e6fad46a5f7799cf"
+    "revision": "600fd86117c19cb32bce095650e4d95b"
   },
   {
     "url": "blog/skepticism/2016/06/05/limbaugh/index.html",
-    "revision": "03e6cf8c2dc8d50917423234d5f70dda"
+    "revision": "1e7287199d5085cf358b55ae444b527c"
   },
   {
     "url": "blog/skepticism/2016/06/12/bobby/index.html",
-    "revision": "5345ff7c9b514053166c532755110edb"
+    "revision": "cd528992346bd564b09178b836579038"
   },
   {
     "url": "blog/skepticism/2016/06/12/climate/index.html",
-    "revision": "b0dfa2f3cca82c29102c086fb233da9f"
+    "revision": "b8c3f53287ee959e6fb0cc66d81b0d4b"
   },
   {
     "url": "blog/skepticism/2016/06/12/index.html",
-    "revision": "410f0fe25de76b604eb2b7cca4f03425"
+    "revision": "d28f390f53fdbcc332f8074bd7ce85d3"
   },
   {
     "url": "blog/skepticism/2016/06/12/pugh/index.html",
-    "revision": "909a8387a73bf6cd5157a71db11ce89f"
+    "revision": "a8fc6a2118c5342f3c9687e02d8d3ddc"
   },
   {
     "url": "blog/skepticism/2016/06/12/savage/index.html",
-    "revision": "c8f54df389f3693df4048e6311b82fb6"
+    "revision": "7dbb374d682030a7e193c17640cf31b3"
   },
   {
     "url": "blog/skepticism/2016/06/12/sawdust/index.html",
-    "revision": "aac981228c024206d74c264e46b5c071"
+    "revision": "c3e80b735fcf0d032e31bdd5fb36e2e0"
   },
   {
     "url": "blog/skepticism/2016/06/19/beauty/index.html",
-    "revision": "0bea48e22ced5ad5ce7b21c0164dee01"
+    "revision": "d0291fe7568b022128f2903f82b5a133"
   },
   {
     "url": "blog/skepticism/2016/06/19/bilderberg/index.html",
-    "revision": "1ce698508828a7a4eed69d4eeae07bbd"
+    "revision": "be100ec023f2d61085a0badf78dd713d"
   },
   {
     "url": "blog/skepticism/2016/06/19/cyf/index.html",
-    "revision": "7c91564985a1152a5b4fce7c0474a743"
+    "revision": "f7948c4f3fad31e05aaec5fece1630d8"
   },
   {
     "url": "blog/skepticism/2016/06/19/holt/index.html",
-    "revision": "5a081ce1165dd3acbec56f1aa350694a"
+    "revision": "49883e71f69c0e8e85ceca28ae1a808a"
   },
   {
     "url": "blog/skepticism/2016/06/19/index.html",
-    "revision": "8e2e6276dd8717c3a413ca1c7c44c125"
+    "revision": "039a80687c750192a16e27a8ac704df8"
   },
   {
     "url": "blog/skepticism/2016/06/19/silver/index.html",
-    "revision": "97f6cfc30a52738d7cb91631be8153cd"
+    "revision": "14ad17b93c902436cc6c5b62de3ec1c4"
   },
   {
     "url": "blog/skepticism/2016/06/19/ufo/index.html",
-    "revision": "738ab735ca155ba77a0724aa694f5a0b"
+    "revision": "8a47243e458b49399a5eef2783f4d17a"
   },
   {
     "url": "blog/skepticism/2016/06/26/homeopathy/index.html",
-    "revision": "23c75d32c7ad6021d10d2e4ee4ae0f9d"
+    "revision": "de71e571821a96ff4a581c2142b8c54f"
   },
   {
     "url": "blog/skepticism/2016/06/26/index.html",
-    "revision": "33ce8d54c0ef23e59c5422ddb77cbd07"
+    "revision": "0dde62e1dcf616b253ad657e9c17bc16"
   },
   {
     "url": "blog/skepticism/2016/06/26/robbins/index.html",
-    "revision": "5ed620d05a5053d6808de33778ccdc68"
+    "revision": "9cb9c12ea29ee2c6441e8eefcd694b4a"
   },
   {
     "url": "blog/skepticism/2016/06/26/selfies/index.html",
-    "revision": "fd9ddb1c01577379076120cc75f501af"
+    "revision": "0402f1ea28ddf647261f26d162f5b094"
   },
   {
     "url": "blog/skepticism/2016/06/26/silver/index.html",
-    "revision": "928cecb19bb724c3dfcf294b7e966aac"
+    "revision": "a75c98362c0b1d0c4c81ff091616dfac"
   },
   {
     "url": "blog/skepticism/2016/06/26/ufos/index.html",
-    "revision": "ce280cf60ef93a59d0ab4e093c5998ff"
+    "revision": "a2087b5fc29d1c8fac265702e79e5113"
   },
   {
     "url": "blog/skepticism/2016/06/index.html",
-    "revision": "9288415b9042f9d83f72144f73802bdf"
+    "revision": "1f1f1a2bcc9b7fca22033db756cd3d81"
   },
   {
     "url": "blog/skepticism/2016/07/03/glyphosate/index.html",
-    "revision": "cad54507da6fb5470a4ec4f3bacba3b1"
+    "revision": "09697cbbf8cfa70ce254b9a166850c57"
   },
   {
     "url": "blog/skepticism/2016/07/03/gmo/index.html",
-    "revision": "10307510732b185acdfa4a7f4aad0b5c"
+    "revision": "e58c9f7648df51ff75415e5fb98f10e7"
   },
   {
     "url": "blog/skepticism/2016/07/03/index.html",
-    "revision": "6eca8a36457a59217dfa1dabcb303a4f"
+    "revision": "efc47e99c5e564770bbcb595d6c9d07c"
   },
   {
     "url": "blog/skepticism/2016/07/03/jail/index.html",
-    "revision": "2e3d431516bedc0fb41a9a312b168248"
+    "revision": "e71499b6be4a8b166fedc52ed39e317c"
   },
   {
     "url": "blog/skepticism/2016/07/03/ken/index.html",
-    "revision": "141e625609d0bd4abf8faf92a61fa247"
+    "revision": "6b8a78ed63acc22b9bef662238c6f2ba"
   },
   {
     "url": "blog/skepticism/2016/07/10/ark/index.html",
-    "revision": "e4afd5dfe54086df32cb6b57caf8a652"
+    "revision": "7b10f65c6c6e95a022bc3a6e56f7fca2"
   },
   {
     "url": "blog/skepticism/2016/07/10/bee/index.html",
-    "revision": "ba00fe8d2c230b92651309e190e97ec3"
+    "revision": "e97f82c8ca812917f6c4a32376999f55"
   },
   {
     "url": "blog/skepticism/2016/07/10/index.html",
-    "revision": "92a359d0d63b6f4480b79c7f62c4aa9f"
+    "revision": "06669dbdf014dfaf06d05e98bd67b471"
   },
   {
     "url": "blog/skepticism/2016/07/10/lottery/index.html",
-    "revision": "859ff0df69108e36a9ba1653608f442c"
+    "revision": "f0e9c0fc0a31693fd584615f788c566c"
   },
   {
     "url": "blog/skepticism/2016/07/10/murder/index.html",
-    "revision": "85818df1d73f3512d0b81b247cda26aa"
+    "revision": "78b7f9e806c265aee9872617d3b43957"
   },
   {
     "url": "blog/skepticism/2016/07/17/dogs/index.html",
-    "revision": "288a5018243b74e187f71e0d08bc3c9c"
+    "revision": "1d72011c6c575c56677a6d31d86b3fe1"
   },
   {
     "url": "blog/skepticism/2016/07/17/fsm/index.html",
-    "revision": "94be784e8dbcd1d55eb22ef7ce677e65"
+    "revision": "90248eebf3de96a9350dd64c88fb2bf2"
   },
   {
     "url": "blog/skepticism/2016/07/17/fyi/index.html",
-    "revision": "3ba2cf06e64c48296c31959e368de2ef"
+    "revision": "8114016e704a76aad70e6fe0e7407219"
   },
   {
     "url": "blog/skepticism/2016/07/17/index.html",
-    "revision": "c902fab8a86a0d4df21cf78c567f4f20"
+    "revision": "fc9bb4f3d9935542b247d429157f12d9"
   },
   {
     "url": "blog/skepticism/2016/07/17/natural/index.html",
-    "revision": "62e73142b6453593748456834de0ed92"
+    "revision": "c0904d5ce424238fa649420e3c74b137"
   },
   {
     "url": "blog/skepticism/2016/07/17/pokemon/index.html",
-    "revision": "ca0d57d501d7c783faba4a1739e8daf0"
+    "revision": "a06bb7be57070ab7230d75a25f8617ed"
   },
   {
     "url": "blog/skepticism/2016/07/index.html",
-    "revision": "a2fd3bdf605d317b026c95a84388a2bc"
+    "revision": "7cbb4b60636acbed4d665039e1f0d65a"
   },
   {
     "url": "blog/skepticism/2016/08/07/icke/index.html",
-    "revision": "9c314da9308e043a1c2d9e29caa6f2eb"
+    "revision": "880e46e463b018e0e4eda2248c152b99"
   },
   {
     "url": "blog/skepticism/2016/08/07/index.html",
-    "revision": "96b394e886c0398ecfcbc823e4812736"
+    "revision": "be1b6730c653e4325507b9c1b23a61f2"
   },
   {
     "url": "blog/skepticism/2016/08/21/brian/index.html",
-    "revision": "5145171f7be52777146d9c3945a892e6"
+    "revision": "0a03965662a8c7b84b41a2c15f08d745"
   },
   {
     "url": "blog/skepticism/2016/08/21/chlorine/index.html",
-    "revision": "4afb43fa8d20506deb1f4bb1db4af44a"
+    "revision": "834bf1a34fe1ab7cc346f6254976d388"
   },
   {
     "url": "blog/skepticism/2016/08/21/index.html",
-    "revision": "2f2cbbab95392a8ce2acecc8455dd00d"
+    "revision": "a73b24d35693309996c8c24782ad5aa0"
   },
   {
     "url": "blog/skepticism/2016/08/21/murder/index.html",
-    "revision": "a91b4a46e2c8b8202dd8c51b20302a9a"
+    "revision": "c6843fdd306187a5b208696e83be040a"
   },
   {
     "url": "blog/skepticism/2016/08/21/superfoods/index.html",
-    "revision": "064c16991f8cb8097cb578b13ab0feda"
+    "revision": "2f9afe7425a2c12394c0f32da698425c"
   },
   {
     "url": "blog/skepticism/2016/08/21/witch/index.html",
-    "revision": "f3acad7cfa33e331b1b3579b594c286d"
+    "revision": "f2b168bc1d2b4397d59dc3ab5d639d2a"
   },
   {
     "url": "blog/skepticism/2016/08/28/alcohol/index.html",
-    "revision": "3499671286e66f227971b93fa2106075"
+    "revision": "d2f7e6edf39732a47ccd1954607fc0b3"
   },
   {
     "url": "blog/skepticism/2016/08/28/chiro/index.html",
-    "revision": "b85e7ee17e7d1690e83cfcb226e006ba"
+    "revision": "f59b92d7880c500839e41f6d449004a4"
   },
   {
     "url": "blog/skepticism/2016/08/28/index.html",
-    "revision": "7c7e29b1ec0cdefa9fc4deda793e6b62"
+    "revision": "3d2c4036a40e338c4861142e77383aba"
   },
   {
     "url": "blog/skepticism/2016/08/28/processed/index.html",
-    "revision": "3cd21395bf7f16dc56e314201fa1ed5b"
+    "revision": "427379c438cbef2cc56f092f3967eebe"
   },
   {
     "url": "blog/skepticism/2016/08/28/sbh/index.html",
-    "revision": "5399df65a17d3bf150cbae2a48481d06"
+    "revision": "f9f8da571e44ad869aa3d5c2a5ceffdd"
   },
   {
     "url": "blog/skepticism/2016/08/index.html",
-    "revision": "8474a81645b1c3047c22af9fdf345148"
+    "revision": "1375530dbc62bbdbff31a2d022f4f6e0"
   },
   {
     "url": "blog/skepticism/2016/09/18/altruism/index.html",
-    "revision": "52d5fa500922f65c686291255b7003b5"
+    "revision": "48fe5798fe89bb60246c45492231214e"
   },
   {
     "url": "blog/skepticism/2016/09/18/better/index.html",
-    "revision": "038dfd458fa4e6be2c7f759cf87ee88c"
+    "revision": "868ee826ac911d609479296277cb7211"
   },
   {
     "url": "blog/skepticism/2016/09/18/homeopathy/index.html",
-    "revision": "03be7b8d9bb84e2565ea93b826577ac9"
+    "revision": "53bb40eb0b88e446c69925bec4351e67"
   },
   {
     "url": "blog/skepticism/2016/09/18/index.html",
-    "revision": "6f38ae978922c91a3712fc809fef0209"
+    "revision": "4a8882b282ae5b581e51547daae17022"
   },
   {
     "url": "blog/skepticism/2016/09/18/nonsense/index.html",
-    "revision": "363ac20208fa935f496d7fd756951d3e"
+    "revision": "81ba1522406537401c6685b99749c8d6"
   },
   {
     "url": "blog/skepticism/2016/09/18/trump/index.html",
-    "revision": "2c710e2f0061397e3af572c39ef7b49d"
+    "revision": "0f9705391e7f954058a9f24fffdeddc7"
   },
   {
     "url": "blog/skepticism/2016/09/25/clinic/index.html",
-    "revision": "20599fe4674783f5eccbac39fc5e7614"
+    "revision": "36c7a66fe37888bb026ce63ac0e4ea21"
   },
   {
     "url": "blog/skepticism/2016/09/25/fluoride/index.html",
-    "revision": "4766fa509f8e35ddda18bbf5699a40e4"
+    "revision": "1b626caff7520b2ca97e372ab667bf33"
   },
   {
     "url": "blog/skepticism/2016/09/25/homeopathy/index.html",
-    "revision": "2dca1d56e036f5c23aab87b77a20af51"
+    "revision": "82dd33b6cd971f0903c2600fc6c5537a"
   },
   {
     "url": "blog/skepticism/2016/09/25/index.html",
-    "revision": "1837c4052c64dd8e19fb72d7933a2b46"
+    "revision": "d012fc78c5077a08f8033f14db538867"
   },
   {
     "url": "blog/skepticism/2016/09/25/murder/index.html",
-    "revision": "d9c8d0ea0eebd495c034d964f9239ab6"
+    "revision": "3ad9e992d983039d453a826a5552a741"
   },
   {
     "url": "blog/skepticism/2016/09/index.html",
-    "revision": "276f50d3a1d7a0ee606daa017d788f82"
+    "revision": "807d7dd1a8d8cf4f8840a96055f852f2"
   },
   {
     "url": "blog/skepticism/2016/10/21/bigfoot/index.html",
-    "revision": "e34308da7d9ca0c28b8bb6b5b34320f2"
+    "revision": "cc0fb84a397a41b0313efdd0e05f8c8a"
   },
   {
     "url": "blog/skepticism/2016/10/21/breasts/index.html",
-    "revision": "e3a4a16bb7f04e79b0a4ab0813d93de1"
+    "revision": "456f8a338b21e7b8bdcdcbdce5438edb"
   },
   {
     "url": "blog/skepticism/2016/10/21/index.html",
-    "revision": "5fda6c3018d1905a48fc9888e7ca63a2"
+    "revision": "bb21f2f76c0255dd04bf590db1706bda"
   },
   {
     "url": "blog/skepticism/2016/10/21/medsafe/index.html",
-    "revision": "0027cae472af543213f4fc4ef392b884"
+    "revision": "b281bcdfcc4a85eb8528a01ddf9de201"
   },
   {
     "url": "blog/skepticism/2016/10/21/zenteq/index.html",
-    "revision": "f7bb4de65c0797ee05cb546460a97f47"
+    "revision": "c04469436d7767c16cbfa2e53887a9a5"
   },
   {
     "url": "blog/skepticism/2016/10/index.html",
-    "revision": "3de8517f72a6b1c2078313f54d01b93f"
+    "revision": "39bcc64590d38120ab9c3b4732b85153"
   },
   {
     "url": "blog/skepticism/2016/11/13/conference/index.html",
-    "revision": "dc57e881a05f53ec42b219a54cbe7b6e"
+    "revision": "a6d78e8f7033e54a0835e9c6c368a47e"
   },
   {
     "url": "blog/skepticism/2016/11/13/green/index.html",
-    "revision": "16fa0729a0415ef7cae7046aaa9c7c22"
+    "revision": "8ca83d39e5702c25dcb6d1fc527ed089"
   },
   {
     "url": "blog/skepticism/2016/11/13/index.html",
-    "revision": "4c549f94cdf19c7ef6ad970244629df4"
+    "revision": "30a8d05a594205267918c020a5f8adf3"
   },
   {
     "url": "blog/skepticism/2016/11/13/vice/index.html",
-    "revision": "78b9768ae87353fd580cfb3154f2b8ff"
+    "revision": "0b52c75c71df46c1c42b4f80940e79b5"
   },
   {
     "url": "blog/skepticism/2016/11/27/bioptron/index.html",
-    "revision": "80b05590bcdb51290b9d924419a3cc91"
+    "revision": "8043d74c6b9aaa629062dc2406a8f89c"
   },
   {
     "url": "blog/skepticism/2016/11/27/conference/index.html",
-    "revision": "fa9bee89c634084a1446766631980db2"
+    "revision": "60aa8f027c1d83d3d6ba1fa3d755c957"
   },
   {
     "url": "blog/skepticism/2016/11/27/earthquake/index.html",
-    "revision": "00867b2c34896ff92c3da27ce4d77385"
+    "revision": "2aa5ddbeed78261fc003b763142d97fc"
   },
   {
     "url": "blog/skepticism/2016/11/27/index.html",
-    "revision": "0462cfa1b050168378d8edbd7a97c0e0"
+    "revision": "72f45f89879e9bcc58cd8f9e254dcdbf"
   },
   {
     "url": "blog/skepticism/2016/11/index.html",
-    "revision": "625c470b769bb13260454444a081cc12"
+    "revision": "388f7e8f942f0fada511f2f1f07e657b"
   },
   {
     "url": "blog/skepticism/2016/12/04/conference/index.html",
-    "revision": "9c95571bc92381b39001b435165cd6b2"
+    "revision": "0a740a700febb9db3d9fd976cfc92b74"
   },
   {
     "url": "blog/skepticism/2016/12/04/index.html",
-    "revision": "efed99b82e1dc9dced8c139daadd8d0c"
+    "revision": "b440ff9636b6fa785994d0f90e379baf"
   },
   {
     "url": "blog/skepticism/2016/12/18/colin/index.html",
-    "revision": "1ff3543d2617643e949553fe8d08a174"
+    "revision": "922fffab4ef95b3fa1720bd47595021b"
   },
   {
     "url": "blog/skepticism/2016/12/18/fiji/index.html",
-    "revision": "07367ebdf620198502198f722dd9fe0b"
+    "revision": "650f2036035862c96f4075de2bd6c88c"
   },
   {
     "url": "blog/skepticism/2016/12/18/index.html",
-    "revision": "c0e3f7f67ca849766a4379192db78a46"
+    "revision": "7d9612747287e2f73253e0d8c086d656"
   },
   {
     "url": "blog/skepticism/2016/12/18/kinesiology/index.html",
-    "revision": "23ef2b7d761e74be0d9624af3b68586d"
+    "revision": "2e5fe1ae2ae109babc148f3ff24e8082"
   },
   {
     "url": "blog/skepticism/2016/12/18/mmm/index.html",
-    "revision": "a786449cc0fed99bc3684dd7d394aa67"
+    "revision": "3a39a83c37553b7b3f4cfa62b64661cb"
   },
   {
     "url": "blog/skepticism/2016/12/18/nigel/index.html",
-    "revision": "f69c3987ee03468d584eee7ee011ccae"
+    "revision": "722730caf454fda9b7f4b576c5f18152"
   },
   {
     "url": "blog/skepticism/2016/12/index.html",
-    "revision": "5e6038ffed31763d562392e21e5e0761"
+    "revision": "d4a50b1ab0e99570787ee24b9f8265a7"
   },
   {
     "url": "blog/skepticism/2016/index.html",
-    "revision": "8be2a71df59f07c39e28d33dfce69b96"
+    "revision": "08b9640510d1ae14329c7d3b4a9a9520"
   },
   {
     "url": "blog/skepticism/2017/01/22/index.html",
-    "revision": "6ee83a83de83a1db6fbe83acaac850ed"
+    "revision": "ec4de4a603df277b167902436d6aeeb6"
   },
   {
     "url": "blog/skepticism/2017/01/22/scientology/index.html",
-    "revision": "b9d43a31cdb75ada755e5ef2b8697d98"
+    "revision": "2749199a0e3822bdc9a10ccb0dbf639a"
   },
   {
     "url": "blog/skepticism/2017/01/29/creation/index.html",
-    "revision": "8e99062ff8d0419cc6c233bdd61f920b"
+    "revision": "de62ac135cffcbb9f8d6b8690dd45825"
   },
   {
     "url": "blog/skepticism/2017/01/29/index.html",
-    "revision": "b568cc031469d7ac0deb2941ed698c39"
+    "revision": "d78c4180f45e334f182d465232de3e1f"
   },
   {
     "url": "blog/skepticism/2017/01/index.html",
-    "revision": "33df7e800d247747643de42d319470ea"
+    "revision": "bb70639f0272a79a0c19873dbd920022"
   },
   {
     "url": "blog/skepticism/2017/02/05/fraudster/index.html",
-    "revision": "ed7b0a375cf857e2c14a5e7b5f58e45f"
+    "revision": "e7d363eeb6207c601fbcf4351400768b"
   },
   {
     "url": "blog/skepticism/2017/02/05/gervais/index.html",
-    "revision": "0c3eada237ba87999fd6b57b59b95e0b"
+    "revision": "c1a2cd6efc5689451ae16c2f542fae10"
   },
   {
     "url": "blog/skepticism/2017/02/05/index.html",
-    "revision": "f0943783ff7d7a1397d0bfdbf5001132"
+    "revision": "3304f9d9dee1376ffd319c2565ffc6e2"
   },
   {
     "url": "blog/skepticism/2017/02/05/scientology/index.html",
-    "revision": "de5e830701a7c9ae8a2b5163766c63f6"
+    "revision": "5f33cba4583ecf077740c5122dfcac65"
   },
   {
     "url": "blog/skepticism/2017/02/19/homeopathy/index.html",
-    "revision": "8199d758798c871e6d3196d1c4070775"
+    "revision": "9e9f4a90a6170cc24d37d20cc2217f4c"
   },
   {
     "url": "blog/skepticism/2017/02/19/index.html",
-    "revision": "ab651aa8ed0a70d7a490b9d67ee9667f"
+    "revision": "a8a8fa91e75f10a43d68e37d8e8dd690"
   },
   {
     "url": "blog/skepticism/2017/02/19/lottery/index.html",
-    "revision": "0b69e274e9655bbe44e86e7201598d4a"
+    "revision": "5b9fc6fba83d93b973e411abb527a5e9"
   },
   {
     "url": "blog/skepticism/2017/02/19/vaxxed/index.html",
-    "revision": "0d0e8d12349016fefa4e5a473f880351"
+    "revision": "e135a9a73f6cb5d7664048225a876bb1"
   },
   {
     "url": "blog/skepticism/2017/02/19/whales/index.html",
-    "revision": "1e4361e3962961cd6e7967419a6c2fe4"
+    "revision": "178638251e960785b04acfbe4ad763fd"
   },
   {
     "url": "blog/skepticism/2017/02/index.html",
-    "revision": "97ac8405f48734f95e6248530d154f0a"
+    "revision": "b5e2cdf3ace532a07e53c763dcc5f06e"
   },
   {
     "url": "blog/skepticism/2017/03/05/index.html",
-    "revision": "54b21f014dd764783dc46ba4a74e34a5"
+    "revision": "027e4cc1ea9326b8fc9610520df2cdc4"
   },
   {
     "url": "blog/skepticism/2017/03/05/rea/index.html",
-    "revision": "da2e61eb0ad76da5f47a97c840cd8920"
+    "revision": "ae48618834c9bc76728fe0f701a7ecb1"
   },
   {
     "url": "blog/skepticism/2017/03/19/fake/index.html",
-    "revision": "95799aa19d45780befe49b529abf21d4"
+    "revision": "59195932631c1374d9c88f3506f1439c"
   },
   {
     "url": "blog/skepticism/2017/03/19/index.html",
-    "revision": "e6bb3e428cc300e02aedd132b1a7300f"
+    "revision": "a8eecae01fd4250ce74438e1bc6d050a"
   },
   {
     "url": "blog/skepticism/2017/03/19/murder/index.html",
-    "revision": "e86b2b74e25c2ebac3e1f88e16791b12"
+    "revision": "35d79250376928422b36c9f42d06e1f9"
   },
   {
     "url": "blog/skepticism/2017/03/26/census/index.html",
-    "revision": "d906ef198dea9cdb93d7f01a866c939a"
+    "revision": "047543adc3a0e023b1939b9756800ad9"
   },
   {
     "url": "blog/skepticism/2017/03/26/index.html",
-    "revision": "e470a9068572c42f2f4e03f976b9fc79"
+    "revision": "882fb7cccf36b144ad3c0f5953e1a2de"
   },
   {
     "url": "blog/skepticism/2017/03/26/nzmj/index.html",
-    "revision": "72878e6e09eb1949c623b4f69efdf1bc"
+    "revision": "312f2f64b3996c45f4da6e1f715d5e27"
   },
   {
     "url": "blog/skepticism/2017/03/26/shaquille/index.html",
-    "revision": "21ad2ef50d4fcc27f4bd76eb58689857"
+    "revision": "f3be0a022bf10fad5e8d51d96fde44bc"
   },
   {
     "url": "blog/skepticism/2017/03/index.html",
-    "revision": "793999a4595ad17ea87f3e8724459fd4"
+    "revision": "913e489c734646b392d077a4a1d99394"
   },
   {
     "url": "blog/skepticism/2017/04/02/index.html",
-    "revision": "fe555f04eff6e002202e7eca0872bacc"
+    "revision": "aa44b79d518376f6e91d49c145ec535c"
   },
   {
     "url": "blog/skepticism/2017/04/02/nasa/index.html",
-    "revision": "150b9b1ffaf4349ec32801e39b81bdd6"
+    "revision": "c5e2c949cd6ab9673d5fdd1fc3c033a0"
   },
   {
     "url": "blog/skepticism/2017/04/02/science/index.html",
-    "revision": "08b46d8060d51b2d1368f76f9913fa05"
+    "revision": "fbfb5a68f962fc2171ca246143196003"
   },
   {
     "url": "blog/skepticism/2017/04/02/vaxxed/index.html",
-    "revision": "81a4b7511e9a78af79912e4b6f25f935"
+    "revision": "064bc0bd377040e932221b440de3fc23"
   },
   {
     "url": "blog/skepticism/2017/04/09/index.html",
-    "revision": "53c2b07c1a5d85de52a5aa5ac8c82b1f"
+    "revision": "a5bd07482f1900bb5a14bdb498d0882a"
   },
   {
     "url": "blog/skepticism/2017/04/09/tekiri/index.html",
-    "revision": "5f28342b411702a2f2eaed144f538f73"
+    "revision": "b88641bf85e47f1fa4a319d577b33960"
   },
   {
     "url": "blog/skepticism/2017/04/09/vaxxed/index.html",
-    "revision": "052a3dde4f4b47576bff32ed77d3490a"
+    "revision": "26ea22ddf9714d1f614ece5614d74c42"
   },
   {
     "url": "blog/skepticism/2017/04/23/arise/index.html",
-    "revision": "00c3d2fe1838ca66c5e893ec5c8f44a3"
+    "revision": "9793f2e4f6bee8527029714998aa1432"
   },
   {
     "url": "blog/skepticism/2017/04/23/index.html",
-    "revision": "b3f09b51e40ce5519593467634349f0a"
+    "revision": "34a421fddfc817ee4a627ac6592f849e"
   },
   {
     "url": "blog/skepticism/2017/04/23/kelvin/index.html",
-    "revision": "22b659f79d266cec5846552502d67bce"
+    "revision": "b8ccf51490b6af4e810d85a99536dcf0"
   },
   {
     "url": "blog/skepticism/2017/04/index.html",
-    "revision": "aaa8d81cb5c5b11ca1991aeda4fed172"
+    "revision": "03787ec2f2091cfbdf9cdff03ecf478c"
   },
   {
     "url": "blog/skepticism/2017/05/07/cancer/index.html",
-    "revision": "f14b6211a9ead75d34c3a741e2fa4224"
+    "revision": "165ebd44534e1fc73c5f59ed93626cde"
   },
   {
     "url": "blog/skepticism/2017/05/07/index.html",
-    "revision": "f01718d9ed1e31e810c599b4b85a7c40"
+    "revision": "9d8d9a740fd9040289e1c2718de773eb"
   },
   {
     "url": "blog/skepticism/2017/05/07/nigel/index.html",
-    "revision": "1e5717eb62813ffdb55c3ad85cd8d919"
+    "revision": "9b1d69d0b61f446f8dd37b858cbb2c64"
   },
   {
     "url": "blog/skepticism/2017/05/21/blasphemy/index.html",
-    "revision": "d2d0d9351f8ec4a909eb36c2e3872eb6"
+    "revision": "60c98e1db8424f6749747da431b9a442"
   },
   {
     "url": "blog/skepticism/2017/05/21/flat/index.html",
-    "revision": "c1e2d967448fee66790f570c39d3becd"
+    "revision": "67fae89795b0e6a05dce1cc982a5e28c"
   },
   {
     "url": "blog/skepticism/2017/05/21/index.html",
-    "revision": "fd54d36b6c4c383a2985f0bab7fc7e3a"
+    "revision": "6237b6641335857a5bd60764f3625121"
   },
   {
     "url": "blog/skepticism/2017/05/21/maori/index.html",
-    "revision": "ff2acc2d899f6607a2935916bdd8cd38"
+    "revision": "51902480ec8e9ef191078a2631341f9a"
   },
   {
     "url": "blog/skepticism/2017/05/index.html",
-    "revision": "d0165bb7174b116b607432491180c98b"
+    "revision": "d66c29e7157fd425f75d6ccae897b572"
   },
   {
     "url": "blog/skepticism/2017/06/04/bigelow/index.html",
-    "revision": "213a4747b09701ff5d6fed062e661541"
+    "revision": "5be3449b71a23debf1a0d41e556aa3d0"
   },
   {
     "url": "blog/skepticism/2017/06/04/climate/index.html",
-    "revision": "eed6a75ba226d125174da344d6810e92"
+    "revision": "cd7083905df5654c9e86caa4a2d8f98b"
   },
   {
     "url": "blog/skepticism/2017/06/04/hansford/index.html",
-    "revision": "96c903a2f87c8e6b5aff34d997f8f385"
+    "revision": "6caaf04af3a05b6e70e11b287270ee98"
   },
   {
     "url": "blog/skepticism/2017/06/04/index.html",
-    "revision": "6f8d6bb95495e5dd3cd6ec4cf05bade2"
+    "revision": "43db9dc43b124ec840e36e4432230520"
   },
   {
     "url": "blog/skepticism/2017/06/04/wasp/index.html",
-    "revision": "9b56699fa666314d1491e8690667e103"
+    "revision": "6622c9501b62708d9c415402f95eb598"
   },
   {
     "url": "blog/skepticism/2017/06/11/colonic/index.html",
-    "revision": "0b3f11b9e0a9e3d041fa6a61c86b0cd7"
+    "revision": "0a27a72f94d68af4e931a80c4ffc0105"
   },
   {
     "url": "blog/skepticism/2017/06/11/credulous/index.html",
-    "revision": "bf6f6ec340ec99417ecf713c3daa34d7"
+    "revision": "0ebf8e83e31b2895b11be01b345c3c01"
   },
   {
     "url": "blog/skepticism/2017/06/11/index.html",
-    "revision": "a302bee94a261d2245ebb7cd835617b1"
+    "revision": "38cd635aaabef4e7b17b7c6d667da327"
   },
   {
     "url": "blog/skepticism/2017/06/11/journals/index.html",
-    "revision": "d511c53267d3e650e765069960177958"
+    "revision": "facce3a3545bdc2aa8e8cf6920905261"
   },
   {
     "url": "blog/skepticism/2017/06/18/breatharians/index.html",
-    "revision": "0ad6988e6673e8373adf7a6bfdae374a"
+    "revision": "0b6fed6c361c0a8b946a1e14e4c29e04"
   },
   {
     "url": "blog/skepticism/2017/06/18/fieldays/index.html",
-    "revision": "61be7edb7a3283dbc5326d88527bdf52"
+    "revision": "2b92683b139a092825c6ded5b3a59d45"
   },
   {
     "url": "blog/skepticism/2017/06/18/index.html",
-    "revision": "6b7c45e06808d819fcb6e1259f1200ba"
+    "revision": "43a44597cce0d157b958070810c18b63"
   },
   {
     "url": "blog/skepticism/2017/06/18/jw/index.html",
-    "revision": "6ffe5abbca023085e880c0b4cc76e63a"
+    "revision": "6554e4207241114f90b2185316dc549e"
   },
   {
     "url": "blog/skepticism/2017/06/18/oil/index.html",
-    "revision": "8e80469a2141d3c6428900213ce65ddb"
+    "revision": "e4c111ebdd8368c09368dbacb2f68b1b"
   },
   {
     "url": "blog/skepticism/2017/06/index.html",
-    "revision": "965fb203a905bcc485138963cffeba94"
+    "revision": "4e0e9498a802642252cf6203760c0de9"
   },
   {
     "url": "blog/skepticism/2017/07/02/baby/index.html",
-    "revision": "99e174b9fb3ee31d860afc0fa91a9502"
+    "revision": "8d7b8f825a60a721217ff8dfc265b526"
   },
   {
     "url": "blog/skepticism/2017/07/02/index.html",
-    "revision": "54f6f29935d42ccdbeef0ff1bee84e93"
+    "revision": "bd1650c658d5064dfbabc22722c25ae3"
   },
   {
     "url": "blog/skepticism/2017/07/02/infowars/index.html",
-    "revision": "62dbb4a5f827ec64ffbe400ae9e218b6"
+    "revision": "14cdd827368a1185e6c5cac4686c6e83"
   },
   {
     "url": "blog/skepticism/2017/07/02/scientology/index.html",
-    "revision": "74da2bd1d0de5279d999bda58daf3b4b"
+    "revision": "515b23d95a5f422e4648bebaf634af7f"
   },
   {
     "url": "blog/skepticism/2017/07/16/bananas/index.html",
-    "revision": "7eab391b7499cafbdeee0f8a31c27e73"
+    "revision": "530359933f5b8995949e800ce8f9b81d"
   },
   {
     "url": "blog/skepticism/2017/07/16/circles/index.html",
-    "revision": "e659b47c2c0447152aa7b3913defc1a9"
+    "revision": "6a4e2296c6cf967204fa2b77868dfe3a"
   },
   {
     "url": "blog/skepticism/2017/07/16/index.html",
-    "revision": "c66c0ab42886ed3ac18770c16d862ad9"
+    "revision": "28aa3c66876015463adba516d2b0b9fe"
   },
   {
     "url": "blog/skepticism/2017/07/16/siggi/index.html",
-    "revision": "2af7260ad53a575be4598aaf4b1ab27e"
+    "revision": "4cf373b15a00de2315c0c8125d563861"
   },
   {
     "url": "blog/skepticism/2017/07/16/vaxxed/index.html",
-    "revision": "7edfa6825961ad9e37b84ab63821b2c8"
+    "revision": "fd267131c6452087bbe1d50a8ef1286b"
   },
   {
     "url": "blog/skepticism/2017/07/30/bleach/index.html",
-    "revision": "1de89f26ceb423773f910469ada596e0"
+    "revision": "49b5d8e06578796a7a36a56daf2e3450"
   },
   {
     "url": "blog/skepticism/2017/07/30/bluebeam/index.html",
-    "revision": "73df25b1f19e620f6be540242b21ca93"
+    "revision": "c28b9bc6bbb8f7bce9068469a74a92f0"
   },
   {
     "url": "blog/skepticism/2017/07/30/index.html",
-    "revision": "8df774a5718612583c473d89935bb819"
+    "revision": "5af2f8d015d0825aefe97078af688144"
   },
   {
     "url": "blog/skepticism/2017/07/30/police/index.html",
-    "revision": "e38d61d70ad5d638568679d8cfc3bcb3"
+    "revision": "59a163bdca3188ea59fb9c9a249cea0c"
   },
   {
     "url": "blog/skepticism/2017/07/index.html",
-    "revision": "916d57110a2b67a485bc677cb4fb3425"
+    "revision": "0a8f94b6405a04a270bad770a69833bc"
   },
   {
     "url": "blog/skepticism/2017/08/06/conned/index.html",
-    "revision": "c7fae7f867148568e856672a17945dc3"
+    "revision": "ae05ac172f4e851f30ad5303afe10564"
   },
   {
     "url": "blog/skepticism/2017/08/06/doll/index.html",
-    "revision": "637b90f4a2770bf73e6e253a7b197dde"
+    "revision": "e15eb72504e3902d55aa706f07a02d71"
   },
   {
     "url": "blog/skepticism/2017/08/06/index.html",
-    "revision": "74f1c77cec54a7644a9b96851970113c"
+    "revision": "f30db097f27b9e862252f0f6950a84f3"
   },
   {
     "url": "blog/skepticism/2017/08/06/jacinda/index.html",
-    "revision": "8b66277b95482c33761859333ac730ce"
+    "revision": "a200680fa97460df6d572e16061ccccd"
   },
   {
     "url": "blog/skepticism/2017/08/06/lotto/index.html",
-    "revision": "c9b9767a162613836e053483153f316a"
+    "revision": "e28a48011bca5111a504b3cf9cdaf002"
   },
   {
     "url": "blog/skepticism/2017/08/27/index.html",
-    "revision": "b0b1ca36771687c4d0245707b66be87d"
+    "revision": "d0bfa6de7eef25e7540fc58dd22dc845"
   },
   {
     "url": "blog/skepticism/2017/08/27/naturopath/index.html",
-    "revision": "d191b16a8400c22252586411dc93ff76"
+    "revision": "f50d5ce32ba0aad7d60cf9b40795247b"
   },
   {
     "url": "blog/skepticism/2017/08/27/satanic/index.html",
-    "revision": "82ce15559c83a93d66a6d1f5f13f5e50"
+    "revision": "2482c5a402ab2ebf251ae9c3d4569cbd"
   },
   {
     "url": "blog/skepticism/2017/08/index.html",
-    "revision": "c50fe920e1ea25a27944133f7436a140"
+    "revision": "bbc7fcc6b9d93576ab9e126d1b158175"
   },
   {
     "url": "blog/skepticism/2017/09/03/apocalypse/index.html",
-    "revision": "83383954c58434af6add3016e1ff3bc2"
+    "revision": "6088ad2e0ed0998f61e83e856bbfef76"
   },
   {
     "url": "blog/skepticism/2017/09/03/cancer/index.html",
-    "revision": "0045b2d52e3a2b17e864e8aecb429442"
+    "revision": "fb13d3706a7ddb02f784e583364429b5"
   },
   {
     "url": "blog/skepticism/2017/09/03/index.html",
-    "revision": "8b6a9dd246dc085eca1a33edad09af87"
+    "revision": "326d25087bc2630e9cabdddc907bd3b2"
   },
   {
     "url": "blog/skepticism/2017/09/03/rectangle/index.html",
-    "revision": "1082513d41669822cea1e9f33f585d9b"
+    "revision": "0dff6fe2f423a57c119af8b8c8e1e5b1"
   },
   {
     "url": "blog/skepticism/2017/09/03/stargate/index.html",
-    "revision": "0a0864bb088c823d7fc41aa12d7754a0"
+    "revision": "12f655a267962d4c72e003c2c42acdaf"
   },
   {
     "url": "blog/skepticism/2017/09/index.html",
-    "revision": "0a68617700b4d486833991d20c77bf2b"
+    "revision": "b302513bf748cf72d2d8a77f596a0a22"
   },
   {
     "url": "blog/skepticism/2017/10/01/apocalypse/index.html",
-    "revision": "01105b6eb0f96bae78dcdec77110ed34"
+    "revision": "4d66da2a6b4ea037123a08a1eff56f7f"
   },
   {
     "url": "blog/skepticism/2017/10/01/freeman/index.html",
-    "revision": "cc2ffa6d93184d54998eaab516488060"
+    "revision": "990a66a55826a73b2c11d592442e6b1d"
   },
   {
     "url": "blog/skepticism/2017/10/01/index.html",
-    "revision": "de0b9c77a4e2fe300ae0aa2d0e1958df"
+    "revision": "5d1cbcadb4a1744683cbdf871ad0b39d"
   },
   {
     "url": "blog/skepticism/2017/10/01/pharmacy/index.html",
-    "revision": "3754a61df027c49d25d2e8ff4fa96e64"
+    "revision": "de85475b8969757a8a2c370a102502f9"
   },
   {
     "url": "blog/skepticism/2017/10/08/index.html",
-    "revision": "1390ef7f06d8a9e6ce0f4a9ddeab7fac"
+    "revision": "95f728a44fc7626524d1c7ea8d763048"
   },
   {
     "url": "blog/skepticism/2017/10/08/pill/index.html",
-    "revision": "e1415712b022a70ac11a6fca9cbc17fd"
+    "revision": "7700a63a5eea6c42a0a03ae6d30d9d88"
   },
   {
     "url": "blog/skepticism/2017/10/08/qsb/index.html",
-    "revision": "98515dd50dcdc8ac6e7fc5f4bc605084"
+    "revision": "6734ab965d0a7e1e84ca20e542815021"
   },
   {
     "url": "blog/skepticism/2017/10/08/vegas/index.html",
-    "revision": "6ae6f63d913101af9928b178d4f7ae79"
+    "revision": "48e0dc844976d559a6c5d88c0fd5b5f2"
   },
   {
     "url": "blog/skepticism/2017/10/15/doterra/index.html",
-    "revision": "9799b61759993fdec9c0481bc870329a"
+    "revision": "bbdca74d49350cd6b0f58fab2c6f7e5e"
   },
   {
     "url": "blog/skepticism/2017/10/15/index.html",
-    "revision": "bd35ce26922ad6caf4bdf74197ad5edb"
+    "revision": "9927fe3d8a8ca4966847307939f355ee"
   },
   {
     "url": "blog/skepticism/2017/10/15/lie/index.html",
-    "revision": "1f88e92d452de6cacaa16546345c1936"
+    "revision": "9962daa5b1cce4a24b2b861afafa4856"
   },
   {
     "url": "blog/skepticism/2017/10/15/soap/index.html",
-    "revision": "d8a3c617f7b29f61a6148f96b05b0206"
+    "revision": "4f21fd7ef1849453eec8dc86320acef4"
   },
   {
     "url": "blog/skepticism/2017/10/index.html",
-    "revision": "0bef3fa1a67f4573c3767b5b4a8d1b42"
+    "revision": "0c79844222e9d6194cfd2e3e907ac9e1"
   },
   {
     "url": "blog/skepticism/2017/11/05/conference/index.html",
-    "revision": "0e2bb348795a3b5d714948f942efe1b3"
+    "revision": "548985843ac95421d9d65376fd7f457c"
   },
   {
     "url": "blog/skepticism/2017/11/05/glyphosate/index.html",
-    "revision": "979e0c869ed176789955096002ec7783"
+    "revision": "b28ac942220352df116398fb90a01fca"
   },
   {
     "url": "blog/skepticism/2017/11/05/index.html",
-    "revision": "32b5abbfd392ebfdba9861e34eb2cd85"
+    "revision": "656d987ddc5427cc55645cd329945397"
   },
   {
     "url": "blog/skepticism/2017/11/05/stranded/index.html",
-    "revision": "3473658bedd8b89b8d8968c243c96072"
+    "revision": "99e7829e307c7708f954d2c64ff2105b"
   },
   {
     "url": "blog/skepticism/2017/11/05/tracts/index.html",
-    "revision": "b6b785a9b19e5e45f338c6307270d0dc"
+    "revision": "276a96cfba543558fcf50be9c4333d11"
   },
   {
     "url": "blog/skepticism/2017/11/12/ghost/index.html",
-    "revision": "2ee776646010d0b1fd2b49767015bab6"
+    "revision": "c25bdad7e1bd2a8c3275d994e9598728"
   },
   {
     "url": "blog/skepticism/2017/11/12/green/index.html",
-    "revision": "ed575abea6bf10010db43c77049654ce"
+    "revision": "5ef8891ebd746a925ef50d628a83b6e0"
   },
   {
     "url": "blog/skepticism/2017/11/12/harassment/index.html",
-    "revision": "a66f30d2161851e36fc6a06a75d9f167"
+    "revision": "f7df9cc247c8bc808e94a4274ed366c7"
   },
   {
     "url": "blog/skepticism/2017/11/12/index.html",
-    "revision": "03283897faab1cf9cd4ccfe451fa7623"
+    "revision": "cda4824a619984eb6af902567c863c7b"
   },
   {
     "url": "blog/skepticism/2017/11/12/libby/index.html",
-    "revision": "2d925047880145cf7a9a997e2d574ba0"
+    "revision": "ca25b51e7db596e431bf7fb23c4f3e27"
   },
   {
     "url": "blog/skepticism/2017/11/index.html",
-    "revision": "5cc5d8cdf5cf4f0942791c782cd3a547"
+    "revision": "55091fbd07f4638911519d9d3e2b8b92"
   },
   {
     "url": "blog/skepticism/2017/12/03/acupuncture/index.html",
-    "revision": "dd409f9598e316bb0a8034ffc7f7327c"
+    "revision": "4dd542ab15e113511358b39e4ae213cb"
   },
   {
     "url": "blog/skepticism/2017/12/03/denialism/index.html",
-    "revision": "e4a298d87ea1860c00d5ece1832b242a"
+    "revision": "5de7c647697e68c204c71387046fda89"
   },
   {
     "url": "blog/skepticism/2017/12/03/dowsing/index.html",
-    "revision": "07c078b047aa3c96fd98f24f2c3806fe"
+    "revision": "9be48cb0784b8429adc5206bf9b3cd19"
   },
   {
     "url": "blog/skepticism/2017/12/03/holes/index.html",
-    "revision": "78e666cc860e9db8c4e43a9bd43ad25d"
+    "revision": "8e6148084406a96c3067a58935b0cc12"
   },
   {
     "url": "blog/skepticism/2017/12/03/index.html",
-    "revision": "55c75e7a5426ebb4ac16a379fe3c89d8"
+    "revision": "b361c207a7304726607f3e4876ea7c3d"
   },
   {
     "url": "blog/skepticism/2017/12/17/index.html",
-    "revision": "2ac01a9c1b922f692edaad16471b899b"
+    "revision": "7a49f496393eb3667635bf01194a787d"
   },
   {
     "url": "blog/skepticism/2017/12/17/nhs/index.html",
-    "revision": "99e909d10c86dc3a807aed63ee134bcb"
+    "revision": "3c2a7b05828cb72b6f6b8d7dc8a30d13"
   },
   {
     "url": "blog/skepticism/2017/12/17/oto/index.html",
-    "revision": "9d2fc7b549824f7f83390087a6ef461f"
+    "revision": "d8f3cd5cb59c49eec5fa2b4812c9fa44"
   },
   {
     "url": "blog/skepticism/2017/12/17/pastafarian/index.html",
-    "revision": "73a340f99fe314546592896ee0b05b2d"
+    "revision": "9c75bdd4bcda32ca547649722b3cbac6"
   },
   {
     "url": "blog/skepticism/2017/12/17/shc/index.html",
-    "revision": "74230909d2423a15872f81ba81ae5dba"
+    "revision": "b8c0aeb1065824a9543202ed504bb770"
   },
   {
     "url": "blog/skepticism/2017/12/17/wellworks/index.html",
-    "revision": "4bf74b499fe3ee21c3fb935d8f91af02"
+    "revision": "6c528526baf56d98298089442c5dcc27"
   },
   {
     "url": "blog/skepticism/2017/12/index.html",
-    "revision": "c4700fbc147b0dab5a7f7751d3f5333a"
+    "revision": "53232cebfee40bd3c24ba5428e5ce58c"
   },
   {
     "url": "blog/skepticism/2017/index.html",
-    "revision": "e3f2799eafc8e30594c133d9967f1b0b"
+    "revision": "19a8f601140fe2720a454c84547b999b"
   },
   {
     "url": "blog/skepticism/2018/01/21/grounding/index.html",
-    "revision": "f8844f8a54f9b3a3de637094b85d884c"
+    "revision": "6ab40036ea9c059f93b9d1b2188e639b"
   },
   {
     "url": "blog/skepticism/2018/01/21/index.html",
-    "revision": "85fa32783bfde82bafe32897ca2472dc"
+    "revision": "ca6c33df9e73dcdf5358566c34ae7d32"
   },
   {
     "url": "blog/skepticism/2018/01/21/naturopath/index.html",
-    "revision": "abd4e219dfbaa00782a04885915ae5fc"
+    "revision": "9535bb9a07356141dbf53395f06c9e5c"
   },
   {
     "url": "blog/skepticism/2018/01/21/respen/index.html",
-    "revision": "d140e6e03d76cb2585baa58ae9a0c0f6"
+    "revision": "0f32313522e8bbfeb0bc29273db3e46b"
   },
   {
     "url": "blog/skepticism/2018/01/28/bears/index.html",
-    "revision": "5d10207e6b55c03d2dba64dedbc0ff10"
+    "revision": "be830fe3aa94b19232e72e1994ddbd65"
   },
   {
     "url": "blog/skepticism/2018/01/28/index.html",
-    "revision": "8e60011868712d944b99447282c417f2"
+    "revision": "cf728d9b3d187d3e0d84ffaafe224362"
   },
   {
     "url": "blog/skepticism/2018/01/28/peppering/index.html",
-    "revision": "7ab77882a0e5bff69be149de06b33e89"
+    "revision": "598b45ddb3fff012d32e6fc1492e96b3"
   },
   {
     "url": "blog/skepticism/2018/01/28/pet/index.html",
-    "revision": "5af18b4ba5704ebb591eabff7ecdf7cc"
+    "revision": "bd55850073a591750762fb9db4b98734"
   },
   {
     "url": "blog/skepticism/2018/01/28/quake/index.html",
-    "revision": "321dd678e31745664673c7dc72aac53d"
+    "revision": "5f23c2404d46a7c5d4b5baeabb40d53a"
   },
   {
     "url": "blog/skepticism/2018/01/28/scientology/index.html",
-    "revision": "7dbaaebabe46d6f0ba56387b024627da"
+    "revision": "22a8a3c5e9e689a704839fe83ce6c7b7"
   },
   {
     "url": "blog/skepticism/2018/01/index.html",
-    "revision": "662bb49602160645e4d07b0abcb789ad"
+    "revision": "455bdd69fea3c72590d4df300b0423ee"
   },
   {
     "url": "blog/skepticism/2018/02/11/asa/index.html",
-    "revision": "c5ba16f27e920a28c12718314727a77e"
+    "revision": "82bb2788b4f61620d080539b67872289"
   },
   {
     "url": "blog/skepticism/2018/02/11/cannabis/index.html",
-    "revision": "83adde0084263090ddce28662e4c038f"
+    "revision": "503838289f0d743066d78bb9d1803d66"
   },
   {
     "url": "blog/skepticism/2018/02/11/elon/index.html",
-    "revision": "b47d5bd187f8de2c80713d219dd93898"
+    "revision": "1a6c7f8e48d97392405393f3ac21d5bc"
   },
   {
     "url": "blog/skepticism/2018/02/11/homeopathy/index.html",
-    "revision": "7771829e00a1d925ab8824a04a82d12d"
+    "revision": "3c89fe17f46f4011644d2943fc26a38c"
   },
   {
     "url": "blog/skepticism/2018/02/11/index.html",
-    "revision": "178efdc17d9639e1b6b9b37757f58bd7"
+    "revision": "3ba96045c6b02cc4b5a5e818e1565d91"
   },
   {
     "url": "blog/skepticism/2018/02/11/water/index.html",
-    "revision": "d4cab950411c0b7d375b06055201b87a"
+    "revision": "88b8cc2b0e6500c1efd6966f013e004b"
   },
   {
     "url": "blog/skepticism/2018/02/25/crisis/index.html",
-    "revision": "e141cf6c5a1e4d074fb7a8525c21397c"
+    "revision": "e772a9d8bca3932774ff5861dd724ef5"
   },
   {
     "url": "blog/skepticism/2018/02/25/eggs/index.html",
-    "revision": "b1f047481b0af069fe88978aafc4409f"
+    "revision": "950fa45cee380279f80d451148062eea"
   },
   {
     "url": "blog/skepticism/2018/02/25/fsm/index.html",
-    "revision": "ecb24e4fada2376972eb6d91c773438b"
+    "revision": "e8a2b93be620a904d03bc93b6f25081a"
   },
   {
     "url": "blog/skepticism/2018/02/25/index.html",
-    "revision": "5bf13f84d0436feeb3ea56dd4619e0bb"
+    "revision": "09e9154b0a8fadcd74aa5dd83531159b"
   },
   {
     "url": "blog/skepticism/2018/02/25/number/index.html",
-    "revision": "4ea6ba03cebc67beecbb793931ad16f0"
+    "revision": "485b72fea30c8ad73767856f80aa8f05"
   },
   {
     "url": "blog/skepticism/2018/02/25/quackery/index.html",
-    "revision": "2c2a9a80d39d39da9351dbc05c85834c"
+    "revision": "459c9b92408d158cc6df0de1a5d45fb0"
   },
   {
     "url": "blog/skepticism/2018/02/index.html",
-    "revision": "ca90809eadbfe4c7294635fab783ea79"
+    "revision": "0efb8c249dfcc7db2ec7355545926c6f"
   },
   {
     "url": "blog/skepticism/2018/03/11/ai/index.html",
-    "revision": "03913c49867ed92b8f0c8630900aea8f"
+    "revision": "822a59fad9c64d385f2e0078c5098827"
   },
   {
     "url": "blog/skepticism/2018/03/11/index.html",
-    "revision": "d93ee1589064cbc3f443eeb7331b7f33"
+    "revision": "d3fea4a3dba5ce073315087c832698ec"
   },
   {
     "url": "blog/skepticism/2018/03/11/radiation/index.html",
-    "revision": "9593b9ab0f7f21a0aaad303743e52a3c"
+    "revision": "6a24ec6c0eaadf3b074309a11deb0541"
   },
   {
     "url": "blog/skepticism/2018/03/11/reiki/index.html",
-    "revision": "95ad6b2fde50ff042595f3528b9be067"
+    "revision": "92b453f84f48bb4b6823aa6d08a8127d"
   },
   {
     "url": "blog/skepticism/2018/03/11/ufo/index.html",
-    "revision": "ad5af3a8be8b9130353254c744c1cfd0"
+    "revision": "40651bccbbc45f90486c78adb5aa2d7a"
   },
   {
     "url": "blog/skepticism/2018/03/18/ghost/index.html",
-    "revision": "99ede8b0e2fa317f85a5d43251b59333"
+    "revision": "955cf631ac3fe2a8cb8f6a4ead2dcb76"
   },
   {
     "url": "blog/skepticism/2018/03/18/index.html",
-    "revision": "5aaf973de985dbce62a414e3e633e5fa"
+    "revision": "735ada54ec2ebf35425404f19b21f039"
   },
   {
     "url": "blog/skepticism/2018/03/18/psychic/index.html",
-    "revision": "34144a05556ff5a3b12dd72b1390a24f"
+    "revision": "aa4ab2fc78a08f3a8b136cebbc01aebe"
   },
   {
     "url": "blog/skepticism/2018/03/18/quack/index.html",
-    "revision": "234988021776a68f1d320e127de6bf0e"
+    "revision": "ca6ec00c2ebbe8917abf0e12202cc075"
   },
   {
     "url": "blog/skepticism/2018/03/18/radiation/index.html",
-    "revision": "3da034ec72a8cab124bf38aad0016c0b"
+    "revision": "2149affc47d6b508f3bfa44505ae5dd9"
   },
   {
     "url": "blog/skepticism/2018/03/index.html",
-    "revision": "63e4aab41f8d2af28c8a4da2125be006"
+    "revision": "7e94302c9496fe9ff67f43ff87437945"
   },
   {
     "url": "blog/skepticism/2018/04/08/calocurb/index.html",
-    "revision": "00c9677532ac493bcb7c0d7262a22030"
+    "revision": "d1d34afb46d92a4abd07baed955f5d99"
   },
   {
     "url": "blog/skepticism/2018/04/08/cam/index.html",
-    "revision": "b7bb93191211925542c9575dd59db3a3"
+    "revision": "cd8d685c23848750c6a2f3f32d1e6ee0"
   },
   {
     "url": "blog/skepticism/2018/04/08/index.html",
-    "revision": "dc4ccb858476a06da34b4429b6968e23"
+    "revision": "8e86180a1801f87041c95a62e2fd6ed4"
   },
   {
     "url": "blog/skepticism/2018/04/08/psychic/index.html",
-    "revision": "e0a3098116ca570af794265555e6bf81"
+    "revision": "5e2623a5601393c8d6b8cb83c04b6865"
   },
   {
     "url": "blog/skepticism/2018/04/08/vaccines/index.html",
-    "revision": "af9c7e4955ccc5538dfb966b5126a2c5"
+    "revision": "c0309415d08f9b882ac32fbd9ec87661"
   },
   {
     "url": "blog/skepticism/2018/04/15/coffee/index.html",
-    "revision": "d6e275c7c3b7b8dad9d88c194c347864"
+    "revision": "de4ae3563b169229da4da40b8ff1b114"
   },
   {
     "url": "blog/skepticism/2018/04/15/ignorance/index.html",
-    "revision": "ff94fff14ddf2533075b8445a0df77ca"
+    "revision": "52661ef4cf378603f346226f949396be"
   },
   {
     "url": "blog/skepticism/2018/04/15/index.html",
-    "revision": "c89d95b7536135d25e46c06b73ebb505"
+    "revision": "cda8d044043c1e401456e3017e718e83"
   },
   {
     "url": "blog/skepticism/2018/04/15/nasa/index.html",
-    "revision": "c41da66e7b6bf1b8370920b61c531d5c"
+    "revision": "68b56e20b15ce7d0f9bbc75f3081e8c5"
   },
   {
     "url": "blog/skepticism/2018/04/15/tapu/index.html",
-    "revision": "efdd7cf8febea59ab847acb0d6a95f3d"
+    "revision": "8a12b219c5913686f0f47763fa207ab2"
   },
   {
     "url": "blog/skepticism/2018/04/29/google/index.html",
-    "revision": "10a2c278b789838918667ddcdc863306"
+    "revision": "393dcc4b996fddc79877d35f198cd088"
   },
   {
     "url": "blog/skepticism/2018/04/29/homeopathy/index.html",
-    "revision": "6c5fc746abf48f3b5ba5ad2a3d647b86"
+    "revision": "f305f2075c0e1c8fc8b5a7ca66531ec6"
   },
   {
     "url": "blog/skepticism/2018/04/29/index.html",
-    "revision": "428a9251c4e04fad0b8ee6b38df032c0"
+    "revision": "26b52d6853f4d80567e168fed66872e1"
   },
   {
     "url": "blog/skepticism/2018/04/29/ken/index.html",
-    "revision": "6e4363e2c834eb65243e64e1c3294e82"
+    "revision": "70522a6be619d647424c850b21c1e9f5"
   },
   {
     "url": "blog/skepticism/2018/04/29/v2k/index.html",
-    "revision": "839d2b0871a41ed8a6664b9704cd4b85"
+    "revision": "b56781613922db0b152c5b61c690bddd"
   },
   {
     "url": "blog/skepticism/2018/04/index.html",
-    "revision": "ded020ff7ed400a45874cb4ad3d6f10e"
+    "revision": "ebbe37f1086359d995af54f9d89ab1a2"
   },
   {
     "url": "blog/skepticism/2018/05/13/astrology/index.html",
-    "revision": "2e318db6acde0753323462f709895590"
+    "revision": "7c65603d431e2b508f06932bb1e73c51"
   },
   {
     "url": "blog/skepticism/2018/05/13/crystals/index.html",
-    "revision": "643ed550f2ff81ee2b71eebea6277557"
+    "revision": "f3b1b45a0f11aea237e997ea1e03e3ef"
   },
   {
     "url": "blog/skepticism/2018/05/13/dawkins/index.html",
-    "revision": "8acd29a8d497b236aaeedb0262526558"
+    "revision": "520f9acd36d0f6d5f8668d8d1e8cbcbf"
   },
   {
     "url": "blog/skepticism/2018/05/13/index.html",
-    "revision": "8979ae72376835ddf4f60073ec8ec926"
+    "revision": "706c1f3903a4465c868a74e81397e3a5"
   },
   {
     "url": "blog/skepticism/2018/05/13/kangen/index.html",
-    "revision": "ac17902b4795c8e9e99b8baf738a1a8d"
+    "revision": "3b665b513072ee8678dde0e35cc4d5d7"
   },
   {
     "url": "blog/skepticism/2018/05/13/vitamins/index.html",
-    "revision": "c2d846b8beecf227574b7dd5ed87d581"
+    "revision": "bde72d7dade83cca8b1f4e12353a49d9"
   },
   {
     "url": "blog/skepticism/2018/05/27/flat/index.html",
-    "revision": "5e9c724037050a4722e15804dad573e4"
+    "revision": "8e0be93f578997740ff98a84c27556c7"
   },
   {
     "url": "blog/skepticism/2018/05/27/index.html",
-    "revision": "eb396e9fd260f174405396279c0edb8a"
+    "revision": "c506659d8cf9c0e1b8fedf5f25328cdd"
   },
   {
     "url": "blog/skepticism/2018/05/27/kangen/index.html",
-    "revision": "617dde7c98e4d9db9097f0eaee7e917c"
+    "revision": "1b2520b8bab77ebbeba70d5d65d10402"
   },
   {
     "url": "blog/skepticism/2018/05/27/ness/index.html",
-    "revision": "e87447042974273acf29f67b32e59c0d"
+    "revision": "e48e0e903d627281547f3e97d4458353"
   },
   {
     "url": "blog/skepticism/2018/05/27/oz/index.html",
-    "revision": "66bc0a8a980b88f5f740b63a56782f10"
+    "revision": "ef16e5c1bb5ba1095dc545bcda37b364"
   },
   {
     "url": "blog/skepticism/2018/05/27/psychic/index.html",
-    "revision": "83520fbe0721a6d174a7deee5bc8d13c"
+    "revision": "69ed6cf8f6062bc5f7e7e75c508360b0"
   },
   {
     "url": "blog/skepticism/2018/05/index.html",
-    "revision": "20e6e7d1049ed90c7e29c7835126d02c"
+    "revision": "a4c349ca80836d0f2ca3ab901999fbf8"
   },
   {
     "url": "blog/skepticism/2018/06/10/astrology/index.html",
-    "revision": "69c10ad8f83471f6c930ab00a899d8b0"
+    "revision": "f9a0940dfa68bbdf1fc02f406ea9a8ce"
   },
   {
     "url": "blog/skepticism/2018/06/10/index.html",
-    "revision": "afe405357a3438cb9037b15081a25bdb"
+    "revision": "6ca844605ec7a34d1cb9b91a51914018"
   },
   {
     "url": "blog/skepticism/2018/06/10/nhs/index.html",
-    "revision": "0a5c08d8d0fbc9a3993617fbfa3db88e"
+    "revision": "6057d614fdb039e7110327d29236cee7"
   },
   {
     "url": "blog/skepticism/2018/06/10/shakti/index.html",
-    "revision": "67645744210875c3cf920fb35eb66dbd"
+    "revision": "425f340b37a64cae0a0c4c5c6a7c5906"
   },
   {
     "url": "blog/skepticism/2018/06/10/weetbix/index.html",
-    "revision": "885bf310efabb6b0264e898f1ef801d1"
+    "revision": "972a396e0033f64f70caff8c3a255454"
   },
   {
     "url": "blog/skepticism/2018/06/24/blasphemy/index.html",
-    "revision": "64185099317eba2abf291a3c93ee4178"
+    "revision": "40b86b7aaa45146a5f6838b021ba7c72"
   },
   {
     "url": "blog/skepticism/2018/06/24/cannabis/index.html",
-    "revision": "3f790504d42d206f4d0cae1a417cb064"
+    "revision": "5e1dbae9dc8b9eb78bb4ba3fea1883d9"
   },
   {
     "url": "blog/skepticism/2018/06/24/hotdog/index.html",
-    "revision": "1204c36435aa0bea659298bcc27d2f07"
+    "revision": "2518291186cf6cce22d6887164a84772"
   },
   {
     "url": "blog/skepticism/2018/06/24/index.html",
-    "revision": "a52225e2ec47d7340c5ba1b3e6eb369f"
+    "revision": "09ea6b5365bf800c4a87d73605121f6a"
   },
   {
     "url": "blog/skepticism/2018/06/24/led/index.html",
-    "revision": "3132f78b17723e1ec3adb080ea60bb82"
+    "revision": "bbe3488cb58681b52b0520401d2b16f9"
   },
   {
     "url": "blog/skepticism/2018/06/index.html",
-    "revision": "0f3c600ec914035a99cbe5a48292c41b"
+    "revision": "68bbed9d1074c390e468e35af14ac33f"
   },
   {
     "url": "blog/skepticism/2018/07/08/bullet/index.html",
-    "revision": "2426f7a58c261f710f22acc520efb904"
+    "revision": "a8f92c8b1365450fc9f53cfc682700f1"
   },
   {
     "url": "blog/skepticism/2018/07/08/chiros/index.html",
-    "revision": "0435f3cb59a38e427fce86c7768cabbf"
+    "revision": "d5555b7c69e84f7620924367e4360724"
   },
   {
     "url": "blog/skepticism/2018/07/08/hiv/index.html",
-    "revision": "acade745cb12c3fbc1906b257f67e1af"
+    "revision": "51ec607772f7953f2606a3529deabcaa"
   },
   {
     "url": "blog/skepticism/2018/07/08/hrv/index.html",
-    "revision": "263909dffc74aa88e590570f8e0b5d9c"
+    "revision": "2c4fa1ae14f21c301d811c7e94d0e7e8"
   },
   {
     "url": "blog/skepticism/2018/07/08/index.html",
-    "revision": "b2be04fb591cf42c710f3e0675ea4a7d"
+    "revision": "e1eaa953305ff6c65c3fb65248e7d63f"
   },
   {
     "url": "blog/skepticism/2018/07/22/cancer/index.html",
-    "revision": "0718c0cf0c022a2539ba32212af890bd"
+    "revision": "c624f9932b993fd35042f2c5a362dd13"
   },
   {
     "url": "blog/skepticism/2018/07/22/index.html",
-    "revision": "9b19ca5770f7ce3b2f48cdbe6e004b38"
+    "revision": "d195206a25d3c71f94f29f2a6b7b656e"
   },
   {
     "url": "blog/skepticism/2018/07/22/resurrection/index.html",
-    "revision": "5c9a394bd9a05b8b65c5cbcbbcd980f9"
+    "revision": "f264da789fb3eed592ca119328313dfe"
   },
   {
     "url": "blog/skepticism/2018/07/22/talc/index.html",
-    "revision": "be61b4b29066b2dc8521409e3e6ca81f"
+    "revision": "254400dbc2156502f4ebd65d85b3f38c"
   },
   {
     "url": "blog/skepticism/2018/07/22/visas/index.html",
-    "revision": "618533c09c72efca7916807d917b75ea"
+    "revision": "89bd3267a606a04dd6524b3e3dd5f7fe"
   },
   {
     "url": "blog/skepticism/2018/07/index.html",
-    "revision": "5479c677959a18aaa0c2f1f589f93903"
+    "revision": "c4c14ac7290311a88d8e9f56de24131e"
   },
   {
     "url": "blog/skepticism/2018/08/05/conf/index.html",
-    "revision": "10aec19e0da635e5a269c1e6c503a148"
+    "revision": "c2bae4693e9ed21ac5db5f77b88a4725"
   },
   {
     "url": "blog/skepticism/2018/08/05/index.html",
-    "revision": "7af27dd3830e5f75c58238600afcc955"
+    "revision": "2cf0c8e1634e021bf1c03ca0b278fb65"
   },
   {
     "url": "blog/skepticism/2018/08/05/qanon/index.html",
-    "revision": "d0ab4fc58009755546cc97f99fd0e285"
+    "revision": "6a13b7437d987728657ec4a185702579"
   },
   {
     "url": "blog/skepticism/2018/08/19/index.html",
-    "revision": "67791609b24ff7d16da8e7ec45cebc81"
+    "revision": "0680b726e05089dc80cd07404718a4fd"
   },
   {
     "url": "blog/skepticism/2018/08/19/jw/index.html",
-    "revision": "971e5312a23e32343c417a0ebb504640"
+    "revision": "7408cb3b64a97a53f04d24c0a2b23b72"
   },
   {
     "url": "blog/skepticism/2018/08/index.html",
-    "revision": "cb506d2780f9fcda96d262878e9239a3"
+    "revision": "4d9b26fa7a259986df1fe332fa726373"
   },
   {
     "url": "blog/skepticism/2018/09/02/allergy/index.html",
-    "revision": "ca78d8fc13c8e4bd152e9d2eabfa9de4"
+    "revision": "542ef3a495948b4b482f099483b1a6a5"
   },
   {
     "url": "blog/skepticism/2018/09/02/catholic/index.html",
-    "revision": "7512c98c33702b1ddbdf49708e72bb9b"
+    "revision": "37234db823cbee799b7d6156e4f09739"
   },
   {
     "url": "blog/skepticism/2018/09/02/index.html",
-    "revision": "f98382229ade6c44237370304d07142a"
+    "revision": "49ae0b713bdb10324ce6e87c59177311"
   },
   {
     "url": "blog/skepticism/2018/09/02/jw/index.html",
-    "revision": "3fea11001723b990afed7738be6bb3df"
+    "revision": "0a562b68cf2b760475591b975944735b"
   },
   {
     "url": "blog/skepticism/2018/09/02/sen/index.html",
-    "revision": "1e76074d14a448662924a1959b72327a"
+    "revision": "a3333167afeddf2340bb846bec8efe8d"
   },
   {
     "url": "blog/skepticism/2018/09/16/1080/index.html",
-    "revision": "6280cf943611765eccc190fe61940b4b"
+    "revision": "57bc3cf2e08f387192b91ba225d48784"
   },
   {
     "url": "blog/skepticism/2018/09/16/church/index.html",
-    "revision": "65c701b0c21de19cc7e4886527137575"
+    "revision": "7afbc2db43c60b4072a3be3a344e89cb"
   },
   {
     "url": "blog/skepticism/2018/09/16/index.html",
-    "revision": "3829c4d4760ba8af5e83ddfab01241ba"
+    "revision": "2a5b97e8e5549d19c4a4037000ca9af3"
   },
   {
     "url": "blog/skepticism/2018/09/16/jones/index.html",
-    "revision": "d2a154f96aff85a4e215b12cb7532da1"
+    "revision": "e67e30b5c3da0b406050d3fcfbbcc986"
   },
   {
     "url": "blog/skepticism/2018/09/16/scammers/index.html",
-    "revision": "d5c28936dab14ad54652cbbfbb9e8834"
+    "revision": "38b9c53c6df6790355ae59a636e120cd"
   },
   {
     "url": "blog/skepticism/2018/09/30/index.html",
-    "revision": "80f76478d4727955f79c67f8dd9716ca"
+    "revision": "5f958b713adf1324511f0b9edca471bb"
   },
   {
     "url": "blog/skepticism/2018/09/30/jw/index.html",
-    "revision": "215fa2c4b5177ce1b2dfeaf6a5b5934e"
+    "revision": "ecd9a2bc52296ac0e3de2e0ff1a6402b"
   },
   {
     "url": "blog/skepticism/2018/09/30/oto/index.html",
-    "revision": "68b72f3c964c9e5d0831dda48a40d912"
+    "revision": "a946ca3dce6d7d70d77272fea73c8140"
   },
   {
     "url": "blog/skepticism/2018/09/30/who/index.html",
-    "revision": "0d48ff835777b6d97e31f43ac709aa93"
+    "revision": "fc31a59c3480b26de0ee8b9ac2c9370b"
   },
   {
     "url": "blog/skepticism/2018/09/index.html",
-    "revision": "8204d4653075d6bd92b367ec044b5731"
+    "revision": "a2da3efd4e5e1801d31c1c3081348d67"
   },
   {
     "url": "blog/skepticism/2018/10/14/hacked/index.html",
-    "revision": "8d822d991d6a822079fb7e866333e28a"
+    "revision": "00a478efdb14c4f4de6591eb77718bf4"
   },
   {
     "url": "blog/skepticism/2018/10/14/index.html",
-    "revision": "6c888f26e59a914c67cf84c9b0c31bdd"
+    "revision": "c26a716236da92ec54d274a8674e77ff"
   },
   {
     "url": "blog/skepticism/2018/10/14/kangen/index.html",
-    "revision": "a7194c9a6641cfe690f94f7b31ab6c85"
+    "revision": "a364b1d54ea9e33e43d04cc1f1b2f6d7"
   },
   {
     "url": "blog/skepticism/2018/10/14/pakistan/index.html",
-    "revision": "baa7fe9cac0cdf8ded6b449b9cd77c5b"
+    "revision": "815649f446679a62c062552568b6d2c0"
   },
   {
     "url": "blog/skepticism/2018/10/14/sarah/index.html",
-    "revision": "890ef4d8c2e36b730e724615c0f92a87"
+    "revision": "08f4907cb46c4e56c350bb8adefdde6c"
   },
   {
     "url": "blog/skepticism/2018/10/28/blasphemy/index.html",
-    "revision": "e70c45975327fc23e47e63ee85986659"
+    "revision": "83596cb1de0d710759a5b7eaba10b0f3"
   },
   {
     "url": "blog/skepticism/2018/10/28/hrv/index.html",
-    "revision": "79b3e5ffd066bd725e1a90d333f00529"
+    "revision": "8a653c49fde380685e5f400d0f37ec48"
   },
   {
     "url": "blog/skepticism/2018/10/28/index.html",
-    "revision": "f1ef57619f7e4136ecef229a4d049cf1"
+    "revision": "df953a180175f12f9889b4973cd5732e"
   },
   {
     "url": "blog/skepticism/2018/10/28/jesus/index.html",
-    "revision": "fece08098654d9465a376e72e0faa2e1"
+    "revision": "986cf446d5d2981a7c9903d0728a0aa5"
   },
   {
     "url": "blog/skepticism/2018/10/28/natural/index.html",
-    "revision": "7a7ee27d5aaa1de70e75d31dd21aaad3"
+    "revision": "2793cada8e0320ea15ffd38f6d1436ae"
   },
   {
     "url": "blog/skepticism/2018/10/index.html",
-    "revision": "dc5eb7264ca192b7e038e5a4e57b2b99"
+    "revision": "6115bfc8cf8b62d5ec1c85c72da9d31f"
   },
   {
     "url": "blog/skepticism/2018/11/04/bibi/index.html",
-    "revision": "609c3e9316d44ed1f0b968478519ccd8"
+    "revision": "a62f1aa564aaaeab684cacd70777fe78"
   },
   {
     "url": "blog/skepticism/2018/11/04/index.html",
-    "revision": "5f59fb68872d65d8afe14481ac59e280"
+    "revision": "09145b2bb93dbcbf6f265db33d628cc3"
   },
   {
     "url": "blog/skepticism/2018/11/04/jesus/index.html",
-    "revision": "21d79e301f1a13fb95021915bc26d7ae"
+    "revision": "9f61723a83204b4cb097b4e49c0103a8"
   },
   {
     "url": "blog/skepticism/2018/11/04/obdii/index.html",
-    "revision": "5f0e3a90d125f98d2b892ee49126abe6"
+    "revision": "a3c6001013678c1590d2f05b883f3747"
   },
   {
     "url": "blog/skepticism/2018/11/04/sleepdrops/index.html",
-    "revision": "16ac6ab55afb16035ad24b5538a26035"
+    "revision": "8ac8ad05adbd6c3ec63567fd5d2890e6"
   },
   {
     "url": "blog/skepticism/2018/11/index.html",
-    "revision": "96f70cd0d48ce517185a2ae9fe0b2d7e"
+    "revision": "461f0b7a049ada584c2a244c34ca64a6"
   },
   {
     "url": "blog/skepticism/2018/12/02/ark/index.html",
-    "revision": "b665e5ed8300798677871a18ee97cc5b"
+    "revision": "ea1f5cb6f67bf760ad40f7aeca6d465c"
   },
   {
     "url": "blog/skepticism/2018/12/02/green/index.html",
-    "revision": "cb07e91fbeba98876a2d10a7ccaf2cd2"
+    "revision": "b2ccceb034c3530b86bbeb390ea52943"
   },
   {
     "url": "blog/skepticism/2018/12/02/index.html",
-    "revision": "7740f02e9bbde8307b02e36fb4c30e55"
+    "revision": "9ca46ff5af49b141e2e4b837b3debdd6"
   },
   {
     "url": "blog/skepticism/2018/12/02/ri/index.html",
-    "revision": "13e0a37f4be660d30487bddbaa89377c"
+    "revision": "b52e571ba18fb6a3e2e449c17ac36821"
   },
   {
     "url": "blog/skepticism/2018/12/16/blasphemy/index.html",
-    "revision": "fa1fed2ff092d0d707217f792b7f4ad8"
+    "revision": "52f76e8fcd401ebc9ebb62e83640cc65"
   },
   {
     "url": "blog/skepticism/2018/12/16/index.html",
-    "revision": "01009241e1136c0c29799e6c487f1140"
+    "revision": "f248d74ad4fc68ca7c42c934ca53bfa9"
   },
   {
     "url": "blog/skepticism/2018/12/16/sleepdrops/index.html",
-    "revision": "ce24a9f86fdf092c61390d04220ef819"
+    "revision": "4474cf948d18a571eb0ab184821ab8bc"
   },
   {
     "url": "blog/skepticism/2018/12/16/tekiri/index.html",
-    "revision": "95c24da55f3055b4f758c408c0c3a476"
+    "revision": "5195d593b70d5ed5b9f722260a0f79a9"
   },
   {
     "url": "blog/skepticism/2018/12/index.html",
-    "revision": "4f8178d6a8e6b8740b5f5970f7bbe2db"
+    "revision": "f102971288cc43a16c2333ffb3919777"
   },
   {
     "url": "blog/skepticism/2018/index.html",
-    "revision": "dd0c315991de7620e4928f2c30418516"
+    "revision": "7646981248b9d439cd343b3177709f61"
   },
   {
     "url": "blog/skepticism/index.html",
-    "revision": "e63449076fa9d58dae86c82c3f64f6ad"
+    "revision": "67baec69bfbaa17ef6b076591aed9aeb"
   },
   {
     "url": "blog/tag/index.html",
@@ -5549,7 +5549,7 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "390f40ce69a7c5cc141699bb76a78e9b"
+    "revision": "48c799297e382b5520e2fd8aa3a101ac"
   },
   {
     "url": "cv/cover/index.html",
@@ -5565,7 +5565,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "82409f64c21f64936581df06f42e0103"
+    "revision": "d7635eadf75fb108041cf2501ed7c3ad"
   },
   {
     "url": "media/images/blog.jpg",
@@ -7045,11 +7045,11 @@ self.__precacheManifest = [
   },
   {
     "url": "media/index.html",
-    "revision": "343f551783998287cfb02a2179f5bc8c"
+    "revision": "f3ebc433ff94f88b75b1ed1a340d5fb5"
   },
   {
     "url": "media/me/index.html",
-    "revision": "45fc2a8f68259db1f30b75d70277f37e"
+    "revision": "925a9127407abd5d0dcc123b9a0a59c6"
   },
   {
     "url": "pages/first/image1.gif",
@@ -7081,23 +7081,23 @@ self.__precacheManifest = [
   },
   {
     "url": "status/facebook/index.html",
-    "revision": "7f99888b1c6585693d97e958193fe1c7"
+    "revision": "c72a98a3d15f8764215bc2b72be634a8"
   },
   {
     "url": "status/index.html",
-    "revision": "5b9055d3d6afc341247da0924b0e62c8"
+    "revision": "ce051aa3a05dc93fffb93a9f432bef2b"
   },
   {
     "url": "status/steam/index.html",
-    "revision": "21629bba749886c0790996803e7de96a"
+    "revision": "c4ec38e5d208046fc3818a7b0eec3ff6"
   },
   {
     "url": "status/twitter/index.html",
-    "revision": "70831ea988c873f69a0d1885b740fa56"
+    "revision": "849c0bb4abb3f55b4043f6c9e5ea5ea9"
   },
   {
     "url": "status/wikipedia/index.html",
-    "revision": "40092a2404ef9253558e5432cf014ee5"
+    "revision": "36280f01b8db5434c8ab01cb37cfc733"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

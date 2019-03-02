@@ -1,5 +1,6 @@
 ---
 title: Skeptical Thoughts with Mark Honeychurch
+layout: Post
 ---
 
 I've been very fortunate to have been allowed to talk on the radio for the last few years, on the topic of skepticism. Anything and everything has been fair game, and I've tried to mix a skeptical critique of news stories with some field work - going out and visiting various weird and wonderful places and groups and talking about my experiences.

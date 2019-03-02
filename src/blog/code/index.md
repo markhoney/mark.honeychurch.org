@@ -1,5 +1,6 @@
 ---
 title: Code I've written
+layout: Post
 ---
 
 Over the years I've written some bad code, and some okay code. But one constant is that I've always enjoyed writing code, and always enjoyed the challenge of learning new languages and libraries.

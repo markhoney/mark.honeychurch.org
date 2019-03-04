@@ -26,5 +26,9 @@ thumbs.db
 # Large Media
 src/.vuepress/lfs
 
+# Lock files
+package-lock.json
+yarn.lock
+
 # Local files
 _posts

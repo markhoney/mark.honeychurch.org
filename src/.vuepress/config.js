@@ -143,6 +143,7 @@ module.exports = {
 		'minimal-analytics': {
 			ga: 'UA-45273295-3'
 		},
+		'@vuepress/container': {},
 		'@vuepress/medium-zoom': {},
 		'@vuepress/pagination': {},
 		'@vuepress/register-components': {},

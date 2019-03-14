@@ -28,14 +28,14 @@ I have a wide range of professional expertise, with an extensive hardware and so
 
 ### Development
 
-| Languages  |  Frameworks  | Databases | Libraries |
-| :--------: | :----------: | :-------: | :-------: |
-| JavaScript |   Express    |   MSSQL   |  jQuery   |
-|   Python   |     Vue      |   MySQL   | Socket.IO |
-|    PHP     | NativeScript |  MongoDB  |   Axios   |
-|   Swift    |   Vuepress   |   NeDB    |    D3     |
-|   HTML5    |     Nuxt     |   Loki    | Bootstrap |
-|    CSS3    |    Django    |           |           |
+| Languages  |  Frameworks  | Databases | Libraries    |
+| :--------: | :----------: | :-------: | :----------: |
+| JavaScript |   Express    |   MSSQL   |  jQuery      |
+|   Python   |     Vue      |   MySQL   | Socket.IO    |
+|    PHP     | NativeScript |  MongoDB  |   Axios      |
+|   Swift    |   Vuepress   |   NeDB    |    D3        |
+|   HTML5    |     Nuxt     |   Loki    | Bootstrap    |
+|    CSS3    |    Django    |           | FullCalendar |
 
 ### Infrastructure
 

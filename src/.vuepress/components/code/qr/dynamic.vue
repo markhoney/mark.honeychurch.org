@@ -14,7 +14,11 @@
 </template>
 
 <script>
+	//import {qriously} from 'vue-qriously'
 	export default {
+		/*components: {
+			qriously
+		},*/
 		data() {
 			return {
 				text: "https://mark.honeychurch.org/",

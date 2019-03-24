@@ -1,10 +1,10 @@
 <template>
-  <object :data="pdf" width="100%" height="800px" />
+	<object :data="pdf" width="100%" height="800px" />
 </template>
 
 
 <script>
-  export default {
-    props: ["pdf"]
-  };
+	export default {
+		props: ["pdf"]
+	};
 </script>

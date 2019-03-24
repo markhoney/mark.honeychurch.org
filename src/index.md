@@ -11,4 +11,4 @@
 layout: Page
 ---
 
-<template-page-home />
+<page-home />

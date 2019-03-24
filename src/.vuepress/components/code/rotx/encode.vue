@@ -10,36 +10,36 @@
 </template>
 
 <script>
-  const rotx = require("./rotx");
-  export default {
-    data() {
-      return {
-        plain: "",
-        rot: 13
-      };
-    },
-    computed: {
-      cypher() {
-        return rotx.rot(this.plain, this.rot);
-      }
-    }
-  };
+	const rotx = require("./rotx");
+	export default {
+		data() {
+			return {
+				plain: "",
+				rot: 13
+			};
+		},
+		computed: {
+			cypher() {
+				return rotx.rot(this.plain, this.rot);
+			}
+		}
+	};
 </script>
 
 <style scoped>
-  form {
-    margin-top: 4em;
-  }
+	form {
+		margin-top: 4em;
+	}
 
-  #rot {
-    margin-bottom: 2em;
-    display: block;
-    padding: 0.5em;
-  }
+	#rot {
+		margin-bottom: 2em;
+		display: block;
+		padding: 0.5em;
+	}
 
-  #cypher,
-  #plain {
-    width: 40%;
-    height: 5em;
-  }
+	#cypher,
+	#plain {
+		width: 40%;
+		height: 5em;
+	}
 </style>

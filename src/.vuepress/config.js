@@ -154,6 +154,11 @@ module.exports = {
 				buttonText: "Refresh"
 			}
 		},
+		'serve': {},
+		/*'@vuepress/clean-urls': {
+			normalSuffix: '',
+			indexSuffix: '',
+		},*/
 		'@vuepress/search': {
 			searchMaxSuggestions: 10
 		},
@@ -174,7 +179,7 @@ module.exports = {
 					twitter: '@markhoney'
 				}
 			},
-			image: $page => '/media/images' + ($page.path.startsWith('/blog/skepticism/') ? ['', $page.path.split('/')[1], $page.path.split('/')[2], ($page.frontmatter.tags ? $page.frontmatter.tags[0].toString().toLowerCase() : 'thoughts')].join('/') : ($page.path.endsWith('/') ? $page.path.slice(0, -1) : $page.path.slice(0, -5))) + '.jpg',
+			image: $page => '/media/images' + ($page.path.startsWith('/blog/skepticism/') ? ['', $page.path.split('/')[1], $page.path.split('/')[2], ($page.frontmatter.tags ? $page.frontmatter.tags[0].toString().toLowerCase() : 'thoughts')].join('/') : ($page.path.endsWith('/') ? $page.path.slice(0, -1) : $page.path)) + '.jpg',
 		},
 		'tabs': {}
 	}

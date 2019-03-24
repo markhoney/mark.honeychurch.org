@@ -1,18 +1,14 @@
 import VueQriously from 'vue-qriously';
-//import VueHead from 'vue-head';
-//import Meta from 'vue-meta';
-import VueGoogleCharts from 'vue-google-charts';
-
+import Buefy from 'buefy';
+import 'buefy/dist/buefy.css';
 export default ({
 	Vue,
-	options,
+	/*options,
 	router,
-	siteData
+	siteData*/
 }) => {
-	//Vue.use(Meta);
+	Vue.use(Buefy);
 	if (typeof process === 'undefined') { // process is undefined in a browser
-		//Vue.use(VueHead);
 		Vue.use(VueQriously);
-		Vue.use(VueGoogleCharts);
 	}
 };

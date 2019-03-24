@@ -147,11 +147,11 @@
 				this.status = "Pause";
 			},
 			loop: function() {
-        setTimeout(() => {
+				setTimeout(() => {
 					this.station = Math.floor(Math.random() * this.number);
 					if (this.status == 'Pause') this.loop();
-        }, 10000 / this.rate);
-    	}
+				}, 10000 / this.rate);
+			}
 		},
 		watch: {
 			station: function(id, old) {

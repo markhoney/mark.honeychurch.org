@@ -19,10 +19,10 @@
 				tone: 440,
 				volume: 50,
 				options: [
-					{ text: 'Sine', value: 'sine' },
-					{ text: 'Square', value: 'square' },
-					{ text: 'Sawtooth', value: 'sawtooth' },
-					{ text: 'Triangle', value: 'triangle' },
+					{text: 'Sine', value: 'sine'},
+					{text: 'Square', value: 'square'},
+					{text: 'Sawtooth', value: 'sawtooth'},
+					{text: 'Triangle', value: 'triangle'},
 				],
 				type: 'sine',
 			}

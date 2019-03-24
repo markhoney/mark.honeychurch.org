@@ -1,1 +1,1 @@
-<template-list-category />
+<list-category />

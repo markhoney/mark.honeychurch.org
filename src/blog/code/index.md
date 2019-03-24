@@ -11,4 +11,4 @@ Since then I've learned, to varying degrees of competence (and in roughly chrono
 
 Here are some of the projects I've worked on.
 
-<template-list-section :excerpt="true" :taxonomy="true" />
+<list-section :excerpt="true" :taxonomy="true" />

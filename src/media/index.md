@@ -16,7 +16,7 @@ If you've already talked to me and you're looking for a high quality photo to us
 
 As a part of the roles I've taken on working for charities such as the [NZ Skeptics](https://skeptics.nz), [Humanist NZ](https://humanist.nz) and the [Society for Science Based Healthcare](http://sbh.nz), I'm occasionally asked for my opinion on various topics. Sometimes a project I've been working on also makes it into the media. Here are the times that I've been mentioned in the media that I can find online:
 
-<template-section-media />
+<page-media />
 
 ### TV
 
@@ -48,7 +48,7 @@ As a part of the roles I've taken on working for charities such as the [NZ Skept
 
 I've spoken regularly on RadioLive for the past few years, as part of the Skeptical Thoughts segment of Graeme Hill's Weekend Variety Wireless show. Here's a list of my appearances:
 
-<template-section-radiolive />
+<page-radiolive />
 
 ### Podcasts
 

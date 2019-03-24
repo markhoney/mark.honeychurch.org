@@ -1,1 +1,1 @@
-<template-list-tag />
+<list-tag />

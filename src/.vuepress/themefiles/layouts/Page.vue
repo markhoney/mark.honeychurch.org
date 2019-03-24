@@ -8,7 +8,7 @@
 
 <script>
 import Layout from './Layout.vue';
-import pagebottom from '../../themefiles/components/section/footer.vue';
+import pagebottom from '..//components/section/footer.vue';
 export default {
 	components: { Layout, pagebottom }
 };

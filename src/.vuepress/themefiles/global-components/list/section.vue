@@ -33,7 +33,7 @@
 
 <script>
 //import sections from "./sections.json";
-import posts from '../../../themefiles/components/list/posts.vue';
+import posts from '../..//components/list/posts.vue';
 export default {
 	components: { posts },
 	props: {

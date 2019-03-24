@@ -16,8 +16,8 @@
 
 <script>
 import Layout from './Layout.vue';
-import pagetop from '../../themefiles/components/section/header.vue';
-import pagebottom from '../../themefiles/components/section/footer.vue';
+import pagetop from '..//components/section/header.vue';
+import pagebottom from '..//components/section/footer.vue';
 export default {
 	components: { Layout, pagetop, pagebottom }
 };

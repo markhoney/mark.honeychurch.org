@@ -9,4 +9,4 @@ Here are my notes from the show, which I tended to write a few hours before I we
 
 ![Radio Live](./radiolive.jpg)
 
-<template-list-section :dates="true" :date="true" :excerpt="false" :taxonomy="false" />
+<list-section :dates="true" :date="true" :excerpt="false" :taxonomy="false" />

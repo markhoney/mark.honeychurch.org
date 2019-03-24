@@ -34,7 +34,7 @@
 <script>
 //import months from "./months.json";
 import radio from './radio.json';
-import posts from '../../../themefiles/list/section.vue';
+import posts from '../list/section.vue';
 export default {
 	components: { posts },
 	data() {
@@ -47,21 +47,6 @@ export default {
 		segments: function() {
 			var components = this.$page.path.split('/');
 			var segments = { show: true };
-			/*if (components.length == 7) {
-					segments.period = 'week';
-					segments.date = [components[3], components[4], components[5]].join("-");
-					segments.day = ('0' + components[5]).slice(-2);
-					segments.month = components[4];
-					segments.show = false;
-				} else if (components.length == 6) {
-					segments.period = 'month';
-					segments.date = [components[3], components[4]].join("-");
-					segments.month = components[4];
-				} else if (components.length == 5) {
-					segments.period = 'year';
-					segments.date = components[3];
-				}
-				segments.year = components[3];*/
 			if (components.length >= 5) {
 				segments.period = 'year';
 				segments.date = components[3];

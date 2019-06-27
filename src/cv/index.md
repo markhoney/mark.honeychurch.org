@@ -35,7 +35,7 @@ I have a wide range of professional expertise, with an extensive hardware and so
 |    PHP     | NativeScript |  MongoDB  |   Axios      |
 |   Swift    |   Vuepress   |   NeDB    |    D3        |
 |   HTML5    |     Nuxt     |   Loki    | Bootstrap    |
-|    CSS3    |    Django    |           | FullCalendar |
+|    CSS3    |   Vue Cli    |           | FullCalendar |
 
 ### Infrastructure
 

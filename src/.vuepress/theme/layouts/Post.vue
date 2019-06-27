@@ -15,10 +15,10 @@
 </template>
 
 <script>
-import Layout from './Layout.vue';
-import pagetop from '..//components/section/header.vue';
-import pagebottom from '..//components/section/footer.vue';
+import Layout from '../../../../node_modules/@vuepress/theme-default/layouts/Layout.vue';
+import pagetop from '../components/section/header.vue';
+import pagebottom from '../components/section/footer.vue';
 export default {
-	components: { Layout, pagetop, pagebottom }
+	components: {Layout, pagetop, pagebottom}
 };
 </script>

@@ -126,9 +126,11 @@ module.exports = {
 		}
 	},*/
 	configureWebpack: config => { // https://github.com/vuejs/vuepress/blob/master/packages/%40vuepress/core/lib/webpack/createBaseConfig.js
-		//console.log(config.module.rules[7].oneOf[0].use);
-		//config.plugins.find(plugin => plugin.definitions).options.filename = 'assets/css/styles.css';
-		//config.plugins.find(plugin => plugin.definitions).options.chunkFilename = 'assets/css/[id].styles.css';
+		const css = config.plugins.find(plugin => plugin.constructor.name == 'MiniCssExtractPlugin');
+		if (css) {
+			css.options.filename = 'assets/css/styles.css';
+			css.options.chunkFilename = 'assets/css/[id].styles.css';
+		}
 		config.output.filename = 'assets/js/[name].js';
 		config.module.rules.find(rule => regexSame(rule.test, /\.(png|jpe?g|gif)(\?.*)?$/)).use.find(use => use.loader == 'url-loader').options.name = 'assets/img/[name].[ext]';
 		config.module.rules.find(rule => regexSame(rule.test, /\.(svg)(\?.*)?$/)).use.find(use => use.loader == 'file-loader').options.name = 'assets/img/[name].[ext]';

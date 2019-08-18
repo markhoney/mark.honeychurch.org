@@ -1,26 +1,26 @@
 <template>
 	<form>
-		<label for="rotx">Rotation</label>
-		<input readonly id="rotx" v-model="rot">
+		<label for="caesar">Rotation</label>
+		<input readonly id="caesar" v-model="rotation">
 		<textarea id="cypher" v-model="cypher" />
 		<textarea id="plain" v-model="plain" readonly />
 	</form>
 </template>
 
 <script>
-	const rotx = require("./rotx");
+	const caesar = require("./caesar");
 	export default {
 		data() {
 			return {
-				cypher: ""
+				cypher: "",
 			};
 		},
 		computed: {
-			rot() {
-				return rotx.decrypt(this.cypher);
+			rotation() {
+				return caesar.rotation(this.cypher);
 			},
 			plain() {
-				return rotx.rot(this.cypher, 26 - this.rot);
+				return caesar.rotate(this.cypher, 26 - this.rotation);
 			}
 		}
 	};
@@ -31,7 +31,7 @@
 		margin-top: 4em;
 	}
 
-	#rotx {
+	#caesar {
 		display: block;
 		width: 2.5em;
 		padding: 0.5em;

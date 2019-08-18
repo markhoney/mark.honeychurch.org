@@ -1,5 +1,5 @@
 ---
-title: ROTx
+title: Decrypting encoded text
 date: 2008-03-16
 layout: Post
 categories:
@@ -8,11 +8,16 @@ categories:
 tags:
   - ROT13
   - ROTx
+  - Caesar
+  - Substitution
+  - Cypher
 ---
 
 I became interested in cryptography a few years ago, and have been slowly working my way through Bruce Schneier's [Applied Cryptography](http://www.schneier.com/book-applied.html). From this, I became interested in simple forced decryption (cracking) of cyphers, and directed my attention to the ROT13 algorithm.
 
 <!-- more -->
+
+## ROT13
 
 ROT13 is one of the simplest encryption techniques around, and most kids learn it as a fun way to obscure text. Basically, the idea is to rotate each letter by 13 characters, therefore a 'A' becomes 'A' + 13, which is 'N'. Similarly, 'B' becomes 'O', 'C' becomes 'P' and so on. When we get to the second half of the alphabet, the letters wrap round, so 'M' becomes 'Z', 'N' becomes 'A', etc. The easiest way to use this technique is with a substitution table, as below:
 
@@ -24,9 +29,11 @@ N O P Q R S T U V W X Y Z A B C D E F G H I J K L M
 
 To use the table, for each character that needs to be changed find the character in the upper row and replace it with the corresponding character in the bottom row. Of course, with a cypher this simple some tricks are employed to maintain consistency. Firstly, punctuation and spaces are not encrypted. Secondly, lower and upper case letters are both treated in the same way. Implementing these ideas in code is fairly simple.
 
-The idea I came up with was that the rotation of 13 characters for ROT13 can be changed with any integer from 1 to 25, and I call this ROTx. The challenge is to decypher text that has been encrypted with an unknown integer x.
+## Caesar Cypher
 
-The method for decryption is fairly simple, and involves comparing the letter frequency of our encrypted text with known average letter frequencies for the English Language. This has the limitation that it'll only work reliably for English text, but letter frequency tables for different languages can be substituted depending on the language the text is suspected to have been written in.
+This rotation of 13 characters for ROT13 can be changed using any integer from 1 to 25, which I naively called ROTx (the real name for this cypher is a Caesar cypher). The challenge I condesidered is to decypher text that has been encrypted with rotation of an unknown integer x.
+
+The method I came up with for decryption is fairly simple, and involves comparing the letter frequency of our encrypted text with known average letter frequencies for the English Language. This has the limitation that it'll only work reliably for English text, but letter frequency tables for different languages can be substituted depending on the language the text is suspected to have been written in.
 
 | Letter | Frequency (%) |
 | ------ | ------------- |
@@ -63,19 +70,19 @@ Of course clever things could be done with dictionary lookups, first/last letter
 
 ## Encryption
 
-Type some text in the left box, and choose your rotation amount. Remember to type something in English - gobbledygook won't be decypherable.
+Type some text in the left text box, and choose your rotation amount. Remember to type something in English - gobbledygook won't be decypherable.
 
-The encrypted text will show in the right box. Copy this text.
+The encrypted text will show in the right text box. Copy this text.
 
-<code-rotx-encode />
+<code-cyphers-caesar_encode />
 
 ## Decryption
 
 Paste the text from above into the left box below. An algorithm will attempt to use letter frequencies to calculate what rotation was used to encrypt the text, and will show both the rotation and the original text.
 
-The code used for the boxes below is not connected to the boxes above in any way, so no cheating is going on! (If you don't believe me, [go here](http://theblob.org/rot.cgi) to create some rotated text and paste it into the bottom left box for decoding, without using the top encoding boxes)
+The code used for the text boxes below is not connected to the text boxes above in any way, so no cheating is going on! (If you don't believe me, [go here](http://theblob.org/rot.cgi) to create some rotated text and paste it into the bottom left box for decoding, without using the top encoding text boxes)
 
-<code-rotx-decode />
+<code-cyphers-caesar_decode />
 
 Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
@@ -87,7 +94,7 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
 
-<<< ./src/.vuepress/components/code/rotx/encode.vue
+<<< ./src/.vuepress/components/code/cyphers/caesar_encode.vue
 
 :::
 
@@ -95,15 +102,23 @@ This vue component uses a computed property to calculate the encrypted text, giv
 
 This Vue component computes the most likely rotation of a piece of encrypted text, and then displays that rotation. It also computes and displays the plain text, using the computed rotation value.
 
-<<< ./src/.vuepress/components/code/rotx/decode.vue
+<<< ./src/.vuepress/components/code/cyphers/caesar_decode.vue
 
 :::
 
 ::: tab rot.js
 
-This function was written by me as part of a [CodeWars Kata](https://www.codewars.com/kata/530e15517bc88ac656000716), and performs both the rotation and decryption.
+This function is based on one written by me as part of a [CodeWars Kata](https://www.codewars.com/kata/530e15517bc88ac656000716), and performs both the rotation and decryption.
 
-<<< ./src/.vuepress/components/code/rotx/rotx.js
+<<< ./src/.vuepress/components/code/cyphers/caesar.js
+
+:::
+
+::: tab frequencies.json
+
+This is the data set of letter frequencies in English that I use for decryption.
+
+<<< ./src/.vuepress/components/code/cyphers/caesar.js
 
 :::
 
@@ -116,3 +131,9 @@ Out of interest, here's the original code I wrote in PHP. It took me an hour or 
 :::
 
 ::::
+
+## Substitution Cypher
+
+Taking this idea further, a piece of text could be encoded by randomly switching letters, rather than just shunting the alphabet. This would be harder to decrypt than a Caesar cypher, but with enough text we should still be able to decode a message by calculating letter frequencies and comparing them to our reference frequencies.
+
+<!--<code-cyphers-substitution />-->

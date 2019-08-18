@@ -151,8 +151,10 @@ module.exports = {
 			ga: 'UA-45273295-3'
 		},
 		'container': {},
+		'reading-progress': {},
+		'@silvanite/tailwind': {},
 		'@vuepress/medium-zoom': {},
-		'@vuepress/pagination': {},
+		//'@vuepress/pagination': {},
 		'@vuepress/register-components': {},
 		'@vuepress/pwa': {
 			serviceWorker: true,

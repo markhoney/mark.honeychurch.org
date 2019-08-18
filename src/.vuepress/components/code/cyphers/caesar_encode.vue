@@ -1,7 +1,7 @@
 <template>
 	<form>
-		<label for="rot">Rotation</label>
-		<select id="rot" v-model="rot">
+		<label for="caesar">Rotation</label>
+		<select id="caesar" v-model="rotation">
 			<option v-for="n in 25" :value="n">{{n}}</option>
 		</select>
 		<textarea id="plain" v-model="plain" />
@@ -10,17 +10,17 @@
 </template>
 
 <script>
-	const rotx = require("./rotx");
+	const caesar = require("./caesar");
 	export default {
 		data() {
 			return {
 				plain: "",
-				rot: 13
+				rotation: 13,
 			};
 		},
 		computed: {
 			cypher() {
-				return rotx.rot(this.plain, this.rot);
+				return caesar.rotate(this.plain, this.rotation);
 			}
 		}
 	};
@@ -31,7 +31,7 @@
 		margin-top: 4em;
 	}
 
-	#rot {
+	#caesar {
 		margin-bottom: 2em;
 		display: block;
 		padding: 0.5em;

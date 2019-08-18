@@ -1,4 +1,4 @@
-exports.rot = (message, rotation) => {
+exports.rotate = (message, rotation) => {
 	var rot = "";
 	for (i = 0; i < message.length; i++) {
 		if (64 < message.charCodeAt(i) && message.charCodeAt(i) < 91) {
@@ -12,7 +12,7 @@ exports.rot = (message, rotation) => {
 	return rot;
 };
 
-exports.decrypt = (text) => {
+exports.rotation = (text) => {
 	var letters = {};
 	for (var j = 0; j < 26; j++) {
 		letters[String.fromCharCode(97 + j)] = 0;
@@ -21,13 +21,9 @@ exports.decrypt = (text) => {
 	var deviations = [];
 	for (var i = 0; i < 26; i++) {
 		var freq = Object.assign({}, letters);
-		exports.rot(text, i)
-			.split("")
-			.forEach(function(s) {
-				if (s.toLowerCase() in freq) {
-					freq[s.toLowerCase()]++;
-				}
-			});
+		exports.rotate(text, i).split("").forEach(function(s) {
+			if (s.toLowerCase() in freq) freq[s.toLowerCase()]++;
+		});
 		var total = 0;
 		for (var letter in freq) {
 			total += freq[letter];

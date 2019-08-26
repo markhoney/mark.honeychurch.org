@@ -98,6 +98,9 @@ module.exports = {
 			content: csp
 		}]*/
 	],
+	markdown: {
+		//lineNumbers: true
+	},
 	extendMarkdown(md) { // https://prismjs.com/#languages-list
 		md.use(require('markdown-it-video'))
 			.use(require('markdown-it-fontawesome'))

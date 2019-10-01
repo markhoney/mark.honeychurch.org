@@ -9,7 +9,11 @@ tags:
   - Googly
 ---
 
-There's a lot of fun to be had with sticky googly eyes. Abi, Mia and I recently put googly eyes around the house as a surprise:
+There's a lot of fun to be had with sticky googly eyes.
+
+<!-- more -->
+
+Abi, Mia and I recently put googly eyes around the house as a surprise for the rest of the family:
 
 ![Underpants](./IMG_2880.jpg)
 

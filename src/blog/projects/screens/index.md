@@ -1,5 +1,6 @@
 ---
 title: Six screen desktop
+date: 2012-05-16
 layout: Post
 categories:
   - Build

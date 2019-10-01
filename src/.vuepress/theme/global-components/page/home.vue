@@ -37,7 +37,7 @@
 /*if (process && process.browser) {
   var VueTyper = require('vue-typer').VueTyper;
 }*/
-import recent from '../..//components/list/recent.vue';
+import recent from '../../components/list/recent.vue';
 export default {
 	components: {recent}, // VueTyper
 };

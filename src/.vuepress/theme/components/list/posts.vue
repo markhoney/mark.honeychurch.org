@@ -36,7 +36,7 @@
 import taxonomy from '../post/taxonomy.vue';
 //import post from './post.vue';
 export default {
-	components: { taxonomy }, // , post
+	components: {taxonomy}, // , post
 	props: {
 		posts: {
 			type: Array
@@ -75,12 +75,12 @@ export default {
 </script>
 
 <style scoped>
-li {
-	list-style-type: square;
-}
-li.date {
-	list-style-type: none;
-	text-align: center;
-	margin-top: 4em;
-}
+	li {
+		list-style-type: square;
+	}
+	li.date {
+		list-style-type: none;
+		text-align: center;
+		margin-top: 4em;
+	}
 </style>

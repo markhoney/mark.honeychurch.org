@@ -10,6 +10,8 @@ tags:
 
 I've purchased a few knock-off Lego Star Wars kits from AliExpress over the last few years. They're cheap, and fun to build.
 
+<!-- more -->
+
 ## T-16 Skyhopper
 
 ![T-16 Skyhopper](./IMG_3560.jpg)

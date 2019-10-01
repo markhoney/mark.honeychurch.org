@@ -33,9 +33,9 @@
 
 <script>
 //import sections from "./sections.json";
-import posts from '../..//components/list/posts.vue';
+import posts from '../../components/list/posts.vue';
 export default {
-	components: { posts },
+	components: {posts},
 	props: {
 		date: {
 			type: Boolean,

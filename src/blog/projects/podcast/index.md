@@ -1,5 +1,6 @@
 ---
 title: Podcast Hardware
+date: 2014-07-13
 layout: Post
 categories:
   - Build

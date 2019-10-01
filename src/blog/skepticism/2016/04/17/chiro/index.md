@@ -34,7 +34,7 @@ The Chiropractic Board has reminded chiropractors to not make misleading claims:
 
 [http://www.chiropracticboard.org.nz/Portals/12/Board%20News%20April%202016.pdf](http://www.chiropracticboard.org.nz/Portals/12/Board%20News%20April%202016.pdf)
 
-<iframe src="/media/docs/skepticism/Board%20News%20April%202016.pdf" width="100%" height="600px" />
+<iframe src="/docs/skepticism/Board%20News%20April%202016.pdf" width="100%" height="600px" />
 
 > The Board would like to remind all practitioners that you are personally responsible for ensuring you are abiding by and practising within all Board policies.
 
@@ -48,7 +48,7 @@ We will be revisiting these sites periodically to see if things improve. If not,
 
 Here is the full text of the letter:
 
-> ## [Chronic misleading online advertising by chiropractors](/media/docs/skepticism/Hana-NZMJ-1432-FINAL.pdf)
+> ## [Chronic misleading online advertising by chiropractors](/docs/skepticism/Hana-NZMJ-1432-FINAL.pdf)
 >
 > In March 2016, the Chiropractic Board of Australia—the Australian regulator of chiropractors—published a Statement on advertising relating to unsubstantiated claims made by many Australian chiropractors:
 >

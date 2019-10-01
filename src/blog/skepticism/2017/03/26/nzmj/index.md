@@ -37,7 +37,7 @@ Here's the list of pairs we tested - only for the last one could we not find any
 
 Here is my letter in full:
 
-> ## [Pick a bogus treatment...](/media/docs/skepticism/Honeychurch-FINAL.pdf)
+> ## [Pick a bogus treatment...](/docs/skepticism/Honeychurch-FINAL.pdf)
 >
 > At the Society for Science Based Healthcare, we spend a lot of time looking at dodgy therapeutic claims. Most of these claims are made by practitioners of alternative therapies. A few months ago Mark Hanna, a colleague of mine at SBH, messaged me with a curious thought:
 >

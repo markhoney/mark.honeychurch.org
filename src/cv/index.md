@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# [Curriculum Vitae](/media/docs/MarkHoneychurchCV.pdf)
+# Curriculum Vitae
 
 ## Personal Details
 
@@ -16,11 +16,13 @@ sidebar: auto
 
 **Nationality:** Dual British & New Zealand
 
-**Age:** 43
+**Age:** 44
 
 **Website:** [mark.honeychurch.org](https://mark.honeychurch.org)
 
 **Code:** [git.io/markh](https://git.io/markh)
+
+**CV:** [mark.honeychurch.org/docs/MarkHoneychurchCV.pdf](https://mark.honeychurch.org/docs/MarkHoneychurchCV.pdf)
 
 ## Skills
 
@@ -28,33 +30,32 @@ I have a wide range of professional expertise, with an extensive hardware and so
 
 ### Development
 
-| Languages  |  Frameworks  | Databases | Libraries    |
-| :--------: | :----------: | :-------: | :----------: |
-| JavaScript |   Express    |   MSSQL   |  jQuery      |
-|   Python   |     Vue      |   MySQL   | Socket.IO    |
-|    PHP     | NativeScript |  MongoDB  |   Axios      |
-|   Swift    |   Vuepress   |   NeDB    |    D3        |
-|   HTML5    |     Nuxt     |   Loki    | Bootstrap    |
-|    CSS3    |   Vue Cli    |           | FullCalendar |
+| Languages                                                    |  Frameworks                                   | Databases                                                       | Libraries                                |
+| :----------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------: |
+| [JavaScript](https://en.wikipedia.org/wiki/JavaScript)       | [Express](https://expressjs.com/)             | [MSSQL](https://www.microsoft.com/en-us/sql-server)             | [jQuery](https://jquery.com/)            |
+| [Python](https://www.python.org/)                            | [Vue](https://vuejs.org/)                     | [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/) | [Socket.IO](https://socket.io/)          |
+| [PHP](https://www.php.net/)                                  | [NativeScript](https://www.nativescript.org/) | [MongoDB](https://www.mongodb.com/)                             | [Axios](https://github.com/axios/axios)  |
+| [Swift](https://developer.apple.com/swift/)                  | [Vuepress](https://vuepress.vuejs.org/)       | [NeDB](https://github.com/louischatriot/nedb)                   | [D3](https://d3js.org/)                  |
+| [HTML5](https://en.wikipedia.org/wiki/HTML5)                 | [Nuxt](https://nuxtjs.org/)                   | [Loki](https://techfort.github.io/LokiJS/)                      | [Bootstrap](https://getbootstrap.com/)   |
+| [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) | [Vue Cli](https://cli.vuejs.org/)             |                                                                 | [FullCalendar](https://fullcalendar.io/) |
 
 ### Infrastructure
 
-|       OS       |      VMs       | Services  |
-| :------------: | :------------: | :-------: |
-| Debian/Ubuntu  |     Docker     |  Apache   |
-| Redhat/Amazon  | Docker Compose |   NGINX   |
-|     CentOS     |      AWS       |   Squid   |
-|    OpenBSD     |     Azure      |  Node.js  |
-| Windows Server |                | Mosquitto |
+| OS                                                                                   | VMs                                             | Services                             |
+| :----------------------------------------------------------------------------------: | :---------------------------------------------: | :----------------------------------: |
+| [Debian](https://www.debian.org/)/[Ubuntu](https://ubuntu.com/)                      | [Docker](https://www.docker.com/)/Compose/Swarm | [Apache](https://www.apache.org/)    |
+| [Redhat](https://www.redhat.com/)/[Amazon](https://aws.amazon.com/amazon-linux-ami/) | [AWS](https://aws.amazon.com/)                  | [NGINX](https://www.nginx.com/)      |
+| [CentOS](https://www.centos.org/)                                                    | [Azure](https://azure.microsoft.com/)           | [Squid](http://www.squid-cache.org/) |
+| [OpenBSD](https://www.openbsd.org/)                                                  |                                                 | [Node.js](https://nodejs.org/)       |
+| [Windows Server](https://www.microsoft.com/en-us/cloud-platform/windows-server)      |                                                 | [Mosquitto](https://mosquitto.org/)  |
 
 ### Hardware
 
-| Server |   Storage   | Network |
-| :----: | :---------: | :-----: |
-|   HP   |   NetApp    |  Cisco  |
-|  Dell  | PureStorage |         |
-|  IBM   |   IBM DS    |         |
-|  Sun   |             |         |
+| Server                        | Storage                                     |
+| :---------------------------: | :-----------------------------------------: |
+| [HP](https://www.hpe.com/)    | [NetApp](https://www.netapp.com/)           |
+| [Dell](https://www.dell.com/) | [PureStorage](https://www.purestorage.com/) |
+| [IBM](https://www.ibm.com/)   |                                             |
 
 ## Education
 
@@ -96,7 +97,7 @@ I have a Master's degree in Engineering, and hold a variety of professional cert
 
 ### Hardware Engineer, Software Engineer
 
-![CVLogo](./logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – )
+![CVLogo](./logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
 
 My primary role at Interactive has been in hardware support, providing a first class service to our New Zealand customers. I cover **HP**, **IBM**, **Dell** and **Sun** servers, as well as **Cisco** networking equipment and **NetApp** and **PureStorage** storage hardware. I install and support hardware for many major customers across New Zealand.
 
@@ -227,7 +228,7 @@ Whilst serving my commission I was tasked with training potential Officers at th
 
 ### Charity Work
 
-As Chair (2014-2017) and Committee Member (2013-2014, 2017-) of the [NZ Skeptics](http://skeptics.nz), Co-founder and Secretary of the [Society for Science Based Healthcare](http://sbh.nz) (2013-), President (2014-2015) and Council Member (2013-2014, 2015-) of the [Humanist Society](http://humanist.nz/), Council Member (2016-) of the [NZARH](http://rationalists.nz/), Treasurer (2015-2019) and Board Member (2019-) of Making Sense of Fluoride and Co-founder and Board Member (2013-2018) of [CoderDojo New Zealand](http://coderdojo.nz/), I have spent a lot of my free time protecting the public against untrue claims made by psychics, conspiracy theorists and purveyors of alternative medicine, helping to protect the rights of New Zealanders, and teaching kids how to code. I am no stranger to being in the media, and have the good fortune to have had a regular national radio segment on RadioLive called [Skeptical Thoughts with Mark Honeychurch](https://www.radiolive.co.nz/home/shows/weekend-variety-wireless-with-graeme-hill/skeptical-thoughts.html), where I talk about my skepticism.
+As Chair (2014-2017) and Committee Member (2013-2014, 2017-) of the **[NZ Skeptics](http://skeptics.nz)**, Co-founder and Secretary of the **[Society for Science Based Healthcare](http://sbh.nz)** (2013-), President (2014-2015) and Council Member (2013-2014, 2015-) of the **[Humanist Society](http://humanist.nz/)**, Council Member (2016-) of the **[NZARH](http://rationalists.nz/)** and Treasurer (2015-2019) and Board Member (2019-) of **[Making Sense of Fluoride](http://msof.nz/)**, I have spent much of my free time protecting the public against untrue claims made by psychics, conspiracy theorists and purveyors of alternative medicine, and helping to protect the rights and freedoms of New Zealanders. As Co-founder and Board Member (2013-2018) of **[CoderDojo New Zealand](http://coderdojo.nz/)**, I enjoy teaching local kids how to code. I am no stranger to being in the media, and had the good fortune to have had a regular national radio segment on RadioLive called [Skeptical Thoughts with Mark Honeychurch](https://www.radiolive.co.nz/home/shows/weekend-variety-wireless-with-graeme-hill/skeptical-thoughts.html) (2015-2018), where I talked about skepticism.
 
 ### Travel
 

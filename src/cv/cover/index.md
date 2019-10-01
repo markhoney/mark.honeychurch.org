@@ -1,6 +1,6 @@
 # Remember Inigo Montoya
 
-### Hello. My name is Mark Patrick Honeychurch.
+### Hello. My name is Mark Honeychurch.
 
 ### I work in IT. I'd like a job.
 

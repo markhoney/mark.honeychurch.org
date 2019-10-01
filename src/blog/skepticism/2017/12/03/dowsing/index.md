@@ -32,6 +32,6 @@ At our conference, I showed people how to use the website FYI.org.nz to submit a
 
 > "Watercare does not use this technique; the company uses sophisticated electronic devices."
 
-<object data="/media/docs/skepticism/SC284EA473917113009570.pdf" width="100%" height="800px" />
+<object data="/docs/skepticism/SC284EA473917113009570.pdf" width="100%" height="800px" />
 
 Next up I'll send the same request to other councils.

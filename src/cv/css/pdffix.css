@@ -2,6 +2,10 @@ a[href]:after {
 	content: ""
 }
 
+a {
+	color: inherit;
+}
+
 img,
 footer {
 	display: none;

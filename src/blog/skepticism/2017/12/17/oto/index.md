@@ -26,11 +26,11 @@ We met with the local head of the group in a pub a few days in advance of the [G
 
 Last night we turned up at 7:15pm - there were about a dozen attendees, and for about half of us it was our first time at an OTO event. We were walked through the participatory parts of the ceremony by the Deacon, learning the Step, the Hailing Sign and the Kneeling in Adoration.
 
-We were then walked in to the building, past an upright coffin to our seats. We each had a [run-sheet for the evening](/media/docs/skepticism/Missal.pdf) on our chairs.
+We were then walked in to the building, past an upright coffin to our seats. We each had a [run-sheet for the evening](/docs/skepticism/Missal.pdf) on our chairs.
 
-<!--<template-embed-pdf src="/media/docs/skepticism/Missal.pdf" />-->
+<!--<template-embed-pdf src="/docs/skepticism/Missal.pdf" />-->
 
-<object data="/media/docs/skepticism/Missal.pdf" width="100%" height="600px" />
+<object data="/docs/skepticism/Missal.pdf" width="100%" height="600px" />
 
 The room was dark, and at the end of the room was an altar draped in red cloth with candles on it. To either side of the altar was a tall column, and a curtain rail between them held two black curtains. Between the coffin and the altar were two tables - a second altar and a font.
 

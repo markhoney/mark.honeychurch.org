@@ -59,7 +59,7 @@ Here's the C++ version of the code, as required by the assignment.
 
 <<< ./src/blog/code/divider/ConsoleApplication1.cpp
 
-This code was written in Visual Studio Community 2017, but also compiles in mingw and produces a 64kB [executable file](/media/programs/divider.executable) (rename this to .exe if you download it) with this command:
+This code was written in Visual Studio Community 2017, but also compiles in mingw and produces a 64kB [executable file](/programs/divider.executable) (rename this to .exe if you download it) with this command:
 
 ```shell
 mingw ConsoleApplication1.cpp -o divider.exe

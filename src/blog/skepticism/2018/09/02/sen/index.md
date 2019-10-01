@@ -16,7 +16,7 @@ There's a lot of confusion about what Religious Instruction (RI) is. Many people
 
 SEN was contacted recently by parents at Khandallah School because of their concerns about the reintroduction of RI. The parents of some of the children at Khandallah School go to an evangelical church in Wellington, Arise Church, and there's been a bit of a rocky history with Religious Instruction being allowed in the school, with the school previously doing a pretty bad job of notifying school parents about the course and its content.
 
-Some of the concerned parents have formed a group, called Keep Khandallah School Secular, where they believe that religion has no place in their kids' school. One of the parents found out recently that, despite promises that any decision making around bringing RI into the school would be open and transparent, the school Board of Trustees was quietly bringing in a new school "[clubs policy](/media/docs/skepticism/ClubsPolicy.pdf)" which contains a paragraph about explicitly allowing religious based groups into the school. Interestingly, I've heard that one of the school Board members is part of the Arise Church leadership team, and has been instrumental in pushing for RI to be allowed at the school.
+Some of the concerned parents have formed a group, called Keep Khandallah School Secular, where they believe that religion has no place in their kids' school. One of the parents found out recently that, despite promises that any decision making around bringing RI into the school would be open and transparent, the school Board of Trustees was quietly bringing in a new school "[clubs policy](/docs/skepticism/ClubsPolicy.pdf)" which contains a paragraph about explicitly allowing religious based groups into the school. Interestingly, I've heard that one of the school Board members is part of the Arise Church leadership team, and has been instrumental in pushing for RI to be allowed at the school.
 
 The concerned parents decided that they needed to let all parents at the school know about this proposed new policy, so that everyone could have their input. However, they were concerned about backlash from other parents. One of the things that RI in schools tends to cause is a fracture among parents. Often in schools there are a few parents who are actively opposed to RI, and those parents are normally made to feel like their views are not welcome. In urban schools such as Khandallah, where there are parents of many different faiths, RI tends to be more divisive, and some of the parents at Khandallah had already received negativity from the Board and other parents because of their view that the school should be respectful of all beliefs, and not just aid the promotion of a single evangelical Christian belief.
 
@@ -57,7 +57,7 @@ We handed out several flyers - an overview of Religious Instruction in schools a
 > - Operate a programme for no more than 30 minutes per week within Khandallah School.
 > - Only run while the school is closed for instruction (e.g. Lunchtime).
 
-<object data="/media/docs/skepticism/ClubsPolicy.pdf" width="100%" height="800px" />
+<object data="/docs/skepticism/ClubsPolicy.pdf" width="100%" height="800px" />
 
 I've been told that when these rules have been enforced in the past, it was by a teacher who sat in on the classes. However, the teacher who volunteered for this is a member of Arise church! Children also reported to their parents that the Arise instructors were evangelising.
 

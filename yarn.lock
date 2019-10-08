@@ -2272,9 +2272,9 @@ browserslist@^4.0.0, browserslist@^4.3.4, browserslist@^4.6.3:
     node-releases "^1.1.29"
 
 buefy@^0.8.2:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.8.4.tgz#0c62d559e63aee8a18876ff90056f9a8b90f686f"
-  integrity sha512-hDUUKbKxQmtYlo/IPH9H+ewEN6KulpDxfNFIPvO5z3ukYqEG29psW6oFbJGisZDEIYGxqE2jMPcBOOjm8LxJVQ==
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.8.5.tgz#a91291cd86355df06ea35174000f948dad2bd212"
+  integrity sha512-yGQUhIsZWTodCx1rpfDTA32v5OjILpDIDAP+X6KoE6du3F3EZwJ/k5aT8D6Ba6AxNzVdDa2M7f0hzMddLbm38A==
   dependencies:
     bulma "0.7.5"
 
@@ -3460,9 +3460,9 @@ deepmerge@^1.5.2:
   integrity sha512-95k0GDqvBjZavkuvzx/YqVLv/6YYa17fz6ILMSf7neqQITCPbnfEnQvEgMPNjH4kgobe7+WIL0yJEHku+H3qtQ==
 
 deepmerge@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.0.0.tgz#3e3110ca29205f120d7cb064960a39c3d2087c09"
-  integrity sha512-YZ1rOP5+kHor4hMAH+HRQnBQHg+wvS1un1hAOuIcxcBy0hzcUf6Jg2a1w65kpoOUnurOfZbERwjI1TfZxNjcww==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.1.1.tgz#ee0866e4019fe62c1276b9062d4c4803d9aea14c"
+  integrity sha512-+qO5WbNBKBaZez95TffdUDnGIo4+r5kmsX8aOb7PDHvXsTbghAmleuxjs6ytNaf5Eg4FGBXDS5vqO61TRi6BMg==
 
 default-gateway@^4.2.0:
   version "4.2.0"
@@ -10533,9 +10533,9 @@ vue-loader@^15.2.4:
     vue-style-loader "^4.1.0"
 
 vue-meta@^2.2.1:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/vue-meta/-/vue-meta-2.2.2.tgz#ec6be76d75b7d6e4abb6d995d92245487081428b"
-  integrity sha512-aSzjfc5xV3szxPZMsSk6JeoHUqwrVHNPzpMciTCek56LDd2xKWCv+Ch4IGWL5EIxVyfxA+krsD7T11PTyLY4TQ==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/vue-meta/-/vue-meta-2.3.0.tgz#7f4af99b02c7a1811ad332110839f0c8ab1c4ea3"
+  integrity sha512-pLfbtVco5HXWQ6byjK+KdmGZJFaXcE441Dt1UmuQmT1lyX05QLRZo5laDYSHZdgGyHyiUsykZAKVBRXBCvDa6w==
   dependencies:
     deepmerge "^4.0.0"
 

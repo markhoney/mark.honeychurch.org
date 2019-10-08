@@ -6,7 +6,7 @@ sidebar: auto
 
 ## Personal Details
 
-**Name:** Mark Patrick Honeychurch
+**Name:** [Mark Patrick Honeychurch](/blog/random/honeychurch/)
 
 **Location:** [Whitby, Porirua, Wellington 5024, New Zealand](https://www.google.co.nz/maps/place/Whitby,+Porirua)
 
@@ -14,9 +14,9 @@ sidebar: auto
 
 **Email:** [mark@honeychurch.org](mailto:mark@honeychurch.org)
 
-**Nationality:** Dual British & New Zealand
+**Nationality:** Dual [British](#) & [New Zealand](#)
 
-**Age:** 44
+**Age:** [44](/blog/random/year/)
 
 **Website:** [mark.honeychurch.org](https://mark.honeychurch.org)
 

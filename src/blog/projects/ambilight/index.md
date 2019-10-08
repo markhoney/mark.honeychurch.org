@@ -35,7 +35,7 @@ The LEDs come with an adhesive backing, which makes sticking them to the back of
 
 And here's a video of the finished product.
 
-@[youtube](https://youtu.be/pYd057N1-L0)
+@[youtube](https://youtu.be/mUPjq1NMdJc)
 
 <!--<video controls src="/media/video/Ambilight.mov" style="width: 100%;" />-->
 

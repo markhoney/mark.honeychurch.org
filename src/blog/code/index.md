@@ -9,6 +9,6 @@ I guess I started learning to code at primary school with [Logo](<https://en.wik
 
 Since then I've learned, to varying degrees of competence (and in roughly chronological order): [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Perl](https://en.wikipedia.org/wiki/Perl), [PHP](https://en.wikipedia.org/wiki/PHP), [KiXtart](https://en.wikipedia.org/wiki/KiXtart), [Rexx](https://en.wikipedia.org/wiki/Rexx), [Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>), [C](<https://en.wikipedia.org/wiki/C_(programming_language)>), [C#](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>), [Javascript](https://en.wikipedia.org/wiki/JavaScript).
 
-Here are some of the projects I've worked on.
+A lot of [my code](https://github.com/markhoney) is on GitHub. Here are write-ups of some of the projects I've worked on:
 
 <list-section :excerpt="true" :taxonomy="true" />

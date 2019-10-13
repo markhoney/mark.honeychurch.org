@@ -89,7 +89,7 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 ## Code
 
 :::: tabs
- 
+
 ::: tab encode.vue
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
@@ -126,7 +126,7 @@ This is the data set of letter frequencies in English that I use for decryption.
 
 Out of interest, here's the original code I wrote in PHP. It took me an hour or so to convert this to the Vue example above.
 
-<<< ./src/blog/code/rotx/rotx.php
+<<< ./src/blog/code/decrypt/rotx.php
 
 :::
 

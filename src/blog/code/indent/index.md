@@ -78,7 +78,7 @@ As a way of illustrating what code indenting is, here's some of my software with
 
 ::: tab "Single Space (PHP)"
 
-<<< ./src/blog/code/rotx/rotx.php
+<<< ./src/blog/code/decrypt/rotx.php
 
 :::
 
@@ -98,7 +98,7 @@ As a way of illustrating what code indenting is, here's some of my software with
 
 The beauty of this is that although it shows here with a four space indenting, when I edit the code I only see two spaces of indenting per tab.
 
-<<< ./src/.vuepress/components/code/rotx/rotx.js
+<<< ./src/.vuepress/components/code/cyphers/caesar.js
 
 :::
 

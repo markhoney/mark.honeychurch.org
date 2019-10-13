@@ -45,4 +45,4 @@ You can use the form below to see how long a decimal number is in both octal and
 
 Here's the Vue I put together to do the conversion - this was about 5 minutes of coding, which is why I love Vue so much!
 
-<<< ./src/.vuepress/components/projects/octal/dectooct.vue
+<<< ./src/.vuepress/components/code/octal/dectooct.vue

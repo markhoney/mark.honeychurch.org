@@ -18,21 +18,29 @@ sidebar: auto
 
 ## Background
 
-I have spent the last twelve years working for an Australian company, Interactive, both as a hardware support engineer and a fullstack software developer. Prior to that I worked as a systems support engineer. Now that Interactive have decided to close their Wellington office, I am looking for a full-time permanent or contract role, working in either development or support.
+The last twelve years have been spent working for an Australian company, Interactive, both as a hardware support engineer and a fullstack software developer. Prior to that I worked as a systems support engineer. Interactive have decided to close their Wellington office, therefore I am looking for a full-time permanent or contract role, working in development or support.
 
 ## Competencies
 
-I am a creative problem solver, and enjoy being given challenging tasks. I like to use my critical thinking skills to come up with novel but practical solutions to complex problems, and am able to see projects through design and implementation to completion. I am a keen and quick learner, and can research topics and synthesise new information quickly. I enjoy using new technologies, and always seek to know more. I am methodical in my work, and am happy working to deadlines.
+- **Critical thinker** - Able to critically analyse ideas and offer constructive criticisms.
+- **Creative problem solver** - Enjoy being given challenging tasks, and will come up with novel but practical solutions to complex problems.
+- **Keen and quick learner** - Can research topics and synthesise new information quickly. Enjoy using new technologies, and always seek to know more.
+- **Methodical worker** - Able to see projects through design and implementation to completion, and happy working to deadlines.
+- **Capable communicator** - Comfortable building and maintaining relationships with both internal and external stakeholders.
 
-I am a capable communicator, and am comfortable building and maintaining relationships with both internal and external stakeholders.
+## Technical
 
-I have a wide experience and knowledge of operating systems, software and hardware. I am certified on both Windows and Linux, and have experience with cloud services and container based virtualisation. I have coded solutions in [PHP](https://www.php.net/) and [Python](https://www.python.org/), but in recent years have been developing [JavaScript](https://en.wikipedia.org/wiki/JavaScript) software (using [Node.js](https://nodejs.org/), along with libraries such as [Express](https://expressjs.com/), [Socket.IO](https://socket.io/), [Axios](https://github.com/axios/axios), [Vue](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/) and [VuePress](https://vuepress.vuejs.org/)). I use both SQL and NoSQL databases ([MS SQL](https://www.microsoft.com/en-us/sql-server), [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/), [MongoDB](https://www.mongodb.com/)), and [HTML5](https://en.wikipedia.org/wiki/HTML5) and [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), along with several popular HTML/CSS frameworks (including [Bootstrap](https://getbootstrap.com/) and [Material](https://material.io/)). I have experience supporting server, network and storage hardware.
-
-I am competent in data processing and analysis, and where possible use my programming knowledge to create reusable data analysis tools.
+- A wide experience and knowledge of operating systems, software and hardware.
+- Certified on both Windows and Linux
+- Experience with cloud services and container based virtualisation.
+- Have coded solutions in [PHP](https://www.php.net/) and [Python](https://www.python.org/), but in recent years have been developing [JavaScript](https://en.wikipedia.org/wiki/JavaScript) software using [Node.js](https://nodejs.org/).
+- Experienced using libraries such as [Express](https://expressjs.com/), [Socket.IO](https://socket.io/), [Axios](https://github.com/axios/axios), [Vue](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/) and [VuePress](https://vuepress.vuejs.org/).
+- Can use both SQL and NoSQL databases ([MS SQL](https://www.microsoft.com/en-us/sql-server), [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/), [MongoDB](https://www.mongodb.com/))
+- Knowledgeable in [HTML5](https://en.wikipedia.org/wiki/HTML5) and [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), along with several popular HTML/CSS frameworks (including [Bootstrap](https://getbootstrap.com/) and [Material](https://material.io/)).
+- Have experience supporting server, network and storage hardware.
+- Competent in data processing and analysis, and where possible use my programming knowledge to create reusable data analysis tools.
 
 ## Education
-
-I have a Master's degree in Engineering, and hold a variety of professional certifications relevant to my career in IT.
 
 ### Certifications
 
@@ -75,6 +83,7 @@ During my time at Interactive I also created several software products for in-ho
 **_Tracking System._** I created an end-to-end tracking software solution for our engineers, including an **iOS app** for interfacing with a ticketing system and reporting geolocation, a **Node.JS** and **Mongo** backend for data storage, and a **Vue** frontend with websockets for displaying realtime engineer locations and statuses, using **Docker** on **Linux** as a platform.
 
 **_Rapid Development_** I was asked to develop a simple customer portal in 24 hours that would allow one of our customers to access details of their support contract with us. Using **Vue** and **Bootstrap**, and accessing existing data in multiple **Microsoft SQL** databases, I was able to code a secure, modern, responsive website that worked for all of our customers in less than a day.
+
 ### Systems Engineer, Server Team Lead
 
 ![CVLogo](./logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)

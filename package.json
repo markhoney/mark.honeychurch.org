@@ -12,7 +12,7 @@
 	"scripts": {
 		"csp": "seespee --root ./docs/ ./docs/media/index.html > ./src/.vuepress/website/csp.txt",
 		"favicon": "real-favicon generate ./src/.vuepress/website/faviconDescription.json ./src/.vuepress/public/media/images/icons/faviconData.json ./src/.vuepress/public/media/images/icons",
-		"cv": "node ./src/cv/cv.js",
+		"cv": "node ./src/cv/pdf.js",
 		"dev": "vuepress dev src",
 		"build": "cross-env NODE_OPTIONS='--max-old-space-size=4096' vuepress build src",
 		"serve": "vuepress serve src",

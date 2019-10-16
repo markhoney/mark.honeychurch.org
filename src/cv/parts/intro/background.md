@@ -1,0 +1,3 @@
+## Background
+
+The last twelve years have been spent working for an Australian company, Interactive, both as a hardware support engineer and a fullstack software developer. Prior to that I worked as a systems support engineer. Interactive have decided to close their Wellington office, therefore I am looking for a full-time permanent or contract role, working in development or support.

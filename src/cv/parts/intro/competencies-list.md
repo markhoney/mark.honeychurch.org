@@ -1,0 +1,7 @@
+## Competencies
+
+- **Critical thinker** - Able to critically analyse ideas and offer constructive criticisms.
+- **Creative problem solver** - Enjoy being given challenging tasks, and will come up with novel but practical solutions to complex problems.
+- **Keen and quick learner** - Can research topics and synthesise new information quickly. Enjoy using new technologies, and always seek to know more.
+- **Methodical worker** - Able to see projects through design and implementation to completion, and happy working to deadlines.
+- **Capable communicator** - Comfortable building and maintaining relationships with both internal and external stakeholders.

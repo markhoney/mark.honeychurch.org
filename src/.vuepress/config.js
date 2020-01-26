@@ -1,4 +1,4 @@
-var fs = require('fs');
+const {readFileSync} = require('fs');
 
 const blog = require('./website/blog.json');
 
@@ -6,10 +6,10 @@ const site = 'https://mark.honeychurch.org';
 
 //const blogsidebar = blog.map(x => x.link);
 
-const csp = fs.readFileSync('./src/.vuepress/website/csp.txt', 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
+const csp = readFileSync('./src/.vuepress/website/csp.txt', 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
 
 function regexSame(r1, r2) {
-	return r1 instanceof RegExp && 
+	return r1 instanceof RegExp &&
 				 r2 instanceof RegExp &&
 				 r1.source === r2.source &&
 				 r1.flags.split("").sort().join("") === r2.flags.split("").sort().join("");

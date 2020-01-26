@@ -1,5 +1,3 @@
-### Certifications
-
 |         Cert | Details                                                  |
 | -----------: | -------------------------------------------------------- |
 |     **LPIC** | LPI Linux Levels 1 & 2 Certified                         |

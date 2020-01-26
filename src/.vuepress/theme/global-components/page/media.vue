@@ -14,7 +14,7 @@
 </template>
 
 <script>
-	import media from "./media.json";
+	import media from "@theme/global-components/page/media.json";
 	export default {
 		data() {
 			return {

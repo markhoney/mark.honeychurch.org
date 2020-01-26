@@ -1,24 +1,24 @@
 <template>
-	<Layout>
-		<!--<template v-slot:sidebar-top>
-		</template>
-		<template v-slot:sidebar-bottom>
-		</template>-->
-		<!--<template slot="page-top">-->
-		<template v-slot:page-top>
-			<pagetop/>
-		</template>
-		<template v-slot:page-bottom>
-			<pagebottom/>
-		</template>
-	</Layout>
+	<section>
+		<ParentLayout>
+			<template v-slot="page-top">
+				<pagetop />
+			</template>
+			<pagetop slot="page-top" />
+			<template #page-bottom>
+				<pagebottom />
+			</template>
+			<pagebottom slot="page-bottom" />
+		</ParentLayout>
+	</section>
 </template>
 
 <script>
-import Layout from '../../../../node_modules/@vuepress/theme-default/layouts/Layout.vue';
-import pagetop from '../components/section/header.vue';
-import pagebottom from '../components/section/footer.vue';
-export default {
-	components: {Layout, pagetop, pagebottom}
-};
+	import ParentLayout from '@parent-theme/layouts/Layout.vue';
+	import pagetop from '@theme/components/section/header.vue';
+	import pagebottom from '@theme/components/section/footer.vue';
+	export default {
+		// name: 'Post',
+		components: {ParentLayout, pagetop, pagebottom}
+	};
 </script>

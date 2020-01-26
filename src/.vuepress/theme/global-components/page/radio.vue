@@ -33,8 +33,8 @@
 
 <script>
 //import months from "./months.json";
-import radio from './radio.json';
-import posts from '../list/section.vue';
+import radio from '@theme/global-components/page/radio.json';
+import posts from '@theme/global-components/list/section.vue';
 export default {
 	components: { posts },
 	data() {

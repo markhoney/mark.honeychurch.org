@@ -1,5 +1,3 @@
-# Mark Honeychurch
-
 **Location:** [Whitby, Porirua, Wellington, New Zealand](https://www.google.co.nz/maps/place/Whitby,+Porirua)
 
 **Mobile:** [+64 21 885 216](tel:+6421885216)

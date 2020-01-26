@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import radio from './radio.json';
+import radio from '@theme/global-components/page/radio.json';
 export default {
 	data() {
 		return {

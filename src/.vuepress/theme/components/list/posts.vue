@@ -33,7 +33,7 @@
 </template>
 
 <script>
-import taxonomy from '../post/taxonomy.vue';
+import taxonomy from '@theme/components/post/taxonomy.vue';
 //import post from './post.vue';
 export default {
 	components: {taxonomy}, // , post

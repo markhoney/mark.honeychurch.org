@@ -1,5 +1,3 @@
-### Infrastructure
-
 | OS                                                                                   | VMs                                             | Services                             |
 | :----------------------------------------------------------------------------------: | :---------------------------------------------: | :----------------------------------: |
 | [Debian](https://www.debian.org/)/[Ubuntu](https://ubuntu.com/)                      | [Docker](https://www.docker.com/)/Compose/Swarm | [Apache](https://www.apache.org/)    |

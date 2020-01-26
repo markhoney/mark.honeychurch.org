@@ -1,5 +1,3 @@
-## Technical
-
 I have a wide experience and knowledge of operating systems, software and hardware. I am certified on both Windows and Linux, and have experience with cloud services and container based virtualisation.
 
 I have coded solutions in [PHP](https://www.php.net/) and [Python](https://www.python.org/), but in recent years have been developing [JavaScript](https://en.wikipedia.org/wiki/JavaScript) software (using [Node.js](https://nodejs.org/), along with libraries such as [Express](https://expressjs.com/), [Socket.IO](https://socket.io/), [Axios](https://github.com/axios/axios), [Vue](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/) and [VuePress](https://vuepress.vuejs.org/)).

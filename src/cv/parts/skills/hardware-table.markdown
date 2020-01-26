@@ -1,5 +1,3 @@
-### Hardware
-
 | Server                        | Storage                                     |
 | :---------------------------: | :-----------------------------------------: |
 | [HP](https://www.hpe.com/)    | [NetApp](https://www.netapp.com/)           |

@@ -18,9 +18,9 @@
 </template>
 
 <script>
-import postsection from './section.vue'; // "section" is a reserved HTML tag
-import categories from './categories.vue';
-import tags from './tags.vue';
+import postsection from '@theme/components/post/section.vue'; // "section" is a reserved HTML tag
+import categories from '@theme/components/post/categories.vue';
+import tags from '@theme/components/post/tags.vue';
 export default {
 	components: { postsection, categories, tags },
 	props: {

@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import posts from '../../components/list/posts.vue';
+import posts from '@theme/components/list/posts.vue';
 export default {
 	components: { posts },
 	data() {

@@ -10,4 +10,4 @@ As well as supporting the environment, I supported the other server engineers on
 
 #### Projects
 
-**_RightFax Upgrade._** I ran a project to migrate existing RightFax users to a new infrastructure. This process involved the building of new RightFax servers, installation of **Microsoft SQL clusters** (including setup of SAN disks) in both Production and DR environments, and the subsequent migration of fax mailboxes between servers.
+**_RightFax Upgrade._** I ran a project to migrate existing RightFax users to a new infrastructure. This process involved the building of new RightFax servers, installation of **Microsoft SQL clusters** (including setup of SAN disks) in both Production and DR environments and the subsequent migration of Fax mailboxes between servers.

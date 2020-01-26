@@ -20,7 +20,7 @@
 
 <script>
 import parallax from "vue-parallaxy";
-import taxonomy from '../post/taxonomy.vue';
+import taxonomy from '@theme/components/post/taxonomy.vue';
 //import metadata from "../post/metadata.vue";
 export default {
 	components: {taxonomy, parallax}, //, metadata

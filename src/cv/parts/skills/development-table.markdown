@@ -1,5 +1,3 @@
-### Development
-
 | Languages                                                    |  Frameworks                                   | Databases                                                       | Libraries                                |
 | :----------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------: |
 | [JavaScript](https://en.wikipedia.org/wiki/JavaScript)       | [Express](https://expressjs.com/)             | [MS SQL](https://www.microsoft.com/en-us/sql-server)            | [jQuery](https://jquery.com/)            |

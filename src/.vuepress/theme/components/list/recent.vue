@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import posts from './posts.vue';
+import posts from '@theme/components/list/posts.vue';
 export default {
 	data() {
 		return {};

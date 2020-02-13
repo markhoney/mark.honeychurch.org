@@ -27,11 +27,11 @@ thumbs.db
 docs/.vuepress/lfs
 
 # Build folder
-docs/.vuepress/dist
+docs/.vuepress/dist/*
 
 # Lock files
 # package-lock.json
 # yarn.lock
 
 # Local files
-_posts
+# _posts

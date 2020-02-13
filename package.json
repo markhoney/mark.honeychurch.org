@@ -10,12 +10,12 @@
 		"url": "git+https://github.com/markhoney/mark.honeychurch.org.git"
 	},
 	"scripts": {
-		"csp": "seespee --root ./docs/ ./docs/media/index.html > ./src/.vuepress/website/csp.txt",
-		"favicon": "real-favicon generate ./src/.vuepress/website/faviconDescription.json ./src/.vuepress/public/media/images/icons/faviconData.json ./src/.vuepress/public/media/images/icons",
-		"cv": "node ./src/cv/pdf.js",
-		"dev": "vuepress dev src",
-		"build": "cross-env NODE_OPTIONS='--max-old-space-size=4096' vuepress build src",
-		"serve": "vuepress serve src",
+		"csp": "seespee --root ./docs/ ./docs/media/index.html > ./docs/.vuepress/website/csp.txt",
+		"favicon": "real-favicon generate ./docs/.vuepress/website/faviconDescription.json ./docs/.vuepress/public/media/images/icons/faviconData.json ./docs/.vuepress/public/media/images/icons",
+		"cv": "node ./docs/cv/pdf.js",
+		"dev": "vuepress dev docs",
+		"build": "cross-env NODE_OPTIONS='--max-old-space-size=4096' vuepress build docs",
+		"serve": "vuepress serve docs",
 		"kill": "taskkill /IM node.exe /F",
 		"ug": "yarn upgrade && yarn upgrade-interactive --latest"
 	},

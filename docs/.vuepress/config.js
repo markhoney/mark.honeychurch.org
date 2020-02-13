@@ -1,4 +1,5 @@
 const {readFileSync} = require('fs');
+const {resolve} = require('path');
 
 const blog = require('./website/blog.json');
 
@@ -6,7 +7,7 @@ const site = 'https://mark.honeychurch.org';
 
 //const blogsidebar = blog.map(x => x.link);
 
-const csp = readFileSync('./docs/.vuepress/website/csp.txt', 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
+const csp = readFileSync(resolve(__dirname, 'website', 'csp.txt'), 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
 
 function regexSame(r1, r2) {
 	return r1 instanceof RegExp &&

@@ -156,7 +156,7 @@ module.exports = {
 		},
 		'container': {},
 		'reading-progress': {},
-		'@silvanite/tailwind': {},
+		// '@silvanite/tailwind': {},
 		'@vuepress/medium-zoom': {},
 		//'@vuepress/pagination': {},
 		'@vuepress/register-components': {},

@@ -161,10 +161,10 @@ module.exports = {
 		//'@vuepress/pagination': {},
 		'@vuepress/register-components': {},
 		'@vuepress/pwa': {
-			serviceWorker: true,
+			serviceWorker: false,
 			updatePopup: {
 				message: "New content is available.",
-				buttonText: "Refresh"
+				buttonText: "Reload"
 			}
 		},
 		'serve': {},

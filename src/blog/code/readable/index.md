@@ -1,5 +1,5 @@
 ---
-title: The importance of readable code/data
+title: The importance of readable data structures
 date: 2020-01-26
 layout: Post
 categories:
@@ -92,7 +92,9 @@ I coded this blind, but of course people nearly always make mistakes when they c
 
 ## Lessons
 
-I guess the point of this post is that making code that is readable is important. I've been guilty in the past of using too short variable names, arrays instead of objects and run-on lines of code to save a few bytes, but - especially in this day and age, when storage is cheap - there's really no need to be saving a minuscule amount of space. It's much better to aim for clarity. Name your variables so that it's obvious to others - and to you, when you come back to your code after 6 months of doing other things - what data the variable holds. Similarly, use objects (dicts in Python) rather than arrays to hold heterogeneous data (data that's not all of the same type/use), and pick sensible key names for your object. You'll thank yourself for doing this. Given that you're using a data object, don't be scared to use sub-objects. Finally (and this a demon I'm still battling), don't try to throw as much code as possible onto a single line. It most likely won't make your code run noticeably faster, but will make it much harder to work out what the hell is going on in your code.
+I guess the point of this post is that making code that is readable is important. I've been guilty in the past of using too short variable names, arrays instead of objects and run-on lines of code to save a few bytes, but - especially in this day and age, when storage is cheap - there's really no need to be saving a minuscule amount of space. It's much better to aim for clarity. Name your variables so that it's obvious to others - and to you, when you come back to your code after 6 months of doing other things - what data the variable holds. Similarly, use objects (dicts in Python) rather than arrays to hold heterogeneous data (data that's not all of the same type/use), and pick sensible key names for your object. You'll thank yourself for doing this. Given that you're using a data object, don't be scared to use sub-objects.
+
+Now, obviously it doesn't always make sense to be verbose with your data. Sometimes there's limited bandwidth, or the bandwidth cost is high, and making a leaner, smaller data structure makes sense - in IoT devices, for example. However, even for these applications, on the server side where you're processing the incoming data it makes sense to write a converter function that expands your cryptic data out to a readable form.
 
 ### Examples
 
@@ -137,29 +139,9 @@ use:
 }
 ```
 
-#### Clarity
-
-Instead of:
-
-```python
-button.grid(row = (number['value'] - offset) // columns, column = (number['value'] - offset) % columns)
-```
-
-use:
-
-```python
-index = number['value'] - offset
-row = index // columns
-column = index % columns
-button.grid(row = row, column = column)
-```
-
-This example's interesting, because of my natural habit to write long lines of code. The code here for what not to do comes from the solution I wrote above, and shows that I'm not always great at following my own advice!
-
 ### Summary
 
 - Pick verbose variable names
 - Use objects/dicts to store data
   - Use verbose names for your object keys
   - Use child objects inside your main data object - make a sensible hierarchy
-- Break your code up to make it easy to read

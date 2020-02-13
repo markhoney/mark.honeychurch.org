@@ -10,6 +10,8 @@ layout: Page
 
 If you would like my opinion on a topic of skeptical interest, please feel free to [contact me](/contact/). I'm happy to give my opinion as Media Spokesperson for the [NZ Skeptics](https://skeptics.nz), Vice President of [Humanist NZ](https://humanist.nz) or Secretary of the [Society for Science Based Healthcare](http://sbh.nz).
 
+### Mugshots
+
 If you've already talked to me and you're looking for a high quality photo to use to go along with my rambling, check out [this page](/media/me/) for a few images that are free to use and don't make me look like a total eejit.
 
 ## Mentioned, quoted, interviewed

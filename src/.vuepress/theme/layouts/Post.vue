@@ -1,16 +1,12 @@
 <template>
-	<section>
-		<ParentLayout>
-			<template v-slot="page-top">
-				<pagetop />
-			</template>
-			<pagetop slot="page-top" />
-			<template #page-bottom>
-				<pagebottom />
-			</template>
-			<pagebottom slot="page-bottom" />
-		</ParentLayout>
-	</section>
+	<ParentLayout>
+		<template #page-top>
+			<pagetop />
+		</template>
+		<template #page-bottom>
+			<pagebottom />
+		</template>
+	</ParentLayout>
 </template>
 
 <script>

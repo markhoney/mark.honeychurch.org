@@ -1,8 +1,5 @@
 <template>
 	<ParentLayout>
-		<template #sidebar-top>
-			<h1>Test!!!!</h1>
-		</template>
 		<template #page-top>
 			<pagetop />
 		</template>

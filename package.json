@@ -33,7 +33,7 @@
 		"buefy": "^0.8.9",
 		"cheerio": "^1.0.0-rc.3",
 		"cli-real-favicon": "^0.0.8",
-		"cross-env": "^6.0.3",
+		"cross-env": "^7.0.0",
 		"favicons": "^5.5.0",
 		"markdown-it-abbr": "^1.0.4",
 		"markdown-it-attrs": "^3.0.0",
@@ -61,8 +61,8 @@
 		"vuepress-plugin-reading-progress": "^1.0.8",
 		"vuepress-plugin-reading-time": "^0.1.1",
 		"vuepress-plugin-seo": "^0.1.2",
-		"vuepress-plugin-serve": "^1.1.0",
+		"vuepress-plugin-serve": "^2.0.0",
 		"vuepress-plugin-sitemap": "^2.3.1",
-		"vuepress-plugin-tabs": "^0.2.2"
+		"vuepress-plugin-tabs": "^0.3.0"
 	}
 }

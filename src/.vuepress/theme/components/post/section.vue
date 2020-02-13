@@ -1,7 +1,7 @@
 <template>
-	<router-link
-		:to="'/blog/' + section + '/'"
-	>{{section.charAt(0).toUpperCase()}}{{section.slice(1)}}</router-link>
+	<router-link :to="'/blog/' + section + '/'">
+		{{section.charAt(0).toUpperCase()}}{{section.slice(1)}}
+	</router-link>
 </template>
 
 <script>

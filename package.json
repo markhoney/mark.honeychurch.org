@@ -10,14 +10,14 @@
 		"url": "git+https://github.com/markhoney/mark.honeychurch.org.git"
 	},
 	"scripts": {
-		"csp": "seespee --root ./docs/ ./docs/media/index.html > ./docs/.vuepress/website/csp.txt",
+		"csp": "seespee --root ./docs/.vuepress/dist/ ./docs/.vuepress/dist/media/index.html > ./docs/.vuepress/website/csp.txt",
 		"favicon": "real-favicon generate ./docs/.vuepress/website/faviconDescription.json ./docs/.vuepress/public/media/images/icons/faviconData.json ./docs/.vuepress/public/media/images/icons",
 		"cv": "node ./docs/cv/pdf.js",
 		"dev": "vuepress dev docs",
 		"build": "cross-env NODE_OPTIONS='--max-old-space-size=4096' vuepress build docs",
 		"serve": "vuepress serve docs",
 		"kill": "taskkill /IM node.exe /F",
-		"ug": "yarn upgrade && yarn upgrade-interactive --latest"
+		"up": "yarn upgrade && yarn upgrade-interactive --latest"
 	},
 	"directories": {
 		"doc": "docs"
@@ -34,7 +34,7 @@
 		"cheerio": "^1.0.0-rc.3",
 		"cli-real-favicon": "^0.0.8",
 		"cross-env": "^7.0.0",
-		"favicons": "^5.5.0",
+		"favicons": "^6.0.0",
 		"markdown-it-abbr": "^1.0.4",
 		"markdown-it-attrs": "^3.0.0",
 		"markdown-it-fontawesome": "^0.3.0",

@@ -1,11 +1,11 @@
 <template>
 	<form>
-		<button type='button' v-on:click="start">{{status}}</button>
+		<button type='button' @click="start()">{{status}}</button>
 		<h2>Station: <a :href="stations[station].website">{{stations[station].name}}</a></h2>
 		<h2>Number of Stations: {{number}}</h2>
-		<input id="number" type="range" min="2" max="16" v-model.number="number" :title="stations" />
+		<input id="number" type="range" min="2" max="16" v-model.number="number" :title="stations.slice(0, number).map((station) => station.name).join('\n')" />
 		<h2>Switches per second: {{rate}}</h2>
-		<input id="rate" type="range" min="1" max="10" v-model.number="rate" :title="rate" />
+		<input id="rate" type="range" min="1" max="10" v-model.number="rate" :title="(1 / rate).toFixed(2) + ' seconds per station'" />
 	</form>
 </template>
 

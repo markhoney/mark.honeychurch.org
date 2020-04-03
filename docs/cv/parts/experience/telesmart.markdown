@@ -6,6 +6,4 @@ At Telesmart I develop software products for both in-house and customer consumpt
 
 #### Projects
 
-**_Customer Portal._** I have created a Customer Portal utilising a **NuxtJS** and **Vuetify** frontend, with secure authorisation using **JSON Web Tokens**. The backend infrastructure I have implemented consists of a set of **Federated** Apollo **GraphQL** Microservices, along with Passport and third party **OAuth** authentication strategies, and **MongoDB** and **Redis** data stores. The code is deployed to **virtualisation** containers hosted on a **Docker Swarm**.
-
-As part of this work, I have written and published several Open Source projects, including an **NeDB** Apollo Server Cache plugin and a server side Apollo DataSource plugin for **ConnectWise**.
+**_Customer Portal._** I designed and developed a Customer Portal utilising a **NuxtJS** and **Vuetify** frontend, with secure authorisation using **JSON Web Tokens**. The backend infrastructure consists of a set of **Federated** Apollo **GraphQL** Microservices, with PassportJS and third party **OAuth** authentication strategies. **Lerna** is used for monorepo management, along with **MongoDB** and **Redis** for data storage. All The code is deployed to **virtualisation** containers hosted on a **Docker Swarm**, using an automated build pipeline. All together, the project contains 11 scalable microservices and 14 custom written private Node modules.

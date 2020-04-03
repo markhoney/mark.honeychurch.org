@@ -1,13 +1,11 @@
-const {readFileSync} = require('fs');
-const {resolve} = require('path');
+// const {readFileSync} = require('fs');
+// const {resolve} = require('path');
+// const csp = readFileSync(resolve(__dirname, 'website', 'csp.txt'), 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
 
 const blog = require('./website/blog.json');
-
-const site = 'https://mark.honeychurch.org';
-
 //const blogsidebar = blog.map(x => x.link);
 
-// const csp = readFileSync(resolve(__dirname, 'website', 'csp.txt'), 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
+const site = 'https://mark.honeychurch.org';
 
 function regexSame(r1, r2) {
 	return r1 instanceof RegExp &&
@@ -90,10 +88,10 @@ module.exports = {
 			name: 'theme-color',
 			content: '#ffffff'
 		}],
-		['link', {
+		/* ['link', {
 			rel: 'stylesheet',
 			href: 'https://use.fontawesome.com/releases/v5.7.1/css/all.css'
-		}],
+		}], */
 		/*['meta', {
 			'http-equiv': 'Content-Security-Policy',
 			content: csp
@@ -156,12 +154,14 @@ module.exports = {
 		},
 		'container': {},
 		'reading-progress': {},
-		// '@silvanite/tailwind': {},
+		'@silvanite/tailwind': {
+			purgecss: {enabled: false},
+		},
 		'@vuepress/medium-zoom': {},
 		//'@vuepress/pagination': {},
 		'@vuepress/register-components': {},
 		'@vuepress/pwa': {
-			serviceWorker: false,
+			serviceWorker: true,
 			updatePopup: {
 				message: "New content is available.",
 				buttonText: "Reload"

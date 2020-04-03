@@ -25,9 +25,9 @@ async function getStations(url) {
 }
 
 async function getAll() {
-	const stations = await getStations('https://www.internet-radio.com/stations/talk/page22');
+	const stations = await getStations('https://www.internet-radio.com/stations/talk/');
 	//console.log(stations);
-	fs.writeFileSync("./stations.json", JSON.stringify(stations));
+	fs.writeFileSync("./stations.json", JSON.stringify(stations, null, '\t'));
 }
 
 getAll();

@@ -9,7 +9,7 @@ tags:
   - Small
 ---
 
-A friend recently let me know of a [tiny program](https://www.pouet.net/prod.php?which=82902) that runs a 3D scene with both audio and video. How tiny? The executable, a .com file, is 64 bytes in size (yeah, that's pretty damn small!), and the camera angle is a flyover of a grassy field with a blue sky above. The audio is a single note played once, overlaid with the sound of a helicopter's whirring blades and a periodic swooshing noise that sounds like the wind. It seems too amazing to be real, especially when you've seen the video:
+A friend recently let me know of a [tiny program](https://www.pouet.net/prod.php?which=82902) that runs a 3D scene with both audio and video. How tiny? The executable, a .com file, is 64 bytes in size (yeah, that's pretty damn small!), and the camera view is a flyover of a grassy field with a blue sky above. The audio is a single note played once, overlaid with the sound of a helicopter's whirring blades and a periodic swooshing noise that sounds like the wind. It seems too amazing to be real, especially when you've seen the video:
 
 <!-- more -->
 

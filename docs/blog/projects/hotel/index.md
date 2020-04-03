@@ -122,7 +122,7 @@ Okay, so we know that this is an HP server, and is likely running MS Windows. We
 Starting with port 22, which is open but filtered, we can use the ```ssh``` tool to test for an SSH shell - although methinks we won't have much luck accessing that port:
 
 ```powershell
-PS C:\> ssh 10.100.0.1`
+PS C:\> ssh 10.100.0.1
 
 ssh: connect to host 10.100.0.1 port 22: Connection timed out
 ```
@@ -245,7 +245,7 @@ Okay, so we followed the yellow brick road a little way and found a potential wa
 
 ### Cisco Router
 
-Let's have a look at the second device on the way out of the hotel to the internet:
+We'll start with an NMap scan:
 
 ```powershell
 PS C:\> nmap -O 203.167.xxx.xxx
@@ -295,3 +295,5 @@ Connection to host lost.
 ```
 
 Okay, so this seems like a bad idea. The hotel really shouldn't allow any kind of plain text connections to its router, and also shouldn't have this port open to their guests.
+
+At this point, though, I've had enough fun and it's time to stop for the night. Who knows what I'll find at the next hotel I find myself in!

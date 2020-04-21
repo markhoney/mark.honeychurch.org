@@ -6,17 +6,17 @@
     "description": "Coder, Skeptic, Humanist",
     "items": [
         {
-            "id": "https://mark.honeychurch.org/blog/code/asa.sbh.nz/",
-            "url": "https://mark.honeychurch.org/blog/code/asa.sbh.nz/",
-            "title": "asa.sbh.nz",
-            "date_modified": "2014-07-19T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/code/artists/",
             "url": "https://mark.honeychurch.org/blog/code/artists/",
             "title": "Download Music Artist Images",
             "summary": "I was cleaning up my music collection yesterday by using Discogs, a great online Discography catalogue website, to download missing album cover art. I normally use the long-windedly named Album Cover Art Downloader to download cover art, as it's pretty good and can grab images from various sources (amazon.com, yahoo, buy.com) - but there are some albums, especially bootlegs and the like, that aren't on Amazon. While using Discogs I saw that they have artist images (such as the one on the right), and started to download these to use like Album Art images, by naming the file folder.jpg and placing it in the artist's folder (My music collection is organised by First Letter\\Artist\\Album, e.g. A\\Aphex Twin\\Hangable Autobulb).",
             "date_modified": "2008-07-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/code/asa.sbh.nz/",
+            "url": "https://mark.honeychurch.org/blog/code/asa.sbh.nz/",
+            "title": "asa.sbh.nz",
+            "date_modified": "2014-07-19T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/code/decrypt/",
@@ -60,7 +60,7 @@
             "url": "https://mark.honeychurch.org/blog/code/",
             "title": "Code I've written",
             "summary": "Over the years I've written some bad code, and some okay code. But one constant is that I've always enjoyed writing code, and always enjoyed the challenge of learning new languages and libraries.",
-            "date_modified": "2020-04-03T09:49:20.418Z"
+            "date_modified": "2020-04-21T00:05:18.397Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/code/ingoa.nz/",
@@ -139,7 +139,7 @@
             "id": "https://mark.honeychurch.org/blog/howto/",
             "url": "https://mark.honeychurch.org/blog/howto/",
             "title": "How To...",
-            "date_modified": "2020-04-03T09:49:20.419Z"
+            "date_modified": "2020-04-21T00:05:18.398Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/howto/intel865/",
@@ -178,18 +178,18 @@
             "date_modified": "2008-08-24T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/",
-            "url": "https://mark.honeychurch.org/blog/",
-            "title": "Blog",
-            "summary": "Although I don't write much, I've blogged a little on and off over the years. I've also jotted down my thoughts on weird and wonderful topics as and when inspiration hits me, and documented various home tech projects. I'm lucky enough to have a regular slot on the radio here in New Zealand as well, and my preparation for that means that I often write down my thoughts on topics of interest to skeptics.",
-            "date_modified": "2020-04-03T09:49:20.420Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/life/anotheryear/",
             "url": "https://mark.honeychurch.org/blog/life/anotheryear/",
             "title": "Another Year",
             "summary": "Another year, another blog post.",
             "date_modified": "2017-08-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/",
+            "url": "https://mark.honeychurch.org/blog/",
+            "title": "Blog",
+            "summary": "Although I don't write much, I've blogged a little on and off over the years. I've also jotted down my thoughts on weird and wonderful topics as and when inspiration hits me, and documented various home tech projects. I'm lucky enough to have a regular slot on the radio here in New Zealand as well, and my preparation for that means that I often write down my thoughts on topics of interest to skeptics.",
+            "date_modified": "2020-04-21T00:05:18.399Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/life/birthday/",
@@ -269,7 +269,7 @@
             "id": "https://mark.honeychurch.org/blog/life/",
             "url": "https://mark.honeychurch.org/blog/life/",
             "title": "My occasional life",
-            "date_modified": "2020-04-03T09:49:20.518Z"
+            "date_modified": "2020-04-21T00:05:18.401Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/life/jws/",
@@ -448,7 +448,7 @@
             "id": "https://mark.honeychurch.org/blog/projects/automation/",
             "url": "https://mark.honeychurch.org/blog/projects/automation/",
             "title": "Home Automation",
-            "date_modified": "2020-04-03T09:49:20.522Z"
+            "date_modified": "2020-04-21T00:05:18.405Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/projects/eyes/",
@@ -478,7 +478,7 @@
             "id": "https://mark.honeychurch.org/blog/projects/",
             "url": "https://mark.honeychurch.org/blog/projects/",
             "title": "Tech Projects I've built",
-            "date_modified": "2020-04-03T09:49:20.522Z"
+            "date_modified": "2020-04-21T00:05:18.405Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/projects/it100/",
@@ -500,7 +500,7 @@
             "id": "https://mark.honeychurch.org/blog/projects/mirror/",
             "url": "https://mark.honeychurch.org/blog/projects/mirror/",
             "title": "Smart Mirror",
-            "date_modified": "2020-04-03T09:49:20.522Z"
+            "date_modified": "2020-04-21T00:05:18.406Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/projects/picture/",
@@ -511,20 +511,20 @@
             "date_modified": "2018-09-14T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/projects/pizza/",
-            "url": "https://mark.honeychurch.org/blog/projects/pizza/",
-            "title": "Server in a Pizza Box",
-            "summary": "My first web server was a 233MHz Pentium PC squeezed into a small Pizza Hut pizza box.",
-            "image": "https://mark.honeychurch.org/./Img2_0023.jpg",
-            "date_modified": "2003-05-12T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/projects/podcast/",
             "url": "https://mark.honeychurch.org/blog/projects/podcast/",
             "title": "Podcast Hardware",
             "summary": "My friend Gordy helped out for my skeptical podcast by building a stand for the microphone arms.",
             "image": "https://mark.honeychurch.org/./IMG_6113.jpg",
             "date_modified": "2014-07-13T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/projects/pizza/",
+            "url": "https://mark.honeychurch.org/blog/projects/pizza/",
+            "title": "Server in a Pizza Box",
+            "summary": "My first web server was a 233MHz Pentium PC squeezed into a small Pizza Hut pizza box.",
+            "image": "https://mark.honeychurch.org/./Img2_0023.jpg",
+            "date_modified": "2003-05-12T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/projects/reflow/",
@@ -594,19 +594,19 @@
             "date_modified": "2014-01-26T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/random/chicken/",
-            "url": "https://mark.honeychurch.org/blog/random/chicken/",
-            "title": "Fried Chicken in London",
-            "summary": "I've marvelled at the sheer number of Fried Chicken shops in London. KFC is the obvious, archetypal Fried Chicken joint, but the range of names I've seen while commuting through London on buses got me thinking about whether there was an A-Z of Fried Chicken takeaways in London.",
-            "date_modified": "2003-09-10T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/random/dns/",
             "url": "https://mark.honeychurch.org/blog/random/dns/",
             "title": "Domain Names are backwards",
             "summary": "Domain names are backwards - and I'm not the only person in the world who thinks so.",
             "image": "https://mark.honeychurch.org/./http.jpg",
             "date_modified": "2008-03-23T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/random/chicken/",
+            "url": "https://mark.honeychurch.org/blog/random/chicken/",
+            "title": "Fried Chicken in London",
+            "summary": "I've marvelled at the sheer number of Fried Chicken shops in London. KFC is the obvious, archetypal Fried Chicken joint, but the range of names I've seen while commuting through London on buses got me thinking about whether there was an A-Z of Fried Chicken takeaways in London.",
+            "date_modified": "2003-09-10T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/random/evp/",
@@ -634,7 +634,7 @@
             "id": "https://mark.honeychurch.org/blog/random/",
             "url": "https://mark.honeychurch.org/blog/random/",
             "title": "Mark's.random(musings);",
-            "date_modified": "2020-04-03T09:49:20.524Z"
+            "date_modified": "2020-04-21T00:05:18.407Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/random/lottery/",
@@ -715,17 +715,17 @@
             "date_modified": "2012-12-15T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/asa/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/asa/",
-            "title": "Advertising Standards Authority Complaints",
-            "summary": "A new website shows stats for ASA complaints. There are lots of companies making unsupported claims, such as Life Energy Designs - who tell us that the earth poisons us with Electromagnetic Waves (&quot;Geopathic Stress&quot;) and that we should purchase their devices to keep us protected.",
-            "date_modified": "2015-08-16T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/awards/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/awards/",
             "title": "Martin Harris is Supreme Winner at the Pharmacy Awards",
             "summary": "The awards are hosted by the Pharmacy Guild of NZ and Pharmacy Today.",
+            "date_modified": "2015-08-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/asa/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/asa/",
+            "title": "Advertising Standards Authority Complaints",
+            "summary": "A new website shows stats for ASA complaints. There are lots of companies making unsupported claims, such as Life Energy Designs - who tell us that the earth poisons us with Electromagnetic Waves (&quot;Geopathic Stress&quot;) and that we should purchase their devices to keep us protected.",
             "date_modified": "2015-08-16T00:00:00.000Z"
         },
         {
@@ -736,17 +736,17 @@
             "date_modified": "2015-08-16T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.526Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/jim/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/jim/",
             "title": "Dr Jim Mason - Creationist",
             "summary": "Dr Mason is currently touring in New Zealand:",
             "date_modified": "2015-08-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.409Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/16/naholo/",
@@ -766,7 +766,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.526Z"
+            "date_modified": "2020-04-21T00:05:18.409Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/supplements/",
@@ -793,20 +793,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.526Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/lama/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/lama/",
-            "title": "Dalai Lama Says a Female Successor Should Be Very Attractive",
-            "summary": "The Dalai Lama has spoken about his successor, and suggested that if it's a woman, they would have to be attractive.",
-            "date_modified": "2015-09-27T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.409Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/moon/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/moon/",
             "title": "Blood Moon on September 28 will bring huge earth-destroying earthquakes",
             "summary": "A blood moon is a new name for a lunar eclipse, where the earth travels between the sun and the moon. The full moon turns red.",
+            "date_modified": "2015-09-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/lama/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/27/lama/",
+            "title": "Dalai Lama Says a Female Successor Should Be Very Attractive",
+            "summary": "The Dalai Lama has spoken about his successor, and suggested that if it's a woman, they would have to be attractive.",
             "date_modified": "2015-09-27T00:00:00.000Z"
         },
         {
@@ -820,7 +820,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.527Z"
+            "date_modified": "2020-04-21T00:05:18.409Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/04/ghost/",
@@ -840,7 +840,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/04/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/10/04/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.527Z"
+            "date_modified": "2020-04-21T00:05:18.410Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/04/mars/",
@@ -871,13 +871,6 @@
             "date_modified": "2015-10-11T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/climate/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/climate/",
-            "title": "Perth Electrical Engineer finds errors in climate models",
-            "summary": "Dr David Evans has found that, while the underlying physics of the model is correct, it had been applied incorrectly.",
-            "date_modified": "2015-10-11T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/ghost/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/ghost/",
             "title": "Online real estate agency offers ghost-free home certification",
@@ -885,10 +878,17 @@
             "date_modified": "2015-10-11T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/climate/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/climate/",
+            "title": "Perth Electrical Engineer finds errors in climate models",
+            "summary": "Dr David Evans has found that, while the underlying physics of the model is correct, it had been applied incorrectly.",
+            "date_modified": "2015-10-11T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.527Z"
+            "date_modified": "2020-04-21T00:05:18.410Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/11/magnesleep/",
@@ -915,7 +915,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/10/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/10/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.528Z"
+            "date_modified": "2020-04-21T00:05:18.410Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/11/15/end/",
@@ -925,29 +925,36 @@
             "date_modified": "2015-11-15T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/ignobel/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/ignobel/",
+            "title": "IgNobel Prizes",
+            "summary": "The Ig Nobel Prizes honor achievements that make people laugh, and then think. The prizes are intended to celebrate the unusual, honor the imaginative — and spur people's interest in science, medicine, and technology.",
+            "date_modified": "2015-09-20T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/11/15/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/11/15/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.528Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/11/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/11/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.528Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/cancer/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/cancer/",
-            "title": "Faith healer Rod Parsley seeks conventional treatment for throat cancer",
-            "summary": "Rod Parsley of the World Harvest church isn't relying on his healing abilities to treat his throat cancer but is seeking actual medical treatments.",
-            "date_modified": "2015-12-13T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.411Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/astrology/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/astrology/",
             "title": "Save the Wellington Astrology Centre",
             "summary": "The Wellington Astrology centre, a drop-in office in central Wellington, is struggling to make ends meet and has turned to Pledge Me to raise funds. It's been running since 2011, but now needs $3,000 to cover the next 3 months of bills.",
+            "date_modified": "2015-12-13T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/11/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/11/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.411Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/cancer/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/cancer/",
+            "title": "Faith healer Rod Parsley seeks conventional treatment for throat cancer",
+            "summary": "Rod Parsley of the World Harvest church isn't relying on his healing abilities to treat his throat cancer but is seeking actual medical treatments.",
             "date_modified": "2015-12-13T00:00:00.000Z"
         },
         {
@@ -961,7 +968,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.528Z"
+            "date_modified": "2020-04-21T00:05:18.411Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/12/13/osteopath/",
@@ -995,13 +1002,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/12/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/12/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.529Z"
+            "date_modified": "2020-04-21T00:05:18.411Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2015/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2015/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.529Z"
+            "date_modified": "2020-04-21T00:05:18.411Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/07/antioxidant/",
@@ -1014,7 +1021,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/07/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/07/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.529Z"
+            "date_modified": "2020-04-21T00:05:18.411Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/07/kfc/",
@@ -1085,7 +1092,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/14/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/14/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.530Z"
+            "date_modified": "2020-04-21T00:05:18.412Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/14/yeti/",
@@ -1105,7 +1112,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/21/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/21/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.530Z"
+            "date_modified": "2020-04-21T00:05:18.412Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/21/monster/",
@@ -1153,7 +1160,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/28/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/28/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.531Z"
+            "date_modified": "2020-04-21T00:05:18.413Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/28/iv/",
@@ -1170,17 +1177,17 @@
             "date_modified": "2016-02-28T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.413Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/28/talc/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/28/talc/",
             "title": "Johnson & Johnson ordered to pay more than AU$100 million in suit linking talcum powder to ovarian cancer",
             "summary": "Jacqueline Fox, who died last year, had used Johnson &amp; Johnson's talcum powder for 35 years on her genitals.",
             "date_modified": "2016-02-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/02/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/02/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.531Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/herbs/",
@@ -1193,20 +1200,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.531Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/mandala/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/mandala/",
-            "title": "Adult Coloring Books and Mandalas, A Warning For Christians",
-            "summary": "A Christian blogger has warned that mandalas in adult colouring in books could be dangerous. She suggests that the magical new age claims made about mandalas are true, that they have the ability to heal if you meditate on them and that a good way to do this is to colour them in. Of course, as these magical claims are not Christian, they must be bad and Christians should stay away from them.",
-            "date_modified": "2016-03-13T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.413Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/mandela/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/mandela/",
             "title": "The Mandela Effect",
             "summary": "The Mandela Effect is where people have false memories of past events, and decide that there's been a jump to an alternative universe where history is different.",
+            "date_modified": "2016-03-13T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/mandala/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/03/13/mandala/",
+            "title": "Adult Coloring Books and Mandalas, A Warning For Christians",
+            "summary": "A Christian blogger has warned that mandalas in adult colouring in books could be dangerous. She suggests that the magical new age claims made about mandalas are true, that they have the ability to heal if you meditate on them and that a good way to do this is to colour them in. Of course, as these magical claims are not Christian, they must be bad and Christians should stay away from them.",
             "date_modified": "2016-03-13T00:00:00.000Z"
         },
         {
@@ -1220,7 +1227,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/03/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/03/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.532Z"
+            "date_modified": "2020-04-21T00:05:18.414Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/charity/",
@@ -1247,20 +1254,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.532Z"
+            "date_modified": "2020-04-21T00:05:18.414Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/lotto/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/lotto/",
             "title": "Luckiest Lotto stores revealed",
             "summary": "The NZ Herald published a list of the top 5 luckiest stores, and went so far as to claim that your chances of winning the lottery would increase if you visit one of these stores!",
-            "date_modified": "2016-04-17T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/mind/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/mind/",
-            "title": "Skeptics' visit to the Mind Body Spirit Fair",
-            "summary": "A group of 9 skeptics visited the Mind Body Spirit fair in Taita, Wellington yesterday. We had a good time, and saw lots of weird and wonderful things on offer.",
             "date_modified": "2016-04-17T00:00:00.000Z"
         },
         {
@@ -1271,10 +1271,17 @@
             "date_modified": "2016-04-17T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/mind/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/04/17/mind/",
+            "title": "Skeptics' visit to the Mind Body Spirit Fair",
+            "summary": "A group of 9 skeptics visited the Mind Body Spirit fair in Taita, Wellington yesterday. We had a good time, and saw lots of weird and wonderful things on offer.",
+            "date_modified": "2016-04-17T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/04/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/04/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.532Z"
+            "date_modified": "2020-04-21T00:05:18.415Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/05/1080/",
@@ -1302,7 +1309,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/05/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/05/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.533Z"
+            "date_modified": "2020-04-21T00:05:18.415Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/05/limbaugh/",
@@ -1329,7 +1336,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.533Z"
+            "date_modified": "2020-04-21T00:05:18.415Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/pugh/",
@@ -1346,18 +1353,18 @@
             "date_modified": "2016-06-12T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/sawdust/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/sawdust/",
-            "title": "Dodgy claims made about sawdust therapy in Auckland",
-            "summary": "Ikoi spa is offering an &quot;enzyme spa&quot;, where you are buried in rice bran, sawdust and other organic material. Claims are being made that this can help digestion, circulation and the immune system, but as usual there is no good evidence that it does anything of the sort!",
-            "date_modified": "2016-06-12T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/19/beauty/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/19/beauty/",
             "title": "Beauty Clinics are treating people instead of referring them",
             "summary": "Consumer NZ used secret shoppers to visit 46 NZ beauty clinics with a raised skin spot. The issue was such that the undercover person should have been referred to a GP, but 7 of the 46 clinics said that they were able to treat the problem themselves, with lasers, electrocution, needling or cutting.",
             "date_modified": "2016-06-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/sawdust/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/12/sawdust/",
+            "title": "Dodgy claims made about sawdust therapy in Auckland",
+            "summary": "Ikoi spa is offering an &quot;enzyme spa&quot;, where you are buried in rice bran, sawdust and other organic material. Claims are being made that this can help digestion, circulation and the immune system, but as usual there is no good evidence that it does anything of the sort!",
+            "date_modified": "2016-06-12T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/19/bilderberg/",
@@ -1384,7 +1391,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/19/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/19/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.534Z"
+            "date_modified": "2020-04-21T00:05:18.416Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/19/silver/",
@@ -1408,17 +1415,17 @@
             "date_modified": "2016-06-26T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.534Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/robbins/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/robbins/",
             "title": "Tony Robbins followers injured walking on hot coals",
             "summary": "Tony Robbins is a very popular motivational speaker, and charges US$1,000 or more for a high energy day of talks. Events have names such as \"Date with Destiny\", \"Life and Wealth Mastery\" and \"Unleash the Power Within\". Tony's website has testimonials from famous celebrities, such as Hugh Jackman, Bill Clinton and Serena Williams. Video of Tony Robbins events look a lot like evangelical christian sunday services - lots of music, jumping around and highly emotional sermons.",
             "date_modified": "2016-06-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.416Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/26/selfies/",
@@ -1445,7 +1452,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/06/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/06/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.535Z"
+            "date_modified": "2020-04-21T00:05:18.417Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/03/glyphosate/",
@@ -1465,7 +1472,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/03/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/03/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.535Z"
+            "date_modified": "2020-04-21T00:05:18.417Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/03/jail/",
@@ -1498,7 +1505,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/10/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/10/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.536Z"
+            "date_modified": "2020-04-21T00:05:18.417Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/10/lottery/",
@@ -1522,13 +1529,6 @@
             "date_modified": "2016-07-17T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/fsm/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/fsm/",
-            "title": "Sad news for Pastafarianism",
-            "summary": "A couple of weeks ago Rachel Hoover from Illinois was allowed to use a photo with her wearing a colander for her driver's license, as it is the usual headgear for pastafarians. This week she has been asked by the Secretary of State, John Kerry, to submit a new driver's license photo without the colander.",
-            "date_modified": "2016-07-17T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/fyi/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/fyi/",
             "title": "FYI needs help categorising OIA requests",
@@ -1536,10 +1536,17 @@
             "date_modified": "2016-07-17T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/fsm/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/fsm/",
+            "title": "Sad news for Pastafarianism",
+            "summary": "A couple of weeks ago Rachel Hoover from Illinois was allowed to use a photo with her wearing a colander for her driver's license, as it is the usual headgear for pastafarians. This week she has been asked by the Secretary of State, John Kerry, to submit a new driver's license photo without the colander.",
+            "date_modified": "2016-07-17T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.537Z"
+            "date_modified": "2020-04-21T00:05:18.418Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/17/natural/",
@@ -1559,7 +1566,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/07/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/07/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.537Z"
+            "date_modified": "2020-04-21T00:05:18.418Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/07/icke/",
@@ -1570,17 +1577,17 @@
             "date_modified": "2016-08-07T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/07/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/07/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.537Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/21/brian/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/21/brian/",
             "title": "Brian Cox argues with Australian senator about climate change",
             "summary": "Brian Cox argued with Australian senator Malcolm Roberts on TV show Q&amp;A about climate change, accusing NASA and other organisations of &quot;corrupting&quot; temperature data.",
             "date_modified": "2016-08-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/07/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/07/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.418Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/21/chlorine/",
@@ -1593,7 +1600,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/21/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/21/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.537Z"
+            "date_modified": "2020-04-21T00:05:18.418Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/21/murder/",
@@ -1624,17 +1631,10 @@
             "date_modified": "2016-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/",
-            "title": "Chiropractic for Pregnancy Issues?",
-            "summary": "A woman has made the news today because she has been denied treatment for a medical condition, symphysis pubis dysfunction, related to her pregnancy. Southern Cross Insurance have said that the reason for not paying for treatment is that pregnant women in New Zealand are eligible for free healthcare, and so their policies don't cover pregnancy.",
-            "date_modified": "2016-08-28T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.538Z"
+            "date_modified": "2020-04-21T00:05:18.419Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/processed/",
@@ -1644,13 +1644,6 @@
             "date_modified": "2016-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/gop/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/gop/",
-            "title": "GOP Candidates and Vaccines",
-            "summary": "There was a Republican candidate debate on Wednesday, and I thought it would be good to look at the wrong-headed thinking of some of the candidates regarding vaccines.",
-            "date_modified": "2015-09-20T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/sbh/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/sbh/",
             "title": "SBH press complaints",
@@ -1658,17 +1651,17 @@
             "date_modified": "2016-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.538Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/18/altruism/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/18/altruism/",
             "title": "Free Effective Altruism book",
             "summary": "The Effective Altruism movement is becoming popular in New Zealand. The basic idea is that logic and critical thinking can be applied to charity giving, and that charities range from being great at helping people to being as good as useless, or even detrimental.",
             "date_modified": "2016-09-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.419Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/18/better/",
@@ -1688,7 +1681,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/18/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/18/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.538Z"
+            "date_modified": "2020-04-21T00:05:18.419Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.419Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/18/nonsense/",
@@ -1705,17 +1704,17 @@
             "date_modified": "2016-09-18T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/clinic/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/clinic/",
-            "title": "Dodgy Thai cancer clinic criticised",
-            "summary": "The infamous Brio clinic in Thailand has sucked in unsuspecting kiwis, promising to treat them with unconventional therapies for cancer. One unfortunate victim, Holly Devine, died after raising $55,000 on Givealittle for treatment at the clinic, but before attending the clinic.",
-            "date_modified": "2016-09-25T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/fluoride/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/fluoride/",
             "title": "Anti Fluoride Group to promote DHB Candidates",
             "summary": "There is currently a bill working its way through parliament which proposes moving the decision to fluoridate water supplies away from local councils and into the hands of DHBs. This appears to be a very good move, as fluoridation is a health issue and DHBs are much better suited to weighing up the pros and cons than local councils are. Councils in NZ have historically been bamboozled by Fluoride Free NZ, our local anti fluoride group, and have in some cases made decisions to remove fluoride.",
+            "date_modified": "2016-09-25T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/clinic/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/clinic/",
+            "title": "Dodgy Thai cancer clinic criticised",
+            "summary": "The infamous Brio clinic in Thailand has sucked in unsuspecting kiwis, promising to treat them with unconventional therapies for cancer. One unfortunate victim, Holly Devine, died after raising $55,000 on Givealittle for treatment at the clinic, but before attending the clinic.",
             "date_modified": "2016-09-25T00:00:00.000Z"
         },
         {
@@ -1729,7 +1728,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.539Z"
+            "date_modified": "2020-04-21T00:05:18.420Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/25/murder/",
@@ -1742,7 +1741,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/09/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/09/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.539Z"
+            "date_modified": "2020-04-21T00:05:18.420Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/bigfoot/",
@@ -1753,17 +1752,17 @@
             "date_modified": "2016-10-21T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.420Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/breasts/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/breasts/",
             "title": "Chinese Man telling women's futures by touching their breasts!",
             "summary": "A Chinese man appears to have invented a novel way to tell the future. He puts his hand down a woman's top, feels her breast, and presumably uses the information he gleans to work out what is in store for the woman. Of course, by using cold reading a fortune teller",
             "date_modified": "2016-10-21T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.539Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/medsafe/",
@@ -1773,17 +1772,17 @@
             "date_modified": "2016-10-21T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/10/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.540Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/zenteq/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/10/21/zenteq/",
             "title": "Rival \"health\" bracelet sellers in NZ end up in punch-up",
             "summary": "An incident at the Hawke's Bay Better Home and Living Show has made the news because it made the courtroom. There were sellers of two different brands of health bracelet at the show, Shuzi and Zenteq.",
             "date_modified": "2016-10-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/10/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/10/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.421Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/13/conference/",
@@ -1804,7 +1803,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/13/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/11/13/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.540Z"
+            "date_modified": "2020-04-21T00:05:18.421Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/13/vice/",
@@ -1821,13 +1820,6 @@
             "date_modified": "2016-11-27T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/conference/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/conference/",
-            "title": "Skeptics Conference",
-            "summary": "We have some great speakers for this year's Skeptics Conference, including Susan Gerbic who runs the Guerrilla Skepticism on Wikipedia project. Her team put a lot of work into adding a skeptical angle to Wikipedia pages and fleshing out pages of interest to skeptics, such as those of famous scientists.",
-            "date_modified": "2016-11-27T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/earthquake/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/earthquake/",
             "title": "Lots of earthquake nonsense",
@@ -1838,13 +1830,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.540Z"
+            "date_modified": "2020-04-21T00:05:18.421Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/conference/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/11/27/conference/",
+            "title": "Skeptics Conference",
+            "summary": "We have some great speakers for this year's Skeptics Conference, including Susan Gerbic who runs the Guerrilla Skepticism on Wikipedia project. Her team put a lot of work into adding a skeptical angle to Wikipedia pages and fleshing out pages of interest to skeptics, such as those of famous scientists.",
+            "date_modified": "2016-11-27T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/11/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/11/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.540Z"
+            "date_modified": "2020-04-21T00:05:18.421Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/12/04/conference/",
@@ -1857,7 +1856,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/12/04/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/12/04/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.540Z"
+            "date_modified": "2020-04-21T00:05:18.421Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/12/18/colin/",
@@ -1877,7 +1876,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/12/18/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/12/18/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
+            "date_modified": "2020-04-21T00:05:18.422Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/12/18/kinesiology/",
@@ -1904,27 +1903,19 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/12/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/12/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
+            "date_modified": "2020-04-21T00:05:18.422Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2016/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2016/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
+            "date_modified": "2020-04-21T00:05:18.422Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/01/22/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/01/22/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/01/22/scientology/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/01/22/scientology/",
-            "title": "Scientology \"Ideal Org\" Grand Opening",
-            "summary": "Scientology are pushing to open new &quot;Ideal Orgs&quot; around the world, and Auckland's old Whitecliffe Art school building has been converted to a new Org. It was purchased in 2007 with a $10 million loan from Scientology central, but recently local Scientologists borrowed a further $6 million to restore and modernise the building.",
-            "image": "https://mark.honeychurch.org/./IMG_0172.jpg",
-            "date_modified": "2017-01-22T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.422Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/01/29/creation/",
@@ -1935,16 +1926,24 @@
             "date_modified": "2017-01-29T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/01/22/scientology/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/01/22/scientology/",
+            "title": "Scientology \"Ideal Org\" Grand Opening",
+            "summary": "Scientology are pushing to open new &quot;Ideal Orgs&quot; around the world, and Auckland's old Whitecliffe Art school building has been converted to a new Org. It was purchased in 2007 with a $10 million loan from Scientology central, but recently local Scientologists borrowed a further $6 million to restore and modernise the building.",
+            "image": "https://mark.honeychurch.org/./IMG_0172.jpg",
+            "date_modified": "2017-01-22T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/01/29/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/01/29/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
+            "date_modified": "2020-04-21T00:05:18.422Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/01/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/01/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
+            "date_modified": "2020-04-21T00:05:18.422Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/fraudster/",
@@ -1954,17 +1953,17 @@
             "date_modified": "2017-02-05T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.422Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/gervais/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/gervais/",
             "title": "Ricky Gervais talks about science vs belief",
             "summary": "This is an argument I've never heard before against an idea I occasionally hear - that belief in science is just like religion, because it requires faith. In fact, I last heard this argument only a couple of weeks ago.",
             "date_modified": "2017-02-05T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.541Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/05/scientology/",
@@ -1985,7 +1984,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/19/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/02/19/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.542Z"
+            "date_modified": "2020-04-21T00:05:18.423Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/19/lottery/",
@@ -2013,7 +2012,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/02/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/02/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.542Z"
+            "date_modified": "2020-04-21T00:05:18.423Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/05/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/05/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.423Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/05/rea/",
@@ -2024,23 +2029,11 @@
             "date_modified": "2017-03-05T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/05/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/05/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.542Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/fake/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/fake/",
             "title": "Australian who faked cancer diagnosis and cure found guilty",
             "summary": "Belle Gibson of Australia, who lied about a cancer diagnosis to sell alternative medicine, has been found guilty of &quot;defrauding clients and profiting from false cancer claims&quot;.",
             "date_modified": "2017-03-19T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.542Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/murder/",
@@ -2057,10 +2050,16 @@
             "date_modified": "2017-03-26T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/19/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.424Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/26/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/26/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.543Z"
+            "date_modified": "2020-04-21T00:05:18.424Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/26/nzmj/",
@@ -2080,13 +2079,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/03/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/03/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.543Z"
+            "date_modified": "2020-04-21T00:05:18.424Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/02/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/04/02/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.543Z"
+            "date_modified": "2020-04-21T00:05:18.424Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/02/nasa/",
@@ -2113,7 +2112,14 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.543Z"
+            "date_modified": "2020-04-21T00:05:18.425Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/vaxxed/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/vaxxed/",
+            "title": "Otago Uni Screened Vaxxed",
+            "summary": "Otago University have defended their decision to allow a screening of Vaxxed, citing free speech and a need to controversial topics to be discussed.",
+            "date_modified": "2017-04-09T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/tekiri/",
@@ -2132,17 +2138,10 @@
             "date_modified": "2017-04-23T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/vaxxed/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/04/09/vaxxed/",
-            "title": "Otago Uni Screened Vaxxed",
-            "summary": "Otago University have defended their decision to allow a screening of Vaxxed, citing free speech and a need to controversial topics to be discussed.",
-            "date_modified": "2017-04-09T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/23/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/04/23/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.544Z"
+            "date_modified": "2020-04-21T00:05:18.425Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/23/kelvin/",
@@ -2155,7 +2154,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/04/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/04/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.544Z"
+            "date_modified": "2020-04-21T00:05:18.425Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/cancer/",
@@ -2166,18 +2165,18 @@
             "date_modified": "2017-05-07T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.544Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/nigel/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/nigel/",
             "title": "Nigel Antony Gray Still Crazy",
             "summary": "Nigel Antony Gray, who shot to infamy last November when he &quot;predicted&quot; an earthquake, gave a talk in Petone last night.",
             "image": "https://mark.honeychurch.org/./image2.jpg",
             "date_modified": "2017-05-07T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/07/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.425Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/blasphemy/",
@@ -2187,17 +2186,17 @@
             "date_modified": "2017-05-21T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.544Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/flat/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/flat/",
             "title": "Proof of a flat earth",
             "summary": "Someone in the US recently flew on a plane with a spirit level to prove that the earth is flat. Instead he demonstrated a misunderstanding of physics.",
             "date_modified": "2017-05-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.426Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/21/maori/",
@@ -2210,7 +2209,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/05/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/05/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.545Z"
+            "date_modified": "2020-04-21T00:05:18.426Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/bigelow/",
@@ -2227,17 +2226,17 @@
             "date_modified": "2017-06-04T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.545Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/hansford/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/hansford/",
             "title": "Nice article about Dave Hansford and 1080",
             "summary": "Dave Hansford from Nelson has written a book - called &quot;Protecting Paradise: 1080 and the Fight to Save New Zealand's Wildlife&quot; - about New Zealand's use of the poison 1080. The name appears to be a play on the Graf Boys' documentary Poisoning Paradise, which tried to paint a picture that 1080 is not as safe as the government says it is.",
             "date_modified": "2017-06-04T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.426Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/04/wasp/",
@@ -2255,17 +2254,17 @@
             "date_modified": "2017-06-11T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.545Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/credulous/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/credulous/",
             "title": "Credulous alt-med article on Radio NZ",
             "summary": "Radio NZ published an article this week that seemed to accept, without evidence, claims that traditional Maori medicine can help with medical conditions including cancer.",
             "date_modified": "2017-06-11T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.427Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/11/journals/",
@@ -2289,17 +2288,17 @@
             "date_modified": "2017-06-18T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.546Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/jw/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/jw/",
             "title": "I was visited by Jehovah's Witnesses",
             "summary": "The Jehovah's Witnesses came around for an hour or more yesterday, having previously chatted with me last week.",
             "date_modified": "2017-06-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.427Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/18/oil/",
@@ -2312,7 +2311,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/06/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/06/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.546Z"
+            "date_modified": "2020-04-21T00:05:18.427Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/02/baby/",
@@ -2325,7 +2324,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/02/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/02/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.546Z"
+            "date_modified": "2020-04-21T00:05:18.427Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/02/infowars/",
@@ -2359,20 +2358,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.547Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/siggi/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/siggi/",
-            "title": "Siggi Henry profiled in the Spinoff",
-            "summary": "The Spinoff did a great job of looking into Hamilton Councillor Siggi Henry's views on a variety of topics. It turns out that she's anti fluoride, anti-fat (she recently said that obesity was a risk to others as fat people could fall on you and hurt you) and anti-vaccine.",
-            "date_modified": "2017-07-16T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.428Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/vaxxed/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/vaxxed/",
             "title": "Vaxxed is still a nuisance in NZ",
             "summary": "The group responsible for bringing Vaxxed, an anti-vaccine movie, to Australia and New Zealand is still causing issues in our country. There are more screenings of Vaxxed coming up, including one in Wellington that I will try to attend:",
+            "date_modified": "2017-07-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/siggi/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/16/siggi/",
+            "title": "Siggi Henry profiled in the Spinoff",
+            "summary": "The Spinoff did a great job of looking into Hamilton Councillor Siggi Henry's views on a variety of topics. It turns out that she's anti fluoride, anti-fat (she recently said that obesity was a risk to others as fat people could fall on you and hurt you) and anti-vaccine.",
             "date_modified": "2017-07-16T00:00:00.000Z"
         },
         {
@@ -2393,7 +2392,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/30/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/30/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.547Z"
+            "date_modified": "2020-04-21T00:05:18.428Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/30/police/",
@@ -2406,14 +2405,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/07/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/07/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.547Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/doll/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/doll/",
-            "title": "Haunted Doll \"strikes\" again",
-            "summary": "Debbie Merrick bought a doll for £5 and then placed the doll on eBay, after making international news by talking about the doll being haunted. Apparently the doll scratched Debbie's husband, although the doll was not seen causing the scratches - the husband simply woke up with scratches on himself. The determination that the doll caused the scratches came from a psychic friend.",
-            "date_modified": "2017-08-06T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.428Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/conned/",
@@ -2423,17 +2415,17 @@
             "date_modified": "2017-08-06T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/doll/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/doll/",
+            "title": "Haunted Doll \"strikes\" again",
+            "summary": "Debbie Merrick bought a doll for £5 and then placed the doll on eBay, after making international news by talking about the doll being haunted. Apparently the doll scratched Debbie's husband, although the doll was not seen causing the scratches - the husband simply woke up with scratches on himself. The determination that the doll caused the scratches came from a psychic friend.",
+            "date_modified": "2017-08-06T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.548Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/jacinda/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/jacinda/",
-            "title": "Jacinta Ardern Conspiracy!",
-            "summary": "Vinny Eastwood has suggested that the new head of the Labour Party is in league with the Freemasons:",
-            "date_modified": "2017-08-06T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.429Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/lotto/",
@@ -2443,10 +2435,17 @@
             "date_modified": "2017-08-06T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/jacinda/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/06/jacinda/",
+            "title": "Jacinta Ardern Conspiracy!",
+            "summary": "Vinny Eastwood has suggested that the new head of the Labour Party is in league with the Freemasons:",
+            "date_modified": "2017-08-06T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/27/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/27/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.548Z"
+            "date_modified": "2020-04-21T00:05:18.429Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/27/naturopath/",
@@ -2463,17 +2462,17 @@
             "date_modified": "2017-08-27T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.548Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/09/03/apocalypse/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/09/03/apocalypse/",
             "title": "Nonsense book gets free media coverage",
             "summary": "The Herald published an article about someone's prediction that the world will end in a few weeks. David Meade, described as a Christian numerologist, claims that on or just after September the 20th (my birthday!), the world will meet a fiery end.",
             "date_modified": "2017-09-03T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/08/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/08/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.429Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/09/03/cancer/",
@@ -2486,7 +2485,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/09/03/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/09/03/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.548Z"
+            "date_modified": "2020-04-21T00:05:18.429Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/09/03/rectangle/",
@@ -2506,7 +2505,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/09/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/09/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.549Z"
+            "date_modified": "2020-04-21T00:05:18.430Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/01/apocalypse/",
@@ -2526,7 +2525,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/01/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/01/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.549Z"
+            "date_modified": "2020-04-21T00:05:18.430Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/01/pharmacy/",
@@ -2539,20 +2538,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.549Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/",
-            "title": "Sun protection pill goes on sale in NZ",
-            "summary": "NZ now has its second ingested product for sun protection being sold. The first hit the market a few years ago, and is from a company called Osmosis Skincare. Their product contains &quot;harmonised&quot; water, which is described as:",
-            "date_modified": "2017-10-08T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.430Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/qsb/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/qsb/",
             "title": "New healing device about to go on sale in NZ",
             "summary": "A couple of years ago I went along to a talk in Wellington about a new device called the QTB (Quantum TrailBlazer), now rebranded as a QSB - Quantum Scalar Box. Back then the device was made from a piece of sewage pipe spray painted black, with several blue LEDs around the top. We were told to believe that the device was emitting &quot;scalar waves&quot; (a pseudo-scientific idea) on the Solfeggio frequencies. I sat there for half an hour while the device went through a range of these frequencies, supposedly healing areas of my life.",
+            "date_modified": "2017-10-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/",
+            "title": "Sun protection pill goes on sale in NZ",
+            "summary": "NZ now has its second ingested product for sun protection being sold. The first hit the market a few years ago, and is from a company called Osmosis Skincare. Their product contains &quot;harmonised&quot; water, which is described as:",
             "date_modified": "2017-10-08T00:00:00.000Z"
         },
         {
@@ -2573,7 +2572,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/15/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/15/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.550Z"
+            "date_modified": "2020-04-21T00:05:18.431Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/15/lie/",
@@ -2593,7 +2592,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/10/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/10/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.550Z"
+            "date_modified": "2020-04-21T00:05:18.431Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/conference/",
@@ -2603,17 +2602,17 @@
             "date_modified": "2017-11-05T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.431Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/glyphosate/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/glyphosate/",
             "title": "Auckland thinking of dropping Glyphosate",
             "summary": "Auckland council are &quot;revisiting&quot; their decision to use popular weedkiller glyphosate, more commonly known as RoundUp. Auckland councillor Wayne Walker seems to be pushing a move to stop using the weedkiller, despite the fact that Federated Farmers and New Zealand's EPA say that it is safe.",
             "date_modified": "2017-11-05T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.550Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/05/stranded/",
@@ -2631,18 +2630,18 @@
             "date_modified": "2017-11-05T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/ghost/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/ghost/",
-            "title": "Ghost in TradeMe mirror",
-            "summary": "After a ghost was spotted in a picture of a mirror being sold in a TradeMe auction, Wendy McCawe from Wellington Photographic Supplies quickly spotted that the &quot;ghost&quot; in question was actually a picture of the lead character from TV show Outlander. I'm impressed that she spotted it - I put the image through online forensic image tool Forensically, and couldn't see anything.",
-            "date_modified": "2017-11-12T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/green/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/green/",
             "title": "Go Green Expo",
             "summary": "There's lots of nonsense at this year's Go Green expo, and I'll be there today sampling the weird and wonderful.",
             "image": "https://mark.honeychurch.org/./IMG_1737.jpg",
+            "date_modified": "2017-11-12T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/ghost/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/ghost/",
+            "title": "Ghost in TradeMe mirror",
+            "summary": "After a ghost was spotted in a picture of a mirror being sold in a TradeMe auction, Wendy McCawe from Wellington Photographic Supplies quickly spotted that the &quot;ghost&quot; in question was actually a picture of the lead character from TV show Outlander. I'm impressed that she spotted it - I put the image through online forensic image tool Forensically, and couldn't see anything.",
             "date_modified": "2017-11-12T00:00:00.000Z"
         },
         {
@@ -2656,7 +2655,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.551Z"
+            "date_modified": "2020-04-21T00:05:18.432Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/12/libby/",
@@ -2670,7 +2669,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/11/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/11/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.551Z"
+            "date_modified": "2020-04-21T00:05:18.432Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/03/acupuncture/",
@@ -2705,13 +2704,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/03/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/12/03/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.552Z"
+            "date_modified": "2020-04-21T00:05:18.432Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.552Z"
+            "date_modified": "2020-04-21T00:05:18.432Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/nhs/",
@@ -2721,17 +2720,17 @@
             "date_modified": "2017-12-17T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/oto/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/oto/",
-            "title": "My visit to the OTO",
-            "summary": "A friend recently contacted the OTO to ask about us attending one of their services, and last night we went to their Gnostic Mass in Wellington.",
-            "date_modified": "2017-12-17T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/pastafarian/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/pastafarian/",
             "title": "First Pastafarian Citizenship in NZ",
             "summary": "Adding legitimacy to the Church of the Flying Spaghetti Monster, the first citizenship has just taken place with a new citizen wearing a colander on his head. Bjorn Oback, from Germany, wore a colander in Hamilton recently.",
+            "date_modified": "2017-12-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/oto/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2017/12/17/oto/",
+            "title": "My visit to the OTO",
+            "summary": "A friend recently contacted the OTO to ask about us attending one of their services, and last night we went to their Gnostic Mass in Wellington.",
             "date_modified": "2017-12-17T00:00:00.000Z"
         },
         {
@@ -2752,13 +2751,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/12/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/12/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.552Z"
+            "date_modified": "2020-04-21T00:05:18.433Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2017/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2017/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.552Z"
+            "date_modified": "2020-04-21T00:05:18.433Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/grounding/",
@@ -2772,20 +2771,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.552Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/naturopath/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/naturopath/",
-            "title": "Ex naturopath being sued",
-            "summary": "Britt Hermes used to be a naturopath. She graduated and treated patients in the US, before realising that naturopathy was all bluster and no substance, and she wasn't helping anyone with their medical issues.",
-            "date_modified": "2018-01-21T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.433Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/respen/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/respen/",
             "title": "Homeopathic treatment for Autism?",
             "summary": "One of the issues with fundraising sites like IndieGogo and Kickstarter is that there's a lack of adequate oversight to ensure that the products being offered are actually plausible. Sometimes things end up on my radar that look too good to be true, and at other times they're just plain ridiculous.",
+            "date_modified": "2018-01-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/naturopath/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/21/naturopath/",
+            "title": "Ex naturopath being sued",
+            "summary": "Britt Hermes used to be a naturopath. She graduated and treated patients in the US, before realising that naturopathy was all bluster and no substance, and she wasn't helping anyone with their medical issues.",
             "date_modified": "2018-01-21T00:00:00.000Z"
         },
         {
@@ -2799,7 +2798,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.553Z"
+            "date_modified": "2020-04-21T00:05:18.433Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/peppering/",
@@ -2809,17 +2808,17 @@
             "date_modified": "2018-01-28T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/pet/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/pet/",
-            "title": "Unvaccinated Pets",
-            "summary": "As if people not vaccinating their kids isn't enough nonsense to deal with, there's an increasing trend for pet owners to not vaccinate their pets as well. This appears to be due to silly concerns such as that their pets might suffer from autism, despite the fact that autism hasn't been observed in animals.",
-            "date_modified": "2018-01-28T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/quake/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/quake/",
             "title": "Another quake prediction",
             "summary": "Frank Hoogerbeets from the Netherlands has predicted a major earthquake of 8 or 9 in the first week of March. His predictions says that &quot;electromagnetic amplifications caused by planetary alignments&quot; will increase seismic activity, and that this will be caused by the alignment of 6 planets.",
+            "date_modified": "2018-01-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/pet/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/28/pet/",
+            "title": "Unvaccinated Pets",
+            "summary": "As if people not vaccinating their kids isn't enough nonsense to deal with, there's an increasing trend for pet owners to not vaccinate their pets as well. This appears to be due to silly concerns such as that their pets might suffer from autism, despite the fact that autism hasn't been observed in animals.",
             "date_modified": "2018-01-28T00:00:00.000Z"
         },
         {
@@ -2833,20 +2832,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/01/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/01/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.553Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/asa/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/asa/",
-            "title": "The ASA has written some new guidelines… and they're crap!",
-            "summary": "The ASA have had issues recently with the amount of complaints us skeptics have been submitting to them for dodgy medical claims. It appears that as a result of a particular complaint about an acupuncturist they've decided to write a guideline for healthcare related complaints.",
-            "date_modified": "2018-02-11T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.434Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/cannabis/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/cannabis/",
             "title": "Can Cannabis Cure Cancer?",
             "summary": "An Australian woman, Shona Leigh, has publicly spoken about how she supposedly cured herself of cervical cancer with cannabis oil. This story seems to be popular in NZ because of the new Labour government's recent efforts to relax our laws on medicinal cannabis use.",
+            "date_modified": "2018-02-11T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/asa/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/asa/",
+            "title": "The ASA has written some new guidelines… and they're crap!",
+            "summary": "The ASA have had issues recently with the amount of complaints us skeptics have been submitting to them for dodgy medical claims. It appears that as a result of a particular complaint about an acupuncturist they've decided to write a guideline for healthcare related complaints.",
             "date_modified": "2018-02-11T00:00:00.000Z"
         },
         {
@@ -2867,7 +2866,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.553Z"
+            "date_modified": "2020-04-21T00:05:18.434Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/11/water/",
@@ -2901,7 +2900,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/25/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/02/25/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.554Z"
+            "date_modified": "2020-04-21T00:05:18.435Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/25/number/",
@@ -2921,7 +2920,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/02/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/02/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.554Z"
+            "date_modified": "2020-04-21T00:05:18.435Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/11/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/03/11/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.435Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/11/ai/",
@@ -2929,12 +2934,6 @@
             "title": "New Zealand's own Fantastical AI",
             "summary": "The field of Artificial Intelligence is blooming at the moment, with companies like Google and Alexa delivering small, inexpensive devices to your living room for $75 that can listen to you talk and tell you the weather, order pizza and turn your TV on.",
             "date_modified": "2018-03-11T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/11/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/03/11/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.554Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/11/radiation/",
@@ -2968,7 +2967,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/18/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/03/18/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.555Z"
+            "date_modified": "2020-04-21T00:05:18.435Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/18/psychic/",
@@ -2976,6 +2975,12 @@
             "title": "Local psychic plays the odds, gets lucky",
             "summary": "Kelvin Cruickshank, one of our famous local psychics who has appeared on Sensing Murder, has &quot;helped&quot; a family to locate the body of &quot;Curly&quot; - an elderly gentleman called Raymond Stirling who went missing in Hamilton in January. A police search had been halted after 11 days with no luck, and then Curly's daughter in law ended up at one of Kelvin's paid shows (at $65 a ticket).",
             "date_modified": "2018-03-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/03/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.436Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/18/quack/",
@@ -2990,12 +2995,6 @@
             "title": "Auckland woman builds fence to keep radiation out",
             "summary": "7 Sharp have interviewed Marta Fisch on Waiheke Island, who has built an ugly looking metal box - three side walls - in her garden, to keep out &quot;radiation&quot;. Radiation in this sense is the kind of electromagnetic energy that is used to send TV signals and offer WiFi, and also background radiation from nature.",
             "date_modified": "2018-03-18T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/03/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/03/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.555Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/08/calocurb/",
@@ -3015,7 +3014,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/08/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/04/08/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.556Z"
+            "date_modified": "2020-04-21T00:05:18.436Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/08/psychic/",
@@ -3049,7 +3048,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/15/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/04/15/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.556Z"
+            "date_modified": "2020-04-21T00:05:18.437Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/15/nasa/",
@@ -3076,14 +3075,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.557Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/ken/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/ken/",
-            "title": "Ken Ring is predicting earthquakes again",
-            "summary": "I was contacted by a journalist for the Sunday Star times a few days ago with some questions about Ken Ring. He's predicting an earthquake for June or July the 13th to 15th.",
-            "date_modified": "2018-04-29T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.437Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/homeopathy/",
@@ -3093,10 +3085,17 @@
             "date_modified": "2018-04-29T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/ken/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/ken/",
+            "title": "Ken Ring is predicting earthquakes again",
+            "summary": "I was contacted by a journalist for the Sunday Star times a few days ago with some questions about Ken Ring. He's predicting an earthquake for June or July the 13th to 15th.",
+            "date_modified": "2018-04-29T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/04/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.557Z"
+            "date_modified": "2020-04-21T00:05:18.437Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/04/29/v2k/",
@@ -3120,17 +3119,17 @@
             "date_modified": "2018-05-13T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.438Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/dawkins/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/dawkins/",
             "title": "Dawkins has been to visit NZ",
             "summary": "Dawkins has been talking to audiences in NZ, and a local pastor took to Stuff to complain about him in an article. Now, I'm not saying that Dawkins is without flaws - it's common knowledge that he often opens his mouth on Twitter before thinking about what he's saying, and he's no stranger to controversy. But pastor Geoff Robson seems to have gone overboard in trying to protect his belief.",
             "date_modified": "2018-05-13T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.558Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/13/kangen/",
@@ -3158,7 +3157,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/27/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/05/27/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.558Z"
+            "date_modified": "2020-04-21T00:05:18.439Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/27/kangen/",
@@ -3192,7 +3191,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/05/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/05/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.559Z"
+            "date_modified": "2020-04-21T00:05:18.439Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/10/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/10/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.439Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/10/astrology/",
@@ -3200,12 +3205,6 @@
             "title": "Dr Oz promoting Astrology",
             "summary": "Dr Oz is up to his usual nonsense, promoting an author who claims that astrology can predict your health. Rebecca Gordon believes that the Vitruvian Man may hold the key to how the signs of the zodiac map to parts of our body and indicate health issues, and has a new book: &quot;Your Body and the Stars: The Zodiac As Your Wellness Guide&quot;.",
             "date_modified": "2018-06-10T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/10/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/10/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.559Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/10/nhs/",
@@ -3236,13 +3235,6 @@
             "date_modified": "2018-06-24T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/cannabis/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/cannabis/",
-            "title": "Cannabis Oil for cancer, again...",
-            "summary": "The NZ Herald has published a story about a woman whose terminal cancer was cured after she took cannabis oil. Of course, there's more to this story - isn't there always. In this case, the woman used both cannabis oil and chemotherapy to fight her cancer - no prizes for guessing which of those two will have helped her more. It also turns out that cancer was only &quot;terminal&quot; if the woman had not received any treatment. This is not what is normally considered to be a diagnosis of terminal cancer - terminal usually means that the cancer is not treatable with medicine, not that the cancer is not treatable without medicine.",
-            "date_modified": "2018-06-24T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/hotdog/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/hotdog/",
             "title": "Is hot dog water good for you?",
@@ -3250,10 +3242,23 @@
             "date_modified": "2018-06-24T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/cannabis/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/cannabis/",
+            "title": "Cannabis Oil for cancer, again...",
+            "summary": "The NZ Herald has published a story about a woman whose terminal cancer was cured after she took cannabis oil. Of course, there's more to this story - isn't there always. In this case, the woman used both cannabis oil and chemotherapy to fight her cancer - no prizes for guessing which of those two will have helped her more. It also turns out that cancer was only &quot;terminal&quot; if the woman had not received any treatment. This is not what is normally considered to be a diagnosis of terminal cancer - terminal usually means that the cancer is not treatable with medicine, not that the cancer is not treatable without medicine.",
+            "date_modified": "2018-06-24T00:00:00.000Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.560Z"
+            "date_modified": "2020-04-21T00:05:18.440Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.440Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/24/led/",
@@ -3263,23 +3268,17 @@
             "date_modified": "2018-06-24T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/06/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/06/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.560Z"
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/chiros/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/chiros/",
+            "title": "Chiropractors finding it hard to be ethical",
+            "summary": "Mark Hanna has written a great blog post detailing the issues the Chiropractic Board has had getting their members to abide by their codes and New Zealand law. While I'm not surprised to hear about Chiropractors' efforts to circumvent laws designed to protect patients, it is disappointing to hear. The Chair of the board wrote in their newsletter about a worrying experience she had:",
+            "date_modified": "2018-07-08T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/bullet/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/bullet/",
             "title": "Bullet repelling magic in Nigeria",
             "summary": "A seller of magic charms in Nigeria has been killed this week while demonstrating a bullet repelling charm. The sale of charms and potions is commonplace in Nigeria and other parts of Africa, and the charms are very popular.",
-            "date_modified": "2018-07-08T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/chiros/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/chiros/",
-            "title": "Chiropractors finding it hard to be ethical",
-            "summary": "Mark Hanna has written a great blog post detailing the issues the Chiropractic Board has had getting their members to abide by their codes and New Zealand law. While I'm not surprised to hear about Chiropractors' efforts to circumvent laws designed to protect patients, it is disappointing to hear. The Chair of the board wrote in their newsletter about a worrying experience she had:",
             "date_modified": "2018-07-08T00:00:00.000Z"
         },
         {
@@ -3300,7 +3299,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/08/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.561Z"
+            "date_modified": "2020-04-21T00:05:18.442Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/cancer/",
@@ -3313,14 +3312,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.561Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/talc/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/talc/",
-            "title": "Massive payout for talc \"victims\"",
-            "summary": "We talked about a court case a while ago involving Johnson &amp; Johnson, and a claim that asbestos in their talcum powder has been giving people cancer. A new decision in the US has seen a court award damages of nearly NZ$7 billion to 22 people who claim to have been affected by this issue.",
-            "date_modified": "2018-07-22T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.442Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/resurrection/",
@@ -3330,17 +3322,24 @@
             "date_modified": "2018-07-22T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/visas/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/visas/",
-            "title": "Visa issues for International Humanists",
-            "summary": "Stuff wrote an article today about the issues the Humanist Society have been having with international conference delegates and speakers visiting New Zealand next month.",
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/talc/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/talc/",
+            "title": "Massive payout for talc \"victims\"",
+            "summary": "We talked about a court case a while ago involving Johnson &amp; Johnson, and a claim that asbestos in their talcum powder has been giving people cancer. A new decision in the US has seen a court award damages of nearly NZ$7 billion to 22 people who claim to have been affected by this issue.",
             "date_modified": "2018-07-22T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.562Z"
+            "date_modified": "2020-04-21T00:05:18.442Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/visas/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/07/22/visas/",
+            "title": "Visa issues for International Humanists",
+            "summary": "Stuff wrote an article today about the issues the Humanist Society have been having with international conference delegates and speakers visiting New Zealand next month.",
+            "date_modified": "2018-07-22T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/08/05/conf/",
@@ -3353,7 +3352,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/08/05/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/08/05/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.562Z"
+            "date_modified": "2020-04-21T00:05:18.442Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/08/05/qanon/",
@@ -3361,6 +3360,13 @@
             "title": "QAnon",
             "summary": "\nBBC\nNewsweek\n\nA fun new conspiracy theory has popped up in America, called QAnon. The name comes from the signature of the person who started the conspiracy, Q, posting on the 4chan internet board where messages can be posted anonymously under the username Anonymous.",
             "date_modified": "2018-08-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/",
+            "title": "Chiropractic for Pregnancy Issues?",
+            "summary": "A woman has made the news today because she has been denied treatment for a medical condition, symphysis pubis dysfunction, related to her pregnancy. Southern Cross Insurance have said that the reason for not paying for treatment is that pregnant women in New Zealand are eligible for free healthcare, and so their policies don't cover pregnancy.",
+            "date_modified": "2016-08-28T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/08/19/jw/",
@@ -3371,17 +3377,10 @@
             "date_modified": "2018-08-19T00:00:00.000Z"
         },
         {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/ignobel/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/ignobel/",
-            "title": "IgNobel Prizes",
-            "summary": "The Ig Nobel Prizes honor achievements that make people laugh, and then think. The prizes are intended to celebrate the unusual, honor the imaginative — and spur people's interest in science, medicine, and technology.",
-            "date_modified": "2015-09-20T00:00:00.000Z"
-        },
-        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/08/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/08/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.562Z"
+            "date_modified": "2020-04-21T00:05:18.443Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/02/allergy/",
@@ -3401,7 +3400,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/02/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/02/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.563Z"
+            "date_modified": "2020-04-21T00:05:18.443Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/02/jw/",
@@ -3436,7 +3435,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/16/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/16/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.563Z"
+            "date_modified": "2020-04-21T00:05:18.443Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/16/jones/",
@@ -3456,20 +3455,20 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.563Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/jw/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/jw/",
-            "title": "A meeting with ex Jehovah's Witnesses",
-            "summary": "Yesterday afternoon I met with a group of ex Jehovah's Witnesses.",
-            "date_modified": "2018-09-30T00:00:00.000Z"
+            "date_modified": "2020-04-21T00:05:18.444Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/oto/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/oto/",
             "title": "I went back to the OTO",
             "summary": "At the end of last year I went along to an occult ceremony, the OTO's Gnostic Mass. I tried to return in June for the Winter Solstice, but the venue was changed on me at the last minute - apparently they had an issue with the normal venue.",
+            "date_modified": "2018-09-30T00:00:00.000Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/jw/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/30/jw/",
+            "title": "A meeting with ex Jehovah's Witnesses",
+            "summary": "Yesterday afternoon I met with a group of ex Jehovah's Witnesses.",
             "date_modified": "2018-09-30T00:00:00.000Z"
         },
         {
@@ -3483,7 +3482,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/09/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/09/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.564Z"
+            "date_modified": "2020-04-21T00:05:18.444Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/10/14/hacked/",
@@ -3496,7 +3495,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/10/14/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/10/14/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.564Z"
+            "date_modified": "2020-04-21T00:05:18.444Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/10/14/kangen/",
@@ -3539,7 +3538,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/10/28/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/10/28/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.564Z"
+            "date_modified": "2020-04-21T00:05:18.445Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/10/28/jesus/",
@@ -3560,7 +3559,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/10/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/10/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.565Z"
+            "date_modified": "2020-04-21T00:05:18.445Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/11/04/bibi/",
@@ -3574,7 +3573,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/11/04/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/11/04/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.565Z"
+            "date_modified": "2020-04-21T00:05:18.445Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/11/04/jesus/",
@@ -3602,7 +3601,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/11/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/11/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.565Z"
+            "date_modified": "2020-04-21T00:05:18.446Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/02/ark/",
@@ -3624,7 +3623,7 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/02/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/12/02/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.566Z"
+            "date_modified": "2020-04-21T00:05:18.446Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/02/ri/",
@@ -3634,17 +3633,17 @@
             "date_modified": "2018-12-02T00:00:00.000Z"
         },
         {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/",
+            "title": "Skeptical Thoughts",
+            "date_modified": "2020-04-21T00:05:18.447Z"
+        },
+        {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/blasphemy/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/blasphemy/",
             "title": "Blasphemy Law repeal passes second reading",
             "summary": "The Crimes Amendment Bill passed its second reading in parliament this week, and it now looks likely that our blasphemy law will be repealed in the near future. This is great news, and is being mirrored in other countries.",
             "date_modified": "2018-12-16T00:00:00.000Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.566Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/16/sleepdrops/",
@@ -3666,13 +3665,13 @@
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/12/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/12/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.566Z"
+            "date_modified": "2020-04-21T00:05:18.447Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.566Z"
+            "date_modified": "2020-04-21T00:05:18.447Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/",
@@ -3680,19 +3679,20 @@
             "title": "Skeptical Thoughts with Mark Honeychurch",
             "summary": "I've been very fortunate to have been allowed to talk on the radio for the last few years, on the topic of skepticism. Anything and everything has been fair game, and I've tried to mix a skeptical critique of news stories with some field work - going out and visiting various weird and wonderful places and groups and talking about my experiences.",
             "image": "https://mark.honeychurch.org/./radiolive.jpg",
-            "date_modified": "2020-04-03T09:49:20.566Z"
+            "date_modified": "2020-04-21T00:05:18.447Z"
+        },
+        {
+            "id": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/gop/",
+            "url": "https://mark.honeychurch.org/blog/skepticism/2015/09/20/gop/",
+            "title": "GOP Candidates and Vaccines",
+            "summary": "There was a Republican candidate debate on Wednesday, and I thought it would be good to look at the wrong-headed thinking of some of the candidates regarding vaccines.",
+            "date_modified": "2015-09-20T00:00:00.000Z"
         },
         {
             "id": "https://mark.honeychurch.org/blog/skepticism/2018/08/19/",
             "url": "https://mark.honeychurch.org/blog/skepticism/2018/08/19/",
             "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.566Z"
-        },
-        {
-            "id": "https://mark.honeychurch.org/blog/skepticism/2015/08/",
-            "url": "https://mark.honeychurch.org/blog/skepticism/2015/08/",
-            "title": "Skeptical Thoughts",
-            "date_modified": "2020-04-03T09:49:20.566Z"
+            "date_modified": "2020-04-21T00:05:18.447Z"
         }
     ]
 }

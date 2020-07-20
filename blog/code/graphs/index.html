@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>GraphQL, Graph DB, Graph API - what&#39;s with all these Graphs? | Mark Honeychurch</title>
+    <meta name="generator" content="VuePress 1.5.2">
+    <link rel="apple-touch-icon" sizes="180x180" href="/media/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/media/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/media/images/icons/favicon-16x16.png">
+    <link rel="manifest" href="/media/images/icons/site.webmanifest">
+    <link rel="shortcut icon" href="/media/images/icons/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" href="https://mark.honeychurch.org/rss.xml" title="Mark Honeychurch RSS Feed">
+    <link rel="alternate" type="application/atom+xml" href="https://mark.honeychurch.org/feed.atom" title="Mark Honeychurch Atom Feed">
+    <link rel="alternate" type="application/json" href="https://mark.honeychurch.org/feed.json" title="Mark Honeychurch JSON Feed">
+    <meta name="description" content="Coder, Skeptic, Humanist">
+    <meta property="article:published_time" content="2020-07-20T00:00:00.000Z">
+    <meta property="og:site_name" content="Mark Honeychurch">
+    <meta property="og:title" content="GraphQL, Graph DB, Graph API - what's with all these Graphs?">
+    <meta property="og:description" content="In my current role, I've found myself working with Microsoft's Graph API - and have implemented a Graph API MicroService in GraphQL. I've also recently been working on a side project to calculate Bacon Numbers for both actors/actresses and movies, and for this I've been using a Graph DB - Neo4J. So, just why do these technologies have the word Graph in them, and how are they related? Let's find out!">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/blog/code/graphs/">
+    <meta property="og:image" content="/media/images/blog/code/graphs.jpg">
+    <meta name="twitter:title" content="GraphQL, Graph DB, Graph API - what's with all these Graphs?">
+    <meta name="twitter:description" content="In my current role, I've found myself working with Microsoft's Graph API - and have implemented a Graph API MicroService in GraphQL. I've also recently been working on a side project to calculate Bacon Numbers for both actors/actresses and movies, and for this I've been using a Graph DB - Neo4J. So, just why do these technologies have the word Graph in them, and how are they related? Let's find out!">
+    <meta name="twitter:url" content="/blog/code/graphs/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="/media/images/blog/code/graphs.jpg">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:creator" content="@markhoney">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="GraphQL, Graph DB, Graph API">
+    <meta property="article:tag" content="GraphQL">
+    <meta name="msapplication-TileColor" content="#b91d47">
+    <meta name="msapplication-config" content="/media/images/icons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="preload" href="/assets/css/0.styles.css" as="style"><link rel="preload" href="/assets/js/styles.js" as="script"><link rel="preload" href="/assets/js/app.js" as="script"><link rel="preload" href="/assets/js/18.js" as="script"><link rel="preload" href="/assets/js/1.js" as="script"><link rel="preload" href="/assets/js/84.js" as="script"><link rel="preload" href="/assets/js/64.js" as="script">
+    <link rel="stylesheet" href="/assets/css/0.styles.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">Mark Honeychurch</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">
+  Home
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Blog" class="dropdown-title"><span class="title">Blog</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/blog/life/" class="nav-link">
+  Life
+</a></li><li class="dropdown-item"><!----> <a href="/blog/random/" class="nav-link">
+  Random
+</a></li><li class="dropdown-item"><!----> <a href="/blog/code/" class="nav-link router-link-active">
+  Code
+</a></li><li class="dropdown-item"><!----> <a href="/blog/howto/" class="nav-link">
+  How To
+</a></li><li class="dropdown-item"><!----> <a href="/blog/projects/" class="nav-link">
+  Projects
+</a></li><li class="dropdown-item"><h4>
+          Skeptical Thoughts
+        </h4> <ul class="dropdown-subitem-wrapper"><li class="dropdown-subitem"><a href="/blog/skepticism/2015/" class="nav-link">
+  2015
+</a></li><li class="dropdown-subitem"><a href="/blog/skepticism/2016/" class="nav-link">
+  2016
+</a></li><li class="dropdown-subitem"><a href="/blog/skepticism/2017/" class="nav-link">
+  2017
+</a></li><li class="dropdown-subitem"><a href="/blog/skepticism/2018/" class="nav-link">
+  2018
+</a></li></ul></li></ul></div></div><div class="nav-item"><a href="/media/" class="nav-link">
+  Media
+</a></div><div class="nav-item"><a href="/cv/" class="nav-link">
+  CV
+</a></div><div class="nav-item"><a href="/contact/" class="nav-link">
+  Contact
+</a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">
+  Home
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Blog" class="dropdown-title"><span class="title">Blog</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/blog/life/" class="nav-link">
+  Life
+</a></li><li class="dropdown-item"><!----> <a href="/blog/random/" class="nav-link">
+  Random
+</a></li><li class="dropdown-item"><!----> <a href="/blog/code/" class="nav-link router-link-active">
+  Code
+</a></li><li class="dropdown-item"><!----> <a href="/blog/howto/" class="nav-link">
+  How To
+</a></li><li class="dropdown-item"><!----> <a href="/blog/projects/" class="nav-link">
+  Projects
+</a></li><li class="dropdown-item"><h4>
+          Skeptical Thoughts
+        </h4> <ul class="dropdown-subitem-wrapper"><li class="dropdown-subitem"><a href="/blog/skepticism/2015/" class="nav-link">
+  2015
+</a></li><li class="dropdown-subitem"><a href="/blog/skepticism/2016/" class="nav-link">
+  2016
+</a></li><li class="dropdown-subitem"><a href="/blog/skepticism/2017/" class="nav-link">
+  2017
+</a></li><li class="dropdown-subitem"><a href="/blog/skepticism/2018/" class="nav-link">
+  2018
+</a></li></ul></li></ul></div></div><div class="nav-item"><a href="/media/" class="nav-link">
+  Media
+</a></div><div class="nav-item"><a href="/cv/" class="nav-link">
+  CV
+</a></div><div class="nav-item"><a href="/contact/" class="nav-link">
+  Contact
+</a></div> <!----></nav>  <!----> </aside> <main class="page"><div data-v-f9805810><!----> <h2 data-v-f9805810>GraphQL, Graph DB, Graph API - what's with all these Graphs?</h2> <h4 data-v-f9805810>July 20, 2020</h4> <p data-v-f9805810><!----> <em>Categories:</em> <span><a href="/blog/category/?name=Software">Software<!----></a></span> , <em>Tags:</em> <span><a href="/blog/tag/?name=GraphQL">GraphQL<span>, </span></a><a href="/blog/tag/?name=Graph%20DB">Graph DB<span>, </span></a><a href="/blog/tag/?name=Graph%20API">Graph API<!----></a></span></p></div> <div class="theme-default-content content__default"><p>In my current role, I've found myself working with Microsoft's <a href="https://docs.microsoft.com/en-us/graph/overview" target="_blank" rel="noopener noreferrer">Graph API<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a> - and have implemented a Graph API MicroService in <a href="https://graphql.org/learn/" target="_blank" rel="noopener noreferrer">GraphQL<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a>. I've also recently been working on a side project to calculate Bacon Numbers for both actors/actresses and movies, and for this I've been using a <a href="https://neo4j.com/" target="_blank" rel="noopener noreferrer">Graph DB<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a> - Neo4J. So, just why do these technologies have the word Graph in them, and how are they related? Let's find out!</p> <h2 id="our-graph-technologies"><a href="#our-graph-technologies" class="header-anchor">#</a> Our Graph Technologies</h2> <p>Here is a very simple breakdown of what each of these technologies does, and what it is useful for:</p> <h3 id="graph-api"><a href="#graph-api" class="header-anchor">#</a> Graph API</h3> <p>We'll start with the simplest to explain, which is the Microsoft Graph API. This API is an effort by Microsoft to give customers a single place they can query their data across all of Microsoft's services - such as Active Directory (user accounts, permissions, etc), Office 365, Teams and Sharepoint. It's a work in progress, as there's still a lot that needs to be added, but it's a promising start.</p> <p><img src="/assets/img/microsoft-graph.png" alt="Microsoft Graph"></p> <p>The API is a REST API, with endpoints such as <code>/me</code> (to get your own user info), <code>/users</code> (to see details of all users in your domain) and <code>/me/drive/root/children</code> (to list your oneDrive files). There are libraries for Node (Javascript) and other languages that make querying the API easier, and there is support for pagination, filtering, etc.</p> <h3 id="graphql"><a href="#graphql" class="header-anchor">#</a> GraphQL</h3> <p>GraphQL is a modern alternative to a more traditional Rest API, and was invented by engineers at Facebook several years ago. Rather than REST's multiple endpoints (URLs), where endpoints Are the way that you query data, GraphQL just has a single endpoint (usually <code>/graphql</code>) that you send your HTTP requests to. The clever thing about GraphQL is the use of an empty object as the data you send to the server - you choose which data fields you want returned in the API response by only adding keys for those fields in your empty object. The server then responds with an object (or set of objects) that match the empty object you sent to it, but with the data populated.</p> <h4 id="example-query"><a href="#example-query" class="header-anchor">#</a> Example Query</h4> <p>If, for example, we sent this empty data object as a query to a GraphQL server with movie data:</p> <div class="language-js extra-class"><pre class="language-js"><code><span class="token punctuation">{</span>
+	<span class="token function">movie</span><span class="token punctuation">(</span>id<span class="token operator">:</span> <span class="token string">&quot;tt0019254&quot;</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+		title
+		year
+		genres <span class="token punctuation">{</span>
+			id
+			title
+		<span class="token punctuation">}</span>
+		writers
+	<span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre></div><p>we would receive this response:</p> <div class="language-js extra-class"><pre class="language-js"><code><span class="token punctuation">{</span>
+	title<span class="token operator">:</span> <span class="token string">&quot;The Passion of Joan of Arc&quot;</span><span class="token punctuation">,</span>
+	year<span class="token operator">:</span> <span class="token number">1928</span><span class="token punctuation">,</span>
+	genres<span class="token operator">:</span> <span class="token punctuation">[</span>
+		<span class="token punctuation">{</span>
+			id<span class="token operator">:</span> <span class="token number">3</span><span class="token punctuation">,</span>
+			title<span class="token operator">:</span> <span class="token string">&quot;Biography&quot;</span>
+		<span class="token punctuation">}</span><span class="token punctuation">,</span>
+		<span class="token punctuation">{</span>
+			id<span class="token operator">:</span> <span class="token number">9</span><span class="token punctuation">,</span>
+			title<span class="token operator">:</span> <span class="token string">&quot;Drama&quot;</span>
+		<span class="token punctuation">}</span><span class="token punctuation">,</span>
+		<span class="token punctuation">{</span>
+			id<span class="token operator">:</span> <span class="token number">17</span><span class="token punctuation">,</span>
+			title<span class="token operator">:</span> <span class="token string">&quot;History&quot;</span>
+		<span class="token punctuation">}</span>
+	<span class="token punctuation">]</span><span class="token punctuation">,</span>
+	writers<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">&quot;Joseph Delteil&quot;</span><span class="token punctuation">,</span> <span class="token string">&quot;Carl Theodor Dreyer&quot;</span><span class="token punctuation">]</span>
+<span class="token punctuation">}</span>
+</code></pre></div><p>In the backend, this is achieved through writing a Schema (which describes the data and how it's related) and Resolvers (which get the data, and make any necessary joins). It can feel a little verbose at times, but the effort required in the backend is worth it when you come to consume your data in the frontend - especially if you use a Javascript library such as the <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noopener noreferrer">Apollo GraphQL client<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a>, which I do for my <a href="https://nuxtjs.org/" target="_blank" rel="noopener noreferrer">Nuxt<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a> projects.</p> <p>This concept is really quite clever, making fine-grained control of what data you want in your frontend a simple task, and making it easy to ensure you're not using bandwidth unnecessarily. I've fallen in love with GraphQL in the last couple of years, and use it wherever possible in my projects.</p> <p>For more information on how GraphQL came about, there's a great documentary:</p> <p></p><div class="embed-responsive embed-responsive-16by9"><iframe type="text/html" width="640" height="390" src="https://www.youtube.com/embed/783ccP__No8" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="allowfullscreen" class="embed-responsive-item youtube-player"></iframe></div><p></p> <h3 id="graph-db"><a href="#graph-db" class="header-anchor">#</a> Graph DB</h3> <p>A Graph DB is a form of NoSQL database where data is stored as &quot;nodes&quot;, and &quot;edges&quot; can be used to represent relationships between nodes. These relationships are themselves objects that can have properties. This type of database can perform some types of complex calculations more quickly than traditional SQL or even newer NoSQL databases can.</p> <p>For my use case, I use a shortest path algorithm to calculate the <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon" target="_blank" rel="noopener noreferrer">Bacon Number<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a> for movies. Once my dataset (an export of IMDB data) has been loaded into the database, these queries can run very quickly.</p> <h2 id="so-how-are-they-related"><a href="#so-how-are-they-related" class="header-anchor">#</a> So, how are they related?</h2> <p>Quite simply, they're not! Microsoft uses the name Graph API to denote that their API connects all of their services behind a single API. But that API is queried using REST HTTP requests (and not shiny GraphQL queries), and (as far as I can tell) Microsoft aren't using a Graph DB to model the connections between their data sources.</p> <p>Similarly, GraphQL is just a layer between your frontend clients and your backend data, providing a simple way to query that data. GraphQL is not a Graph Database, and doesn't deal with the storage of your data.</p> <p>Finally, a Graph DB allows you to store data objects and define the relationships between those objects. You can then run efficient queries on that data that use both the data and the relationships to build your response.</p> <p>These are all clever, useful technologies, and I guess that, to an extent, they all have some justification for using the word &quot;Graph&quot; in their name. But they're not related, and they don't rely on each other.</p></div> <footer class="page-edit"><!----> <!----></footer> <!----> <footer data-v-6a9f623b><hr data-v-6a9f623b> <p data-v-6a9f623b><a href="http://fb.me/mark.honeychurch" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-facebook-f" data-v-6a9f623b></i>
+			Facebook
+		</a>
+		|
+		<a href="https://twitter.com/markhoney" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-twitter" data-v-6a9f623b></i>
+			Twitter
+		</a>
+		|
+		<a href="https://www.linkedin.com/in/markhoneychurch" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-linkedin-in" data-v-6a9f623b></i>
+			LinkedIn
+		</a>
+		|
+		<a href="https://github.com/markhoney" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-github" data-v-6a9f623b></i>
+			Github
+		</a>
+		|
+		<a href="/contact/" data-v-6a9f623b><i class="fa fa-envelope" data-v-6a9f623b></i>
+			Contact
+		</a></p> <p data-v-6a9f623b><a href="https://mark.honeychurch.org/rss.xml" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fas fa-rss" data-v-6a9f623b></i>
+			RSS
+		</a>
+		|
+		<a href="https://mark.honeychurch.org/feed.atom" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fas fa-atom" data-v-6a9f623b></i>
+			Atom
+		</a>
+		|
+		<a href="https://mark.honeychurch.org/feed.json" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-js" data-v-6a9f623b></i>
+			JSON
+		</a></p> <p data-v-6a9f623b>Copyright © 2020 Mark Honeychurch</p></footer></main></div><div class="global-ui"><!----><!----></div></div>
+    <script src="/assets/js/styles.js" defer></script><script src="/assets/js/18.js" defer></script><script src="/assets/js/1.js" defer></script><script src="/assets/js/84.js" defer></script><script src="/assets/js/64.js" defer></script><script src="/assets/js/app.js" defer></script>
+  </body>
+</html>

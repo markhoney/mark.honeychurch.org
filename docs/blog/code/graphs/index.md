@@ -88,10 +88,12 @@ For my use case, I use a shortest path algorithm to calculate the [Bacon Number]
 
 ## So, how are they related?
 
-Quite simply, they're not! Microsoft uses the name Graph API to denote that their API connects all of their services behind a single API. But that API is queried using REST HTTP requests (and not shiny GraphQL queries), and (as far as I can tell) Microsoft aren't using a Graph DB to model the connections between their data sources.
+Quite simply, they're not! Microsoft uses the name Graph API to denote that their technology connects all of their services behind a single API. But that API is queried using REST HTTP requests (and not shiny GraphQL queries), and (as far as I can tell) Microsoft aren't using a Graph DB to model the connections between their data sources.
 
 Similarly, GraphQL is just a layer between your frontend clients and your backend data, providing a simple way to query that data. GraphQL is not a Graph Database, and doesn't deal with the storage of your data.
 
-Finally, a Graph DB allows you to store data objects and define the relationships between those objects. You can then run efficient queries on that data that use both the data and the relationships to build your response.
+Finally, a Graph DB allows you to store data objects and define the relationships between those objects. You can then run efficient queries on that data that use both the data and the relationships to build your response. But how you query that data depends on the database, and at the moment I don't think that any Graph Databases use a native GraphQL querying layer - rather, a query language called Cypher is commonly used.
+
+There's nothing to stop you using a Graph DB as the backend data store for a GraphQL API layer, or (as I have done for work) writing a GraphQL layer on top of Microsoft's Graph API. However, there's nothing special or magical about a "Graph" that connects these three disparate tools.
 
 These are all clever, useful technologies, and I guess that, to an extent, they all have some justification for using the word "Graph" in their name. But they're not related, and they don't rely on each other.

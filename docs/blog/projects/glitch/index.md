@@ -13,7 +13,7 @@ This was a fun hack, although unfortunately I don't have many decent quality ima
 
 <!-- more -->
 
-![Speaker](./Img_0036.jpg)
+![Speaker](./Img_0036-1.jpg)
 
 ## Prototyping
 

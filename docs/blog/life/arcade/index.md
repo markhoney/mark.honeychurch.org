@@ -7,10 +7,9 @@ categories:
   - Entertainment
 tags:
   - Arcade
-  -
 ---
 
-As a kid, I played my fair share of video games - arcade, console and PC. I thought it would be interesting to write down some of the games that I played a lot, and where I played them.
+As a kid, I played my fair share of video games - arcade, console and PC. I thought it would be interesting to write down some of the games that I played a lot, along with where I played them, what system I played them on and what age I was at the time. Eventually I may turn this into a data table, or even just arrange it chronologically.
 
 <!-- more -->
 

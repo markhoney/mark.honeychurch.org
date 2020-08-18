@@ -70,9 +70,9 @@ Now, if this was JavaScript we could be clever and use dot notation to reference
 for (const number of numbers) console.log(number.value, number.name);
 ```
 
-In the above code, both `number.value` and `number.name` use the dot notation to access the `number` object's data.
+In the above code, both `number.value` and `number.name` use dot notation to access the `number` object's data.
 
-Unfortunately in Python (because this isn't an object) we have to use square brackets to access our data, e.g. `number['value]` and `number['name']` - but at least this is still easy to read, and it's still pretty obvious what the data we're referring to is.
+Unfortunately in Python (because this isn't an object) we have to use square brackets to access our data, e.g. `number['value']` and `number['name']` - but at least this is still easy to read, and it's still pretty obvious what the data we're referring to is.
 
 For this challenge, once I had applied my own advice and munged the data into a sensible structure, the code to dynamically create buttons was pretty easy to write:
 
@@ -92,7 +92,7 @@ I coded this blind, but of course people nearly always make mistakes when they c
 
 ## Lessons
 
-I guess the point of this post is that making code that is readable is important. I've been guilty in the past of using too short variable names, arrays instead of objects and run-on lines of code to save a few bytes, but - especially in this day and age, when storage is cheap - there's really no need to be saving a minuscule amount of space. It's much better to aim for clarity. Name your variables so that it's obvious to others - and to you, when you come back to your code after 6 months of doing other things - what data the variable holds. Similarly, use objects (dicts in Python) rather than arrays to hold heterogeneous data (data that's not all of the same type/use), and pick sensible key names for your object. You'll thank yourself for doing this. Given that you're using a data object, don't be scared to use sub-objects.
+I guess the point of this post is that making code that is readable is important. I've been guilty in the past of using short variable names, arrays instead of objects and run-on lines of code to save a few bytes, but - especially in this day and age, when storage is cheap - there's really no need to be saving a minuscule amount of space. It's much better to aim for clarity. Name your variables so that it's obvious to others - and to you, when you come back to your code after 6 months of doing other things - what data the variable holds. Similarly, use objects (dicts in Python) rather than arrays to hold heterogeneous data (data that's not all of the same type/use), and pick sensible key names for your object. You'll thank yourself for doing this. Given that you're using a data object, don't be scared to use sub-objects.
 
 Now, obviously it doesn't always make sense to be verbose with your data. Sometimes there's limited bandwidth, or the bandwidth cost is high, and making a leaner, smaller data structure makes sense - in IoT devices, for example. However, even for these applications, on the server side where you're processing the incoming data it makes sense to write a converter function that expands your cryptic data out to a readable form.
 

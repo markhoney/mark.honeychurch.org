@@ -8,6 +8,10 @@ tags:
   - Myths
 ---
 
+Here are some common medical myths that are easy to dispel:
+
+<!-- more -->
+
 ## We Only use 10% of our brain
 
 This is a fairly innocuous start to the list. As with any truth claim, it’s good to come at this one through both plausibility and scientific angles.

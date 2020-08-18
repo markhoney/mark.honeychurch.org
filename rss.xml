@@ -4,7 +4,7 @@
         <title>Mark Honeychurch</title>
         <link>https://mark.honeychurch.org</link>
         <description>Coder, Skeptic, Humanist</description>
-        <lastBuildDate>Tue, 18 Aug 2020 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2020 09:36:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://mark.honeychurch.org/feed.atom" rel="self" type="application/rss+xml"/>
@@ -73,7 +73,7 @@
             <title><![CDATA[Code I've written]]></title>
             <link>https://mark.honeychurch.org/blog/code/</link>
             <guid>https://mark.honeychurch.org/blog/code/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
             <description><![CDATA[Over the years I've written some bad code, and some okay code. But one constant is that I've always enjoyed writing code, and always enjoyed the challenge of learning new languages and libraries.]]></description>
         </item>
         <item>
@@ -146,16 +146,16 @@
             <pubDate>Wed, 12 Sep 2018 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To...]]></title>
+            <link>https://mark.honeychurch.org/blog/howto/</link>
+            <guid>https://mark.honeychurch.org/blog/howto/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NZ XMLTV Listings]]></title>
             <link>https://mark.honeychurch.org/blog/code/xmltv.co.nz/</link>
             <guid>https://mark.honeychurch.org/blog/code/xmltv.co.nz/</guid>
             <pubDate>Wed, 03 Sep 2008 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To...]]></title>
-            <link>https://mark.honeychurch.org/blog/howto/</link>
-            <guid>https://mark.honeychurch.org/blog/howto/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Use a 1440 x 900 Resolution on Intel 865]]></title>
@@ -198,7 +198,7 @@
             <title><![CDATA[Blog]]></title>
             <link>https://mark.honeychurch.org/blog/</link>
             <guid>https://mark.honeychurch.org/blog/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
             <description><![CDATA[Although I don't write much, I've blogged a little on and off over the years. I've also jotted down my thoughts on weird and wonderful topics as and when inspiration hits me, and documented various home tech projects. I'm lucky enough to have a regular slot on the radio here in New Zealand as well, and my preparation for that means that I often write down my thoughts on topics of interest to skeptics.]]></description>
         </item>
         <item>
@@ -298,7 +298,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[My occasional life]]></title>
             <link>https://mark.honeychurch.org/blog/life/</link>
             <guid>https://mark.honeychurch.org/blog/life/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JWs and Vue]]></title>
@@ -496,7 +496,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Home Automation]]></title>
             <link>https://mark.honeychurch.org/blog/projects/automation/</link>
             <guid>https://mark.honeychurch.org/blog/projects/automation/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Googly Eyes]]></title>
@@ -517,6 +517,12 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[Tech Projects I've built]]></title>
+            <link>https://mark.honeychurch.org/blog/projects/</link>
+            <guid>https://mark.honeychurch.org/blog/projects/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hotel Hacking]]></title>
             <link>https://mark.honeychurch.org/blog/projects/hotel/</link>
             <guid>https://mark.honeychurch.org/blog/projects/hotel/</guid>
@@ -524,12 +530,6 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <description><![CDATA[I'm sitting here in my hotel room in Auckland, having driven a long way today - but I'm not tired. I've just connected to the hotel's free WiFi, which gets me thinking about a hotel I stayed in about 10 years ago in Brisbane, where I found that all the hotel's documents were accessible on an open SMB share on the wireless network. Hmmm, I wonder what the security's like here.]]></description>
             <enclosure url="https://mark.honeychurch.org/./angry.jpg">
             </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Tech Projects I've built]]></title>
-            <link>https://mark.honeychurch.org/blog/projects/</link>
-            <guid>https://mark.honeychurch.org/blog/projects/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IT-100 (EmergeCore IT In A Box)]]></title>
@@ -553,7 +553,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Smart Mirror]]></title>
             <link>https://mark.honeychurch.org/blog/projects/mirror/</link>
             <guid>https://mark.honeychurch.org/blog/projects/mirror/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smart Picture Frame]]></title>
@@ -617,20 +617,20 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[Hacking an XBox]]></title>
+            <link>https://mark.honeychurch.org/blog/projects/xbox/</link>
+            <guid>https://mark.honeychurch.org/blog/projects/xbox/</guid>
+            <pubDate>Thu, 10 Apr 2003 00:00:00 GMT</pubDate>
+            <enclosure url="https://mark.honeychurch.org/./IMG_0238.jpg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[Star Wars Lego]]></title>
             <link>https://mark.honeychurch.org/blog/projects/starwars/</link>
             <guid>https://mark.honeychurch.org/blog/projects/starwars/</guid>
             <pubDate>Sun, 14 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I've purchased a few knock-off Lego Star Wars kits from AliExpress over the last few years. They're cheap, and fun to build.]]></description>
             <enclosure url="https://mark.honeychurch.org/./IMG_3560.jpg">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Hacking an XBox]]></title>
-            <link>https://mark.honeychurch.org/blog/projects/xbox/</link>
-            <guid>https://mark.honeychurch.org/blog/projects/xbox/</guid>
-            <pubDate>Thu, 10 Apr 2003 00:00:00 GMT</pubDate>
-            <enclosure url="https://mark.honeychurch.org/./IMG_0238.jpg">
             </enclosure>
         </item>
         <item>
@@ -697,7 +697,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Mark's.random(musings);]]></title>
             <link>https://mark.honeychurch.org/blog/random/</link>
             <guid>https://mark.honeychurch.org/blog/random/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Return On Investment for Lotteries]]></title>
@@ -804,13 +804,13 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GOP Candidates and Vaccines]]></title>
@@ -830,7 +830,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/09/20/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/09/20/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Appetite for diet supplements benefits few, experts say]]></title>
@@ -857,7 +857,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/09/27/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/09/27/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dalai Lama Says a Female Successor Should Be Very Attractive]]></title>
@@ -874,17 +874,17 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <description><![CDATA[A blood moon is a new name for a lunar eclipse, where the earth travels between the sun and the moon. The full moon turns red.]]></description>
         </item>
         <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2015/09/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2015/09/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jesus brain scan a miracle]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/09/27/scan/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/09/27/scan/</guid>
             <pubDate>Sun, 27 Sep 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[Stuff published an article last week about Tamaha McDonald, from Blenheim, who is currently living in Mexico. Tamaha's wife, Jennifer, suffers from a lung condition which means that she needs a double lung transplant. They are currently raising money to help with this.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2015/09/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2015/09/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clairvoyant solves phantom freaking out Dunedin]]></title>
@@ -904,7 +904,7 @@ I've just passed my Microsoft 070-299: Implementing and Administering Security i
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/10/04/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/10/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA Confirms Evidence That Liquid Water Flows on Today's Mars]]></title>
@@ -951,17 +951,17 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[House Network in the UK is offering a ghost-free home certification service, and they point to a report that says that:]]></description>
         </item>
         <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2015/10/11/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2015/10/11/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MagneSleep lost an ASA complaint]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/10/11/magnesleep/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/10/11/magnesleep/</guid>
             <pubDate>Sun, 11 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[MagneSleep lost an ASA complaint about a magnetic bracelet they sell, and they don't like me]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2015/10/11/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2015/10/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS wants to employ a Spiritual Healer]]></title>
@@ -981,7 +981,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/10/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/10/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End of the World Predictions]]></title>
@@ -994,13 +994,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/11/15/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/11/15/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/11/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Save the Wellington Astrology Centre]]></title>
@@ -1027,7 +1027,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/12/13/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/12/13/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Disciplined osteopath George McKenzie yet to apologise]]></title>
@@ -1061,13 +1061,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/12/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/12/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2015/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2015/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are antioxidant-rich products good for us?]]></title>
@@ -1077,6 +1077,12 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[Research is coming to light that antioxidants in food and drinks are not useful to aid health, and may actually be damaging to us.]]></description>
         </item>
         <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/02/07/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/07/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KFC wins payout over China mutant chicken rumours]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/02/07/kfc/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/07/kfc/</guid>
@@ -1084,12 +1090,6 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[(Although we all know that fast food is not generally a great nutritional choice, there's a lot of nonsense out there about how bad fast food is. The most pernicious is about how fast food doesn't rot, and people have shown this by keeping McDonalds burgers for years, with only minimal breakdown of the food. Of course, it's been shown that in the same conditions where McDonalds burgers don't rot, organic home-made burgers don't rot either)]]></description>
             <enclosure url="https://mark.honeychurch.org/./mutant-chicken-final-copy-1.jpg">
             </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/02/07/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/07/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Split verdict for 'pH Miracle' author]]></title>
@@ -1153,7 +1153,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/02/14/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/14/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New video of 'Yeti' at ski resort sparks Internet debate]]></title>
@@ -1173,7 +1173,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/02/21/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/21/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sea monster washes up in Australia]]></title>
@@ -1221,7 +1221,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/02/28/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/28/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sydney IV.ME clinic closed after client hospitalised]]></title>
@@ -1248,7 +1248,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ten of the healthiest herbs and spices to keep you fighting fit]]></title>
@@ -1261,7 +1261,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/03/13/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/03/13/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adult Coloring Books and Mandalas, A Warning For Christians]]></title>
@@ -1288,7 +1288,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/03/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/03/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Family First vows to fight move to de-register it as charity]]></title>
@@ -1315,7 +1315,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/04/17/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/04/17/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Luckiest Lotto stores revealed]]></title>
@@ -1342,7 +1342,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/04/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1080 blamed for kiwi bird deaths]]></title>
@@ -1371,7 +1371,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/06/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/06/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rush Limbaugh weighs in on Harambe the gorilla]]></title>
@@ -1398,7 +1398,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/06/12/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/06/12/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National MP Maureen Pugh 'doesn't believe in pharmaceutical drugs']]></title>
@@ -1453,7 +1453,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/06/19/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/06/19/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stuff removes article on Colloidal Silver]]></title>
@@ -1480,7 +1480,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/06/26/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/06/26/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tony Robbins followers injured walking on hot coals]]></title>
@@ -1514,7 +1514,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/06/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/06/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christchurch City Council to reduce use of weedkiller]]></title>
@@ -1534,7 +1534,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/07/03/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/07/03/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jail time for dad who treated son's meningitis with alternative treatments]]></title>
@@ -1567,7 +1567,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/07/10/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/07/10/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US man thinks he knows "the secret" to winning the lottery]]></title>
@@ -1608,7 +1608,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/07/17/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/07/17/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The NZ Herald does it again with "natural" remedies for glandular fever]]></title>
@@ -1628,7 +1628,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/07/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/07/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Icke Auckland Talk]]></title>
@@ -1643,7 +1643,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/08/07/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/07/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brian Cox argues with Australian senator about climate change]]></title>
@@ -1663,7 +1663,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/08/21/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/21/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Naturopathic Murder]]></title>
@@ -1680,25 +1680,11 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[An article on Stuff has done a good job of explaining that superfoods aren't all they're cracked up to be.]]></description>
         </item>
         <item>
-            <title><![CDATA[Dr Jim Mason - Creationist]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/jim/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/jim/</guid>
-            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dr Mason is currently touring in New Zealand:]]></description>
-        </item>
-        <item>
             <title><![CDATA[Witch Doctor in Wellington]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/08/21/witch/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/21/witch/</guid>
             <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[There were several witch doctors in Auckland last year, and they eventually left the country after efforts were made to clamp down on them, including some successful ASA complaints.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chiropractic for Pregnancy Issues?]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/</guid>
-            <pubDate>Sun, 28 Aug 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[A woman has made the news today because she has been denied treatment for a medical condition, symphysis pubis dysfunction, related to her pregnancy. Southern Cross Insurance have said that the reason for not paying for treatment is that pregnant women in New Zealand are eligible for free healthcare, and so their policies don't cover pregnancy.]]></description>
         </item>
         <item>
             <title><![CDATA[We should all drink alcohol for our health]]></title>
@@ -1708,10 +1694,18 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[The NZ Herald reports that &quot;a leading scientist&quot; (Dr Poikolainen) has said a bottle of wine a day would do no harm to your health, and that drinking more than the current recommended daily amount of alcohol is more beneficial than not drinking at all. Dr Poikolainen has also written a book on the subject - &quot;Perfect Drinking and its Enemies&quot;:]]></description>
         </item>
         <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/08/28/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/28/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <title><![CDATA[Resene Promotes Colour Therapy]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/resene/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/resene/</guid>
+            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Most of the serious claims have already been removed, after I talked to them on the phone, but Resene still talk about crystal energy and other nonsense concepts.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chiropractic for Pregnancy Issues?]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/28/chiro/</guid>
+            <pubDate>Sun, 28 Aug 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[A woman has made the news today because she has been denied treatment for a medical condition, symphysis pubis dysfunction, related to her pregnancy. Southern Cross Insurance have said that the reason for not paying for treatment is that pregnant women in New Zealand are eligible for free healthcare, and so their policies don't cover pregnancy.]]></description>
         </item>
         <item>
             <title><![CDATA[Are processed foods causing mental illness?]]></title>
@@ -1719,6 +1713,12 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/28/processed/</guid>
             <pubDate>Sun, 28 Aug 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Julia Rucklidge from Canterbury University has suggested that processed food may be a cause of a mental illness epidemic.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/08/28/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/28/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SBH press complaints]]></title>
@@ -1731,7 +1731,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Free Effective Altruism book]]></title>
@@ -1758,14 +1758,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/09/18/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/18/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stuff uncritically publishes more medical nonsense]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/09/18/nonsense/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/18/nonsense/</guid>
-            <pubDate>Sun, 18 Sep 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stuff have reprinted another article from Juice Daily, which claims that garlic, pineapple, a salt water gargle and chicken soup can help with allergies. Of course, this is all unproven tosh and certainly not good medical advice. Thomas Lumley at Stats Chat does a good job of deconstructing the article, going through all the links in the article and checking out the evidence for the claims. Unsurprisingly, the given evidence is very thin:]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump gets medical opinion from Oz]]></title>
@@ -1773,6 +1766,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/18/trump/</guid>
             <pubDate>Sun, 18 Sep 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[As part of the US presidential election circus, and given that both candidates are two of the oldest candidates ever, health records have become a part of the debate.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Stuff uncritically publishes more medical nonsense]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/09/18/nonsense/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/18/nonsense/</guid>
+            <pubDate>Sun, 18 Sep 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stuff have reprinted another article from Juice Daily, which claims that garlic, pineapple, a salt water gargle and chicken soup can help with allergies. Of course, this is all unproven tosh and certainly not good medical advice. Thomas Lumley at Stats Chat does a good job of deconstructing the article, going through all the links in the article and checking out the evidence for the claims. Unsurprisingly, the given evidence is very thin:]]></description>
         </item>
         <item>
             <title><![CDATA[Dodgy Thai cancer clinic criticised]]></title>
@@ -1799,7 +1799,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/09/25/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/25/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/09/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Sensing Murder Episode being recorded]]></title>
@@ -1818,12 +1824,6 @@ During the recent visit of Pope Francis to the United States, in every city he v
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/09/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/09/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chinese Man telling women's futures by touching their breasts!]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/10/21/breasts/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/10/21/breasts/</guid>
@@ -1834,7 +1834,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/10/21/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/10/21/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MedSafe has registered over a thousand unproven homeopathic health products as medicines]]></title>
@@ -1854,7 +1854,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/10/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/10/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptics Conference]]></title>
@@ -1876,7 +1876,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/11/13/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/11/13/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Vice President-Elect is crazy!]]></title>
@@ -1910,13 +1910,19 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/11/27/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/11/27/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/11/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/12/04/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/12/04/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NZ Skeptics Conference]]></title>
@@ -1926,10 +1932,11 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[Here are my notes from this year's NZ Skeptics conference:]]></description>
         </item>
         <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/12/04/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/12/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <title><![CDATA[Fiji Government conned by scam artist]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2016/12/18/fiji/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2016/12/18/fiji/</guid>
+            <pubDate>Sun, 18 Dec 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fijian government representatives, including leader Frank Bainimarama, were at a lavish launch event a couple of weeks ago to announce the launch of a new app which is set to revolutionise our mobile phone use.]]></description>
         </item>
         <item>
             <title><![CDATA[Colin Meads using "magic water" for his cancer]]></title>
@@ -1939,17 +1946,10 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[I was contacted by a journalist about a local cancer &quot;cure&quot;, Te Kiri Gold, and sent a response (with a little help from ex-chair of the NZ Skeptics, Vicki Hyde):]]></description>
         </item>
         <item>
-            <title><![CDATA[Fiji Government conned by scam artist]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2016/12/18/fiji/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2016/12/18/fiji/</guid>
-            <pubDate>Sun, 18 Dec 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fijian government representatives, including leader Frank Bainimarama, were at a lavish launch event a couple of weeks ago to announce the launch of a new app which is set to revolutionise our mobile phone use.]]></description>
-        </item>
-        <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/12/18/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/12/18/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Applied Kinesiology]]></title>
@@ -1976,19 +1976,19 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/12/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/12/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2016/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2016/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/01/22/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/01/22/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scientology "Ideal Org" Grand Opening]]></title>
@@ -2003,7 +2003,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/01/29/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/01/29/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kiwi Creationism]]></title>
@@ -2018,7 +2018,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/01/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/01/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex fraudster released early trying alternative cancer treatment]]></title>
@@ -2038,7 +2038,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/02/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/02/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scientology out on the streets in Grafton]]></title>
@@ -2060,7 +2060,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/02/19/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/02/19/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strange lottery "tactic" - buying multiple tickets with the same numbers]]></title>
@@ -2089,13 +2089,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/03/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/03/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Visit to faith healer Father John Rea]]></title>
@@ -2117,7 +2117,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/03/19/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/03/19/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interview with Sensing Murder producers]]></title>
@@ -2137,7 +2137,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/03/26/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/03/26/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I wrote a letter to the NZ Medical Journal]]></title>
@@ -2157,13 +2157,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/03/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/03/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/04/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/04/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA spends over $1 million on theology]]></title>
@@ -2190,7 +2190,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/04/09/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/04/09/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Te Kiri Gold Cancer "Treatment" on sale]]></title>
@@ -2221,7 +2221,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/04/23/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/04/23/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kelvin Cruickshank talks to Jonah Lomu]]></title>
@@ -2234,7 +2234,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/04/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Te Kiri Gold makers forced to release a statement]]></title>
@@ -2249,7 +2249,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/05/07/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/05/07/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nigel Antony Gray Still Crazy]]></title>
@@ -2278,7 +2278,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/05/21/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/05/21/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proof that people were in NZ before Maori?]]></title>
@@ -2291,14 +2291,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USA "pulls out" of the Paris Climate Accord]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2017/06/04/climate/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/04/climate/</guid>
-            <pubDate>Sun, 04 Jun 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[Although there is a history in skepticism of people being &quot;skeptical&quot; of climate change, modern skepticism understands that there is a broad consensus amongst scientists that climate change is both real and caused by humans.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robert Bigelow believes aliens are on earth]]></title>
@@ -2306,6 +2299,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/04/bigelow/</guid>
             <pubDate>Sun, 04 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Robert Bigelow is convinced that aliens are not only real, but they have visited earth and are living on our planet. He believes that his grandparents were visited by an alien craft, and says that he has spent millions gathering evidence that aliens are among us. People have pointed out that his company Bigelow Aerospace's logo looks a lot like the head of a &quot;gray&quot; - the most popular depiction of an alien, with big almond shaped eyes and a teardrop face.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[USA "pulls out" of the Paris Climate Accord]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2017/06/04/climate/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/04/climate/</guid>
+            <pubDate>Sun, 04 Jun 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Although there is a history in skepticism of people being &quot;skeptical&quot; of climate change, modern skepticism understands that there is a broad consensus amongst scientists that climate change is both real and caused by humans.]]></description>
         </item>
         <item>
             <title><![CDATA[Nice article about Dave Hansford and 1080]]></title>
@@ -2318,7 +2318,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/06/04/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't put ground up wasp's nest in your vagina]]></title>
@@ -2337,17 +2337,17 @@ During the recent visit of Pope Francis to the United States, in every city he v
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2017/06/11/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Credulous alt-med article on Radio NZ]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/06/11/credulous/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/11/credulous/</guid>
             <pubDate>Sun, 11 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Radio NZ published an article this week that seemed to accept, without evidence, claims that traditional Maori medicine can help with medical conditions including cancer.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2017/06/11/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/11/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aussie shows how lax sham journals can be]]></title>
@@ -2374,14 +2374,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/06/18/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/18/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I was visited by Jehovah's Witnesses]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2017/06/18/jw/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/18/jw/</guid>
-            <pubDate>Sun, 18 Jun 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Jehovah's Witnesses came around for an hour or more yesterday, having previously chatted with me last week.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Auckland Church Promoting Magical Oil]]></title>
@@ -2391,10 +2384,17 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[The Universal Church of the Kingdom of God has been handing out cross shaped vials of a &quot;holy oil&quot; which it says have been blessed in Jerusalem and can &quot;activate people's faith&quot; in order to treat medical conditions such as depression, addiction, heart problems and chronic pain.]]></description>
         </item>
         <item>
+            <title><![CDATA[I was visited by Jehovah's Witnesses]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2017/06/18/jw/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/18/jw/</guid>
+            <pubDate>Sun, 18 Jun 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Jehovah's Witnesses came around for an hour or more yesterday, having previously chatted with me last week.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/06/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/06/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baby kept sick by mother's bad decision]]></title>
@@ -2407,7 +2407,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/07/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/07/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[InfoWars promotes theory that NASA keeps slave kids on Mars]]></title>
@@ -2441,7 +2441,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/07/16/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/07/16/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Siggi Henry profiled in the Spinoff]]></title>
@@ -2475,7 +2475,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/07/30/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/07/30/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sensing Murder hasn't helped NZ Police]]></title>
@@ -2488,7 +2488,14 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/07/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/07/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daughter conned into selling her possessions]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2017/08/06/conned/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2017/08/06/conned/</guid>
+            <pubDate>Sun, 06 Aug 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lori Harris from the UK has sold all her belongings to pay for treatment for her mother, Lisa, who has stage 4 ovarian cancer. The Go Fund Me page for the fundraising effort for this treatment, which asks for £200,000, talks of needing money for immunotherapy in Germany, and links to a great article describing how this new therapy has the potential to allow us to treat some cancers in a novel way.]]></description>
         </item>
         <item>
             <title><![CDATA[Haunted Doll "strikes" again]]></title>
@@ -2501,14 +2508,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/08/06/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/08/06/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daughter conned into selling her possessions]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2017/08/06/conned/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2017/08/06/conned/</guid>
-            <pubDate>Sun, 06 Aug 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lori Harris from the UK has sold all her belongings to pay for treatment for her mother, Lisa, who has stage 4 ovarian cancer. The Go Fund Me page for the fundraising effort for this treatment, which asks for £200,000, talks of needing money for immunotherapy in Germany, and links to a great article describing how this new therapy has the potential to allow us to treat some cancers in a novel way.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jacinta Ardern Conspiracy!]]></title>
@@ -2528,7 +2528,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/08/27/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/08/27/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Naturopath Implicated in Cancer Deaths]]></title>
@@ -2548,7 +2548,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nonsense book gets free media coverage]]></title>
@@ -2568,7 +2568,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/09/03/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/09/03/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newshub thought a picture of someone holding something rectangular was newsworthy]]></title>
@@ -2588,7 +2588,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/09/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/09/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Apocalypse has been moved]]></title>
@@ -2608,7 +2608,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/10/01/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/01/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some great common sense advice from Rob Stock at Stuff]]></title>
@@ -2621,14 +2621,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/10/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sun protection pill goes on sale in NZ]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/</guid>
-            <pubDate>Sun, 08 Oct 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[NZ now has its second ingested product for sun protection being sold. The first hit the market a few years ago, and is from a company called Osmosis Skincare. Their product contains &quot;harmonised&quot; water, which is described as:]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New healing device about to go on sale in NZ]]></title>
@@ -2645,6 +2638,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <description><![CDATA[These days, with modern technology, it only takes a matter of days after most tragic events before conspiracy theorists have converged on an &quot;alternative narrative&quot;. For the Sandy Hook massacre, there are people who claim it was a &quot;false flag&quot; operation where no children were actually killed. For missing flight MH370, the aeroplane was apparently re-routed to a secret military base.]]></description>
         </item>
         <item>
+            <title><![CDATA[Sun protection pill goes on sale in NZ]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/08/pill/</guid>
+            <pubDate>Sun, 08 Oct 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[NZ now has its second ingested product for sun protection being sold. The first hit the market a few years ago, and is from a company called Osmosis Skincare. Their product contains &quot;harmonised&quot; water, which is described as:]]></description>
+        </item>
+        <item>
             <title><![CDATA[Doterra selling cancer cure in NZ]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/10/15/doterra/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/15/doterra/</guid>
@@ -2655,7 +2655,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/10/15/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/15/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christchurch private detective offering lie detector test which is unlikely to work]]></title>
@@ -2675,7 +2675,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/10/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/10/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NZ Skeptics conference in Wellington]]></title>
@@ -2695,7 +2695,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/11/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/11/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women Stranded at Sea for 5 months]]></title>
@@ -2740,7 +2740,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/11/12/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/11/12/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dr Libby Weaver hits the news - twice]]></title>
@@ -2755,14 +2755,7 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/11/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Acupuncture websites are misleading]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2017/12/03/acupuncture/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2017/12/03/acupuncture/</guid>
-            <pubDate>Sun, 03 Dec 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[Daniel Ryan from the Society for Science Based Healthcare wrote a study looking at acupuncture advertising in NZ. He ran a targeted search for New Zealand websites making claims about being able to treat a list of conditions for which advertising claims are restricted by the Medicines Act.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gluckman talks about science denialism]]></title>
@@ -2770,6 +2763,13 @@ During the recent visit of Pope Francis to the United States, in every city he v
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/12/03/denialism/</guid>
             <pubDate>Sun, 03 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Sir Peter Gluckman, the PM's Science Advisor, says that NZ has a science denial problem, but that it's no worse than the rest of the world. Peter thinks that social media bubbles are contributing to this issue, by allowing people to get their news only from places that agree with their existing views on topics. He points out that traditional media is becoming more likely to be polarised as well, which is not good.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Acupuncture websites are misleading]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2017/12/03/acupuncture/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2017/12/03/acupuncture/</guid>
+            <pubDate>Sun, 03 Dec 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Daniel Ryan from the Society for Science Based Healthcare wrote a study looking at acupuncture advertising in NZ. He ran a targeted search for New Zealand websites making claims about being able to treat a list of conditions for which advertising claims are restricted by the Medicines Act.]]></description>
         </item>
         <item>
             <title><![CDATA[Most UK Water Boards use dowsing]]></title>
@@ -2792,13 +2792,13 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/12/03/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/12/03/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/12/17/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/12/17/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK has scrapped useless treatments]]></title>
@@ -2839,13 +2839,13 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/12/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/12/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2017/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2017/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grounding]]></title>
@@ -2860,7 +2860,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/01/21/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/01/21/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex naturopath being sued]]></title>
@@ -2887,14 +2887,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/01/28/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/01/28/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peppering of Rabbits?]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/01/28/peppering/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/01/28/peppering/</guid>
-            <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[This story starts back in 2002. The winner of the NZ Skeptics' Bent Spoon award that year was Green MP Jeanette Fitzsimons. She won the award for supporting the idea of using Possum Peppering to rid NZ of possums.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unvaccinated Pets]]></title>
@@ -2902,6 +2895,13 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/01/28/pet/</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[As if people not vaccinating their kids isn't enough nonsense to deal with, there's an increasing trend for pet owners to not vaccinate their pets as well. This appears to be due to silly concerns such as that their pets might suffer from autism, despite the fact that autism hasn't been observed in animals.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Peppering of Rabbits?]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/01/28/peppering/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/01/28/peppering/</guid>
+            <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[This story starts back in 2002. The winner of the NZ Skeptics' Bent Spoon award that year was Green MP Jeanette Fitzsimons. She won the award for supporting the idea of using Possum Peppering to rid NZ of possums.]]></description>
         </item>
         <item>
             <title><![CDATA[Another quake prediction]]></title>
@@ -2921,7 +2921,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/01/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/01/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The ASA has written some new guidelines… and they're crap!]]></title>
@@ -2955,7 +2955,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/02/11/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/02/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raw Water is Daft]]></title>
@@ -2989,14 +2989,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/02/25/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/02/25/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NZ Herald Promoting Animal Quackery]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/02/25/quackery/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/02/25/quackery/</guid>
-            <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[Liza Schneider has written an article for the BoP Times, printed online in the Herald, which promotes nonsense therapies for animals.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Memorising a big number will create a black hole?]]></title>
@@ -3006,10 +2999,17 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <description><![CDATA[The UK Mirror recently carried a weird story claiming that there are numbers so big that they would create a black hole in your brain if you could memorise them. The title of the article is:]]></description>
         </item>
         <item>
+            <title><![CDATA[NZ Herald Promoting Animal Quackery]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/02/25/quackery/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/02/25/quackery/</guid>
+            <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Liza Schneider has written an article for the BoP Times, printed online in the Herald, which promotes nonsense therapies for animals.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Zealand's own Fantastical AI]]></title>
@@ -3022,7 +3022,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/03/11/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Auckland woman builds fence to keep radiation out]]></title>
@@ -3056,14 +3056,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/03/18/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/18/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quack "doctor" opens up clinic in Auckland]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/03/18/quack/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/18/quack/</guid>
-            <pubDate>Sun, 18 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[A quack Chinese doctor from Australia has opened up a clinic in Auckland, to better serve his kiwi patients. Shuquan Liu will likely be selling his weight loss herbal diet in NZ, which consists of getting people to consume nothing but Chinese herbs for two weeks. The diet is an extreme calorie restriction diet (&lt; 200 calories a day), which is likely to be dangerous to those who follow it.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Local psychic plays the odds, gets lucky]]></title>
@@ -3073,17 +3066,24 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <description><![CDATA[Kelvin Cruickshank, one of our famous local psychics who has appeared on Sensing Murder, has &quot;helped&quot; a family to locate the body of &quot;Curly&quot; - an elderly gentleman called Raymond Stirling who went missing in Hamilton in January. A police search had been halted after 11 days with no luck, and then Curly's daughter in law ended up at one of Kelvin's paid shows (at $65 a ticket).]]></description>
         </item>
         <item>
-            <title><![CDATA[Auckland woman builds fence to keep radiation out]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/03/18/radiation/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/18/radiation/</guid>
+            <title><![CDATA[Quack "doctor" opens up clinic in Auckland]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/03/18/quack/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/18/quack/</guid>
             <pubDate>Sun, 18 Mar 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[7 Sharp have interviewed Marta Fisch on Waiheke Island, who has built an ugly looking metal box - three side walls - in her garden, to keep out &quot;radiation&quot;. Radiation in this sense is the kind of electromagnetic energy that is used to send TV signals and offer WiFi, and also background radiation from nature.]]></description>
+            <description><![CDATA[A quack Chinese doctor from Australia has opened up a clinic in Auckland, to better serve his kiwi patients. Shuquan Liu will likely be selling his weight loss herbal diet in NZ, which consists of getting people to consume nothing but Chinese herbs for two weeks. The diet is an extreme calorie restriction diet (&lt; 200 calories a day), which is likely to be dangerous to those who follow it.]]></description>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/03/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auckland woman builds fence to keep radiation out]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/03/18/radiation/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/03/18/radiation/</guid>
+            <pubDate>Sun, 18 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[7 Sharp have interviewed Marta Fisch on Waiheke Island, who has built an ugly looking metal box - three side walls - in her garden, to keep out &quot;radiation&quot;. Radiation in this sense is the kind of electromagnetic energy that is used to send TV signals and offer WiFi, and also background radiation from nature.]]></description>
         </item>
         <item>
             <title><![CDATA[New NZ Diet aid Calocurb launched]]></title>
@@ -3103,7 +3103,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/04/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/04/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who cons the conmen?]]></title>
@@ -3137,7 +3137,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/04/15/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/04/15/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Did NASA Astronauts see aliens?]]></title>
@@ -3171,7 +3171,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/04/29/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/04/29/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ken Ring is predicting earthquakes again]]></title>
@@ -3191,7 +3191,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/04/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Does your star sign dictate how you drive?]]></title>
@@ -3218,7 +3218,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/05/13/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/05/13/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kangen Water has made the news again :(]]></title>
@@ -3247,14 +3247,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/05/27/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/05/27/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kangen Water has made the news again :(]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/05/27/kangen/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/05/27/kangen/</guid>
-            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[As we talked about at the end of last year, there's been a real push to sell Kangen Water devices in NZ recently. An article in the Herald recently has detailed Ainsley Brunton's efforts to sell the water in Whanganui to unsuspecting customers. Her water devices are selling for $4,000, with promises that the water can help with cancer, diabetes and other serious diseases. Enagic in Australia is selling the machines to New Zealanders who are passing them on, and Enagic's prices for a machine that does nothing useful to water vary between $2,300 and $6,500.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New search for Loch Ness Monster]]></title>
@@ -3278,10 +3271,17 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <description><![CDATA[A Napier based psychic has been convicted of indecent assault. Craig Wright, called the Spirit Whisperer, has been offering his services in NZ for several years, and has even worked on a pilot for a TV show with Sue Nicholson. Now he's been found guilty of indecent assault of a teenager after performing a &quot;ritual cleansing&quot;. Craig's defence was that he puts his finger in someone's belly button to find out if they are possessed by an entity. When he asserted that the victim had this problem, he took him to another room to rid him of the spiritual attachment and that is when the assault took place.]]></description>
         </item>
         <item>
+            <title><![CDATA[Kangen Water has made the news again :(]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/05/27/kangen/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/05/27/kangen/</guid>
+            <pubDate>Sun, 27 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[As we talked about at the end of last year, there's been a real push to sell Kangen Water devices in NZ recently. An article in the Herald recently has detailed Ainsley Brunton's efforts to sell the water in Whanganui to unsuspecting customers. Her water devices are selling for $4,000, with promises that the water can help with cancer, diabetes and other serious diseases. Enagic in Australia is selling the machines to New Zealanders who are passing them on, and Enagic's prices for a machine that does nothing useful to water vary between $2,300 and $6,500.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dr Oz promoting Astrology]]></title>
@@ -3294,7 +3294,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/06/10/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/06/10/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS defends its decision to dump homeopathy]]></title>
@@ -3342,7 +3342,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/06/24/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/06/24/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LED lights are apparently not safe for us]]></title>
@@ -3355,7 +3355,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/06/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/06/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bullet repelling magic in Nigeria]]></title>
@@ -3389,7 +3389,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/07/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/07/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alternative cancer therapies linked to earlier death]]></title>
@@ -3402,7 +3402,7 @@ The NZ Skeptics conference was a great success, with a quiz on the Friday night 
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/07/22/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/07/22/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prophet Arrested for Attempted Resurrection]]></title>
@@ -3433,13 +3433,21 @@ Talking of superstition, a man in Ethiopia has been arrested for convincing a fa
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/07/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/07/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waisake Naholo's miracle healing]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/naholo/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/naholo/</guid>
+            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Waisake Naholo's miracle healing
+Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongside the tibia).]]></description>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/08/05/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/08/05/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[QAnon]]></title>
@@ -3451,12 +3459,6 @@ BBC
 Newsweek
 
 A fun new conspiracy theory has popped up in America, called QAnon. The name comes from the signature of the person who started the conspiracy, Q, posting on the 4chan internet board where messages can be posted anonymously under the username Anonymous.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/08/19/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/08/19/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My JW weekend]]></title>
@@ -3472,14 +3474,13 @@ I've spent this weekend at the Jehovah's Witnesses convention, titled &quot;Be C
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wellington's "Allergy" Expo]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/09/02/allergy/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/02/allergy/</guid>
-            <pubDate>Sun, 02 Sep 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yesterday I went to an &quot;Allergy Free and Healthy Living Show&quot; in Porirua. Sadly there were very few stands at the expo that were about allergies - there was Allergy NZ and Coeliac New Zealand. Most of the stands were selling fake cures for big bucks.]]></description>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/08/19/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/08/19/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Catholic Church Abuse]]></title>
@@ -3489,10 +3490,17 @@ I've spent this weekend at the Jehovah's Witnesses convention, titled &quot;Be C
             <description><![CDATA[Pennsylvania Attorney General Josh Shapiro released a report last week, detailing credible accusations of child abuse against over 300 priests in the state, with over 1,000 victims. Shapiro doesn't think they found all instances of abuse.]]></description>
         </item>
         <item>
+            <title><![CDATA[Wellington's "Allergy" Expo]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/09/02/allergy/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/02/allergy/</guid>
+            <pubDate>Sun, 02 Sep 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yesterday I went to an &quot;Allergy Free and Healthy Living Show&quot; in Porirua. Sadly there were very few stands at the expo that were about allergies - there was Allergy NZ and Coeliac New Zealand. Most of the stands were selling fake cures for big bucks.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/09/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jehovah's Witnesses recommend staying with an abusive partner]]></title>
@@ -3528,7 +3536,7 @@ I've spent this weekend at the Jehovah's Witnesses convention, titled &quot;Be C
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/09/16/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/16/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Jones is losing his grip]]></title>
@@ -3545,25 +3553,10 @@ I've spent this weekend at the Jehovah's Witnesses convention, titled &quot;Be C
             <description><![CDATA[I had a phone call this week from &quot;Spark&quot;. I spoke to a couple of Indian gentlemen who explained that my private IP address had been made public, and that this meant that my internet connection was compromised.]]></description>
         </item>
         <item>
-            <title><![CDATA[Waisake Naholo's miracle healing]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/naholo/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/naholo/</guid>
-            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[Waisake Naholo's miracle healing
-Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongside the tibia).]]></description>
-        </item>
-        <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/09/30/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/30/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I went back to the OTO]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/09/30/oto/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/30/oto/</guid>
-            <pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[At the end of last year I went along to an occult ceremony, the OTO's Gnostic Mass. I tried to return in June for the Winter Solstice, but the venue was changed on me at the last minute - apparently they had an issue with the normal venue.]]></description>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A meeting with ex Jehovah's Witnesses]]></title>
@@ -3571,6 +3564,13 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/30/jw/</guid>
             <pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Yesterday afternoon I met with a group of ex Jehovah's Witnesses.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[I went back to the OTO]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/09/30/oto/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/30/oto/</guid>
+            <pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[At the end of last year I went along to an occult ceremony, the OTO's Gnostic Mass. I tried to return in June for the Winter Solstice, but the venue was changed on me at the last minute - apparently they had an issue with the normal venue.]]></description>
         </item>
         <item>
             <title><![CDATA[Backward step at the World Health Organisation]]></title>
@@ -3583,7 +3583,7 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/09/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/09/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have I been hacked?]]></title>
@@ -3596,7 +3596,7 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/10/14/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/10/14/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I tried Kangen Water]]></title>
@@ -3641,7 +3641,7 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/10/28/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/10/28/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesus for NZ]]></title>
@@ -3663,7 +3663,13 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/10/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/10/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/11/04/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/11/04/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Asia Bibi is Acquitted]]></title>
@@ -3673,12 +3679,6 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <description><![CDATA[Asia Bibi, who has been on death row in Pakistan for blasphemy for nearly 10 years, has  been acquitted this week. Unsurprisingly, this is far from the the end of her troubles.]]></description>
             <enclosure url="https://mark.honeychurch.org/./20181007T1150-0353-CNS-ASIA-BIBI-FAMILY.jpg">
             </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/11/04/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/11/04/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesus for NZ]]></title>
@@ -3707,7 +3707,7 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/11/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/11/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ark Man]]></title>
@@ -3731,7 +3731,7 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/12/02/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/12/02/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MoE Religious Instruction Guidelines Consultation]]></title>
@@ -3741,17 +3741,17 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <description><![CDATA[The Ministry of Education are finally getting close to publishing guidelines for schools about allowing Religious Instruction classes.]]></description>
         </item>
         <item>
+            <title><![CDATA[Skeptical Thoughts]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2018/12/16/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2018/12/16/</guid>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blasphemy Law repeal passes second reading]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/12/16/blasphemy/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/12/16/blasphemy/</guid>
             <pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[The Crimes Amendment Bill passed its second reading in parliament this week, and it now looks likely that our blasphemy law will be repealed in the near future. This is great news, and is being mirrored in other countries.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skeptical Thoughts]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2018/12/16/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2018/12/16/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SleepDrops in Trouble]]></title>
@@ -3775,47 +3775,54 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/12/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/12/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2018/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2020/08/18/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2020/08/18/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Medical Myths]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2020/08/18/myths/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2020/08/18/myths/</guid>
             <pubDate>Tue, 18 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a fairly innocuous start to the list. As with any truth claim, it’s good to come at this one through both plausibility and scientific angles.]]></description>
+            <description><![CDATA[Here are some common medical myths that are easy to dispel:]]></description>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2020/08/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2020/08/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/2020/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/2020/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skeptical Thoughts with Mark Honeychurch]]></title>
             <link>https://mark.honeychurch.org/blog/skepticism/</link>
             <guid>https://mark.honeychurch.org/blog/skepticism/</guid>
-            <pubDate>Tue, 18 Aug 2020 09:18:14 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 09:36:23 GMT</pubDate>
             <description><![CDATA[I've been very fortunate to have been allowed to talk on the radio for the last few years, on the topic of skepticism. Anything and everything has been fair game, and I've tried to mix a skeptical critique of news stories with some field work - going out and visiting various weird and wonderful places and groups and talking about my experiences.]]></description>
             <enclosure url="https://mark.honeychurch.org/./radiolive.jpg">
             </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Dr Jim Mason - Creationist]]></title>
+            <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/jim/</link>
+            <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/jim/</guid>
+            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dr Mason is currently touring in New Zealand:]]></description>
         </item>
         <item>
             <title><![CDATA[Humanist Conference]]></title>
@@ -3823,13 +3830,6 @@ Waisake Naholo has a cracked fibula - the smaller of the lower leg bones (alongs
             <guid>https://mark.honeychurch.org/blog/skepticism/2018/08/05/conf/</guid>
             <pubDate>Sun, 05 Aug 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[This weekend was the Humanist Conference in Auckland, with some great international and local speakers.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Resene Promotes Colour Therapy]]></title>
-            <link>https://mark.honeychurch.org/blog/skepticism/2015/08/16/resene/</link>
-            <guid>https://mark.honeychurch.org/blog/skepticism/2015/08/16/resene/</guid>
-            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[Most of the serious claims have already been removed, after I talked to them on the phone, but Resene still talk about crystal energy and other nonsense concepts.]]></description>
         </item>
     </channel>
 </rss>

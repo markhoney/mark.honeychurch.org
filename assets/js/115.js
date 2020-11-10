@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[115],{554:function(n,o,l){"use strict";l.r(o);var u=l(5),e=Object(u.a)({},void 0,void 0,!1,null,null,null);o.default=e.exports}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[115],{588:function(t,e,n){"use strict";n.r(e);var s={props:["pdf"]},p=n(5),a=Object(p.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("object",{attrs:{data:this.pdf,width:"100%",height:"800px"}})}),[],!1,null,null,null);e.default=a.exports}}]);

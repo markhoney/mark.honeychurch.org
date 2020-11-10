@@ -3,7 +3,7 @@ title: Election Special
 date: 2020-10-19
 layout: Post
 categories:
-  - Election
+  - Politics
 tags:
   - AdvanceNZ
 ---

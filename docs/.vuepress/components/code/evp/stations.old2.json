@@ -1,0 +1,96 @@
+{
+	"0": {
+		"name": "RADIO LITERASI",
+		"website": "http://arriarra.com",
+		"url": "http://45.64.97.82:8322/;"
+	},
+	"1": {
+		"name": "RADIO SA",
+		"website": "http://www.radiosa.info",
+		"url": "http://149.202.196.92:8044/;"
+	},
+	"2": {
+		"name": "Al Zahra Radio 80kbps",
+		"website": "https://www.alzahraradio.com",
+		"url": "http://178.32.107.151:5096/;"
+	},
+	"3": {
+		"name": "DRAMA RADIO",
+		"website": "http://arriarra.com",
+		"url": "http://45.64.97.82:8294/;"
+	},
+	"4": {
+		"name": "Radio Arnold Fm",
+		"website": "http://www.radiotelearnoldfm.com",
+		"url": "http://198.178.123.5:10296/;"
+	},
+	"5": {
+		"name": "GABNet",
+		"website": "http://gabnet.net",
+		"url": "http://198.178.123.5:10050/;"
+	},
+	"6": {
+		"name": "RADIO ALPHA OMEGA - 90.4 FM - CHIOS ISLAND GREECE",
+		"website": "http://www.radioalphaomega.com",
+		"url": "http://live.kanali7.com:4006/;"
+	},
+	"7": {
+		"name": "Echo of the Planet",
+		"website": "http://www.echooftheplanet.com",
+		"url": "http://192.99.17.12:6336/;"
+	},
+	"8": {
+		"name": "IPBN RADIO NETWORK ",
+		"website": "http://ipbnradio.com",
+		"url": "http://91.121.202.224:9444/;"
+	},
+	"9": {
+		"name": "RI Free Radio",
+		"website": "http://rifreeradio.org",
+		"url": "http://149.56.155.73:8072/;"
+	},
+	"10": {
+		"name": "RadioCaster Stream",
+		"url": "http://198.178.123.20:8550/;"
+	},
+	"11": {
+		"name": "/live",
+		"url": "http://91.121.113.129:8578/;"
+	},
+	"12": {
+		"name": "OuterDrive Radio",
+		"website": "http://www.randlemorningshow.com",
+		"url": "http://62.210.24.124:8902/;"
+	},
+	"13": {
+		"name": "Tejano Rocks",
+		"url": "http://192.95.39.65:5423/;"
+	},
+	"14": {
+		"name": "FireOne Radio",
+		"url": "http://69.30.218.190:32618/;"
+	},
+	"15": {
+		"name": "Radio/Phone Slave Dobbstown.com",
+		"website": "http://achieveradio.com/radioslavedobbstown/",
+		"url": "http://69.197.151.203:8210/;"
+	},
+	"16": {
+		"name": "StreamMyStation.com - Freedom Friday",
+		"website": "http://carlgallops.com",
+		"url": "http://173.193.205.96:7120/;"
+	},
+	"17": {
+		"name": "The Voice the Live radio",
+		"url": "http://5.135.154.66:35362/;"
+	},
+	"18": {
+		"name": "The Rod Pedersen Show",
+		"website": "https://rodpedersen.com",
+		"url": "https://us3.internet-radio.com/proxy/mrousseaux?mp=/live"
+	},
+	"19": {
+		"name": "HASH(0x55ab157886e0)",
+		"url": "http://184.154.202.243:8198/;"
+	}
+}

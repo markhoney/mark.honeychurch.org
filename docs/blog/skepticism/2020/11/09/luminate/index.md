@@ -25,7 +25,7 @@ The Luminate festival, held each year outside of Nelson, has always been a littl
 Each of those people is dangerous in their own ways, mostly through promoting conspiracies or recommending/selling unproven medical therapies. The organisers of the Luminate festival appear to have taken the list down for now, presumably in response to backlash from the article, and have replaced it with [a blog post](https://www.luminatefestival.co.nz/inspiring-articles-and-videos/shining-a-light-on-13-crystal-seeds-of-positive-change/) defending their choice of mentors. They say, in part:
 
 > “Our theme for Lunasa is bio-optimise and thrive- enhancing our internal biology, our external environment and power of the mind to achieve optimal health.
-
+>
 > The people that we listed under the themes of the 13 Crystal Seeds are a range of doctors, scientists, researchers and others that we hear speak directly on these topics.”
 
 I can assure the organisers that the “power of the mind” will not allow them to achieve optimal health, and that most, if not all, of the people they have listed come under the category of “others” and are not actual, trustworthy doctors, scientists or researchers.

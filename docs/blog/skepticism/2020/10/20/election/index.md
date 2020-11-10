@@ -10,9 +10,9 @@ tags:
 
 The big news this week has been the national election. I’ve been keeping a close eye on some of the more fringe political parties, and it’s been great to see that not many kiwis have been swayed by their radical ideas. In case you were too focused on whether the Greens were going to get a seat at the table, or if this is the last we’ll see of Winston Peters, here’s a summary of three of the more extreme parties, all of whom appear to have little respect for evidence:
 
-## Vision NZ
-
 <!-- more -->
+
+## Vision NZ
 
 It always seemed that Vision NZ, the party created by Destiny church, was destined to get very few votes. It’s hard to imagine that anyone outside of the church would ever vote for them, given their bad media image. Even though Hannah Tamaki headed up the party, everyone seems to have assumed (probably rightly) that her husband “Apostle Bishop” Brian Tamaki is the one pulling the strings. Given Brian’s prior pronouncements, including blaming gay people for earthquakes and telling his parishioners that Psalm 91 would protect them from COVID-19, it’s not surprising that the party received just under 3,000 party votes (around 0.1%). I reckon that probably aligns fairly well with Destiny church’s congregation numbers across the country.
 

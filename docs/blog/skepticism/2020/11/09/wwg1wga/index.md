@@ -8,7 +8,7 @@ tags:
   - QAnon
 ---
 
-I’m sure most skeptics will have heard of QAnon by now - the anonymously named Q who posts online about shadowy organisations, and talks about how president Trump is fighting dark forces in the US. QAnon tends to use lots of code names and obscure references, including the oft used acronym as the title of this section - it means Where We Go 1, We Go All. Here are a couple of examples of QAnon messages:
+I’m sure most people will have heard of QAnon by now - the anonymously named Q who posts online about shadowy organisations, and talks about how president Trump is fighting dark forces in the US. QAnon tends to use lots of code names and obscure references, including the oft used acronym as the title of this section - it means Where We Go 1, We Go All. Here are a couple of examples of QAnon messages:
 
 <!-- more -->
 

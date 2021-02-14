@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>This Website | Mark Honeychurch</title>
-    <meta name="generator" content="VuePress 1.7.1">
+    <meta name="generator" content="VuePress 1.8.1">
     <link rel="apple-touch-icon" sizes="180x180" href="/media/images/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/media/images/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/media/images/icons/favicon-16x16.png">
@@ -286,23 +286,23 @@
 		props<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">&quot;categories&quot;</span><span class="token punctuation">]</span>
 	<span class="token punctuation">}</span><span class="token punctuation">;</span>
 </span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
-</code></pre></div><h2 id="this-page"><a href="#this-page" class="header-anchor">#</a> This page</h2> <p>As an example, here is the markdown for this web page. There is a <a href="https://jekyllrb.com/docs/front-matter/" target="_blank" rel="noopener noreferrer">Front Matter<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a> section at the top of the page, followed by the page markdown.</p> <div class="language-md extra-class"><pre class="language-md"><code><span class="token hr punctuation">---</span>
-title: This Website
+</code></pre></div><h2 id="this-page"><a href="#this-page" class="header-anchor">#</a> This page</h2> <p>As an example, here is the markdown for this web page. There is a <a href="https://jekyllrb.com/docs/front-matter/" target="_blank" rel="noopener noreferrer">Front Matter<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a> section at the top of the page, followed by the page markdown.</p> <div class="language-md extra-class"><pre class="language-md"><code><span class="token front-matter-block"><span class="token punctuation">---</span>
+<span class="token font-matter yaml language-yaml">title: This Website
 date: 2018-09-12
 layout: Post
 categories:
-  <span class="token list punctuation">-</span> Software
+  - Software
 tags:
-  <span class="token list punctuation">-</span> Vue
-  <span class="token list punctuation">-</span> Vuepress
-  <span class="token title important">- Markdown
+  - Vue
+  - Vuepress
+  - Markdown</span>
 <span class="token punctuation">---</span></span>
 
-This website is built using <span class="token url">[<span class="token content">Vuepress</span>](https://vuepress.vuejs.org/)</span> and a little bit of Vue magic. The <span class="token url">[<span class="token content">entire source</span>](https://github.com/markhoney/mark.honeychurch.org)</span> for this site is on GitHub, and the config.js file has been set to build the site to the /docs folder. In GitHub this repository has been set to publish the site at /docs and has been given a custom domain name - mark.honeychurch.org.
+This website is built using <span class="token url">[<span class="token content">Vuepress</span>](<span class="token url">https://vuepress.vuejs.org/</span>)</span> and a little bit of Vue magic. The <span class="token url">[<span class="token content">entire source</span>](<span class="token url">https://github.com/markhoney/mark.honeychurch.org</span>)</span> for this site is on GitHub, and the config.js file has been set to build the site to the /docs folder. In GitHub this repository has been set to publish the site at /docs and has been given a custom domain name - mark.honeychurch.org.
 
 <span class="token comment">&lt;!-- more --&gt;</span>
 
-<span class="token url">![<span class="token content">GitHub Pages</span>](./Screenshot_1.jpg)</span>
+<span class="token url"><span class="token operator">!</span>[<span class="token content">GitHub Pages</span>](<span class="token url">./Screenshot_1.jpg</span>)</span>
 
 This solution allows me to have both the source and build for the website in the one GitHub repo, which is clean and simple. All that's needed is for Vuepress to be installed globally, along with the markdown-it extensions I use (video, fontawesome, abbr, sup, sub and attrs), and then for the NODE_PATH environment variable to point to the global node_modules folder.
 
@@ -340,7 +340,7 @@ For Vue components, there's metadata available for a single page in the $page ob
 
 There's a $site object which holds metadata for the entire site. I've created a separate page for it, as it's pretty long:
 
-<span class="token url">[<span class="token content">$site</span>](./site.md)</span>
+<span class="token url">[<span class="token content">$site</span>](<span class="token url">./site.md</span>)</span>
 
 <span class="token comment">&lt;!--
 ### $route
@@ -372,7 +372,7 @@ For example, to list a single category of posts on this site, I have a reactive 
 
 <span class="token title important"><span class="token punctuation">##</span> This page</span>
 
-As an example, here is the markdown for this web page. There is a <span class="token url">[<span class="token content">Front Matter</span>](https://jekyllrb.com/docs/front-matter/)</span> section at the top of the page, followed by the page markdown.
+As an example, here is the markdown for this web page. There is a <span class="token url">[<span class="token content">Front Matter</span>](<span class="token url">https://jekyllrb.com/docs/front-matter/</span>)</span> section at the top of the page, followed by the page markdown.
 
 &lt;&lt;&lt; @/docs/blog/code/website/index.md
 </code></pre></div></div> <footer class="page-edit"><!----> <!----></footer> <!----> <footer data-v-6a9f623b><hr data-v-6a9f623b> <p data-v-6a9f623b><a href="http://fb.me/mark.honeychurch" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-facebook-f" data-v-6a9f623b></i>
@@ -403,7 +403,7 @@ As an example, here is the markdown for this web page. There is a <span class="t
 		|
 		<a href="https://mark.honeychurch.org/feed.json" target="_blank" rel="noopener noreferrer" data-v-6a9f623b><i class="fab fa-js" data-v-6a9f623b></i>
 			JSON
-		</a></p> <p data-v-6a9f623b>Copyright © 2020 Mark Honeychurch</p></footer></main></div><div class="global-ui"><!----><!----></div></div>
+		</a></p> <p data-v-6a9f623b>Copyright © 2021 Mark Honeychurch</p></footer></main></div><div class="global-ui"><!----><!----></div></div>
     <script src="/assets/js/styles.js" defer></script><script src="/assets/js/18.js" defer></script><script src="/assets/js/1.js" defer></script><script src="/assets/js/89.js" defer></script><script src="/assets/js/112.js" defer></script><script src="/assets/js/111.js" defer></script><script src="/assets/js/65.js" defer></script><script src="/assets/js/app.js" defer></script>
   </body>
 </html>

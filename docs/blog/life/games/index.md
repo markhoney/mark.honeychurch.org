@@ -53,6 +53,8 @@ I really enjoyed the unfolding story in this game, which did an amazing job of p
 A clever game with cool narration and some clever manipulation of the game world to create enjoyable conundrums.
 
 ### [Limbo](https://store.steampowered.com/app/48000/LIMBO/)
+
+This is a relatively short game, but with decent puzzles and a simple but effective look and feel.
 ### [Superliminal](https://store.steampowered.com/app/1049410/Superliminal/)
 
 There are moments in this game that left me audibly chuckling to myself because of how weird and wonderful the solutions to puzzles were. I was half expecting this game to be a one-trick pony, but the creators came up with enough tricks to make this an enjoyable play.
@@ -137,6 +139,10 @@ A great way to feel the stress of a commercial kitchen from the comfort of your 
 ### [Manual Samuel](https://store.steampowered.com/app/504130/Manual_Samuel__Anniversary_Edition/)
 
 What a weird game! Irreverant, difficult and very strange, this game has you cooperating to walk, blink and drive a manual (stik shift) car.
+
+### [Affordable Space Adventures](https://www.nintendo.com/games/detail/affordable-space-adventures-wii-u/)
+
+This is the only non-PC game on this list, as it's on Wii U only. Sadly it's unlikely to ever be ported as it leans heavily on use of the Wii U's gamepad, a controller with a screen in the middle. Each player controls several aspects of the steering of a small space ship through 2D platform levels. The gamepad is used by the Engineer, and shows heat and sound levels, allowing the player to switch engine types, turn features on and off, etc. It's a game that was obviously written for the Wii U's hardware, and does a really good job taking advantage of the Wii U's strengths. I'm almost tempted to pick up a second hand Wii U just for this game.
 
 ## Platform
 

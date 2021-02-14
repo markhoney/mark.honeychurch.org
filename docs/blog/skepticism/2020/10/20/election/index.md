@@ -8,7 +8,7 @@ tags:
   - AdvanceNZ
 ---
 
-The big news this week has been the national election. I’ve been keeping a close eye on some of the more fringe political parties, and it’s been great to see that not many kiwis have been swayed by their radical ideas. In case you were too focused on whether the Greens were going to get a seat at the table, or if this is the last we’ll see of Winston Peters, here’s a summary of three of the more extreme parties, all of whom appear to have little respect for evidence:
+I’ve been keeping a close eye on some of the more fringe political parties in New Zealand's election, and it’s been great to see that not many kiwis have been swayed by their radical ideas. In case you were too focused on whether the Greens were going to get a seat at the table, or if this is the last we’ll see of Winston Peters, here’s a summary of three of the more extreme parties, all of whom appear to have little respect for evidence:
 
 <!-- more -->
 

@@ -99,6 +99,18 @@ I'm not sure when exactly I played this game, or what system I played it on, but
 
 @[youtube](https://www.youtu.be/izx7sy3beIU)
 
+## Flashback
+
+In a similar vein to Another World, Flashback was another game that managed to portray a rich, realistic feeling environment.
+
+@[youtube](https://www.youtu.be/ZyY9Sz13d0A)
+
+## Prince of Persia
+
+The original Prince of Persia was a tough and enjoyable challenge, and I played it on an early Amstrad PC.
+
+@[youtube](https://www.youtu.be/Xv20j8ChtRY)
+
 ## Golden Axe
 
 I'm not sure where I played this game, but I played it a lot at the arcade and finished it a few times (with the help of random strangers, one of the joys of multi player arcade games).
@@ -122,6 +134,12 @@ When I was 15 or 16 I used to babysit for my parents' friends. I took a Game Boy
 The Seven Stones pub on the island of St. Martin's, part of the Isles of Scilly where I grew up, had a table top Galaxians arcade that I played often enough that I was able to predict many of the ships' movements.
 
 @[youtube](https://www.youtu.be/XhYVcwhSWjI)
+
+## Alex Kidd in Miracle World
+
+When my brothers purchased a Sega Master System, back when I was 15, at first they didn't have any cartridges and so the only game available was the built-in game, Alex Kidd in Miracle World. I remember it being annoyingly difficult to play!
+
+@[youtube](https://www.youtu.be/Rb9haoWT5js)
 
 ## Lemmings
 
@@ -213,6 +231,12 @@ At university I used to play two player Micro Machines on a single PC against Da
 
 @[youtube](https://www.youtu.be/rqdeUQFH0Qc)
 
+## The Dig
+
+I upset my housemate Simon at University by playing a copy of his pirated game The Dig and finishing it before he did. This was my first real experience of a point and click adventure.
+
+@[youtube](https://www.youtu.be/EGzX_7ZN8_U)
+
 ## Goldeneye
 
 While my brother Martin was at home being treated for cancer, my parents bought him a Nintendo 64 and I took some time off university to help look after him. After my brother died, the N64 returned to university with me. My friends and I would take regular breaks from studying from our finals, when I was 22, and we would play four player Goldeneye to de-stress.
@@ -236,9 +260,3 @@ Like many people, I played my fair share of Snake on my Nokia 3210, my first pho
 When I had returned to the UK after living in Australia for a year, at the age of 27 I purchased an XBox and played Tony Hawk's Pro Skater 2 obsessively until I had 100% completed the entire game.
 
 @[youtube](https://www.youtu.be/adBTAen2fJs)
-
-## Alex Kidd in Miracle World
-
-When my brothers purchased a Sega Master System, back when I was 15, at first they didn't have any cartridges and so the only game available was the built-in game, Alex Kidd in Miracle World. I remember it being annoyingly difficult to play!
-
-@[youtube](https://www.youtu.be/Rb9haoWT5js)

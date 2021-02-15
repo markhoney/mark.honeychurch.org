@@ -19,7 +19,7 @@ module.exports = {
 	description: 'Coder, Skeptic, Humanist',
 	author: 'Mark Honeychurch',
 	// dest: 'docs',
-	shouldPrefetch: () => false,
+	shouldPrefetch: () => true,
 	evergreen: true,
 	themeConfig: {
 		//repo: 'markhoney/mark.honeychurch.org',
@@ -161,7 +161,7 @@ module.exports = {
 		//'@vuepress/pagination': {},
 		'@vuepress/register-components': {},
 		'@vuepress/pwa': {
-			serviceWorker: true,
+			serviceWorker: false,
 			updatePopup: {
 				message: "New content is available.",
 				buttonText: "Reload"

@@ -11,4 +11,8 @@
 layout: Page
 ---
 
+<script setup>
+  import PageHome from './.vitepress/theme/global-components/page/home.vue'
+</script>
+
 <page-home />

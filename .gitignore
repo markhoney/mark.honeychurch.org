@@ -24,10 +24,10 @@ yarn-error.log*
 thumbs.db
 
 # Large Media
-docs/.vuepress/lfs
+docs/.vitepress/lfs
 
 # Build folder
-docs/.vuepress/dist/*
+docs/.vitepress/dist/*
 
 # Lock files
 # package-lock.json

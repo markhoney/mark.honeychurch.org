@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import posts from '@theme/components/list/posts.vue';
+import posts from './posts.vue';
 export default {
 	data() {
 		return {};
@@ -11,6 +11,7 @@ export default {
 	components: { posts },
 	computed: {
 		posts() {
+			console.log(this.$site);
 			return this.$site.pages
 				.filter(post => post.frontmatter.title && post.frontmatter.date)
 				.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))

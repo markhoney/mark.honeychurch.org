@@ -1,20 +1,20 @@
 <template>
-	<ParentLayout>
+	<parent-layout>
 		<template #page-top>
-			<pagetop />
+			<page-top />
 		</template>
 		<template #page-bottom>
-			<pagebottom />
+			<page-bottom />
 		</template>
-	</ParentLayout>
+	</parent-layout>
 </template>
 
 <script>
 	import ParentLayout from '@parent-theme/layouts/Layout.vue';
-	import pagetop from '@theme/components/section/header.vue';
-	import pagebottom from '@theme/components/section/footer.vue';
+	import PageTop from '@theme/components/section/header.vue';
+	import PageBottom from '@theme/components/section/footer.vue';
 	export default {
 		// name: 'Post',
-		components: {ParentLayout, pagetop, pagebottom}
+		components: {ParentLayout, PageTop, PageBottom}
 	};
 </script>

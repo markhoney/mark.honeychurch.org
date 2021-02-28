@@ -33,10 +33,10 @@
 </template>
 
 <script>
-import taxonomy from '@theme/components/post/taxonomy.vue';
+import Taxonomy from '@theme/components/post/taxonomy.vue';
 //import post from './post.vue';
 export default {
-	components: {taxonomy}, // , post
+	components: {Taxonomy}, // , post
 	props: {
 		posts: {
 			type: Array

@@ -2,7 +2,7 @@
 	<p>
 		<template v-if="showsection">
 			<em>Section:</em>
-			<postsection/>
+			<post-section/>
 			<template v-if="(showcategories || showtags)">,</template>
 		</template>
 		<template v-if="showcategories">
@@ -18,11 +18,11 @@
 </template>
 
 <script>
-import postsection from '@theme/components/post/section.vue'; // "section" is a reserved HTML tag
-import categories from '@theme/components/post/categories.vue';
-import tags from '@theme/components/post/tags.vue';
+import PostSection from '@theme/components/post/section.vue'; // "section" is a reserved HTML tag
+import Categories from '@theme/components/post/categories.vue';
+import Tags from '@theme/components/post/tags.vue';
 export default {
-	components: { postsection, categories, tags },
+	components: {PostSection, Categories, Tags},
 	props: {
 		post: {
 			type: Object

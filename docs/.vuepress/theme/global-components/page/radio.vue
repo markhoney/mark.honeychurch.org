@@ -32,59 +32,59 @@
 </template>
 
 <script>
-//import months from "./months.json";
-import radio from '@theme/global-components/page/radio.json';
-import posts from '@theme/global-components/list/section.vue';
-export default {
-	components: { posts },
-	data() {
-		return {
-			radio: radio
-			//months: months
-		};
-	},
-	computed: {
-		segments: function() {
-			var components = this.$page.path.split('/');
-			var segments = { show: true };
-			if (components.length >= 5) {
-				segments.period = 'year';
-				segments.date = components[3];
-				segments.year = components[3];
-			}
-			if (components.length >= 6) {
-				segments.period = 'month';
-				segments.date += '-' + components[4];
-				segments.month = components[4];
-			}
-			if (components.length >= 7) {
-				segments.period = 'week';
-				segments.date += '-' + components[5];
-				segments.day = ('0' + components[5]).slice(-2);
-				segments.show = false;
-			}
-			segments.audio = this.radio.filter(
-				segment =>
-					//segment.date.startsWith(segments.date)
-					segment.date == segments.date
-			);
-			return segments;
-		}
-	},
-	methods: {
-		getOrdinalNum: function(n) {
-			return n + (n > 0 ? ['th', 'st', 'nd', 'rd'][(n > 3 && n < 21) || n % 10 > 3 ? 0 : n % 10] : '');
+	//import months from "./months.json";
+	import radio from '@theme/global-components/page/radio.json';
+	import posts from '@theme/global-components/list/section.vue';
+	export default {
+		components: { posts },
+		data() {
+			return {
+				radio: radio
+				//months: months
+			};
 		},
-		getMonthName: function(n) {
-			return ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][n - 1];
+		computed: {
+			segments: function() {
+				var components = this.$page.path.split('/');
+				var segments = { show: true };
+				if (components.length >= 5) {
+					segments.period = 'year';
+					segments.date = components[3];
+					segments.year = components[3];
+				}
+				if (components.length >= 6) {
+					segments.period = 'month';
+					segments.date += '-' + components[4];
+					segments.month = components[4];
+				}
+				if (components.length >= 7) {
+					segments.period = 'week';
+					segments.date += '-' + components[5];
+					segments.day = ('0' + components[5]).slice(-2);
+					segments.show = false;
+				}
+				segments.audio = this.radio.filter(
+					segment =>
+						//segment.date.startsWith(segments.date)
+						segment.date == segments.date
+				);
+				return segments;
+			}
+		},
+		methods: {
+			getOrdinalNum: function(n) {
+				return n + (n > 0 ? ['th', 'st', 'nd', 'rd'][(n > 3 && n < 21) || n % 10 > 3 ? 0 : n % 10] : '');
+			},
+			getMonthName: function(n) {
+				return ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][n - 1];
+			}
 		}
-	}
-};
+	};
 </script>
 
 <style scoped>
-audio {
-	text-align: center;
-	margin: 2em;
-}
+	audio {
+		text-align: center;
+		margin: 2em;
+	}
 </style>

@@ -1,3 +1,4 @@
+const existsSync = require('fs');
 // const {readFileSync} = require('fs');
 // const {resolve} = require('path');
 // const csp = readFileSync(resolve(__dirname, 'website', 'csp.txt'), 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
@@ -193,6 +194,21 @@ module.exports = {
 				};
 			},
 			image: $page => '/media/images' + ($page.path.startsWith('/blog/skepticism/') ? ['', $page.path.split('/')[1], $page.path.split('/')[2], ($page.frontmatter.tags ? $page.frontmatter.tags[0].toString().toLowerCase() : 'thoughts')].join('/') : ($page.path.endsWith('/') ? $page.path.slice(0, -1) : $page.path)) + '.jpg',
+			/* imageNew: ($page) => {
+				console.log();
+				let path = '/media/images';
+				if ($page.path.startsWith('/blog/skepticism/')) {
+					path += ['', $page.path.split('/')[1], $page.path.split('/')[2], ($page.frontmatter.tags ? $page.frontmatter.tags[0].toString().toLowerCase() : 'thoughts')].join('/');
+				} else {
+					if ($page.path.endsWith('/')) {
+						path += $page.path.slice(0, -1);
+					} else {
+						path += $page.path;
+					}
+				}
+				path += '.jpg';
+				return path;
+			}, */
 		},
 		'tabs': {}
 	}

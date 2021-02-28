@@ -18,9 +18,9 @@
 </template>
 
 <script>
-import taxonomy from '@theme/components/post/taxonomy.vue';
+import Taxonomy from '@theme/components/post/taxonomy.vue';
 export default {
-	components: { taxonomy },
+	components: {Taxonomy},
 	props: {
 		post: {
 			type: Object

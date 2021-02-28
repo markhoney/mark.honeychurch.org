@@ -1,16 +1,16 @@
 <template>
-	<ParentLayout>
+	<parent-layout>
 		<template #page-bottom>
-			<pagebottom />
+			<page-bottom />
 		</template>
-	</ParentLayout>
+	</parent-layout>
 </template>
 
 <script>
 	import ParentLayout from '@parent-theme/layouts/Layout.vue';
-	import pagebottom from '@theme/components/section/footer.vue';
+	import PageBottom from '@theme/components/section/footer.vue';
 	export default {
 		// name: 'Page',
-		components: {ParentLayout, pagebottom}
+		components: {ParentLayout, PageBottom}
 	};
 </script>

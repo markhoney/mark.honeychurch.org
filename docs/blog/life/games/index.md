@@ -128,9 +128,9 @@ A game I only played recently, but found myself wanting to complete as quickly a
 
 ![Supraland - Gameplay Screenshot](./images/supraland.jpg)
 
-### [Subnautica](https://store.steampowered.com/app/264710/Subnautica/)
+### [Subnautica & Below Zero](https://store.steampowered.com/app/264710/Subnautica/)
 
-A crafting game that I actually enjoyed, more because of the feelings that are created by being underwater, at risk of attack or drowning, than because of the crafting element. It has a good storyline, and some cool creatures.
+A couple of crafting games that I actually enjoyed, more because of the feelings that are created by being underwater, at risk of attack or drowning, than because of the crafting element. The first game especially had a good storyline and some cool aquatic creatures.
 
 ![Subnautica - Gameplay Screenshot](./images/subnautica.jpg)
 
@@ -180,19 +180,19 @@ A stunningly beautiful game, that is a joy to play through. After finishing the 
 
 ### [Viscera Cleanup Detail](https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/)
 
-One of my all-time favourite games to unwind to, especially with friends. Your job in the game is to clean up after epic space battles - incinerate corpses, mop up blood, pick up spent shells, weld bullet holes. It's cathartic, and great to play while chatting online via Discord.
+One of my all-time favourite games to unwind to, especially with friends. Your job in the game is to clean up after epic space battles - incinerate corpses, mop up blood, pick up spent shells, weld bullet holes. It's cathartic, and great to play while chatting online via Discord or with local split-screen.
 
 ![Viscera Cleanup Detail - Gameplay Screenshot](./images/viscera.jpg)
 
 ### [Lovers in a Dangerous Spacetime](https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/)
 
-More difficult than it looks at first, this game needs good cooperation and a certain amount of doggedness to play through.
+More difficult than it looks at first, this local co-op game needs good cooperation between the players and a certain amount of doggedness to play through.
 
 ![Lovers in a Dangerous Spacetime - Gameplay Screenshot](./images/lovers.jpg)
 
 ### [Overcooked](https://store.steampowered.com/app/448510/Overcooked/)
 
-A great way to feel the stress of a commercial kitchen from the comfort of your own home.
+A great way to feel the stress of working in a commercial kitchen from the comfort of your own home! Lots of fun with friends as a local co-op game. I'd recommend picking a more experienced game player in your team to coordinate, assigning jobs and calling out the orders that need to be fulfilled.
 
 ![Overcooked - Gameplay Screenshot](./images/overcooked.jpg)
 

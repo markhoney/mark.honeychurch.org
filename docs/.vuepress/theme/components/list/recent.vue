@@ -3,12 +3,13 @@
 </template>
 
 <script>
-import posts from '@theme/components/list/posts.vue';
+import Posts from '@theme/components/list/posts.vue';
 export default {
+	components: {Posts},
 	data() {
 		return {};
 	},
-	components: { posts },
+	components: {Posts},
 	computed: {
 		posts() {
 			return this.$site.pages

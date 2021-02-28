@@ -34,14 +34,11 @@
 </template>
 
 <script>
-/*if (process && process.browser) {
-  var VueTyper = require('vue-typer').VueTyper;
-}*/
-import recent from '@theme/components/list/recent.vue';
-export default {
-	components: {recent}, // VueTyper
-};
+	/*if (process && process.browser) {
+		var VueTyper = require('vue-typer').VueTyper;
+	}*/
+	import Recent from '@theme/components/list/recent.vue';
+	export default {
+		components: {Recent}, // VueTyper
+	};
 </script>
-
-<style>
-</style>

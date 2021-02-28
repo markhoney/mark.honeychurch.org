@@ -19,14 +19,15 @@
 </template>
 
 <script>
-import parallax from "vue-parallaxy";
-import taxonomy from '@theme/components/post/taxonomy.vue';
-//import metadata from "../post/metadata.vue";
+import Parallax from "vue-parallaxy";
+import Taxonomy from '@theme/components/post/taxonomy.vue';
+//import Metadata from "../post/metadata.vue";
 export default {
-	components: {taxonomy, parallax}, //, metadata
+	components: {Parallax, Taxonomy}, //, Metadata
 	computed: {
 		image() {
-			var image = this.$page.frontmatter.meta.find(p => p.property == 'og:image').content;
+			console.log(this.$page.frontmatter.meta);
+			const image = this.$page.frontmatter.meta.find(p => p.property === 'og:image');
 			/*'/media/images' +
 				(this.$page.path.startsWith('/blog/skepticism/')
 					? [
@@ -40,7 +41,7 @@ export default {
 					: this.$page.path.slice(0, -5)) +
 				'.jpg';*/
 			//this.$page.frontmatter.image = image;
-			return image;
+			return image && image.content;
 		},
 		date() {
 			var date = new Date(this.$page.frontmatter.date).toLocaleDateString('en-NZ', { year: 'numeric', month: 'long', day: 'numeric' });

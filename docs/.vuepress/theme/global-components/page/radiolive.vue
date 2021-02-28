@@ -32,12 +32,12 @@
 </template>
 
 <script>
-import radio from '@theme/global-components/page/radio.json';
-export default {
-	data() {
-		return {
-			radio: radio
-		};
-	}
-};
+	import radio from '@theme/global-components/page/radio.json';
+	export default {
+		data() {
+			return {
+				radio: radio
+			};
+		}
+	};
 </script>

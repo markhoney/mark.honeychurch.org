@@ -52,7 +52,7 @@ For Vue components, there's metadata available for a single page in the $page ob
 
 There's a $site object which holds metadata for the entire site. I've created a separate page for it, as it's pretty long:
 
-[$site](./site.md)
+[$site](./site)
 
 <!--
 ### $route
@@ -82,8 +82,10 @@ For example, to list a single category of posts on this site, I have a reactive 
 
 <<< @/docs/.vuepress/theme/components/post/categories.vue
 
+<!--
 ## This page
 
 As an example, here is the markdown for this web page. There is a [Front Matter](https://jekyllrb.com/docs/front-matter/) section at the top of the page, followed by the page markdown.
 
 <<< @/docs/blog/code/website/index.md
+-->

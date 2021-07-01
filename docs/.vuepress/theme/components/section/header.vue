@@ -26,7 +26,6 @@ export default {
 	components: {Parallax, Taxonomy}, //, Metadata
 	computed: {
 		image() {
-			console.log(this.$page.frontmatter.meta);
 			const image = this.$page.frontmatter.meta.find(p => p.property === 'og:image');
 			/*'/media/images' +
 				(this.$page.path.startsWith('/blog/skepticism/')

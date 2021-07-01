@@ -54,7 +54,7 @@ The Unfinished Swan's simple concept of making everyting totally white and havin
 
 ### [Please, don't touch anything](https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/)
 
-This is a game I first played [in 3D](https://store.steampowered.com/app/529590/Please_Dont_Touch_Anything_3D/), on the Oculus Rift. I later bought the regular 2D PC version, and actually enjoyed it more than the 3D version - possibly because it's simple graphics reminded me of [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/).
+This is a game I first played [in 3D](https://store.steampowered.com/app/529590/Please_Dont_Touch_Anything_3D/), on the Oculus Rift. I later bought the regular 2D PC version, and actually enjoyed it more than the 3D version - possibly because its simple graphics reminded me of [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/).
 
 ![Please, don't touch anything - Gameplay Screenshot](./images/touch.jpg)
 

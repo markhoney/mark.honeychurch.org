@@ -17,7 +17,7 @@
 		"build": "cross-env NODE_OPTIONS='--max-old-space-size=4096' vuepress build docs",
 		"serve": "vuepress serve docs",
 		"kill": "taskkill /IM node.exe /F",
-		"up": "yarn upgrade && yarn upgrade-interactive --latest"
+		"update": "yarn upgrade && yarn upgrade-interactive --latest"
 	},
 	"directories": {
 		"doc": "docs"

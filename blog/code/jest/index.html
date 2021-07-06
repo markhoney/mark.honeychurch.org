@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>QR Code Generator | Mark Honeychurch</title>
+    <title>Pubs not Puns | Mark Honeychurch</title>
     <meta name="generator" content="VuePress 1.8.2">
     <link rel="apple-touch-icon" sizes="180x180" href="/media/images/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/media/images/icons/favicon-32x32.png">
@@ -16,11 +16,13 @@
     <meta name="description" content="Coder, Skeptic, Humanist">
     <meta property="article:published_time" content="2020-08-28T00:00:00.000Z">
     <meta property="og:site_name" content="Mark Honeychurch">
-    <meta property="og:title" content="QR Code Generator">
+    <meta property="og:title" content="Pubs not Puns">
+    <meta property="og:description" content="I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my love of puns:">
     <meta property="og:type" content="article">
     <meta property="og:url" content="/blog/code/jest/">
     <meta property="og:image" content="/media/images/blog/code/jest.jpg">
-    <meta name="twitter:title" content="QR Code Generator">
+    <meta name="twitter:title" content="Pubs not Puns">
+    <meta name="twitter:description" content="I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my love of puns:">
     <meta name="twitter:url" content="/blog/code/jest/">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="/media/images/blog/code/jest.jpg">
@@ -97,7 +99,7 @@
   CV
 </a></div><div class="nav-item"><a href="/contact/" class="nav-link">
   Contact
-</a></div> <!----></nav>  <!----> </aside> <main class="page"><div data-v-f429b87c><!----> <h2 data-v-f429b87c>QR Code Generator</h2> <h4 data-v-f429b87c>August 28, 2020</h4> <p data-v-f429b87c><!----> <em>Categories:</em> <span><a href="/blog/category/?name=Software">Software<!----></a></span> , <em>Tags:</em> <span><a href="/blog/tag/?name=Testing">Testing<span>, </span></a><a href="/blog/tag/?name=Jest">Jest<!----></a></span></p></div> <div class="theme-default-content content__default"><p>I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my love of puns:</p> <blockquote><p>Richard:</p> <p>You love a pub</p> <p>Mark:</p> <p>I do!</p> <p>Richard:</p> <p>Pun!</p> <p>Well both statements are true 😁</p> <p>I typed pun. Bloody iPhone decided it knew best</p> <p>It didn’t</p> <p>Mark:</p> <p>Today I’m focusing on writing a test suite - so I could quickly throw together a test for that claim.</p></blockquote> <p>So, here's my Jest test case for my friend's claim that I like both pubs and puns. I'm pretty sure it proves once and for all that I'm not a fan of puns.</p> <div class="language-javascript extra-class"><pre class="language-javascript"><code><span class="token keyword">function</span> <span class="token function">like</span><span class="token punctuation">(</span><span class="token parameter">thing</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</a></div> <!----></nav>  <!----> </aside> <main class="page"><div data-v-f429b87c><!----> <h2 data-v-f429b87c>Pubs not Puns</h2> <h4 data-v-f429b87c>August 28, 2020</h4> <p data-v-f429b87c><!----> <em>Categories:</em> <span><a href="/blog/category/?name=Software">Software<!----></a></span> , <em>Tags:</em> <span><a href="/blog/tag/?name=Testing">Testing<span>, </span></a><a href="/blog/tag/?name=Jest">Jest<!----></a></span></p></div> <div class="theme-default-content content__default"><p>I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my love of puns:</p> <blockquote><p>Richard:</p> <p>You love a pub</p> <p>Mark:</p> <p>I do!</p> <p>Richard:</p> <p>Pun!</p> <p>Well both statements are true 😁</p> <p>I typed pun. Bloody iPhone decided it knew best</p> <p>It didn’t</p> <p>Mark:</p> <p>Today I’m focusing on writing a test suite - so I could quickly throw together a test for that claim.</p></blockquote> <p>So, here's my Jest test case for my friend's claim that I like both pubs and puns. I'm pretty sure it proves once and for all that I'm not a fan of puns.</p> <div class="language-javascript extra-class"><pre class="language-javascript"><code><span class="token keyword">function</span> <span class="token function">like</span><span class="token punctuation">(</span><span class="token parameter">thing</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
 	<span class="token keyword">if</span> <span class="token punctuation">(</span>thing <span class="token operator">===</span> <span class="token string">'pub'</span><span class="token punctuation">)</span> <span class="token keyword">return</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
 	<span class="token keyword">else</span> <span class="token keyword">if</span> <span class="token punctuation">(</span>thing <span class="token operator">===</span> <span class="token string">'pun'</span><span class="token punctuation">)</span> <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
 	<span class="token keyword">return</span> <span class="token keyword">undefined</span><span class="token punctuation">;</span>

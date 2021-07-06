@@ -1,5 +1,5 @@
 ---
-title: QR Code Generator
+title: Pubs not Puns
 date: 2020-08-28
 layout: Post
 categories:
@@ -10,6 +10,8 @@ tags:
 ---
 
 I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my love of puns:
+
+<!-- more -->
 
 > Richard:
 >

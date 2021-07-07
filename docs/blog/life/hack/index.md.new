@@ -1,0 +1,14 @@
+---
+title: That time I hacked my work
+date: 2021-07-08
+layout: Post
+categories:
+  - Security
+tags:
+  - CouchDB
+  - Hacking
+---
+
+It's been long enough now since I worked at this particular company (which shall remain nameless) that I think it's safe to talk about the time I discovered a large, scary security flaw in a work system.
+
+<!-- more -->

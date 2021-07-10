@@ -9,6 +9,8 @@ tags:
   - Hacking
 ---
 
-It's been long enough now since I worked at this particular company (which shall remain nameless) that I think it's safe to talk about the time I discovered a large, scary security flaw in a work system.
+This is a story I've been wanting to write down for a while. A few years ago, at an IT company I worked for, I discovered a huge hole in our security. Read on to find out just how huge this hole was.
 
 <!-- more -->
+
+At the time I was developing software for the company as well as

@@ -158,8 +158,8 @@ module.exports = {
 		'@silvanite/tailwind': {
 			purgecss: {enabled: false},
 		},
-		'@vuepress/medium-zoom': {},
-		//'@vuepress/pagination': {},
+		// '@vuepress/medium-zoom': {},
+		// '@vuepress/pagination': {},
 		'@vuepress/register-components': {},
 		'@vuepress/pwa': {
 			serviceWorker: false,

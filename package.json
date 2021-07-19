@@ -54,7 +54,7 @@
 		"vue-qriously": "^1.1.1",
 		"vue-tabs-component": "^1.5.0",
 		"vue-typer": "^1.2.0",
-		"vuepress": "^1.5.2",
+		"vuepress": "^2.0.0-beta.21",
 		"vuepress-plugin-clean-urls": "^1.1.1",
 		"vuepress-plugin-container": "^2.1.4",
 		"vuepress-plugin-feed": "^0.1.8",

@@ -1,5 +1,5 @@
 ---
-title: A BitCoin Primer
+title: Is BitCoin like a Ponzi Scheme?
 date: 2021-03-31
 host: Graeme Hill
 outlet: MagicTalk
@@ -9,6 +9,8 @@ categories:
 tags:
   - BitCoin
   - CryptoCurrency
+  - Ponzi Scheme
+  - Scam
 ---
 
 Bitcoin is a digital currency that allows people to transfer money to other bitcoin users anonymously and securely (although [there are ways](https://www.sciencemag.org/news/2016/03/why-criminals-cant-hide-behind-bitcoin) of tracking unsuspecting users if they don’t know how to cover their tracks properly). There are two main pieces of technology that allow Bitcoin to work.

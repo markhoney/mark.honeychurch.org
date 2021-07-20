@@ -1,5 +1,5 @@
 ---
-title: Prayers @ Parliament
+title: Freedom Rally
 date: 2021-03-24
 host: Graeme Hill
 outlet: MagicTalk
@@ -7,8 +7,8 @@ layout: Post
 categories:
   - Skepticism
 tags:
-  - Religion
-  - Politics
+  - Conspiracy
+  - COVID
 ---
 
 On Saturday I attended one of several Freedom Rallies around the country. In Wellington, the rally was set for midday at the train station. It was a fairly low key affair, with flyers being handed out saying that masks and the vaccine are both ineffective.

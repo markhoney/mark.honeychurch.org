@@ -46,17 +46,11 @@ As a part of the roles I've taken on working for charities such as the [NZ Skept
 
 <p><audio controls src="https://podcast.radionz.co.nz/ntn/ntn-20151014-0908-pharmacy_council_moves_to_change_code_of_ethics_over_homeopathy-048.mp3" /></p>
 
-#### RadioLive
+#### Skeptical Thoughts
 
-I spoken regularly on RadioLive for several years, as part of the Skeptical Thoughts segment of Graeme Hill's Weekend Variety Wireless show. Here's a list of my appearances:
+I have spoken regularly on the radio about skepticism with Graeme Hill, first on his Weekend Variety Wireless show on RadioLive, and more recently on MagicTalk. Here's a list of my appearances:
 
-<page-radiolive />
-
-#### MagicTalk
-
-When Graeme Hill took over the evening slot on MagicTalk, I was invited to join him on Wednesday nights to chat about all things skeptical:
-
-<page-magictalk />
+<page-radiolist />
 
 ### Podcasts
 

@@ -1,10 +1,13 @@
 ---
 title: Bioptron call me
 date: 2016-11-27
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Bioptron
 ---
 

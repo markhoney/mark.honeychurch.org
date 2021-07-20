@@ -3,8 +3,9 @@ title: A food kind of day
 date: 2019-02-18
 layout: Post
 categories:
-  - Birthday
+  - Life
 tags:
+  - Birthday
   - Abigail
 ---
 

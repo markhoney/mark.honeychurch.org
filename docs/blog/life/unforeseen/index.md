@@ -3,8 +3,9 @@ title: Psychic Cancelled due to Unforeseen Circumstances!
 date: 2013-08-18
 layout: Post
 categories:
-  - Pseudoscience
+  - Life
 tags:
+  - Pseudoscience
   - Psychic
 ---
 

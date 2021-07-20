@@ -3,8 +3,9 @@ title: The Hard Sell
 date: 2011-07-04
 layout: Post
 categories:
-  - Advertising
+  - Life
 tags:
+  - Advertising
   - Travel
 ---
 

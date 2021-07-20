@@ -3,8 +3,9 @@ title: Augmented Reality Sandbox
 date: 2017-08-18
 layout: Post
 categories:
-  - Build
+  - Projects
 tags:
+  - Build
   - Sandbox
   - Projector
   - Kinect

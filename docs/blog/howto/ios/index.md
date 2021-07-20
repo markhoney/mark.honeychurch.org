@@ -3,8 +3,9 @@ title: Restore an iOS13 backup to iOS12 or earlier
 date: 2019-10-08
 layout: Post
 categories:
-  - Hardware
+  - HowTo
 tags:
+  - Hardware
   - Apple
   - iPhone
   - IOS
@@ -39,4 +40,3 @@ Once this has been done, close and re-open iTunes, and then attempt the restore.
 For more details, there's a video showing how to do this:
 
 @[youtube](https://youtu.be/Ph5MGBeClv8)
-

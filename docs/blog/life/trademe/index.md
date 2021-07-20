@@ -3,8 +3,9 @@ title: Trademe Complaint
 date: 2008-03-13
 layout: Post
 categories:
-  - Skepticism
+  - Life
 tags:
+  - Skepticism
   - Complaint
   - TradeMe
 ---

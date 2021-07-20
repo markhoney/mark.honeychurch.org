@@ -1,10 +1,13 @@
 ---
 title: Christchurch City Council to reduce use of weedkiller
 date: 2016-07-03
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Glyphosate
 ---
 

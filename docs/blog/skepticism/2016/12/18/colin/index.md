@@ -1,10 +1,13 @@
 ---
 title: Colin Meads using "magic water" for his cancer
 date: 2016-12-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - MMS
   - Cancer
 ---

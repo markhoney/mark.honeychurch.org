@@ -3,8 +3,9 @@ title: Glitching a Yamaha Keyboard
 date: 2004-06-05
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - Keyboard
   - Glitch
 ---

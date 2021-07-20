@@ -1,10 +1,13 @@
 ---
 title: Applied Kinesiology
 date: 2016-12-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Kinesiology
 ---
 

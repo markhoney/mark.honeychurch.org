@@ -1,10 +1,13 @@
 ---
 title: Dodgy Thai cancer clinic criticised
 date: 2016-09-25
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Cancer
 ---
 

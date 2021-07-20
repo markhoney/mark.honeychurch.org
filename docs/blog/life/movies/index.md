@@ -3,8 +3,9 @@ title: My Favourite Movies
 date: 2021-02-28
 layout: Post
 categories:
-  - Movies
+  - Life
 tags:
+  - Movies
   - Favourite
 ---
 

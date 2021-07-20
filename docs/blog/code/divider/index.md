@@ -3,8 +3,9 @@ title: Voltage Divider
 date: 2018-10-11
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Voltage
   - Divider
 ---

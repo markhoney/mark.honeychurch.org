@@ -1,10 +1,13 @@
 ---
 title: Fiji Government conned by scam artist
 date: 2016-12-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Scam
 ---
 

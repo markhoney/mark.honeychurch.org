@@ -1,10 +1,13 @@
 ---
 title: KFC wins payout over China mutant chicken rumours
 date: 2016-02-07
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - FastFood
 ---
 

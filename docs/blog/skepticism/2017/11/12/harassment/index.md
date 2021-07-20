@@ -1,10 +1,15 @@
 ---
 title: Sexual Harassment of kids is okay, because of Joseph and Mary?
 date: 2017-11-12
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2017/11/clare-curran--labour-mp/skeptical-thoughts-with-mark-honeychurch.html
+audio: https://audio.mediaworks.nz/content/radiolive/Hill/Nov17/SkepticalThoughts12_11_17.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Evangelical
 ---
 

@@ -3,8 +3,9 @@ title: Reordering the Alphabet
 date: 2021-02-15
 layout: Post
 categories:
-  - Words
+  - Random
 tags:
+  - Words
   - Alphabet
   - Order
 ---

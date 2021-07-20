@@ -1,10 +1,15 @@
 ---
 title: Ex naturopath being sued
 date: 2018-01-21
+host: Ryan Bradley
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2018/01/skeptical-thoughts-with-mark-honeychurch.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/SkepticalThoughts21_01_18.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Naturopathy
   - CAM
 ---

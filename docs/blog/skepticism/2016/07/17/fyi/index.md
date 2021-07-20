@@ -1,10 +1,13 @@
 ---
 title: FYI needs help categorising OIA requests
 date: 2016-07-17
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Information
+  - Skepticism
 tags:
+  - Information
   - FYI
 ---
 

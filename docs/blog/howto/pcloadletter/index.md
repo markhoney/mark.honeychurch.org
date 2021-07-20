@@ -3,8 +3,9 @@ title: Make Your Printer Display PC Load Letter
 date: 2008-04-01
 layout: Post
 categories:
-  - Hardware
+  - HowTo
 tags:
+  - Hardware
   - Office
   - Printer
 ---

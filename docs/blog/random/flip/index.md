@@ -3,8 +3,9 @@ title: Flipping a Quantum Coin
 date: 2018-12-05
 layout: Post
 categories:
-  - Physics
+  - Random
 tags:
+  - Physics
   - Coin
   - Random
 ---

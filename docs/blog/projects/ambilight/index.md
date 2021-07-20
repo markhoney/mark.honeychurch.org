@@ -3,8 +3,9 @@ title: Ambilight Clone
 date: 2016-11-30
 layout: Post
 categories:
-  - Build
+  - Projects
 tags:
+  - Build
   - Backlight
   - Kodi
 ---

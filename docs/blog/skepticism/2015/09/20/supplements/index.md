@@ -1,10 +1,15 @@
 ---
 title: Appetite for diet supplements benefits few, experts say
 date: 2015-09-20
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/Skeptical-Thoughts-with-Mark-Honeychurch/tabid/506/articleID/100607/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Sept15/200915-Skeptical_Thoughts.mp3.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - CAM
   - Vitamins
   - Supplements

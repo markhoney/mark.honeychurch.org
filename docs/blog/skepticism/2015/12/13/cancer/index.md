@@ -1,10 +1,13 @@
 ---
 title: Faith healer Rod Parsley seeks conventional treatment for throat cancer
 date: 2015-12-13
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Cancer
 ---
 

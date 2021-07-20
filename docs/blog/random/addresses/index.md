@@ -3,8 +3,9 @@ title: Availability of Internet Addresses
 date: 2007-05-30
 layout: Post
 categories:
-  - Maths
+  - Random
 tags:
+  - Maths
   - IP
   - IPv4
   - IPv6

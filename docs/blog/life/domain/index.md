@@ -3,8 +3,9 @@ title: Sneaky Domain Registrars
 date: 2004-07-17
 layout: Post
 categories:
-  - Scam
+  - Life
 tags:
+  - Scam
   - Domain
 ---
 

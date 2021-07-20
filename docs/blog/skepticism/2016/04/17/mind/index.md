@@ -1,10 +1,13 @@
 ---
 title: Skeptics' visit to the Mind Body Spirit Fair
 date: 2016-04-17
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Psychic
 ---
 

@@ -3,8 +3,9 @@ title: Into War
 date: 2019-10-09
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - DOS
   - Small
 ---

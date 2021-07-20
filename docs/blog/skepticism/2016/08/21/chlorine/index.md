@@ -1,10 +1,13 @@
 ---
 title: Not all water in NZ is chlorinated
 date: 2016-08-21
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Science
+  - Skepticism
 tags:
+  - Science
   - Fluoride
   - Chlorine
 ---

@@ -1,10 +1,12 @@
 ---
 title: NZ’s Luminate Festival is moving away from reality
 date: 2020-11-09
+outlet: Newsletter
 layout: Post
 categories:
-  - NZ
+  - Skepticism
 tags:
+  - NZ
   - Luminate
 ---
 

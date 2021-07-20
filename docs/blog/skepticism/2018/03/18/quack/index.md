@@ -1,10 +1,13 @@
 ---
 title: Quack "doctor" opens up clinic in Auckland
 date: 2018-03-18
+host: Ryan Bradley
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Doctor
 ---
 

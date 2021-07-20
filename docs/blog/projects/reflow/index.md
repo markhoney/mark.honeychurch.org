@@ -3,8 +3,9 @@ title: Reflowing NVidia solder
 date: 2011-06-01
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - NVidia
   - Reflow
 ---

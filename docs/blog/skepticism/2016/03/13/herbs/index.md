@@ -1,10 +1,15 @@
 ---
 title: Ten of the healthiest herbs and spices to keep you fighting fit
 date: 2016-03-13
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/Skeptical-Thoughts-with-Mark-Honeychurch/tabid/506/articleID/116614/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Mar16/Skeptical130316.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Naturopathy
 ---
 

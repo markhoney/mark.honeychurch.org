@@ -1,10 +1,15 @@
 ---
 title: First NZ Flat Earth Conference
 date: 2018-05-27
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/articles/weekend-variety-wireless/2018/05/skeptical-thoughts--flat-earthers--lochness-monster.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/Skeptical_Thoughts_27_05.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - FlatEarth
 ---
 

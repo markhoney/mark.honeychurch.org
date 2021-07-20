@@ -1,10 +1,13 @@
 ---
 title: NZ gets its first Flying Spaghetti Monster marriage celebrant
 date: 2016-02-28
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - FSM
 ---
 

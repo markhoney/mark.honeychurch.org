@@ -3,8 +3,9 @@ title: HP Enterprise AHS (Active Health System) File analysis
 date: 2020-01-06
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - HP
   - AHS
 ---

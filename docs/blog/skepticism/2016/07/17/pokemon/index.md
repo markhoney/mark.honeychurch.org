@@ -1,10 +1,13 @@
 ---
 title: US Pastor says that Pokemon are "digital demons"
 date: 2016-07-17
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Pokemon
 ---
 

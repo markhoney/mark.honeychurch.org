@@ -9,7 +9,7 @@
 		</thead>
 		<tbody>
 			<tr v-for="segment in radio">
-				<td>{{segment.date}}</td>
+				<td><router-link :to="'/blog/skepticism/' + segment.date.split('-').join('/') + '/'">{{segment.date}}</router-link></td>
 				<td v-if="segment.url">
 					<a :href="segment.url" target="_blank" rel="noopener noreferrer">{{segment.host}}</a>
 				</td>

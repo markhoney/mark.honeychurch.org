@@ -1,10 +1,13 @@
 ---
 title: Family First vows to fight move to de-register it as charity
 date: 2016-04-17
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Conservative
 ---
 

@@ -3,8 +3,9 @@ title: IT-100 (EmergeCore IT In A Box)
 date: 2008-03-16
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - Firewall
 ---
 

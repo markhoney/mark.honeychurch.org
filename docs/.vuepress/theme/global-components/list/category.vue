@@ -10,7 +10,7 @@
 		<template v-else>
 			<h1>Categories</h1>
 			<ul>
-				<li v-for="category in categories">
+				<li v-for="category in categories" :key="category">
 					<h2>
 						<router-link :to="{path: '/blog/category/', query: {name: category}}">{{category}}</router-link>
 					</h2>

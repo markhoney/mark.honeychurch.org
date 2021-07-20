@@ -1,10 +1,15 @@
 ---
 title: Wellington's "Allergy" Expo
 date: 2018-09-02
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/on-demand/weekend-variety-wireless/2018/08/skeptical-thoughts--preaching-in-schools-and-allergy-expo-sed-.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/020918_WVW_Skepticalthoughts.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Expo
   - Allergy
 ---
@@ -13,9 +18,14 @@ Yesterday I went to an "[Allergy Free and Healthy Living Show](http://www.health
 
 <!-- more -->
 
+![Phiten](./IMG_3352.jpg)
+
 ### ZenTeq
 
 I talked to ZenTeq - a maker of magnetic bands. We've talked about them before, because Victor Rieter was taken to court after he [started a fight](https://www.stuff.co.nz/national/health/85411808/stallholder-selling-health-bracelets-assaults-rival-at-home-show) a couple of years ago with a seller of rival product Shuzi - Victor ended up punching the Shuzi seller in the head, and had to pay medical costs.
+
+![ZenTeq](./IMG_3355.jpg)
+
 
 The ZenTeq stand made all sorts of dodgy claims, which was strange because I complained to the Advertising Standards Authority about these claims back in 2016 and Zenteq were asked to stop making them. I've also complained to the Advertising Standards Authority about Shuzi. In fact, I think I'd probably successfully complained about maybe half a dozen companies that were in the room.
 
@@ -24,6 +34,9 @@ I talked with Victor about the bracelets he was selling, and he "explained" how 
 <audio controls src="/media/audio/skepticism/ZenTeq.mp3" />
 
 We then proceeded to test the bracelet with a common Applied Kinesiology test. I stood on one leg and put my arms out, and Victor pushed down on one arm which pushed me off balance and I had to put my leg back down to not fall over. Then I held the bracelet in my hand and we did the same thing, but this time I didn't lose my balance.
+
+![Balance Test](./IMG_3363.jpg)
+
 
 Skeptics know that this works because the pressure applied to the arm is applied in a different direction each time. If the force points away from the body, you will lose your balance, but if it's towards your body, you'll stay stable.
 

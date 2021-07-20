@@ -1,10 +1,13 @@
 ---
 title: Are antioxidant-rich products good for us?
 date: 2016-02-07
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Antioxidants
 ---
 

@@ -1,10 +1,13 @@
 ---
 title: Stuff removes article on Colloidal Silver
 date: 2016-06-19
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Sliver
 ---
 

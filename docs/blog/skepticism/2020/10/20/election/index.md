@@ -1,10 +1,12 @@
 ---
 title: Election Special
 date: 2020-10-19
+outlet: Newsletter
 layout: Post
 categories:
-  - Politics
+  - Skepticism
 tags:
+  - Politics
   - AdvanceNZ
 ---
 

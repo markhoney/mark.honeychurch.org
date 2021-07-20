@@ -1,10 +1,13 @@
 ---
 title: Australian who faked cancer diagnosis and cure found guilty
 date: 2017-03-19
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Scam
+  - Skepticism
 tags:
+  - Scam
   - Cancer
 ---
 

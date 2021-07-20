@@ -1,10 +1,13 @@
 ---
 title: 110 Nobel laureates tell Greenpeace they are wrong about GMOs
 date: 2016-07-03
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - GMO
 ---
 

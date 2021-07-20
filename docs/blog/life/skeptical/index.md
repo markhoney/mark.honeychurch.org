@@ -3,8 +3,9 @@ title: Skeptical Thoughts with Mark Honeychurch
 date: 2015-08-17
 layout: Post
 categories:
-  - Skepticism
+  - Life
 tags:
+  - Skepticism
   - Radio
 ---
 

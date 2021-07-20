@@ -1,10 +1,13 @@
 ---
 title: Stuff uncritically publishes more medical nonsense
 date: 2016-09-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Juicing
 ---
 

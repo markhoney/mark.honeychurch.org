@@ -3,8 +3,9 @@ title: MotorWeb's either dumb or devious
 date: 2011-11-04
 layout: Post
 categories:
-  - Advertising
+  - Life
 tags:
+  - Advertising
   - MotorWeb
 ---
 

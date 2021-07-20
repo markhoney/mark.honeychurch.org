@@ -1,10 +1,13 @@
 ---
 title: Homeopathic Teething Tablets linked to US deaths for sale in NZ
 date: 2017-02-19
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Homeopathy
 ---
 

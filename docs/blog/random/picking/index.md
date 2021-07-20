@@ -3,8 +3,9 @@ title: Picking Locks the Movie Way
 date: 2021-06-29
 layout: Post
 categories:
-  - Lockpicking
+  - Random
 tags:
+  - Lockpicking
   - Fallout
 ---
 

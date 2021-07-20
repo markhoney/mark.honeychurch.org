@@ -3,8 +3,9 @@ title: Accepted for the NXE
 date: 2008-10-30
 layout: Post
 categories:
-  - Software
+  - Life
 tags:
+  - Software
   - XBox
 ---
 

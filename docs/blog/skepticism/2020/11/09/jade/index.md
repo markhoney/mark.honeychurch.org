@@ -1,10 +1,12 @@
 ---
 title: Can a jade amulet protect against COVID?
 date: 2020-11-09
+outlet: Newsletter
 layout: Post
 categories:
-  - Election
+  - Skepticism
 tags:
+  - Election
   - Trump
 ---
 

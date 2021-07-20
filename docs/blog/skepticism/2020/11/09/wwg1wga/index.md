@@ -1,10 +1,12 @@
 ---
 title: WWG1WGA
 date: 2020-11-09
+outlet: Newsletter
 layout: Post
 categories:
-  - Politics
+  - Skepticism
 tags:
+  - Politics
   - QAnon
 ---
 

@@ -3,8 +3,9 @@ title: QR Code Generator
 date: 2018-10-03
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Vue
   - QR
 ---

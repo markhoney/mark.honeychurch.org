@@ -1,10 +1,13 @@
 ---
 title: Interview with Sensing Murder producers
 date: 2017-03-19
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Psychic
 ---
 

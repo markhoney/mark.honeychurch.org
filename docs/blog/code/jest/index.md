@@ -3,8 +3,9 @@ title: Pubs not Puns
 date: 2020-08-28
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Testing
   - Jest
 ---

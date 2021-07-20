@@ -1,10 +1,13 @@
 ---
 title: Save the Wellington Astrology Centre
 date: 2015-12-13
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Astrology
 ---
 

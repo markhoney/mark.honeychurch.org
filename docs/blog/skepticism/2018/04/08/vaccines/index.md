@@ -1,10 +1,15 @@
 ---
 title: Does god hate vaccines?
 date: 2018-04-08
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/articles/weekend-variety-wireless/2018/04/skeptical-thoughts--diet-pills---life-expectancy.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/MarkHoneychurch08_04_18.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Vaccines
 ---
 

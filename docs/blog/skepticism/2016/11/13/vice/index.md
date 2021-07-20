@@ -1,10 +1,15 @@
 ---
 title: The Vice President-Elect is crazy!
 date: 2016-11-13
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/Skeptical-Thoughts/tabid/506/articleID/132514/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Nov16/131116_WvW_Skeptical.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Trump
 ---
 

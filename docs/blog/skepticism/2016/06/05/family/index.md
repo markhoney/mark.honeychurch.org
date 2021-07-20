@@ -1,10 +1,13 @@
 ---
 title: Family First research 'high school level' statistics
 date: 2016-06-05
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Conservatism
 ---
 

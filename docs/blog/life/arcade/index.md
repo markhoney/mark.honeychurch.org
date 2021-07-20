@@ -3,8 +3,9 @@ title: Games of my Youth
 date: 2020-07-27
 layout: Post
 categories:
-  - Games
+  - Life
 tags:
+  - Games
   - Arcade
   - Console
   - PC

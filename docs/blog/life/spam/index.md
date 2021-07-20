@@ -3,8 +3,9 @@ title: The Spam Dilemma
 date: 2008-07-01
 layout: Post
 categories:
-  - Software
+  - Life
 tags:
+  - Software
   - Blog
   - Spam
 ---

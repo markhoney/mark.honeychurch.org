@@ -1,10 +1,13 @@
 ---
 title: Bronx priest stole more than $1M from two NYC churches
 date: 2015-12-13
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Priest
   - Scam
 ---

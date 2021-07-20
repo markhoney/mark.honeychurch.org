@@ -5,6 +5,7 @@ layout: Post
 categories:
   - Code
 tags:
+  - Code
   - Religon
 ---
 

@@ -1,10 +1,13 @@
 ---
 title: Marlborough clairvoyant steals $250,000 from couple in rest home
 date: 2015-12-13
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Psychic
   - Scam
 ---

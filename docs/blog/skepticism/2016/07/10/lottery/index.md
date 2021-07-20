@@ -1,10 +1,13 @@
 ---
 title: US man thinks he knows "the secret" to winning the lottery
 date: 2016-07-10
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Lottery
 ---
 

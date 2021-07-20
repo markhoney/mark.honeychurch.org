@@ -1,10 +1,13 @@
 ---
 title: Are processed foods causing mental illness?
 date: 2016-08-28
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Vitamins
 ---
 

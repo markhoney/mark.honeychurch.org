@@ -1,10 +1,13 @@
 ---
 title: Witch Doctor in Wellington
 date: 2016-08-21
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Magic
 ---
 

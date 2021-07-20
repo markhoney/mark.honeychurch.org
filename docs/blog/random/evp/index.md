@@ -3,8 +3,9 @@ title: Electronic Voice Phenomena
 date: 2019-01-10
 layout: Post
 categories:
-  - Paranormal
+  - Random
 tags:
+  - Paranormal
   - Ghost
   - Voice
   - EVP

@@ -5,6 +5,7 @@ layout: Post
 categories:
   - Life
 tags:
+  - Life
   - JW
   - Software
 ---

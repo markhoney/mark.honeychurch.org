@@ -1,10 +1,13 @@
 ---
 title: Census adds new non-religious categories
 date: 2017-03-26
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Atheism
 ---
 

@@ -3,8 +3,9 @@ title: Tab or Space(s) to Indent?
 date: 2018-10-19
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Tab
   - Space
 ---

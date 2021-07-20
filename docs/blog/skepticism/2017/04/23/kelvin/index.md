@@ -1,10 +1,13 @@
 ---
 title: Kelvin Cruickshank talks to Jonah Lomu
 date: 2017-04-23
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Psychic
 ---
 

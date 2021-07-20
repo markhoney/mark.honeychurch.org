@@ -1,10 +1,13 @@
 ---
 title: Brian Cox argues with Australian senator about climate change
 date: 2016-08-21
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Climate
 ---
 

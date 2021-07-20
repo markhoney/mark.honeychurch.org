@@ -3,8 +3,9 @@ title: SETI@HOME
 date: 2008-03-14
 layout: Post
 categories:
-  - Software
+  - Life
 tags:
+  - Software
   - SETI
   - Aliens
 ---

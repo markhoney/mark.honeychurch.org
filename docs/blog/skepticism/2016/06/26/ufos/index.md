@@ -1,10 +1,13 @@
 ---
 title: Blink-182 Guitarist denies he's left band to chase UFOs
 date: 2016-06-26
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Conspiracy
+  - Skepticism
 tags:
+  - Conspiracy
   - UFO
 ---
 

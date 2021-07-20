@@ -3,8 +3,9 @@ title: My first web page
 date: 1997-10-05
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Website
 ---
 

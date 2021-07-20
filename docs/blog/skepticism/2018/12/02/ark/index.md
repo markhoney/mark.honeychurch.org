@@ -1,10 +1,15 @@
 ---
 title: Ark Man
 date: 2018-12-02
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/on-demand/weekend-variety-wireless/2018/11/weekend-variety-wireless--in-case-you-missed-sunday-021218.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/021218_WVW_SKepticalthoughts.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Ark
   - Noah
 ---

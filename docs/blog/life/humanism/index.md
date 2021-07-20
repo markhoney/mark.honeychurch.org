@@ -3,8 +3,9 @@ title: Humanism - What's in a name?
 date: 2021-02-28
 layout: Post
 categories:
-  - Religion
+  - Life
 tags:
+  - Religion
   - Humanism
 ---
 

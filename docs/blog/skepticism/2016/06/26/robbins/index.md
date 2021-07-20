@@ -1,10 +1,13 @@
 ---
 title: Tony Robbins followers injured walking on hot coals
 date: 2016-06-26
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Coals
 ---
 

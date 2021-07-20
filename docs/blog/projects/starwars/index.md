@@ -3,8 +3,9 @@ title: Star Wars Lego
 date: 2018-10-14
 layout: Post
 categories:
-  - Build
+  - Projects
 tags:
+  - Build
   - Lego
 ---
 

@@ -1,10 +1,13 @@
 ---
 title: Osteopath admits performing acupuncture without qualifications
 date: 2016-06-05
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Acupuncture
 ---
 

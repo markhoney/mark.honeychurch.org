@@ -3,8 +3,9 @@ title: Return On Investment for Lotteries
 date: 2006-05-18
 layout: Post
 categories:
-  - Maths
+  - Random
 tags:
+  - Maths
   - Lottery
   - ROI
 ---

@@ -3,8 +3,9 @@ title: $5 Microscope
 date: 2018-06-24
 layout: Post
 categories:
-  - Science
+  - Projects
 tags:
+  - Science
   - Microscope
 ---
 

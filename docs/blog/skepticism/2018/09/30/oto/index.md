@@ -1,10 +1,15 @@
 ---
 title: I went back to the OTO
 date: 2018-09-30
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/on-demand/weekend-variety-wireless/2018/09/weekend-variety-wireless--in-case-you-missed-sunday.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/300918_WVW_Sketicalthouhgts_2.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - OTO
 ---
 
@@ -43,3 +48,11 @@ There are also several other mentions of seed, e.g.:
 The communion biscuit, with the priest's sperm in it, seemed to be nicer than last time - they may have added something fruity, so the taste was okay. However, it was just as dry as before. I was prepared, though, and spent 30 seconds before I went up for communion filling my mouth with saliva. This definitely helped me to eat the biscuit faster, and the glass of wine was definitely handy for washing it down.
 
 After the ceremony we were invited to go to the pub with the three members who ran the service. We declined, but next time I will make sure I go along.
+
+![Page 1](./IMG_3467.jpg)
+
+![Page 2](./IMG_3468.jpg)
+
+![Page 3](./IMG_3469.jpg)
+
+![Page 4](./IMG_3470.jpg)

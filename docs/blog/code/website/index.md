@@ -3,8 +3,9 @@ title: This Website
 date: 2018-09-12
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Vue
   - Vuepress
   - Markdown

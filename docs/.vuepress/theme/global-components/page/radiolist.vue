@@ -23,11 +23,11 @@
 <script>
 	// import radio from '@theme/global-components/page/radio.json';
 	export default {
-		data() {
+		/* data() {
 			return {
 				radio,
 			};
-		},
+		}, */
 		computed: {
 			pages() {
 				return this.$site.pages.filter(page => (page.path.startsWith('/blog/skepticism/') && page.frontmatter.date && page.frontmatter.host && page.title && page.title !== "Skeptical Thoughts")).map((page) => page.frontmatter);

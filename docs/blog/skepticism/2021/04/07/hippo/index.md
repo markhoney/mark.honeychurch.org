@@ -19,9 +19,9 @@ Honestly, I don’t think I could make up something this daft if I tried. Thanks
 
 Their schtick is that the sweat of a hippo from behind its ear contains [norhipposudoric acid](https://en.wikipedia.org/wiki/Hipposudoric_acid), and that this acts as a sunblock - after all, as the company says, “Have you ever seen a sunburnt hippo?”. The company claims that this orange substance, when excreted, somehow quickly coats the entire skin of the hippo, and protects it from UV rays. From there, the company says that their homeopathically diluted version of this product also provides sun protection when swallowed - and they hint that it should work on people as well as animals:
 
-“Does SOL Plus work on People?
-
-On a daily basis our team at Hippo is asked whether it works for people too. Logically we would like to say ‘of course’ but because we don’t have clinical trials for people, our official stance is that we don’t sell or market it as a people sunscreen. We suspect there are a lot of people unofficially helping themselves to their horse’s bottles of Sol Plus and we welcome any feedback.”
+> “Does SOL Plus work on People?
+>
+> On a daily basis our team at Hippo is asked whether it works for people too. Logically we would like to say ‘of course’ but because we don’t have clinical trials for people, our official stance is that we don’t sell or market it as a people sunscreen. We suspect there are a lot of people unofficially helping themselves to their horse’s bottles of Sol Plus and we welcome any feedback.”
 
 There’s a lot wrong with this product, and the claims that are being made about it. Firstly, although tests have shown the chemical, and it’s red counterpart hipposudoric acid, do have some UV protective properties when applied to the skin, there’s no explanation of how this would work when taken internally. But bigger than this are the problems that come with this being a homeopathic product.
 

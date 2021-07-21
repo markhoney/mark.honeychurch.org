@@ -1,5 +1,6 @@
 ---
 title: Humanism - What's in a name?
+slug: humanism
 date: 2021-02-28
 layout: Post
 categories:

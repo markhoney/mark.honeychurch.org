@@ -1,5 +1,6 @@
 ---
 title: Tab or Space(s) to Indent?
+slug: indent
 date: 2018-10-19
 layout: Post
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Quack "doctor" opens up clinic in Auckland
+slug: quack
 date: 2018-03-18
 host: Ryan Bradley
 outlet: RadioLive

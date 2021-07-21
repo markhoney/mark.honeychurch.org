@@ -1,5 +1,6 @@
 ---
 title: SleepDrops is fundraising
+slug: sleepdrops
 date: 2018-11-04
 host: Graeme Hill
 outlet: RadioLive

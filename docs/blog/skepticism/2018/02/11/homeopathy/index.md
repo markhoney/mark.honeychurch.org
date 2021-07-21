@@ -1,5 +1,6 @@
 ---
 title: Homeopathy Course Cancelled at Canadian College
+slug: homeopathy
 date: 2018-02-11
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Nonsense book gets free media coverage
+slug: apocalypse
 date: 2017-09-03
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: We have our own Monolith
+slug: monolith
 date: 2020-12-21
 outlet: Newsletter
 layout: Post

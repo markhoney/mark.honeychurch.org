@@ -1,5 +1,6 @@
 ---
 title: Alt Med peddler Chris Savage stopped at Auckland airport
+slug: savage
 date: 2016-06-12
 host: Graeme Hill
 outlet: RadioLive

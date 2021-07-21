@@ -1,5 +1,6 @@
 ---
 title: Spirit Whisperer guilty of indecent assault
+slug: psychic
 date: 2018-05-27
 host: Graeme Hill
 outlet: RadioLive

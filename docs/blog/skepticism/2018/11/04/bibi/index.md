@@ -1,5 +1,6 @@
 ---
 title: Asia Bibi is Acquitted
+slug: bibi
 date: 2018-11-04
 host: Graeme Hill
 outlet: RadioLive

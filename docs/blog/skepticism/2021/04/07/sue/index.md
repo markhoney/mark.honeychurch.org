@@ -1,5 +1,6 @@
 ---
 title: Sue Grey is threatening to sue the Government
+slug: sue
 date: 2021-04-07
 host: Graeme Hill
 outlet: MagicTalk

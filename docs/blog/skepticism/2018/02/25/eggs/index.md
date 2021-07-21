@@ -1,5 +1,6 @@
 ---
 title: Teen Lays Eggs
+slug: eggs
 date: 2018-02-25
 host: Graeme Hill
 outlet: RadioLive

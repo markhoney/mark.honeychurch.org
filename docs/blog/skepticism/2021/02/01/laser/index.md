@@ -1,5 +1,6 @@
 ---
 title: Jewish space laser
+slug: laser
 date: 2021-02-01
 outlet: Newsletter
 layout: Post

@@ -1,5 +1,6 @@
 ---
 title: My new laptop keyboard
+slug: keyboard
 date: 2019-01-22
 layout: Post
 categories:

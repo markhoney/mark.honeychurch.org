@@ -1,5 +1,6 @@
 ---
 title: Online real estate agency offers ghost-free home certification
+slug: ghost
 date: 2015-10-11
 host: Graeme Hill
 outlet: RadioLive

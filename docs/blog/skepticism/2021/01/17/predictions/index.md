@@ -1,5 +1,6 @@
 ---
 title: Psychic Predictions
+slug: predictions
 date: 2021-01-17
 host: Graeme Hill
 outlet: MagicTalk

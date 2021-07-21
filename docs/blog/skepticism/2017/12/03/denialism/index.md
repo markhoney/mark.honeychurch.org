@@ -1,5 +1,6 @@
 ---
 title: Gluckman talks about science denialism
+slug: denialism
 date: 2017-12-03
 host: Ryan Bradley
 outlet: RadioLive

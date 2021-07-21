@@ -1,5 +1,6 @@
 ---
 title: A visit to AMORC
+slug: amorc
 date: 2020-11-30
 outlet: Newsletter
 layout: Post

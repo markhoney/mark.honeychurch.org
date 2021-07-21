@@ -1,5 +1,6 @@
 ---
 title: Wellington's "Allergy" Expo
+slug: allergy
 date: 2018-09-02
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Jesus brain scan a miracle
+slug: scan
 date: 2015-09-27
 host: Simon Pound
 outlet: RadioLive

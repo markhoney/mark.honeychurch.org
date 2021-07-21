@@ -1,5 +1,6 @@
 ---
 title: Doterra selling cancer cure in NZ
+slug: doterra
 date: 2017-10-15
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Influential Biologist in New Zealand
+slug: lipton
 date: 2021-04-28
 host: Graeme Hill
 outlet: MagicTalk

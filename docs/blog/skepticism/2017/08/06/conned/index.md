@@ -1,5 +1,6 @@
 ---
 title: Daughter conned into selling her possessions
+slug: conned
 date: 2017-08-06
 host: Graeme Hill
 outlet: RadioLive

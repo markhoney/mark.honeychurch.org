@@ -1,5 +1,6 @@
 ---
 title: Census adds new non-religious categories
+slug: census
 date: 2017-03-26
 host: Graeme Hill
 outlet: RadioLive

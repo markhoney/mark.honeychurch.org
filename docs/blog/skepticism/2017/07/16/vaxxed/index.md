@@ -1,5 +1,6 @@
 ---
 title: Vaxxed is still a nuisance in NZ
+slug: vaxxed
 date: 2017-07-16
 host: Graeme Hill
 outlet: RadioLive

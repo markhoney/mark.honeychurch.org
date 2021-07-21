@@ -1,5 +1,6 @@
 ---
 title: Most UK Water Boards use dowsing
+slug: dowsing
 date: 2017-12-03
 host: Ryan Bradley
 outlet: RadioLive

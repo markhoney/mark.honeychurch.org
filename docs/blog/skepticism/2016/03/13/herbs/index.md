@@ -1,5 +1,6 @@
 ---
 title: Ten of the healthiest herbs and spices to keep you fighting fit
+slug: herbs
 date: 2016-03-13
 host: Graeme Hill
 outlet: RadioLive

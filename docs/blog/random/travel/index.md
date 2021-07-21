@@ -1,5 +1,6 @@
 ---
 title: Travel
+slug: travel
 date: 2018-08-12
 layout: Post
 categories:

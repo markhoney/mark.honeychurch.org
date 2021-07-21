@@ -1,5 +1,6 @@
 ---
 title: Christchurch private detective offering lie detector test which is unlikely to work
+slug: lie
 date: 2017-10-15
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Humanist Conference
+slug: conf
 date: 2018-08-05
 host: Graeme Hill
 outlet: RadioLive

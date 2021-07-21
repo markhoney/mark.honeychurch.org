@@ -1,5 +1,6 @@
 ---
 title: USA "pulls out" of the Paris Climate Accord
+slug: climate
 date: 2017-06-04
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Accepted for the NXE
+slug: nxe
 date: 2008-10-30
 layout: Post
 categories:

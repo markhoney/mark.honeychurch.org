@@ -1,5 +1,6 @@
 ---
 title: Sexual Harassment of kids is okay, because of Joseph and Mary?
+slug: harassment
 date: 2017-11-12
 host: Graeme Hill
 outlet: RadioLive

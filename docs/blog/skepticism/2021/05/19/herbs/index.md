@@ -1,5 +1,6 @@
 ---
 title: Herbs for weight loss don’t work
+slug: herbs
 date: 2021-05-19
 host: Graeme Hill
 outlet: MagicTalk

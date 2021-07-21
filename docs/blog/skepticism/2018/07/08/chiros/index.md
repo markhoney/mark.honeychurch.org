@@ -1,5 +1,6 @@
 ---
 title: Chiropractors finding it hard to be ethical
+slug: chiros
 date: 2018-07-08
 host: Graeme Hill
 outlet: RadioLive

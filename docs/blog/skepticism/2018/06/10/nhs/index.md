@@ -1,5 +1,6 @@
 ---
 title: NHS defends its decision to dump homeopathy
+slug: nhs
 date: 2018-06-10
 host: Graeme Hill
 outlet: RadioLive

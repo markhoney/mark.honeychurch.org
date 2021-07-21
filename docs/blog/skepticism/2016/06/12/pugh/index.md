@@ -1,5 +1,6 @@
 ---
 title: National MP Maureen Pugh 'doesn't believe in pharmaceutical drugs'
+slug: pugh
 date: 2016-06-12
 host: Graeme Hill
 outlet: RadioLive

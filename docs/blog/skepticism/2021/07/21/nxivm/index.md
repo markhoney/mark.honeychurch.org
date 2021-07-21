@@ -1,5 +1,6 @@
 ---
 title: Famous actress jailed for her role in NXIVM
+slug: nxivm
 date: 2021-07-21
 host: Graeme Hill
 outlet: MagicTalk

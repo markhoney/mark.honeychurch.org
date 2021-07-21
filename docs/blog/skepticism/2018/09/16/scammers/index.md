@@ -1,5 +1,6 @@
 ---
 title: Indian Scammers
+slug: scammers
 date: 2018-09-16
 host: Ryan Bradley
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: SleepDrops in Trouble
+slug: sleepdrops
 date: 2018-12-16
 host: Graeme Hill
 outlet: RadioLive

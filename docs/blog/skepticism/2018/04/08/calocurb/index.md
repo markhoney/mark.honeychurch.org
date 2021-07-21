@@ -1,5 +1,6 @@
 ---
 title: New NZ Diet aid Calocurb launched
+slug: calocurb
 date: 2018-04-08
 host: Graeme Hill
 outlet: RadioLive

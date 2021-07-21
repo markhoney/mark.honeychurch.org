@@ -1,5 +1,6 @@
 ---
 title: SBH press complaints
+slug: sbh
 date: 2016-08-28
 host: Graeme Hill
 outlet: RadioLive

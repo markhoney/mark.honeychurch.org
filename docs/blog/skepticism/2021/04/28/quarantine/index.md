@@ -1,5 +1,6 @@
 ---
 title: Miami School quarantines vaccinated staff members
+slug: quarantine
 date: 2021-04-28
 host: Graeme Hill
 outlet: MagicTalk

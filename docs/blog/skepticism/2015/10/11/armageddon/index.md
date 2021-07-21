@@ -1,5 +1,6 @@
 ---
 title: The world ends... again
+slug: armageddon
 date: 2015-10-11
 host: Graeme Hill
 outlet: RadioLive

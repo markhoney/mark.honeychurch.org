@@ -1,5 +1,6 @@
 ---
 title: The Mandela Effect
+slug: mandela
 date: 2016-03-13
 host: Graeme Hill
 outlet: RadioLive

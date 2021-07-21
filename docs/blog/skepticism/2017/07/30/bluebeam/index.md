@@ -1,5 +1,6 @@
 ---
 title: There a major conspiracy theory I've never heard of!
+slug: bluebeam
 date: 2017-07-30
 host: Graeme Hill
 outlet: RadioLive

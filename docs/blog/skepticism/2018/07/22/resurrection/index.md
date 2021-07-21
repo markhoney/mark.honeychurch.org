@@ -1,5 +1,6 @@
 ---
 title: Prophet Arrested for Attempted Resurrection
+slug: resurrection
 date: 2018-07-22
 host: Graeme Hill
 outlet: RadioLive

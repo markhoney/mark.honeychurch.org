@@ -1,5 +1,6 @@
 ---
 title: Osteopath admits performing acupuncture without qualifications
+slug: acupuncture
 date: 2016-06-05
 host: Graeme Hill
 outlet: RadioLive

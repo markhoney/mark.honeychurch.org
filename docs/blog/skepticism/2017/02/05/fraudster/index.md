@@ -1,5 +1,6 @@
 ---
 title: Ex fraudster released early trying alternative cancer treatment
+slug: fraudster
 date: 2017-02-05
 host: Graeme Hill
 outlet: RadioLive

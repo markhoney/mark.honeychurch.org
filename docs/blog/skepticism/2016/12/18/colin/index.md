@@ -1,5 +1,6 @@
 ---
 title: Colin Meads using "magic water" for his cancer
+slug: colin
 date: 2016-12-18
 host: Graeme Hill
 outlet: RadioLive

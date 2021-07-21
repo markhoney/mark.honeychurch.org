@@ -1,5 +1,6 @@
 ---
 title: UFO Spotted in Christchurch
+slug: ufo
 date: 2016-06-19
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Dr Oz promoting Astrology
+slug: astrology
 date: 2018-06-10
 host: Graeme Hill
 outlet: RadioLive

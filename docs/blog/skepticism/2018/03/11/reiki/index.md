@@ -1,5 +1,6 @@
 ---
 title: Reiki Meeting in New Plymouth
+slug: reiki
 date: 2018-03-11
 host: Graeme Hill
 outlet: RadioLive

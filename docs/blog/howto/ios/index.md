@@ -1,5 +1,6 @@
 ---
 title: Restore an iOS13 backup to iOS12 or earlier
+slug: ios
 date: 2019-10-08
 layout: Post
 categories:

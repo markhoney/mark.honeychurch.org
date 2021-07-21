@@ -1,5 +1,6 @@
 ---
 title: Lady Crown
+slug: crown
 date: 2021-06-30
 host: Graeme Hill
 outlet: MagicTalk

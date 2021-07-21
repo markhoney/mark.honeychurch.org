@@ -1,5 +1,6 @@
 ---
 title: Singer Bobby Brown claims he had sex with a ghost
+slug: bobby
 date: 2016-06-12
 host: Graeme Hill
 outlet: RadioLive

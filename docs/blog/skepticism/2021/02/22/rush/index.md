@@ -1,5 +1,6 @@
 ---
 title: Rush Limbaugh has Died
+slug: rush
 date: 2021-02-22
 outlet: Newsletter
 layout: Post

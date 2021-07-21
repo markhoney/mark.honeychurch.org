@@ -1,5 +1,6 @@
 ---
 title: Dr Google
+slug: google
 date: 2018-04-29
 host: Graeme Hill
 outlet: RadioLive

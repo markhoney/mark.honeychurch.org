@@ -1,5 +1,6 @@
 ---
 title: Jacinta Ardern Conspiracy!
+slug: jacinda
 date: 2017-08-06
 host: Graeme Hill
 outlet: RadioLive

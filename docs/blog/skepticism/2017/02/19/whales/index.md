@@ -1,5 +1,6 @@
 ---
 title: Whales were stranded by "weather modification" technology
+slug: whales
 date: 2017-02-19
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: IgNobel Prizes
+slug: ignobel
 date: 2015-09-20
 host: Graeme Hill
 outlet: RadioLive

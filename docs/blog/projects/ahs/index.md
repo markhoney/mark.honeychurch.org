@@ -1,5 +1,6 @@
 ---
 title: HP Enterprise AHS (Active Health System) File analysis
+slug: ahs
 date: 2020-01-06
 layout: Post
 categories:

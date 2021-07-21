@@ -1,5 +1,6 @@
 ---
 title: Indonesian "Bigfoot" caught on camera
+slug: bigfoot
 date: 2016-10-21
 host: Peter Elliott
 outlet: RadioLive

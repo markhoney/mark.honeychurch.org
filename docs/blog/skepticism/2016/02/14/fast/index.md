@@ -1,5 +1,6 @@
 ---
 title: Fast food Fakery
+slug: fast
 date: 2016-02-14
 host: Graeme Hill
 outlet: RadioLive

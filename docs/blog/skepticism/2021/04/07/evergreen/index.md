@@ -1,5 +1,6 @@
 ---
 title: Evergreen’s sins go beyond blocking the Suez Canal
+slug: evergreen
 date: 2021-04-07
 host: Graeme Hill
 outlet: MagicTalk

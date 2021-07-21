@@ -1,5 +1,6 @@
 ---
 title: US Senator has novel plan to combat climate change
+slug: gohmert
 date: 2021-06-23
 host: Graeme Hill
 outlet: MagicTalk

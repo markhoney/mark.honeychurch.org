@@ -1,5 +1,6 @@
 ---
 title: Appetite for diet supplements benefits few, experts say
+slug: supplements
 date: 2015-09-20
 host: Graeme Hill
 outlet: RadioLive

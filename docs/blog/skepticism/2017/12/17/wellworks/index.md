@@ -1,5 +1,6 @@
 ---
 title: Nonsense Pharmacy to open in Wellington
+slug: wellworks
 date: 2017-12-17
 host: Graeme Hill
 outlet: RadioLive

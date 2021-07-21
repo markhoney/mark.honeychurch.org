@@ -1,5 +1,6 @@
 ---
 title: Memorising a big number will create a black hole?
+slug: number
 date: 2018-02-25
 host: Graeme Hill
 outlet: RadioLive

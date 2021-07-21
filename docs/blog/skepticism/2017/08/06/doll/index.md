@@ -1,5 +1,6 @@
 ---
 title: Haunted Doll "strikes" again
+slug: doll
 date: 2017-08-06
 host: Graeme Hill
 outlet: RadioLive

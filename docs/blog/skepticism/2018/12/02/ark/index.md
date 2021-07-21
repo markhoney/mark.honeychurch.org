@@ -1,5 +1,6 @@
 ---
 title: Ark Man
+slug: ark
 date: 2018-12-02
 host: Graeme Hill
 outlet: RadioLive

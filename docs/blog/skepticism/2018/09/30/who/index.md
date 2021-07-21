@@ -1,5 +1,6 @@
 ---
 title: Backward step at the World Health Organisation
+slug: who
 date: 2018-09-30
 host: Graeme Hill
 outlet: RadioLive

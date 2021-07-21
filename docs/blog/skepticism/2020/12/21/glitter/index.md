@@ -1,5 +1,6 @@
 ---
 title: Glittery Just Desserts
+slug: glitter
 date: 2020-12-21
 outlet: Newsletter
 layout: Post

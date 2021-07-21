@@ -1,5 +1,6 @@
 ---
 title: The ASA has written some new guidelines… and they're crap!
+slug: asa
 date: 2018-02-11
 host: Graeme Hill
 outlet: RadioLive

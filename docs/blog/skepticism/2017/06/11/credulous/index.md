@@ -1,5 +1,6 @@
 ---
 title: Credulous alt-med article on Radio NZ
+slug: credulous
 date: 2017-06-11
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Beauty Clinics are treating people instead of referring them
+slug: beauty
 date: 2016-06-19
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Johnson & Johnson ordered to pay more than AU$100 million in suit linking talcum powder to ovarian cancer
+slug: talc
 date: 2016-02-28
 host: Graeme Hill
 outlet: RadioLive

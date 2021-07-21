@@ -1,5 +1,6 @@
 ---
 title: Dr Libby Weaver hits the news - twice
+slug: libby
 date: 2017-11-12
 host: Graeme Hill
 outlet: RadioLive

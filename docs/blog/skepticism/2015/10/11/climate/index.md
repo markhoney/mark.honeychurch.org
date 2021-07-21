@@ -1,5 +1,6 @@
 ---
 title: Perth Electrical Engineer finds errors in climate models
+slug: climate
 date: 2015-10-11
 host: Graeme Hill
 outlet: RadioLive

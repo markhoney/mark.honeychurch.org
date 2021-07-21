@@ -1,5 +1,6 @@
 ---
 title: Rural US Doctor may have to leave NZ
+slug: bleach
 date: 2017-07-30
 host: Graeme Hill
 outlet: RadioLive

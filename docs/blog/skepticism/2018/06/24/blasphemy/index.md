@@ -1,5 +1,6 @@
 ---
 title: Government hoping to scrap blasphemy law
+slug: blasphemy
 date: 2018-06-24
 host: Graeme Hill
 outlet: RadioLive

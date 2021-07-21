@@ -1,5 +1,6 @@
 ---
 title: Homeopathic treatment for Autism?
+slug: respen
 date: 2018-01-21
 host: Ryan Bradley
 outlet: RadioLive

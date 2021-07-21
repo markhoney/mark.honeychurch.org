@@ -1,5 +1,6 @@
 ---
 title: Otago Uni Screened Vaxxed
+slug: vaxxed
 date: 2017-04-09
 host: Graeme Hill
 outlet: RadioLive

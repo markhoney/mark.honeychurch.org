@@ -1,5 +1,6 @@
 ---
 title: Does god hate vaccines?
+slug: vaccines
 date: 2018-04-08
 host: Graeme Hill
 outlet: RadioLive

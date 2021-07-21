@@ -1,5 +1,6 @@
 ---
 title: NZ Herald prints article saying that taking selfies can damage your skin
+slug: selfies
 date: 2016-06-26
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Geeky/Funny number plates
+slug: plates
 date: 2008-01-26
 layout: Post
 categories:

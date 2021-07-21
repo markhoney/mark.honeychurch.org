@@ -1,5 +1,6 @@
 ---
 title: Sandy Hook truther to face jury
+slug: sandy
 date: 2016-02-07
 host: Graeme Hill
 outlet: RadioLive

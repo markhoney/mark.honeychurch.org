@@ -1,5 +1,6 @@
 ---
 title: NZ Doctor complains to ASA about weet-bix
+slug: weetbix
 date: 2018-06-10
 host: Graeme Hill
 outlet: RadioLive

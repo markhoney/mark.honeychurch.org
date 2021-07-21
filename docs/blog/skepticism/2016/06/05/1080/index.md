@@ -1,5 +1,6 @@
 ---
 title: 1080 blamed for kiwi bird deaths
+slug: 1080
 date: 2016-06-05
 host: Graeme Hill
 outlet: RadioLive

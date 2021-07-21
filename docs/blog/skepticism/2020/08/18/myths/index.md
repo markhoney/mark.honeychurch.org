@@ -1,5 +1,6 @@
 ---
 title: Medical Myths
+slug: myths
 date: 2020-08-18
 host: Graeme Hill
 outlet: MagicTalk

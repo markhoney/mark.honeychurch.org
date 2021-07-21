@@ -1,5 +1,6 @@
 ---
 title: The Theosophical Society
+slug: theosophy
 date: 2021-06-02
 host: Graeme Hill
 outlet: MagicTalk

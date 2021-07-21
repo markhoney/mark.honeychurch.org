@@ -1,5 +1,6 @@
 ---
 title: Musical Vaccine
+slug: vaccine
 date: 2021-01-11
 outlet: Newsletter
 layout: Post

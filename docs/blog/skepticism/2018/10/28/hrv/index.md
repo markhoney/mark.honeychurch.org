@@ -1,5 +1,6 @@
 ---
 title: HRV fined for false claims
+slug: hrv
 date: 2018-10-28
 host: Graeme Hill
 outlet: RadioLive

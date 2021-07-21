@@ -1,5 +1,6 @@
 ---
 title: Are thousands dying from COVID vaccines?
+slug: dying
 date: 2021-04-21
 host: Graeme Hill
 outlet: MagicTalk

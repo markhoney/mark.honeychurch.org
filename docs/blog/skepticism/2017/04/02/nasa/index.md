@@ -1,5 +1,6 @@
 ---
 title: NASA spends over $1 million on theology
+slug: nasa
 date: 2017-04-02
 host: Graeme Hill
 outlet: RadioLive

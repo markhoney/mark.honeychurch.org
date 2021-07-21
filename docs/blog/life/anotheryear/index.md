@@ -1,5 +1,6 @@
 ---
 title: Another Year
+slug: anotheryear
 date: 2017-08-18
 layout: Post
 categories:

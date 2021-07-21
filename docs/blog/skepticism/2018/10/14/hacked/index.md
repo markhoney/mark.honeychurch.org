@@ -1,5 +1,6 @@
 ---
 title: Have I been hacked?
+slug: hacked
 date: 2018-10-14
 host: Graeme Hill
 outlet: RadioLive

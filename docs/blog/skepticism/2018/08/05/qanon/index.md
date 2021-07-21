@@ -1,5 +1,6 @@
 ---
 title: QAnon
+slug: qanon
 date: 2018-08-05
 host: Graeme Hill
 outlet: RadioLive

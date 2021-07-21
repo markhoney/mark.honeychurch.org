@@ -1,5 +1,6 @@
 ---
 title: Using AI to create a new religion
+slug: holyai
 date: 2021-06-19
 layout: Post
 categories:

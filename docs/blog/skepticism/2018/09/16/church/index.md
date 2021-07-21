@@ -1,5 +1,6 @@
 ---
 title: Church Visits
+slug: church
 date: 2018-09-16
 host: Ryan Bradley
 outlet: RadioLive

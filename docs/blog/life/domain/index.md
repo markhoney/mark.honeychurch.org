@@ -1,5 +1,6 @@
 ---
 title: Sneaky Domain Registrars
+slug: domain
 date: 2004-07-17
 layout: Post
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Clairvoyant solves phantom freaking out Dunedin
+slug: ghost
 date: 2015-10-04
 host: Simon Pound
 outlet: RadioLive

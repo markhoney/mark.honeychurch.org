@@ -1,5 +1,6 @@
 ---
 title: Robert Bigelow believes aliens are on earth
+slug: bigelow
 date: 2017-06-04
 host: Graeme Hill
 outlet: RadioLive

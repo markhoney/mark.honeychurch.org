@@ -1,5 +1,6 @@
 ---
 title: MotorWeb's either dumb or devious
+slug: motorweb
 date: 2011-11-04
 layout: Post
 categories:

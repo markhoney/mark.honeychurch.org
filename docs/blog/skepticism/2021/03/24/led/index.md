@@ -1,5 +1,6 @@
 ---
 title: Should we worry about LED bulbs?
+slug: led
 date: 2021-03-24
 host: Graeme Hill
 outlet: MagicTalk

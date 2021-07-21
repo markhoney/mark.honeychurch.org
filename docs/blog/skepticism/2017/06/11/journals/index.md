@@ -1,5 +1,6 @@
 ---
 title: Aussie shows how lax sham journals can be
+slug: journals
 date: 2017-06-11
 host: Graeme Hill
 outlet: RadioLive

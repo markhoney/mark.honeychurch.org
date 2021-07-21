@@ -1,5 +1,6 @@
 ---
 title: The Spam Dilemma
+slug: spam
 date: 2008-07-01
 layout: Post
 categories:

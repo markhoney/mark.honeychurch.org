@@ -1,5 +1,6 @@
 ---
 title: Server in a Pizza Box
+slug: pizza
 date: 2003-05-12
 layout: Post
 categories:

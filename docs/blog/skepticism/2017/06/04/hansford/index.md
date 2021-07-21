@@ -1,5 +1,6 @@
 ---
 title: Nice article about Dave Hansford and 1080
+slug: hansford
 date: 2017-06-04
 host: Graeme Hill
 outlet: RadioLive

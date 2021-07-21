@@ -1,5 +1,6 @@
 ---
 title: Breatharians make Dangerous Claims
+slug: breatharians
 date: 2017-06-18
 host: Ryan Bradley
 outlet: RadioLive

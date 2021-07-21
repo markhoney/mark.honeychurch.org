@@ -1,5 +1,6 @@
 ---
 title: New search for Loch Ness Monster
+slug: ness
 date: 2018-05-27
 host: Graeme Hill
 outlet: RadioLive

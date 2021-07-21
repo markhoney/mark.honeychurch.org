@@ -1,5 +1,6 @@
 ---
 title: Witch Doctor in Wellington
+slug: witch
 date: 2016-08-21
 host: Graeme Hill
 outlet: RadioLive

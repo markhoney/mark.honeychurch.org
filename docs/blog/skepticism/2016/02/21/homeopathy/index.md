@@ -1,5 +1,6 @@
 ---
 title: Homeopathy effective for 0 out of 68 illnesses, study finds
+slug: homeopathy
 date: 2016-02-21
 host: Graeme Hill
 outlet: RadioLive

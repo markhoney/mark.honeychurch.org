@@ -1,5 +1,6 @@
 ---
 title: Rush Limbaugh weighs in on Harambe the gorilla
+slug: limbaugh
 date: 2016-06-05
 host: Graeme Hill
 outlet: RadioLive

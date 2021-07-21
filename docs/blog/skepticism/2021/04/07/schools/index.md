@@ -1,5 +1,6 @@
 ---
 title: A timely reminder for schools
+slug: schools
 date: 2021-04-07
 host: Graeme Hill
 outlet: MagicTalk

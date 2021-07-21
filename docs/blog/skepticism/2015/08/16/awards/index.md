@@ -1,5 +1,6 @@
 ---
 title: Martin Harris is Supreme Winner at the Pharmacy Awards
+slug: awards
 date: 2015-08-16
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: New HIV vaccine, but is it a made up disease?
+slug: hiv
 date: 2018-07-08
 host: Graeme Hill
 outlet: RadioLive

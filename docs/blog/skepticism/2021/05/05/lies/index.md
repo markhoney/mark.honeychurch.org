@@ -1,5 +1,6 @@
 ---
 title: Lies, Damned Lies and shonky Statistics
+slug: lies
 date: 2021-05-05
 host: Graeme Hill
 outlet: MagicTalk

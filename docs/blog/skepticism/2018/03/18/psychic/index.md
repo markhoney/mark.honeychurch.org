@@ -1,5 +1,6 @@
 ---
 title: Local psychic plays the odds, gets lucky
+slug: psychic
 date: 2018-03-18
 host: Ryan Bradley
 outlet: RadioLive

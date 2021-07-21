@@ -1,5 +1,6 @@
 ---
 title: Chinese Man telling women's futures by touching their breasts!
+slug: breasts
 date: 2016-10-21
 host: Peter Elliott
 outlet: RadioLive

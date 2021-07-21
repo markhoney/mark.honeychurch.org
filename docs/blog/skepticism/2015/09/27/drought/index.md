@@ -1,5 +1,6 @@
 ---
 title: California's Drought Is A Government Conspiracy
+slug: drought
 date: 2015-09-27
 host: Simon Pound
 outlet: RadioLive

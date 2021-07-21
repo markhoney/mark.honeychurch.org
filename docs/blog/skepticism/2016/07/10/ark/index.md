@@ -1,5 +1,6 @@
 ---
 title: Noah's Ark "replica" opens in Kentucky, US
+slug: ark
 date: 2016-07-10
 host: Graeme Hill
 outlet: RadioLive

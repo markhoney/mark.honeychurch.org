@@ -1,5 +1,6 @@
 ---
 title: Bravo Award
+slug: bravo
 date: 2015-08-16
 host: Graeme Hill
 outlet: RadioLive

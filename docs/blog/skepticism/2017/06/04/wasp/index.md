@@ -1,5 +1,6 @@
 ---
 title: Don't put ground up wasp's nest in your vagina
+slug: wasp
 date: 2017-06-04
 host: Graeme Hill
 outlet: RadioLive

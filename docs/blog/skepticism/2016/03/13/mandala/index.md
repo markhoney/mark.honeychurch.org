@@ -1,5 +1,6 @@
 ---
 title: Adult Coloring Books and Mandalas, A Warning For Christians
+slug: mandala
 date: 2016-03-13
 host: Graeme Hill
 outlet: RadioLive

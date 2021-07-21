@@ -1,5 +1,6 @@
 ---
 title: Iraq was Invaded because they had a stargate
+slug: stargate
 date: 2017-09-03
 host: Graeme Hill
 outlet: RadioLive

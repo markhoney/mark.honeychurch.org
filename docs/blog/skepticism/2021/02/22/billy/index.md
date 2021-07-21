@@ -1,5 +1,6 @@
 ---
 title: Billy Te Kahika has Quit
+slug: billy
 date: 2021-02-22
 outlet: Newsletter
 layout: Post

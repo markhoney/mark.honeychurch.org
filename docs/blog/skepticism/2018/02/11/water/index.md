@@ -1,5 +1,6 @@
 ---
 title: Raw Water is Daft
+slug: water
 date: 2018-02-11
 host: Graeme Hill
 outlet: RadioLive

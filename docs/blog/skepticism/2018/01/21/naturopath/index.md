@@ -1,5 +1,6 @@
 ---
 title: Ex naturopath being sued
+slug: naturopath
 date: 2018-01-21
 host: Ryan Bradley
 outlet: RadioLive

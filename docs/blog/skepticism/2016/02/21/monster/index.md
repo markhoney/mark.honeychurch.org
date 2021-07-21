@@ -1,5 +1,6 @@
 ---
 title: Sea monster washes up in Australia
+slug: monster
 date: 2016-02-21
 host: Graeme Hill
 outlet: RadioLive

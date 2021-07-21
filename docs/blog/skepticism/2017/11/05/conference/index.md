@@ -1,5 +1,6 @@
 ---
 title: NZ Skeptics conference in Wellington
+slug: conference
 date: 2017-11-05
 host: Graeme Hill
 outlet: RadioLive

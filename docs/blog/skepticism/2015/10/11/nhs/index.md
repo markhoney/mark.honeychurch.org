@@ -1,5 +1,6 @@
 ---
 title: NHS wants to employ a Spiritual Healer
+slug: nhs
 date: 2015-10-11
 host: Graeme Hill
 outlet: RadioLive

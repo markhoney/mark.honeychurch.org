@@ -1,5 +1,6 @@
 ---
 title: New healing device about to go on sale in NZ
+slug: qsb
 date: 2017-10-08
 host: Ryan Bradley
 outlet: RadioLive

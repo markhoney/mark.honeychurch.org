@@ -1,5 +1,6 @@
 ---
 title: Evorich - where con, cult and crypto collide
+slug: evorich
 date: 2021-05-12
 host: Graeme Hill
 outlet: MagicTalk

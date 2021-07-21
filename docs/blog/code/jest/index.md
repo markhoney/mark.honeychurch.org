@@ -1,5 +1,6 @@
 ---
 title: Pubs not Puns
+slug: jest
 date: 2020-08-28
 layout: Post
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Holes in popular conspiracy theories
+slug: holes
 date: 2017-12-03
 host: Ryan Bradley
 outlet: RadioLive

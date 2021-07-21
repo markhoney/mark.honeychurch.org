@@ -1,5 +1,6 @@
 ---
 title: Nigel Antony Gray Still Crazy
+slug: nigel
 date: 2017-05-07
 host: Graeme Hill
 outlet: RadioLive

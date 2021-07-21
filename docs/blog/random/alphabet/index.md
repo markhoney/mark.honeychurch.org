@@ -1,5 +1,6 @@
 ---
 title: Homophones of letters of the Alphabet
+slug: alphabet
 date: 2019-02-16
 layout: Post
 categories:

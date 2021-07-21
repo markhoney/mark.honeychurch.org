@@ -1,5 +1,6 @@
 ---
 title: End of the World Predictions
+slug: end
 date: 2015-11-15
 host: Graeme Hill
 outlet: RadioLive

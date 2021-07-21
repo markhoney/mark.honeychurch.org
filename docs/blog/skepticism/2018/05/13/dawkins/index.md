@@ -1,5 +1,6 @@
 ---
 title: Dawkins has been to visit NZ
+slug: dawkins
 date: 2018-05-13
 host: Graeme Hill
 outlet: RadioLive

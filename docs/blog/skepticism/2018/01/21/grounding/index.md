@@ -1,5 +1,6 @@
 ---
 title: Grounding
+slug: grounding
 date: 2018-01-21
 host: Ryan Bradley
 outlet: RadioLive

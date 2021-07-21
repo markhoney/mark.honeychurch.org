@@ -1,5 +1,6 @@
 ---
 title: Justice Scalia murder conspiracy
+slug: scalia
 date: 2016-02-21
 host: Graeme Hill
 outlet: RadioLive

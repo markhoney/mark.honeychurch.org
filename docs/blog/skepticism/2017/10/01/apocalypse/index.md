@@ -1,5 +1,6 @@
 ---
 title: The Apocalypse has been moved
+slug: apocalypse
 date: 2017-10-01
 host: Ryan Bradley
 outlet: RadioLive

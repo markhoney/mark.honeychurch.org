@@ -1,5 +1,6 @@
 ---
 title: Unvaccinated Pets
+slug: pet
 date: 2018-01-28
 host: Graeme Hill
 outlet: RadioLive

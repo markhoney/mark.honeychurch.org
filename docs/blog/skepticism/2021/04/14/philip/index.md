@@ -1,5 +1,6 @@
 ---
 title: The Prince Philip Movement
+slug: philip
 date: 2021-04-14
 host: Graeme Hill
 outlet: MagicTalk

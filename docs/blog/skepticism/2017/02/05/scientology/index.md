@@ -1,5 +1,6 @@
 ---
 title: Scientology out on the streets in Grafton
+slug: scientology
 date: 2017-02-05
 host: Graeme Hill
 outlet: RadioLive

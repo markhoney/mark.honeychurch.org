@@ -1,5 +1,6 @@
 ---
 title: MedSafe has registered over a thousand unproven homeopathic health products as medicines
+slug: medsafe
 date: 2016-10-21
 host: Peter Elliott
 outlet: RadioLive

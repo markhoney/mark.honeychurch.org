@@ -1,5 +1,6 @@
 ---
 title: Are antioxidant-rich products good for us?
+slug: antioxidant
 date: 2016-02-07
 host: Graeme Hill
 outlet: RadioLive

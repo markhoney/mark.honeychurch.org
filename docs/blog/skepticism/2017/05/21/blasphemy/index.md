@@ -1,5 +1,6 @@
 ---
 title: Blasphemy Law may finally be repealed
+slug: blasphemy
 date: 2017-05-21
 host: Graeme Hill
 outlet: RadioLive

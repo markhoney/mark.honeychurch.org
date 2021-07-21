@@ -1,5 +1,6 @@
 ---
 title: Siggi Henry profiled in the Spinoff
+slug: siggi
 date: 2017-07-16
 host: Graeme Hill
 outlet: RadioLive

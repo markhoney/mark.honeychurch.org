@@ -1,5 +1,6 @@
 ---
 title: First NZ Flat Earth Conference
+slug: flat
 date: 2018-05-27
 host: Graeme Hill
 outlet: RadioLive

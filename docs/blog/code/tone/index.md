@@ -1,5 +1,6 @@
 ---
 title: Tone Generator
+slug: tone
 date: 2019-03-24
 layout: Post
 categories:

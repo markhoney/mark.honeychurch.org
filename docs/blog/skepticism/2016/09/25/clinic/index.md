@@ -1,5 +1,6 @@
 ---
 title: Dodgy Thai cancer clinic criticised
+slug: clinic
 date: 2016-09-25
 host: Graeme Hill
 outlet: RadioLive

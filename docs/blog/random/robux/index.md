@@ -1,5 +1,6 @@
 ---
 title: Scamming Children
+slug: robux
 date: 2018-11-19
 layout: Post
 categories:

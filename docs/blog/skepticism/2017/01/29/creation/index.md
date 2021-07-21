@@ -1,5 +1,6 @@
 ---
 title: Kiwi Creationism
+slug: creation
 date: 2017-01-29
 host: Ryan Bradley
 outlet: RadioLive

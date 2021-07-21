@@ -1,5 +1,6 @@
 ---
 title: Whakatane flip-flops on fluoride
+slug: fluoride
 date: 2016-02-14
 host: Graeme Hill
 outlet: RadioLive

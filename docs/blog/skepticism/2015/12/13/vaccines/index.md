@@ -1,5 +1,6 @@
 ---
 title: Anti-vaxxer's baby hospitalised with whooping cough
+slug: vaccines
 date: 2015-12-13
 host: Graeme Hill
 outlet: RadioLive

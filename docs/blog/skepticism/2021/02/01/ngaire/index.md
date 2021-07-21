@@ -1,5 +1,6 @@
 ---
 title: Ngaire McCarthy
+slug: ngaire
 date: 2021-02-01
 outlet: Newsletter
 layout: Post

@@ -1,5 +1,6 @@
 ---
 title: Birds aren’t real
+slug: birds
 date: 2021-07-07
 host: Graeme Hill
 outlet: MagicTalk

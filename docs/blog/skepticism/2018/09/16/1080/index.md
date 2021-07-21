@@ -1,5 +1,6 @@
 ---
 title: Hikoi of a Poisoned Nation
+slug: 1080
 date: 2018-09-16
 host: Ryan Bradley
 outlet: RadioLive

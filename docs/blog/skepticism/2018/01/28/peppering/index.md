@@ -1,5 +1,6 @@
 ---
 title: Peppering of Rabbits?
+slug: peppering
 date: 2018-01-28
 host: Graeme Hill
 outlet: RadioLive

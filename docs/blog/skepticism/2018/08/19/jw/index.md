@@ -1,5 +1,6 @@
 ---
 title: My JW weekend
+slug: jw
 date: 2018-08-19
 host: Graeme Hill
 outlet: RadioLive

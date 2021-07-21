@@ -1,5 +1,6 @@
 ---
 title: Auckland Church Promoting Magical Oil
+slug: oil
 date: 2017-06-18
 host: Ryan Bradley
 outlet: RadioLive

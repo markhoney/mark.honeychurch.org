@@ -1,5 +1,6 @@
 ---
 title: Did NASA Astronauts see aliens?
+slug: nasa
 date: 2018-04-15
 host: Graeme Hill
 outlet: RadioLive

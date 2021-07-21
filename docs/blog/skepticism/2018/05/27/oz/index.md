@@ -1,5 +1,6 @@
 ---
 title: Dr Oz to join Trump's health focused Presidential Council
+slug: oz
 date: 2018-05-27
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Jonathan Sarfati's New Zealand Visit
+slug: sarfati
 date: 2016-02-07
 host: Graeme Hill
 outlet: RadioLive

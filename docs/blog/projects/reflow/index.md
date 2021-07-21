@@ -1,5 +1,6 @@
 ---
 title: Reflowing NVidia solder
+slug: reflow
 date: 2011-06-01
 layout: Post
 categories:

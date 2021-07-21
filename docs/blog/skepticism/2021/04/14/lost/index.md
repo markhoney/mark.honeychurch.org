@@ -1,5 +1,6 @@
 ---
 title: How to help those who have lost their way
+slug: lost
 date: 2021-04-14
 host: Graeme Hill
 outlet: MagicTalk

@@ -1,5 +1,6 @@
 ---
 title: Some great common sense advice from Rob Stock at Stuff
+slug: pharmacy
 date: 2017-10-01
 host: Ryan Bradley
 outlet: RadioLive

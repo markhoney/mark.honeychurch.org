@@ -1,5 +1,6 @@
 ---
 title: FYI needs help categorising OIA requests
+slug: fyi
 date: 2016-07-17
 host: Graeme Hill
 outlet: RadioLive

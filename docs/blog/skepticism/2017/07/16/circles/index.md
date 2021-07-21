@@ -1,5 +1,6 @@
 ---
 title: Gifting Circles now illegal
+slug: circles
 date: 2017-07-16
 host: Graeme Hill
 outlet: RadioLive

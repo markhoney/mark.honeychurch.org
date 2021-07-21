@@ -1,5 +1,6 @@
 ---
 title: Kangen Water has made the news again :(
+slug: kangen
 date: 2018-05-13
 host: Graeme Hill
 outlet: RadioLive

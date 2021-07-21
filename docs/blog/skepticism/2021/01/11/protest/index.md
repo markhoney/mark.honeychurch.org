@@ -1,5 +1,6 @@
 ---
 title: Auckland Lockdown Protest
+slug: protest
 date: 2021-01-11
 outlet: Newsletter
 layout: Post

@@ -1,5 +1,6 @@
 ---
 title: Dalai Lama Says a Female Successor Should Be Very Attractive
+slug: lama
 date: 2015-09-27
 host: Simon Pound
 outlet: RadioLive

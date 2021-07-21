@@ -1,5 +1,6 @@
 ---
 title: Blood Moon on September 28 will bring huge earth-destroying earthquakes
+slug: moon
 date: 2015-09-27
 host: Simon Pound
 outlet: RadioLive

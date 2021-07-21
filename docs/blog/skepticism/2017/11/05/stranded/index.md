@@ -1,5 +1,6 @@
 ---
 title: Women Stranded at Sea for 5 months
+slug: stranded
 date: 2017-11-05
 host: Graeme Hill
 outlet: RadioLive

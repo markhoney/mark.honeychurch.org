@@ -1,5 +1,6 @@
 ---
 title: Shane Warne believes alien experiments turned monkeys into humans
+slug: shane
 date: 2016-02-21
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Advertising Standards Authority Complaints
+slug: asa
 date: 2015-08-16
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: An unexpected endorsement for the COVID vaccine
+slug: endorsement
 date: 2021-03-08
 outlet: Newsletter
 layout: Post

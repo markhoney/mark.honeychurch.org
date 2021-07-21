@@ -1,5 +1,6 @@
 ---
 title: Vaxxed Premiered at Reading Cinemas LynnMall
+slug: vaxxed
 date: 2017-04-02
 host: Graeme Hill
 outlet: RadioLive

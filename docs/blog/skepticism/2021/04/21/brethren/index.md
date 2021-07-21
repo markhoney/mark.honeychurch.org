@@ -1,5 +1,6 @@
 ---
 title: The Exclusive Brethren are spying on ex members
+slug: brethren
 date: 2021-04-21
 host: Graeme Hill
 outlet: MagicTalk

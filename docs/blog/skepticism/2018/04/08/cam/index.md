@@ -1,5 +1,6 @@
 ---
 title: Call for government funding of natural therapies
+slug: cam
 date: 2018-04-08
 host: Graeme Hill
 outlet: RadioLive

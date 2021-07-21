@@ -1,5 +1,6 @@
 ---
 title: $5 Microscope
+slug: microscope
 date: 2018-06-24
 layout: Post
 categories:

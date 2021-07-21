@@ -1,5 +1,6 @@
 ---
 title: Disciplined osteopath George McKenzie yet to apologise
+slug: osteopath
 date: 2015-12-13
 host: Graeme Hill
 outlet: RadioLive

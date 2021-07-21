@@ -1,5 +1,6 @@
 ---
 title: Breast Milk Soap
+slug: soap
 date: 2017-10-15
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: New Zealand's own Fantastical AI
+slug: ai
 date: 2018-03-11
 host: Graeme Hill
 outlet: RadioLive

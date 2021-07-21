@@ -1,5 +1,6 @@
 ---
 title: UFO sighted in Hawkes Bay
+slug: ufo
 date: 2021-05-26
 host: Graeme Hill
 outlet: MagicTalk

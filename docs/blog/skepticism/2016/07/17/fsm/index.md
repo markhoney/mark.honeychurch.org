@@ -1,5 +1,6 @@
 ---
 title: Sad news for Pastafarianism
+slug: fsm
 date: 2016-07-17
 host: Graeme Hill
 outlet: RadioLive

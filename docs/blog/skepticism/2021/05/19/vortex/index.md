@@ -1,5 +1,6 @@
 ---
 title: WTF is Vortex Water?
+slug: vortex
 date: 2021-05-19
 host: Graeme Hill
 outlet: MagicTalk

@@ -1,5 +1,6 @@
 ---
 title: Oooooh, I'm scared!
+slug: scary
 date: 2018-10-03
 layout: Post
 categories:

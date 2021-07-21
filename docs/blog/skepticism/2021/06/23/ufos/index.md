@@ -1,5 +1,6 @@
 ---
 title: Proof of UFOs is “just around the corner”...
+slug: ufos
 date: 2021-06-23
 host: Graeme Hill
 outlet: MagicTalk

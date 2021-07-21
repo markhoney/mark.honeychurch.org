@@ -1,5 +1,6 @@
 ---
 title: Christchurch health clinic bans vaccinated customers
+slug: clinic
 date: 2021-05-05
 host: Graeme Hill
 outlet: MagicTalk

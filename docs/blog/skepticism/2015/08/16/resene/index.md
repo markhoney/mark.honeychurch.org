@@ -1,5 +1,6 @@
 ---
 title: Resene Promotes Colour Therapy
+slug: resene
 date: 2015-08-16
 host: Graeme Hill
 outlet: RadioLive

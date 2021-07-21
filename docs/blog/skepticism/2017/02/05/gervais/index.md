@@ -1,5 +1,6 @@
 ---
 title: Ricky Gervais talks about science vs belief
+slug: gervais
 date: 2017-02-05
 host: Graeme Hill
 outlet: RadioLive

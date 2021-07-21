@@ -1,5 +1,6 @@
 ---
 title: A Better Year
+slug: year
 date: 2012-12-15
 layout: Post
 categories:

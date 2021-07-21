@@ -1,5 +1,6 @@
 ---
 title: Christchurch City Council to reduce use of weedkiller
+slug: glyphosate
 date: 2016-07-03
 host: Graeme Hill
 outlet: RadioLive

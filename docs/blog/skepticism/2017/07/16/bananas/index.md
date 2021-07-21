@@ -1,5 +1,6 @@
 ---
 title: GMO Bananas may save lives
+slug: bananas
 date: 2017-07-16
 host: Graeme Hill
 outlet: RadioLive

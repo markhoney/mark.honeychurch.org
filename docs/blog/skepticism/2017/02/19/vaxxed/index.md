@@ -1,5 +1,6 @@
 ---
 title: Vaxxed movie showing in Auckland in April
+slug: vaxxed
 date: 2017-02-19
 host: Graeme Hill
 outlet: RadioLive

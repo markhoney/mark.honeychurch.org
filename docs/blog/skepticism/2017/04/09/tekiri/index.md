@@ -1,5 +1,6 @@
 ---
 title: Te Kiri Gold Cancer "Treatment" on sale
+slug: tekiri
 date: 2017-04-09
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Grant Robertson has Had Enough
+slug: grant
 date: 2021-02-22
 outlet: Newsletter
 layout: Post

@@ -1,5 +1,6 @@
 ---
 title: UK has scrapped useless treatments
+slug: nhs
 date: 2017-12-17
 host: Graeme Hill
 outlet: RadioLive

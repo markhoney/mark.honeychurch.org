@@ -1,5 +1,6 @@
 ---
 title: Conspiracy spam
+slug: spam
 date: 2021-02-22
 outlet: Newsletter
 layout: Post

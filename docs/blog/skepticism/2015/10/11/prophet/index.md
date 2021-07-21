@@ -1,5 +1,6 @@
 ---
 title: Zimbabwe prophet's attempt to prove he can walk on air' falls flat
+slug: prophet
 date: 2015-10-11
 host: Graeme Hill
 outlet: RadioLive

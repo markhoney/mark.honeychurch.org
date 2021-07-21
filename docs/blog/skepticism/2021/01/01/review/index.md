@@ -1,5 +1,6 @@
 ---
 title: 2020 In Review
+slug: review
 date: 2021-01-01
 host: Graeme Hill
 outlet: MagicTalk

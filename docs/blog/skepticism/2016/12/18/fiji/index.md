@@ -1,5 +1,6 @@
 ---
 title: Fiji Government conned by scam artist
+slug: fiji
 date: 2016-12-18
 host: Graeme Hill
 outlet: RadioLive

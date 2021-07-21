@@ -1,5 +1,6 @@
 ---
 title: Climate change deniers added to Christchurch coastal erosion panel
+slug: climate
 date: 2016-06-12
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: GraphQL, Graph DB, Graph API - what's with all these Graphs?
+slug: graphs
 date: 2020-07-20
 layout: Post
 categories:

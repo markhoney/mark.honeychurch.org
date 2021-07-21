@@ -1,5 +1,6 @@
 ---
 title: Can natural health products be bad for you?
+slug: natural
 date: 2018-10-28
 host: Graeme Hill
 outlet: RadioLive

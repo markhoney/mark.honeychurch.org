@@ -1,5 +1,6 @@
 ---
 title: Alternative cancer therapies linked to earlier death
+slug: cancer
 date: 2018-07-22
 host: Graeme Hill
 outlet: RadioLive

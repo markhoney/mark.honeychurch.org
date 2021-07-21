@@ -1,5 +1,6 @@
 ---
 title: Another Te Kiri Gold celebrity endorsement
+slug: tekiri
 date: 2018-12-16
 host: Graeme Hill
 outlet: RadioLive

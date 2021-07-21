@@ -1,5 +1,6 @@
 ---
 title: Proof of a flat earth
+slug: flat
 date: 2017-05-21
 host: Graeme Hill
 outlet: RadioLive

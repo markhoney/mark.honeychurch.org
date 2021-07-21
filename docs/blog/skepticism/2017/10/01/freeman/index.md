@@ -1,5 +1,6 @@
 ---
 title: The FreeMan movement/Sovereign Citizens
+slug: freeman
 date: 2017-10-01
 host: Ryan Bradley
 outlet: RadioLive

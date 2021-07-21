@@ -1,5 +1,6 @@
 ---
 title: I went back to the OTO
+slug: oto
 date: 2018-09-30
 host: Graeme Hill
 outlet: RadioLive

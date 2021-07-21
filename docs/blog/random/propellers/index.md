@@ -1,5 +1,6 @@
 ---
 title: Bendy Propellers
+slug: propellers
 date: 2019-02-18
 layout: Post
 categories:

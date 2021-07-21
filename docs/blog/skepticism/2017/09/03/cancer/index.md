@@ -1,5 +1,6 @@
 ---
 title: One-sided article updated after complaint
+slug: cancer
 date: 2017-09-03
 host: Graeme Hill
 outlet: RadioLive

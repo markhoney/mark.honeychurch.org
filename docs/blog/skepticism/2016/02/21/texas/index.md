@@ -1,5 +1,6 @@
 ---
 title: Texas Board of Education hopeful believes Obama was a homosexual prostitute
+slug: texas
 date: 2016-02-21
 host: Graeme Hill
 outlet: RadioLive

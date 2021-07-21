@@ -1,5 +1,6 @@
 ---
 title: Former anti-vaxxer's emotional plea following newborn daughter contracting whooping cough
+slug: whooping
 date: 2016-04-17
 host: Graeme Hill
 outlet: RadioLive

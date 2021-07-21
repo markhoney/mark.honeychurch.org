@@ -1,5 +1,6 @@
 ---
 title: Rival "health" bracelet sellers in NZ end up in punch-up
+slug: zenteq
 date: 2016-10-21
 host: Peter Elliott
 outlet: RadioLive

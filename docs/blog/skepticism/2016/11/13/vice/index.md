@@ -1,5 +1,6 @@
 ---
 title: The Vice President-Elect is crazy!
+slug: vice
 date: 2016-11-13
 host: Graeme Hill
 outlet: RadioLive

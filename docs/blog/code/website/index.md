@@ -1,5 +1,6 @@
 ---
 title: This Website
+slug: website
 date: 2018-09-12
 layout: Post
 categories:

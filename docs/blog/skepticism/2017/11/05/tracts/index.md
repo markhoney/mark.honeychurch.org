@@ -1,5 +1,6 @@
 ---
 title: Children handed religious tracts at Halloween
+slug: tracts
 date: 2017-11-05
 host: Graeme Hill
 outlet: RadioLive

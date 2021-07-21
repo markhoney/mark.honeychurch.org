@@ -1,5 +1,6 @@
 ---
 title: WWG1WGA
+slug: wwg1wga
 date: 2020-11-09
 outlet: Newsletter
 layout: Post

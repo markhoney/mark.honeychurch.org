@@ -1,5 +1,6 @@
 ---
 title: InfoWars promotes theory that NASA keeps slave kids on Mars
+slug: infowars
 date: 2017-07-02
 host: Graeme Hill
 outlet: RadioLive

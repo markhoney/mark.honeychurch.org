@@ -1,5 +1,6 @@
 ---
 title: My visit to the OTO
+slug: oto
 date: 2017-12-17
 host: Graeme Hill
 outlet: RadioLive

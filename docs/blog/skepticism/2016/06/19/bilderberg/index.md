@@ -1,5 +1,6 @@
 ---
 title: Bilderberg Group meeting in Watford, England
+slug: bilderberg
 date: 2016-06-19
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Stuff removes article on Colloidal Silver
+slug: silver
 date: 2016-06-19
 host: Graeme Hill
 outlet: RadioLive

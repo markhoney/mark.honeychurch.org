@@ -1,5 +1,6 @@
 ---
 title: Attack Survivor has to defend himself
+slug: crisis
 date: 2018-02-25
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Is BitCoin like a Ponzi Scheme?
+slug: bitcoin
 date: 2021-03-31
 host: Graeme Hill
 outlet: MagicTalk

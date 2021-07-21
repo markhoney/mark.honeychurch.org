@@ -1,5 +1,6 @@
 ---
 title: Should we be worried about blood clots?
+slug: clots
 date: 2021-03-17
 host: Graeme Hill
 outlet: MagicTalk

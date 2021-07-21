@@ -1,5 +1,6 @@
 ---
 title: My Last Exam (for at least a month)
+slug: exams
 date: 2008-06-30
 layout: Post
 categories:

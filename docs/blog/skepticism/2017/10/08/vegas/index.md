@@ -1,5 +1,6 @@
 ---
 title: Conspiracy Theorists waste no time after Las Vegas shooting
+slug: vegas
 date: 2017-10-08
 host: Ryan Bradley
 outlet: RadioLive

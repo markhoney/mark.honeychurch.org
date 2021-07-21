@@ -1,5 +1,6 @@
 ---
 title: The Keeper of the Secrets
+slug: tapu
 date: 2018-04-15
 host: Graeme Hill
 outlet: RadioLive

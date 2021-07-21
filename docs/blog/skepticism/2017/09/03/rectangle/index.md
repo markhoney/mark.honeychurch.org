@@ -1,5 +1,6 @@
 ---
 title: Newshub thought a picture of someone holding something rectangular was newsworthy
+slug: rectangle
 date: 2017-09-03
 host: Graeme Hill
 outlet: RadioLive

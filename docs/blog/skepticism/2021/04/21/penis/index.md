@@ -1,5 +1,6 @@
 ---
 title: Are Christian men worried about their penis size?
+slug: penis
 date: 2021-04-21
 host: Graeme Hill
 outlet: MagicTalk

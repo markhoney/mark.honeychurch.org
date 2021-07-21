@@ -1,5 +1,6 @@
 ---
 title: Bee Venom is supposedly an effective cosmetic
+slug: bee
 date: 2016-07-10
 host: Graeme Hill
 outlet: RadioLive

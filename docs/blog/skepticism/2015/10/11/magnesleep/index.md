@@ -1,5 +1,6 @@
 ---
 title: MagneSleep lost an ASA complaint
+slug: magnesleep
 date: 2015-10-11
 host: Graeme Hill
 outlet: RadioLive

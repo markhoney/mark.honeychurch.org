@@ -1,5 +1,6 @@
 ---
 title: Games of my Youth
+slug: arcade
 date: 2020-07-27
 layout: Post
 categories:

@@ -1,5 +1,6 @@
 ---
 title: My Visit to faith healer Father John Rea
+slug: rea
 date: 2017-03-05
 host: Graeme Hill
 outlet: RadioLive

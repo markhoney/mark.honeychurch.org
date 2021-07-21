@@ -1,5 +1,6 @@
 ---
 title: GOP Candidates and Vaccines
+slug: gop
 date: 2015-09-20
 host: Graeme Hill
 outlet: RadioLive

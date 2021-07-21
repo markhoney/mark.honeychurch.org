@@ -1,5 +1,6 @@
 ---
 title: I went to a Scientology Event
+slug: scientology
 date: 2017-07-02
 host: Graeme Hill
 outlet: RadioLive

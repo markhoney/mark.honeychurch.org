@@ -1,5 +1,6 @@
 ---
 title: The US is losing the war on ignorance
+slug: ignorance
 date: 2018-04-15
 host: Graeme Hill
 outlet: RadioLive

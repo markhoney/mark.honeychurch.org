@@ -1,5 +1,6 @@
 ---
 title: Healing Crystals
+slug: crystals
 date: 2018-05-13
 host: Graeme Hill
 outlet: RadioLive

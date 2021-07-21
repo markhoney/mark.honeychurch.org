@@ -1,5 +1,6 @@
 ---
 title: Australian Bent Spoon winner
+slug: sarah
 date: 2018-10-14
 host: Graeme Hill
 outlet: RadioLive

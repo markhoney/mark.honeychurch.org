@@ -1,5 +1,6 @@
 ---
 title: Bullet repelling magic in Nigeria
+slug: bullet
 date: 2018-07-08
 host: Graeme Hill
 outlet: RadioLive

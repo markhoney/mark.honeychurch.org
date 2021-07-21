@@ -1,5 +1,6 @@
 ---
 title: Muslim call "For Public Purity", asking for people to hide dogs, appears to be a hoax
+slug: dogs
 date: 2016-07-17
 host: Graeme Hill
 outlet: RadioLive

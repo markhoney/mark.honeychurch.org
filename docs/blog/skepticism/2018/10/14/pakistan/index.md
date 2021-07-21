@@ -1,5 +1,6 @@
 ---
 title: Pakistanis trying to influence justice
+slug: pakistan
 date: 2018-10-14
 host: Graeme Hill
 outlet: RadioLive

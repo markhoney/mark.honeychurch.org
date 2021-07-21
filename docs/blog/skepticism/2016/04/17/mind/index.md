@@ -1,5 +1,6 @@
 ---
 title: Skeptics' visit to the Mind Body Spirit Fair
+slug: mind
 date: 2016-04-17
 host: Graeme Hill
 outlet: RadioLive

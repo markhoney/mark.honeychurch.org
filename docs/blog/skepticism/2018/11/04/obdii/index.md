@@ -1,5 +1,6 @@
 ---
 title: OBDII Fuel Saver
+slug: obdii
 date: 2018-11-04
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: German psychic solves yet another case
+slug: psychic
 date: 2021-06-16
 host: Graeme Hill
 outlet: MagicTalk

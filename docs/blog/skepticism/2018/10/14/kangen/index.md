@@ -1,5 +1,6 @@
 ---
 title: I tried Kangen Water
+slug: kangen
 date: 2018-10-14
 host: Graeme Hill
 outlet: RadioLive

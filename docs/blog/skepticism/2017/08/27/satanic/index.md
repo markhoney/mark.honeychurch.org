@@ -1,5 +1,6 @@
 ---
 title: Satanic Panic
+slug: satanic
 date: 2017-08-27
 host: Graeme Hill
 outlet: RadioLive

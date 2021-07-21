@@ -1,5 +1,6 @@
 ---
 title: Luckiest Lotto stores revealed
+slug: lotto
 date: 2016-04-17
 host: Graeme Hill
 outlet: RadioLive

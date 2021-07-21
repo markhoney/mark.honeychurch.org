@@ -1,5 +1,6 @@
 ---
 title: Shakti Mat
+slug: shakti
 date: 2018-06-10
 host: Graeme Hill
 outlet: RadioLive

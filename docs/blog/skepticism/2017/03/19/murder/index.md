@@ -1,5 +1,6 @@
 ---
 title: Interview with Sensing Murder producers
+slug: murder
 date: 2017-03-19
 host: Graeme Hill
 outlet: RadioLive

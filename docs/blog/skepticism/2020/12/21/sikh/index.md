@@ -1,5 +1,6 @@
 ---
 title: A Sikh Visit
+slug: sikh
 date: 2020-12-21
 outlet: Newsletter
 layout: Post

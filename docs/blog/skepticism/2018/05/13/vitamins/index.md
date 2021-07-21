@@ -1,5 +1,6 @@
 ---
 title: Personalised Vitamins
+slug: vitamins
 date: 2018-05-13
 host: Graeme Hill
 outlet: RadioLive

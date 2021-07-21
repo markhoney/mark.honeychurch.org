@@ -1,5 +1,6 @@
 ---
 title: Sun protection pill goes on sale in NZ
+slug: pill
 date: 2017-10-08
 host: Ryan Bradley
 outlet: RadioLive

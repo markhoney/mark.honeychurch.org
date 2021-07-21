@@ -1,5 +1,6 @@
 ---
 title: Does the COVID vaccine contain a microchip?
+slug: chip
 date: 2021-05-26
 host: Graeme Hill
 outlet: MagicTalk

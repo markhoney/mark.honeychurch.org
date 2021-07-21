@@ -1,5 +1,6 @@
 ---
 title: A local Psychic has Guessed Wrong
+slug: psychic
 date: 2021-02-22
 outlet: Newsletter
 layout: Post

@@ -1,5 +1,6 @@
 ---
 title: Chiropractic for Pregnancy Issues?
+slug: chiro
 date: 2016-08-28
 host: Graeme Hill
 outlet: RadioLive

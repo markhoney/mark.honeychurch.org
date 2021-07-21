@@ -1,5 +1,6 @@
 ---
 title: Te Kiri Gold makers forced to release a statement
+slug: cancer
 date: 2017-05-07
 host: Graeme Hill
 outlet: RadioLive

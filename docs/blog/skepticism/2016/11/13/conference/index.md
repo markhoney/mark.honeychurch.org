@@ -1,5 +1,6 @@
 ---
 title: Skeptics Conference
+slug: conference
 date: 2016-11-13
 host: Graeme Hill
 outlet: RadioLive

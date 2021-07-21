@@ -1,5 +1,6 @@
 ---
 title: Is the US ignoring UFOs?
+slug: ufo
 date: 2018-03-11
 host: Graeme Hill
 outlet: RadioLive

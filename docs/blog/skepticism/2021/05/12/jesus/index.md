@@ -1,5 +1,6 @@
 ---
 title: Simon Bridges for Jesus for NZ
+slug: jesus
 date: 2021-05-12
 host: Graeme Hill
 outlet: MagicTalk

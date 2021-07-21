@@ -1,5 +1,6 @@
 ---
 title: Sue Grey may have had a valid point
+slug: sue
 date: 2021-05-19
 host: Graeme Hill
 outlet: MagicTalk

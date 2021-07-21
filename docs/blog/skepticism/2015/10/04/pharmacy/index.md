@@ -1,5 +1,6 @@
 ---
 title: Doctors and pharmacists clash over complementary medicines
+slug: pharmacy
 date: 2015-10-04
 host: Simon Pound
 outlet: RadioLive

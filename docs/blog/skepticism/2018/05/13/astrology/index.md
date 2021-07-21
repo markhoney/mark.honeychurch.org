@@ -1,5 +1,6 @@
 ---
 title: Does your star sign dictate how you drive?
+slug: astrology
 date: 2018-05-13
 host: Graeme Hill
 outlet: RadioLive

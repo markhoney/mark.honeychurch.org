@@ -1,5 +1,6 @@
 ---
 title: Haka gives ABs more than a psychological lift
+slug: haka
 date: 2015-10-04
 host: Simon Pound
 outlet: RadioLive

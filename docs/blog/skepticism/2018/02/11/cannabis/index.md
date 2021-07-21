@@ -1,5 +1,6 @@
 ---
 title: Can Cannabis Cure Cancer?
+slug: cannabis
 date: 2018-02-11
 host: Graeme Hill
 outlet: RadioLive

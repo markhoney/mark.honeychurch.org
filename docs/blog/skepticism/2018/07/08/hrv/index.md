@@ -1,5 +1,6 @@
 ---
 title: HRV admits they deceived customers
+slug: hrv
 date: 2018-07-08
 host: Graeme Hill
 outlet: RadioLive

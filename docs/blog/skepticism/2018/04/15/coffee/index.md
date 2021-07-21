@@ -1,5 +1,6 @@
 ---
 title: Therapeutic Mushroom Coffee
+slug: coffee
 date: 2018-04-15
 host: Graeme Hill
 outlet: RadioLive

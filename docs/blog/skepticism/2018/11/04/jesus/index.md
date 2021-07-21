@@ -1,5 +1,6 @@
 ---
 title: Jesus for NZ
+slug: jesus
 date: 2018-11-04
 host: Graeme Hill
 outlet: RadioLive

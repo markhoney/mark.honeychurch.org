@@ -1,5 +1,6 @@
 ---
 title: Catholic Church Abuse
+slug: catholic
 date: 2018-09-02
 host: Graeme Hill
 outlet: RadioLive

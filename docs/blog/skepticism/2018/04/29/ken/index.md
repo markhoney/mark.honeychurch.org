@@ -1,5 +1,6 @@
 ---
 title: Ken Ring is predicting earthquakes again
+slug: ken
 date: 2018-04-29
 host: Graeme Hill
 outlet: RadioLive

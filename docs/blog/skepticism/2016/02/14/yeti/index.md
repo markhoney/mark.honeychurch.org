@@ -1,5 +1,6 @@
 ---
 title: New video of 'Yeti' at ski resort sparks Internet debate
+slug: yeti
 date: 2016-02-14
 host: Graeme Hill
 outlet: RadioLive

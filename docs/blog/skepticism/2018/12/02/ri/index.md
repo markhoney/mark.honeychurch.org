@@ -1,5 +1,6 @@
 ---
 title: MoE Religious Instruction Guidelines Consultation
+slug: ri
 date: 2018-12-02
 host: Graeme Hill
 outlet: RadioLive

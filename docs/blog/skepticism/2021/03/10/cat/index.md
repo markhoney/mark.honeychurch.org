@@ -1,5 +1,6 @@
 ---
 title: Cat Buttons
+slug: cat
 date: 2021-03-10
 host: Graeme Hill
 outlet: MagicTalk

@@ -1,5 +1,6 @@
 ---
 title: David Icke Coming to New Zealand
+slug: icke
 date: 2016-02-14
 host: Graeme Hill
 outlet: RadioLive

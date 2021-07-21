@@ -1,5 +1,6 @@
 ---
 title: CoderDojo at Glenview
+slug: glenview
 date: 2015-03-16
 layout: Post
 categories:

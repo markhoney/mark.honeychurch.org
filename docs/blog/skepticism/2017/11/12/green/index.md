@@ -1,5 +1,6 @@
 ---
 title: Go Green Expo
+slug: green
 date: 2017-11-12
 host: Graeme Hill
 outlet: RadioLive

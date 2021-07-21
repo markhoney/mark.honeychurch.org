@@ -1,5 +1,6 @@
 ---
 title: Petition for a Military Coup in NZ
+slug: coup
 date: 2021-06-23
 host: Graeme Hill
 outlet: MagicTalk

@@ -1,5 +1,6 @@
 ---
 title: Earth 2
+slug: earth2
 date: 2021-06-30
 host: Graeme Hill
 outlet: MagicTalk

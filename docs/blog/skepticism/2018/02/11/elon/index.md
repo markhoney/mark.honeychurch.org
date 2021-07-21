@@ -1,5 +1,6 @@
 ---
 title: Elon Musk proves the earth is round - or does he?
+slug: elon
 date: 2018-02-11
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Fixing my Airbag
+slug: airbag
 date: 2012-11-13
 layout: Post
 categories:

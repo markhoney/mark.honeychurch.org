@@ -1,5 +1,6 @@
 ---
 title: Bioptron call me
+slug: bioptron
 date: 2016-11-27
 host: Graeme Hill
 outlet: RadioLive

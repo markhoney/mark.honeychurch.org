@@ -1,5 +1,6 @@
 ---
 title: Proof that people were in NZ before Maori?
+slug: maori
 date: 2017-05-21
 host: Graeme Hill
 outlet: RadioLive

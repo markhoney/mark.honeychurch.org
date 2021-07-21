@@ -1,5 +1,6 @@
 ---
 title: Blasphemy Law repeal passes second reading
+slug: blasphemy
 date: 2018-12-16
 host: Graeme Hill
 outlet: RadioLive

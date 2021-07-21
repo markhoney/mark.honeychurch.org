@@ -1,5 +1,6 @@
 ---
 title: Skeptics' Star Signs
+slug: astrology
 date: 2014-01-26
 layout: Post
 categories:

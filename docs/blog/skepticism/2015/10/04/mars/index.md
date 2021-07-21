@@ -1,5 +1,6 @@
 ---
 title: NASA Confirms Evidence That Liquid Water Flows on Today's Mars
+slug: mars
 date: 2015-10-04
 host: Simon Pound
 outlet: RadioLive

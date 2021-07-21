@@ -1,5 +1,6 @@
 ---
 title: Kiwi traveller in Peru dies after Amazon drug ritual
+slug: ayahuasca
 date: 2015-09-27
 host: Simon Pound
 outlet: RadioLive

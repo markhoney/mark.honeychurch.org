@@ -1,5 +1,6 @@
 ---
 title: Cannabis Oil for cancer, again...
+slug: cannabis
 date: 2018-06-24
 host: Graeme Hill
 outlet: RadioLive

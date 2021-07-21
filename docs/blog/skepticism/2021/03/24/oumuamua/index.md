@@ -1,5 +1,6 @@
 ---
 title: Oumuamua probably isn’t aliens
+slug: oumuamua
 date: 2021-03-24
 host: Graeme Hill
 outlet: MagicTalk

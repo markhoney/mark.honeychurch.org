@@ -1,5 +1,6 @@
 ---
 title: Bands/Artists I've seen Live
+slug: music
 date: 2011-02-10
 layout: Post
 categories:

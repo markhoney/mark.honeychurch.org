@@ -1,5 +1,6 @@
 ---
 title: Buy your own Get Out of Jail Free card for only $50
+slug: card
 date: 2021-05-05
 host: Graeme Hill
 outlet: MagicTalk

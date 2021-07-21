@@ -1,5 +1,6 @@
 ---
 title: How not to handle a COVID outbreak
+slug: outbreak
 date: 2021-06-16
 host: Graeme Hill
 outlet: MagicTalk

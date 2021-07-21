@@ -1,5 +1,6 @@
 ---
 title: Waisake Naholo's miracle healing
+slug: naholo
 date: 2015-08-16
 host: Graeme Hill
 outlet: RadioLive

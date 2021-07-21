@@ -1,5 +1,6 @@
 ---
 title: Is Dunedin's Regent Theatre Haunted?
+slug: ghost
 date: 2018-03-18
 host: Ryan Bradley
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Christian Science - neither Christian nor Scientific
+slug: science
 date: 2021-05-26
 host: Graeme Hill
 outlet: MagicTalk

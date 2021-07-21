@@ -1,5 +1,6 @@
 ---
 title: US man thinks he knows "the secret" to winning the lottery
+slug: lottery
 date: 2016-07-10
 host: Graeme Hill
 outlet: RadioLive

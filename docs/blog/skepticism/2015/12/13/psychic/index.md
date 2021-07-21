@@ -1,5 +1,6 @@
 ---
 title: Marlborough clairvoyant steals $250,000 from couple in rest home
+slug: psychic
 date: 2015-12-13
 host: Graeme Hill
 outlet: RadioLive

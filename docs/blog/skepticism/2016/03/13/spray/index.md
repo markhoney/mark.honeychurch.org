@@ -1,5 +1,6 @@
 ---
 title: Call for council to make Christchurch parks spray-free
+slug: spray
 date: 2016-03-13
 host: Graeme Hill
 outlet: RadioLive

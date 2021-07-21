@@ -1,5 +1,6 @@
 ---
 title: Into War
+slug: war
 date: 2019-10-09
 layout: Post
 categories:

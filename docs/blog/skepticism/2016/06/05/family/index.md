@@ -1,5 +1,6 @@
 ---
 title: Family First research 'high school level' statistics
+slug: family
 date: 2016-06-05
 host: Graeme Hill
 outlet: RadioLive

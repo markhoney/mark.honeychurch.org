@@ -1,5 +1,6 @@
 ---
 title: Eighty children get chickenpox at school that calls for 'tolerance' of vaccine dodgers
+slug: chickenpox
 date: 2015-12-13
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Citizen Science and Planet 9
+slug: science
 date: 2017-04-02
 host: Graeme Hill
 outlet: RadioLive

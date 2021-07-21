@@ -1,5 +1,6 @@
 ---
 title: Strange lottery "tactic" - buying multiple tickets with the same numbers
+slug: lottery
 date: 2017-02-19
 host: Graeme Hill
 outlet: RadioLive

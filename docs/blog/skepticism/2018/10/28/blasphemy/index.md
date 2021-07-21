@@ -1,5 +1,6 @@
 ---
 title: Blasphemy law likely to be removed in Ireland
+slug: blasphemy
 date: 2018-10-28
 host: Graeme Hill
 outlet: RadioLive

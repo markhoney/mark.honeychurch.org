@@ -1,5 +1,6 @@
 ---
 title: Colour Therapy
+slug: colour
 date: 2020-11-30
 outlet: Newsletter
 layout: Post

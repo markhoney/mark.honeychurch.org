@@ -1,5 +1,6 @@
 ---
 title: Naturopath Implicated in Cancer Deaths
+slug: naturopath
 date: 2017-08-27
 host: Graeme Hill
 outlet: RadioLive

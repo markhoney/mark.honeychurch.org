@@ -1,5 +1,6 @@
 ---
 title: Lockdown Protests
+slug: lockdown
 date: 2021-01-17
 host: Graeme Hill
 outlet: MagicTalk

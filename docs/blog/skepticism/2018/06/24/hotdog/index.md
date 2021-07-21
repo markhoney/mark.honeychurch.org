@@ -1,5 +1,6 @@
 ---
 title: Is hot dog water good for you?
+slug: hotdog
 date: 2018-06-24
 host: Graeme Hill
 outlet: RadioLive

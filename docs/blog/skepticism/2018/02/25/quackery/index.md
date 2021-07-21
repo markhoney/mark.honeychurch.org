@@ -1,5 +1,6 @@
 ---
 title: NZ Herald Promoting Animal Quackery
+slug: quackery
 date: 2018-02-25
 host: Graeme Hill
 outlet: RadioLive

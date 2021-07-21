@@ -1,5 +1,6 @@
 ---
 title: My first web page
+slug: first
 date: 1997-10-05
 layout: Post
 categories:

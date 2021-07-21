@@ -1,5 +1,6 @@
 ---
 title: I was visited by Jehovah's Witnesses
+slug: jw
 date: 2017-06-18
 host: Ryan Bradley
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Not all water in NZ is chlorinated
+slug: chlorine
 date: 2016-08-21
 host: Graeme Hill
 outlet: RadioLive

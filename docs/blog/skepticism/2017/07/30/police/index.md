@@ -1,5 +1,6 @@
 ---
 title: Sensing Murder hasn't helped NZ Police
+slug: police
 date: 2017-07-30
 host: Graeme Hill
 outlet: RadioLive

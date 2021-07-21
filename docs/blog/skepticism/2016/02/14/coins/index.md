@@ -1,5 +1,6 @@
 ---
 title: Bags with coins in spotted at Muriwai Cafe
+slug: coins
 date: 2016-02-14
 host: Graeme Hill
 outlet: RadioLive

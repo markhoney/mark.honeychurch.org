@@ -1,5 +1,6 @@
 ---
 title: Another quake prediction
+slug: quake
 date: 2018-01-28
 host: Graeme Hill
 outlet: RadioLive

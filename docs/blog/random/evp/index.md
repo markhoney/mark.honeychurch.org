@@ -1,5 +1,6 @@
 ---
 title: Electronic Voice Phenomena
+slug: evp
 date: 2019-01-10
 layout: Post
 categories:

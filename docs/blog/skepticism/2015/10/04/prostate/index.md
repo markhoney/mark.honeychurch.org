@@ -1,5 +1,6 @@
 ---
 title: More sex for a healthy prostate - report
+slug: prostate
 date: 2015-10-04
 host: Simon Pound
 outlet: RadioLive

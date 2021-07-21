@@ -1,5 +1,6 @@
 ---
 title: Probable nonsense promoted at Hamilton Fieldays
+slug: fieldays
 date: 2017-06-18
 host: Ryan Bradley
 outlet: RadioLive

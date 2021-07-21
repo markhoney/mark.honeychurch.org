@@ -1,5 +1,6 @@
 ---
 title: Homeopaths trying to "cure" Autism
+slug: homeopathy
 date: 2018-04-29
 host: Graeme Hill
 outlet: RadioLive

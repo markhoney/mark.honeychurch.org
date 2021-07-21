@@ -1,5 +1,6 @@
 ---
 title: Auckland woman builds fence to keep radiation out
+slug: radiation
 date: 2018-03-11
 host: Graeme Hill
 outlet: RadioLive

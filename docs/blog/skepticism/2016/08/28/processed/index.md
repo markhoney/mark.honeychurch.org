@@ -1,5 +1,6 @@
 ---
 title: Are processed foods causing mental illness?
+slug: processed
 date: 2016-08-28
 host: Graeme Hill
 outlet: RadioLive

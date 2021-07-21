@@ -1,5 +1,6 @@
 ---
 title: Fun With Numbers!
+slug: numerology
 date: 2021-06-30
 host: Graeme Hill
 outlet: MagicTalk

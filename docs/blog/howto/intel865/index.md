@@ -1,5 +1,6 @@
 ---
 title: Use a 1440 x 900 Resolution on Intel 865
+slug: intel865
 date: 2009-03-31
 layout: Post
 categories:

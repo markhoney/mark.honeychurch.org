@@ -1,5 +1,6 @@
 ---
 title: Baby kept sick by mother's bad decision
+slug: baby
 date: 2017-07-02
 host: Graeme Hill
 outlet: RadioLive

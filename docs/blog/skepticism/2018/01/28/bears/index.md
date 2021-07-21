@@ -1,5 +1,6 @@
 ---
 title: Treating Bears with Acupuncture
+slug: bears
 date: 2018-01-28
 host: Graeme Hill
 outlet: RadioLive

@@ -1,5 +1,6 @@
 ---
 title: Essential Oils may not be so essential after all
+slug: oils
 date: 2021-04-28
 host: Graeme Hill
 outlet: MagicTalk

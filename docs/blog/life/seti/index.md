@@ -1,5 +1,6 @@
 ---
 title: SETI@HOME
+slug: seti
 date: 2008-03-14
 layout: Post
 categories:

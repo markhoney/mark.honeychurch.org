@@ -1,5 +1,6 @@
 ---
 title: Voltex can save 90% on your power bill
+slug: voltex
 date: 2021-06-02
 host: Graeme Hill
 outlet: MagicTalk

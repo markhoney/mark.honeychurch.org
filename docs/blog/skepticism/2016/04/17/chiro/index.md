@@ -1,5 +1,6 @@
 ---
 title: Claims chiropractors can treat ADHD, allergies 'misleading' customers
+slug: chiro
 date: 2016-04-17
 host: Graeme Hill
 outlet: RadioLive

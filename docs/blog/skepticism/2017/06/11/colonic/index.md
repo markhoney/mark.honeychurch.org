@@ -1,5 +1,6 @@
 ---
 title: Apparently I need a colonic
+slug: colonic
 date: 2017-06-11
 host: Graeme Hill
 outlet: RadioLive

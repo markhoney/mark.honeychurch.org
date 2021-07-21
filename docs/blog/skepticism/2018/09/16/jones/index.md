@@ -1,5 +1,6 @@
 ---
 title: Alex Jones is losing his grip
+slug: jones
 date: 2018-09-16
 host: Ryan Bradley
 outlet: RadioLive

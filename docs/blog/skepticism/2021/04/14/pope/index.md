@@ -1,5 +1,6 @@
 ---
 title: The Pope is a hologram
+slug: pope
 date: 2021-04-14
 host: Graeme Hill
 outlet: MagicTalk

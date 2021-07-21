@@ -1,5 +1,6 @@
 ---
 title: Finally, a skeptical story about Lotto
+slug: lotto
 date: 2017-08-06
 host: Graeme Hill
 outlet: RadioLive

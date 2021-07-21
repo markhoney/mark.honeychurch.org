@@ -1,5 +1,6 @@
 ---
 title: Voltage Divider
+slug: divider
 date: 2018-10-11
 layout: Post
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Dr Jim Mason - Creationist
+slug: jim
 date: 2015-08-16
 host: Graeme Hill
 outlet: RadioLive

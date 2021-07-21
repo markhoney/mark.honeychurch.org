@@ -1,5 +1,6 @@
 ---
 title: LED lights are apparently not safe for us
+slug: led
 date: 2018-06-24
 host: Graeme Hill
 outlet: RadioLive

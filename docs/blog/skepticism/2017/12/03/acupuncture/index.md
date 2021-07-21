@@ -1,5 +1,6 @@
 ---
 title: Acupuncture websites are misleading
+slug: acupuncture
 date: 2017-12-03
 host: Ryan Bradley
 outlet: RadioLive

@@ -1,10 +1,14 @@
 ---
 title: Atheist documentary maker comes to NZ
+slug: better
 date: 2016-09-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Atheism
 ---
 

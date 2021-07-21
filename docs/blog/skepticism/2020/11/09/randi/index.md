@@ -1,10 +1,13 @@
 ---
 title: Not everyone loved Randi
+slug: randi
 date: 2020-11-09
+outlet: Newsletter
 layout: Post
 categories:
-  - Community
+  - Skepticism
 tags:
+  - Community
   - Randi
 ---
 

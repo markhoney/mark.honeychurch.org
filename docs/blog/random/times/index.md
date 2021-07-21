@@ -1,10 +1,12 @@
 ---
 title: Palindromic Times
+slug: times
 date: 2005-07-02
 layout: Post
 categories:
-  - Lists
+  - Random
 tags:
+  - Lists
   - Digital
   - Clock
   - Time

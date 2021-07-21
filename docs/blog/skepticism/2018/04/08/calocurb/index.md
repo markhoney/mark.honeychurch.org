@@ -1,10 +1,16 @@
 ---
 title: New NZ Diet aid Calocurb launched
+slug: calocurb
 date: 2018-04-08
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/articles/weekend-variety-wireless/2018/04/skeptical-thoughts--diet-pills---life-expectancy.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/MarkHoneychurch08_04_18.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - CAM
 ---
 

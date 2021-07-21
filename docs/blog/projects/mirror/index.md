@@ -2,8 +2,9 @@
 title: Smart Mirror
 layout: Post
 categories:
-  - HowTo
+  - Projects
 tags:
+  - HowTo
   - Mirror
   - Dashboard
 ---

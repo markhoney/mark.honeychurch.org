@@ -1,10 +1,16 @@
 ---
 title: Ken Ring is predicting earthquakes again
+slug: ken
 date: 2018-04-29
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/articles/weekend-variety-wireless/2018/04/skeptical-thoughts--homeopathy---ken-ring.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/MarkHoneychurch29_04_18.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Earthquake
 ---
 

@@ -1,10 +1,14 @@
 ---
 title: Sydney IV.ME clinic closed after client hospitalised
+slug: iv
 date: 2016-02-28
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - IV
 ---
 

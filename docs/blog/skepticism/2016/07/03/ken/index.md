@@ -1,10 +1,14 @@
 ---
 title: Ken Ring tells people not to trust anything
+slug: ken
 date: 2016-07-03
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Moon
 ---
 

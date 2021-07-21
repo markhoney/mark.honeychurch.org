@@ -1,5 +1,6 @@
 ---
 title: An Alternative to our Decimal System
+slug: octal
 date: 2014-01-17
 layout: Post
 categories:

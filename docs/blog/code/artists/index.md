@@ -1,10 +1,12 @@
 ---
 title: Download Music Artist Images
+slug: artists
 date: 2008-07-08
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - AlbumCoverArtDownloader
   - Discogs
 ---

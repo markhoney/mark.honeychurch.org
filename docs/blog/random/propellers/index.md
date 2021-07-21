@@ -1,10 +1,12 @@
 ---
 title: Bendy Propellers
+slug: propellers
 date: 2019-02-18
 layout: Post
 categories:
-  - Interesting
+  - Random
 tags:
+  - Interesting
   - Propeller
   - CMOS
 ---

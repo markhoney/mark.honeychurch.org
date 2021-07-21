@@ -1,10 +1,12 @@
 ---
 title: My new laptop keyboard
+slug: keyboard
 date: 2019-01-22
 layout: Post
 categories:
-  - Rights
+  - Life
 tags:
+  - Rights
   - Keyboard
   - HP
 ---
@@ -21,30 +23,30 @@ I found a company in NZ able to send me a replacement keyboard for $60. This see
 
 I contacted the company I purchased the keyboard from, and asked to be a replacement. They were happy to do this, but with one gotcha - I had to send them my keyboard first. This is not a good solution, as it would leave me without a keyboard and unable to work. After several emails back and forth, I received this email:
 
-> Hi Mark , 
+> Hi Mark ,
 > It's a company policy, we are happy to replace or refund the keyboard for you.
-> We just need to received the faulty keyboard first , 
-> The pre-paid ticket has been sent to your email. You don't need to worry about the return cost. 
-> 
-> Thank you for understanding. 
+> We just need to received the faulty keyboard first ,
+> The pre-paid ticket has been sent to your email. You don't need to worry about the return cost.
+>
+> Thank you for understanding.
 
 At this point, I was tired of trying to reiterate my point, so I did some research and pulled out the big guns:
 
 > Hi,
-> 
+>
 > I’m sorry, but I’m not understanding! There’s no way that I can send this keyboard back to you, as I would not be able to work until you send me the replacement keyboard. It’s just not possible for me to stop working for several days. Additionally, the party responsible for sending me a faulty keyboard is your company, not me, so it seems wrong that I would end up being inconvenienced for RayTech’s mistake.
-> 
+>
 > Are you able to send me your company policy so that I can read through it? Also, please give me the number of a manager that I can call and talk to.
-> 
+>
 > I’m starting to worry about this transaction – I’ve looked up R.A.Y Tech on the companies register, and it appears to no longer be a registered company in New Zealand (as of 2016):
-> 
+>
 > [https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/2078474](https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/2078474)
-> 
+>
 > Can you please give me a phone number so that I can talk to someone and clear this up.
 
 Lo and behold, as soon as I'd pointed out how bad this all looks I finally get a positive result:
 
-> Hi there. 
-> No worries. We will send you a new replacement keyboard today . 
+> Hi there.
+> No worries. We will send you a new replacement keyboard today .
 > You should be able to get it soon .
 > Thanks

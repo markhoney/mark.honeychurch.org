@@ -1,10 +1,12 @@
 ---
 title: Smart Picture Frame
+slug: picture
 date: 2018-09-14
 layout: Post
 categories:
-  - HowTo
+  - Projects
 tags:
+  - HowTo
   - Kodi
   - Slideshow
 ---

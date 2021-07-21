@@ -1,0 +1,17 @@
+---
+title: That time I hacked my work
+date: 2021-07-08
+layout: Post
+categories:
+  - Life
+tags:
+  - Security
+  - CouchDB
+  - Hacking
+---
+
+This is a story I've been wanting to write down for a while. A few years ago, at an IT company I worked for, I discovered a huge hole in our security. Read on to find out just how huge this hole was.
+
+<!-- more -->
+
+At the time I was developing software for the company as well as

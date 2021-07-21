@@ -1,10 +1,16 @@
 ---
 title: Bags with coins in spotted at Muriwai Cafe
+slug: coins
 date: 2016-02-14
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/Skeptical-Thoughts-with-Mark-Honeychurch/tabid/506/articleID/112772/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Feb16/Skeptical070216.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Coins
 ---
 

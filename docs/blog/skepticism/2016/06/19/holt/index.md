@@ -1,10 +1,14 @@
 ---
 title: Dr Shaun Holt warns about cancer cures
+slug: holt
 date: 2016-06-19
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Cancer
 ---
 

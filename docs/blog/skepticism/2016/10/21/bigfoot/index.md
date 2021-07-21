@@ -1,10 +1,16 @@
 ---
 title: Indonesian "Bigfoot" caught on camera
+slug: bigfoot
 date: 2016-10-21
+host: Peter Elliott
+outlet: RadioLive
+page: https://www.radiolive.co.nz/Skeptical-thoughts-with-Mark-Honeychurch/tabid/506/articleID/130488/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Oct16/231016_WvW_Skeptical.mp3
 layout: Post
 categories:
-  - Cryptozoology
+  - Skepticism
 tags:
+  - Cryptozoology
   - Bigfoot
 ---
 

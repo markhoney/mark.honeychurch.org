@@ -1,10 +1,12 @@
 ---
 title: My Favourite Movies
+slug: movies
 date: 2021-02-28
 layout: Post
 categories:
-  - Movies
+  - Life
 tags:
+  - Movies
   - Favourite
 ---
 

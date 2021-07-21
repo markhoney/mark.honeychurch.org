@@ -3,8 +3,9 @@ title: RAID/LVM on Gentoo
 date: 2008-03-16
 layout: Post
 categories:
-  - OS
+  - HowTo
 tags:
+  - OS
   - raid5
   - lvm
   - xfs

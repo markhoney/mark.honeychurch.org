@@ -1,10 +1,12 @@
 ---
 title: My Skeptical Roots
+slug: roots
 date: 2019-03-25
 layout: Post
 categories:
   - Life
 tags:
+  - Life
   - Skepticism
 ---
 

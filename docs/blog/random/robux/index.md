@@ -1,10 +1,12 @@
 ---
 title: Scamming Children
+slug: robux
 date: 2018-11-19
 layout: Post
 categories:
-  - Scam
+  - Random
 tags:
+  - Scam
   - Roblox
   - Robux
   - Phishing

@@ -1,10 +1,14 @@
 ---
 title: Stuff article on superfoods actually talks sense!
+slug: superfoods
 date: 2016-08-21
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Superfood
 ---
 

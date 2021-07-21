@@ -1,10 +1,16 @@
 ---
 title: Gluckman talks about science denialism
+slug: denialism
 date: 2017-12-03
+host: Ryan Bradley
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2017/12/skeptical-thoughts-with-mark-honeychurch.html
+audio: https://audio.mediaworks.nz/content/radiolive/Hill/Dec17/SkepticalThoughts3_12_17.mp3
 layout: Post
 categories:
-  - Science
+  - Skepticism
 tags:
+  - Science
   - Science
 ---
 

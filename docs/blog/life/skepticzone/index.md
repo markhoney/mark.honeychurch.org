@@ -1,10 +1,12 @@
 ---
 title: Skeptic Zone Interview
+slug: skepticzone
 date: 2015-03-17
 layout: Post
 categories:
-  - Skepticism
+  - Life
 tags:
+  - Skepticism
   - Podcast
 ---
 

@@ -1,10 +1,14 @@
 ---
 title: Trump gets medical opinion from Oz
+slug: trump
 date: 2016-09-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Politics
+  - Skepticism
 tags:
+  - Politics
   - Trump
 ---
 

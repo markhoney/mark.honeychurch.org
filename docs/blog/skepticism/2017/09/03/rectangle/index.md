@@ -1,6 +1,11 @@
 ---
 title: Newshub thought a picture of someone holding something rectangular was newsworthy
+slug: rectangle
 date: 2017-09-03
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2017/09/skeptical-thoughts-with-mark-honeychurch.html
+audio: https://audio.mediaworks.nz/content/radiolive/Weekend Variety Wireless/September/03_09_17_Skeptical.mp3
 layout: Post
 categories:
   - Pseudoscience

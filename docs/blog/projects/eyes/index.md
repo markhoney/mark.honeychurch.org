@@ -1,10 +1,12 @@
 ---
 title: Googly Eyes
+slug: eyes
 date: 2018-04-20
 layout: Post
 categories:
-  - Weird
+  - Projects
 tags:
+  - Weird
   - Eyes
   - Googly
 ---

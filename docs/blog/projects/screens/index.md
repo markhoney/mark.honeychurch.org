@@ -1,10 +1,12 @@
 ---
 title: Six screen desktop
+slug: screens
 date: 2012-05-16
 layout: Post
 categories:
-  - Build
+  - Projects
 tags:
+  - Build
   - Desktop
   - Screens
 ---

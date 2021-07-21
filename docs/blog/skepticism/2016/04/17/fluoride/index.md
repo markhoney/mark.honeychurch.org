@@ -1,10 +1,14 @@
 ---
 title: Water fluoridation - DHBs to take control from councils under Govt proposal
+slug: fluoride
 date: 2016-04-17
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Fluoride
 ---
 

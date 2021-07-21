@@ -1,10 +1,14 @@
 ---
 title: Dodgy claims made about sawdust therapy in Auckland
+slug: sawdust
 date: 2016-06-12
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Sawdust
 ---
 

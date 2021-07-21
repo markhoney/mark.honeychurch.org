@@ -1,10 +1,12 @@
 ---
 title: Super Powers
+slug: super
 date: 2018-12-18
 layout: Post
 categories:
-  - Fiction
+  - Random
 tags:
+  - Fiction
   - XRay
   - Invisibility
 ---

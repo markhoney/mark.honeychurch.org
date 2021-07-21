@@ -1,10 +1,12 @@
 ---
 title: My Favourite Games
+slug: games
 date: 2021-02-13
 layout: Post
 categories:
-  - Games
+  - Life
 tags:
+  - Games
   - PC
 ---
 

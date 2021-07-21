@@ -1,10 +1,14 @@
 ---
 title: Scientology "Ideal Org" Grand Opening
+slug: scientology
 date: 2017-01-22
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Scientology
 ---
 

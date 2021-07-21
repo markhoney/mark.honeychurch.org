@@ -1,10 +1,16 @@
 ---
 title: Auckland thinking of dropping Glyphosate
+slug: glyphosate
 date: 2017-11-05
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2017/11/skeptical-thoughts-with-mark-honeychurch.html
+audio: https://audio.mediaworks.nz/content/radiolive/Hill/Nov17/SkepticalThoughts5_11_17.mp3
 layout: Post
 categories:
-  - Danger
+  - Skepticism
 tags:
+  - Danger
   - Glyphosate
 ---
 

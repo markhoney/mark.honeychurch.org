@@ -1,10 +1,14 @@
 ---
 title: 1,000 UK Vets say homeopathy should be banned
+slug: homeopathy
 date: 2016-06-26
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Homeopathy
 ---
 

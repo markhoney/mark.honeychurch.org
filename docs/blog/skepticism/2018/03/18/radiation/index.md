@@ -1,10 +1,14 @@
 ---
 title: Auckland woman builds fence to keep radiation out
+slug: radiation
 date: 2018-03-18
+host: Ryan Bradley
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Radiation
 ---
 

@@ -1,5 +1,5 @@
-var seespee = require('seespee');
-var fs = require('fs');
+const seespee = require('seespee');
+// const fs = require('fs');
 
 seespee('./docs/index.html', {
 	root: './docs/',

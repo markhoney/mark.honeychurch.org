@@ -1,10 +1,12 @@
 ---
 title: The importance of readable data structures
+slug: readable
 date: 2020-01-26
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Python
   - Object
   - Naming

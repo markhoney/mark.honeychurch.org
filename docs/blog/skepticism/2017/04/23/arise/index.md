@@ -1,10 +1,14 @@
 ---
 title: Arise Church
+slug: arise
 date: 2017-04-23
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Evangelical
   - Arise
 ---

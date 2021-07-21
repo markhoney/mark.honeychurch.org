@@ -1,10 +1,12 @@
 ---
 title: Changing Headlines
+slug: headlines
 date: 2019-02-12
 layout: Post
 categories:
   - Life
 tags:
+  - Life
   - News
 ---
 

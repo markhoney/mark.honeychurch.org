@@ -1,10 +1,16 @@
 ---
 title: Breatharians make Dangerous Claims
+slug: breatharians
 date: 2017-06-18
+host: Ryan Bradley
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2017/06/skeptical-thoughts-with-mark-honeychurch0.html
+audio: https://audio.mediaworks.nz/content/radiolive/Weekend Variety Wireless/June 17/18_06_17_Skeptical.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Breatharianism
 ---
 

@@ -1,0 +1,19 @@
+---
+title: My collection of Rubik's style puzzles
+slug: rubiks
+date: 2021-07-23
+layout: Post
+categories:
+  - Random
+tags:
+  - Rubik's Cube
+  - Puzzles
+---
+
+Until recently I owned a few Rubik's cubes, all just simple variations on the original - 2x2x2, 3x3x3, 4x4x4 and 5x5x5 cubes. It took a little while, but I finally managed to figure out how to reliably solve each of them. I also purchased an all silver cube, where heights vary rather than colours. The solve for this is the same as for a 3x3x3, but it takes a little thinking to figure it out.
+
+<!-- more -->
+
+Then a couple of years ago I trawled AliExpress looking for new and interesting Rubik's style puzzles, and was happy to see just how many are out there. I put together an order for about NZ$70 of new cubes, and waited patiently for them to arrive.
+
+Pyramid

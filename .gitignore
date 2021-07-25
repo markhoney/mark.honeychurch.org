@@ -35,3 +35,6 @@ docs/.vuepress/dist/*
 
 # Local files
 # _posts
+
+docs/.vuepress/.temp
+docs/.vuepress/.cache

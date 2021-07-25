@@ -1,10 +1,12 @@
 ---
 title: Sky NZ Card Reader
+slug: sky
 date: 2011-05-25
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - Sky
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: The (wobbly) ground beneath our feet
+slug: wobbly
 date: 2008-09-14
 layout: Post
 categories:
   - Life
 tags:
+  - Life
   - Earthquake
 ---
 

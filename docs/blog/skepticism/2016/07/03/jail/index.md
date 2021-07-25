@@ -1,10 +1,14 @@
 ---
 title: Jail time for dad who treated son's meningitis with alternative treatments
+slug: jail
 date: 2016-07-03
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Naturopathy
 ---
 

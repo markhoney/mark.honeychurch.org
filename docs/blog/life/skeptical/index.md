@@ -1,10 +1,12 @@
 ---
 title: Skeptical Thoughts with Mark Honeychurch
+slug: skeptical
 date: 2015-08-17
 layout: Post
 categories:
-  - Skepticism
+  - Life
 tags:
+  - Skepticism
   - Radio
 ---
 

@@ -1,10 +1,14 @@
 ---
 title: CYF can't say if they pay for alternative treatments
+slug: cyf
 date: 2016-06-19
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - EFT
 ---
 

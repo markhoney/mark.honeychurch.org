@@ -1,5 +1,6 @@
 ---
 title: Decrypting encoded text
+slug: decrypt
 date: 2008-03-16
 layout: Post
 categories:

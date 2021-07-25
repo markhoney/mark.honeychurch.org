@@ -1,10 +1,16 @@
 ---
 title: Chiropractors finding it hard to be ethical
+slug: chiros
 date: 2018-07-08
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/on-demand/weekend-variety-wireless/2018/07/skeptical-thoughts--aids-denialism-and-bullet-repellent.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/skeptical_thoughts.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Chiropractic
 ---
 

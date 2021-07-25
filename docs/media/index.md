@@ -8,7 +8,7 @@ layout: Page
 
 ## Talk to me
 
-If you would like my opinion on a topic of skeptical interest, please feel free to [contact me](/contact/). I'm happy to give my opinion as Media Spokesperson for the [NZ Skeptics](https://skeptics.nz), Vice President of [Humanist NZ](https://humanist.nz) or Secretary of the [Society for Science Based Healthcare](http://sbh.nz).
+If you would like my opinion on a topic of skeptical interest, please feel free to [contact me](/contact/). I'm happy to give my opinion as Media Spokesperson for the [NZ Skeptics](https://skeptics.nz), Vice President of [Humanist NZ](https://humanist.nz) or Chair of the [Society for Science Based Healthcare](https://sbh.nz).
 
 ### Mugshots
 
@@ -46,11 +46,11 @@ As a part of the roles I've taken on working for charities such as the [NZ Skept
 
 <p><audio controls src="https://podcast.radionz.co.nz/ntn/ntn-20151014-0908-pharmacy_council_moves_to_change_code_of_ethics_over_homeopathy-048.mp3" /></p>
 
-#### RadioLive
+#### Skeptical Thoughts
 
-I've spoken regularly on RadioLive for the past few years, as part of the Skeptical Thoughts segment of Graeme Hill's Weekend Variety Wireless show. Here's a list of my appearances:
+I have spoken regularly on the radio about skepticism with Graeme Hill, first on his Weekend Variety Wireless show on RadioLive, and more recently on MagicTalk. Here's a list of my appearances:
 
-<page-radiolive />
+<page-radiolist />
 
 ### Podcasts
 

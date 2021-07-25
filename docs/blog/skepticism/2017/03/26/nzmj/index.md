@@ -1,10 +1,14 @@
 ---
 title: I wrote a letter to the NZ Medical Journal
+slug: nzmj
 date: 2017-03-26
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - CAM
 ---
 

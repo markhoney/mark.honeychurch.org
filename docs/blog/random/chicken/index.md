@@ -1,10 +1,12 @@
 ---
 title: Fried Chicken in London
+slug: chicken
 date: 2003-09-10
 layout: Post
 categories:
-  - Lists
+  - Random
 tags:
+  - Lists
   - Chicken
   - Food
 ---

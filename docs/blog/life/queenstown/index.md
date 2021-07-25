@@ -1,10 +1,12 @@
 ---
 title: Queenstown has an Infection
+slug: queenstown
 date: 2006-01-29
 layout: Post
 categories:
   - Life
 tags:
+  - Life
   - NZ
 ---
 

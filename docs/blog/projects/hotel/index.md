@@ -1,10 +1,12 @@
 ---
 title: Hotel Hacking
+slug: hotel
 date: 2019-08-25
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - Hotel
 ---
 

@@ -1,10 +1,14 @@
 ---
 title: Free Effective Altruism book
+slug: altruism
 date: 2016-09-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Science
+  - Skepticism
 tags:
+  - Science
   - Altruism
 ---
 

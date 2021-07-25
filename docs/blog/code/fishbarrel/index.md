@@ -1,10 +1,12 @@
 ---
 title: FishBarrel
+slug: fishbarrel
 date: 2011-10-09
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - ASA
   - Chrome
 ---

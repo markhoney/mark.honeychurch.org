@@ -1,5 +1,6 @@
 ---
 title: My thoughts on the perfect OS
+slug: os
 date: 2005-05-26
 layout: Post
 categories:

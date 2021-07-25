@@ -1,10 +1,14 @@
 ---
 title: Acupuncture Works! (Not really)
+slug: acupuncture
 date: 2016-02-28
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Acupuncture
 ---
 

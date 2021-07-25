@@ -1,10 +1,14 @@
 ---
 title: MMM Scam hits Nigeria
+slug: mmm
 date: 2016-12-18
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Scam
+  - Skepticism
 tags:
+  - Scam
   - MMM
 ---
 

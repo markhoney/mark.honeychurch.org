@@ -1,10 +1,12 @@
 ---
 title: LPI 201
+slug: lpi201
 date: 2008-03-18
 layout: Post
 categories:
-  - Software
+  - Life
 tags:
+  - Software
   - Exam
 ---
 

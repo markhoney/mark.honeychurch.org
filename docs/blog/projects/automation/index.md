@@ -2,7 +2,8 @@
 title: Home Automation
 layout: Post
 categories:
-  - Software
+  - Projects
 tags:
+  - Software
   - Automation
 ---

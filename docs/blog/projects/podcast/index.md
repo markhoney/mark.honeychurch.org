@@ -1,10 +1,12 @@
 ---
 title: Podcast Hardware
+slug: podcast
 date: 2014-07-13
 layout: Post
 categories:
-  - Build
+  - Projects
 tags:
+  - Build
   - Podcast
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: Monitor a Linux RAID5 Rebuild
+slug: raid5
 date: 2008-08-24
 layout: Post
 categories:
-  - Software
+  - HowTo
 tags:
+  - Software
   - RAID5
   - MDADM
   - Rebuild

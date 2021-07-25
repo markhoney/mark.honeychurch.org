@@ -1,10 +1,12 @@
 ---
 title: The Isles of Blurry
+slug: blurry
 date: 2008-06-27
 layout: Post
 categories:
   - Life
 tags:
+  - Life
   - Scilly
 ---
 

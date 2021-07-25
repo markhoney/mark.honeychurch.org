@@ -1,10 +1,14 @@
 ---
 title: Sensing murder episodes are being rerun on TVNZ
+slug: murder
 date: 2016-07-10
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Psychic
 ---
 

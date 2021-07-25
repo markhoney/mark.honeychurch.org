@@ -1,10 +1,14 @@
 ---
 title: We should all drink alcohol for our health
+slug: alcohol
 date: 2016-08-28
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Alcohol
 ---
 

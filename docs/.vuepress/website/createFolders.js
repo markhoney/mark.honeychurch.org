@@ -1,8 +1,8 @@
-const path = require('path')
-const fs = require('fs')
+const path = require('path');
+const fs = require('fs');
 
 function recurse(node) {
-	let stat = fs.statSync(node)
+	let stat = fs.statSync(node);
 	if (stat.isDirectory()) {
 		fs.readdirSync(node).forEach(item => recurse(path.join(node, item)));
 	} else {

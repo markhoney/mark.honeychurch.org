@@ -1,10 +1,14 @@
 ---
 title: Homeopathy Column removed from local paper
+slug: homeopathy
 date: 2016-09-25
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Homeopathy
 ---
 

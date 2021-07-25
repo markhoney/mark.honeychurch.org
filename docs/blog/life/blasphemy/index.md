@@ -1,10 +1,12 @@
 ---
 title: End Blasphemy Laws
+slug: blasphemy
 date: 2015-02-07
 layout: Post
 categories:
-  - Religion
+  - Life
 tags:
+  - Religion
   - Humanism
   - Blasphemy
 ---

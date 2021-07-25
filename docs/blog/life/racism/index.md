@@ -1,10 +1,12 @@
 ---
 title: Dealing with Racism
+slug: racism
 date: 2019-02-06
 layout: Post
 categories:
   - Life
 tags:
+  - Life
   - Racism
 ---
 

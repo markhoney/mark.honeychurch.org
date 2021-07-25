@@ -1,10 +1,14 @@
 ---
 title: NZ Skeptics Conference
+slug: conference
 date: 2016-12-04
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Events
+  - Skepticism
 tags:
+  - Events
   - NZSkeptics
 ---
 

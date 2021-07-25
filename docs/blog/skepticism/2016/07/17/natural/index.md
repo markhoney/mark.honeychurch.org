@@ -1,10 +1,14 @@
 ---
 title: The NZ Herald does it again with "natural" remedies for glandular fever
+slug: natural
 date: 2016-07-17
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - Naturopathy
 ---
 

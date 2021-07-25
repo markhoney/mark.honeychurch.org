@@ -1,10 +1,12 @@
 ---
 title: Hacking an XBox
+slug: xbox
 date: 2003-04-10
 layout: Post
 categories:
-  - Hack
+  - Projects
 tags:
+  - Hack
   - XBox
 ---
 

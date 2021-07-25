@@ -1,10 +1,16 @@
 ---
 title: NASA Confirms Evidence That Liquid Water Flows on Today's Mars
+slug: mars
 date: 2015-10-04
+host: Simon Pound
+outlet: RadioLive
+page: http://www.radiolive.co.nz/Skeptical-Thoughts-with-Mark-Honeychurch/tabid/506/articleID/101721/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Oct15/Skeptical041015.mp3
 layout: Post
 categories:
-  - Conspiracy
+  - Skepticism
 tags:
+  - Conspiracy
   - Mars
   - NASA
 ---

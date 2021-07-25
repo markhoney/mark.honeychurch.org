@@ -1,10 +1,12 @@
 ---
 title: Turn on HTTP Transport on NexentaStor
+slug: nexentastor
 date: 2008-08-20
 layout: Post
 categories:
-  - OS
+  - HowTo
 tags:
+  - OS
   - NexentaStor
   - HTTP
   - HTTPS

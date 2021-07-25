@@ -1,10 +1,16 @@
 ---
 title: MagneSleep lost an ASA complaint
+slug: magnesleep
 date: 2015-10-11
+host: Graeme Hill
+outlet: RadioLive
+page: http://www.radiolive.co.nz/Skeptical-Thoughts-with-Mark-Honeychurch/tabid/506/articleID/102360/Default.aspx
+audio: http://prog.radiolive.co.nz/radiolive/Hill/Oct15/111015_Skeptical_Thoughts.mp3
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - ASA
   - Magnet
 ---

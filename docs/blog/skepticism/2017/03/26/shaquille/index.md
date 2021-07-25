@@ -1,10 +1,14 @@
 ---
 title: Shaquille O'Neal believes in a flat earth?
+slug: shaquille
 date: 2017-03-26
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Pseudoscience
+  - Skepticism
 tags:
+  - Pseudoscience
   - FlatEarth
 ---
 

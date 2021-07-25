@@ -1,15 +1,17 @@
 ---
 title: Pubs not Puns
+slug: jest
 date: 2020-08-28
 layout: Post
 categories:
-  - Software
+  - Code
 tags:
+  - Software
   - Testing
   - Jest
 ---
 
-I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my love of puns:
+I was talking with a friend today online, and he mentioned my love of pubs. This was actually a typo, as he was aiming to be sarcastic about my lack of love for puns:
 
 <!-- more -->
 

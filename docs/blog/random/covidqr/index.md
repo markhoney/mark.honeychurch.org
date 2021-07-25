@@ -1,10 +1,12 @@
 ---
 title: Dissecting a COVID QR Code
+slug: covidqr
 date: 2021-06-08
 layout: Post
 categories:
-  - Software
+  - Random
 tags:
+  - Software
   - COVID
 ---
 

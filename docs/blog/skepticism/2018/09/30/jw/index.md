@@ -1,10 +1,16 @@
 ---
 title: A meeting with ex Jehovah's Witnesses
+slug: jw
 date: 2018-09-30
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/on-demand/weekend-variety-wireless/2018/09/weekend-variety-wireless--in-case-you-missed-sunday.html
+audio: https://audio.mediaworks.nz/content/radiolive/WVWSun/300918_WVW_Sketicalthouhgts_2.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - JW
 ---
 

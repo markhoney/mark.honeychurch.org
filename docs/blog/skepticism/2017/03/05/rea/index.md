@@ -1,10 +1,16 @@
 ---
 title: My Visit to faith healer Father John Rea
+slug: rea
 date: 2017-03-05
+host: Graeme Hill
+outlet: RadioLive
+page: https://www.radiolive.co.nz/home/audio/2017/03/skeptical-thoughts-with-mark-honeychurch.html
+audio: https://audio.mediaworks.nz/content/radiolive/Weekend Variety Wireless/Mar 2017/05_03_17_Mark.mp3
 layout: Post
 categories:
-  - Religion
+  - Skepticism
 tags:
+  - Religion
   - Healing
 ---
 

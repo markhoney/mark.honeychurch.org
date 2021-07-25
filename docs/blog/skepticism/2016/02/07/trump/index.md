@@ -1,10 +1,14 @@
 ---
 title: Donald Trump nominated for Nobel Peace Prize
+slug: trump
 date: 2016-02-07
+host: Graeme Hill
+outlet: RadioLive
 layout: Post
 categories:
-  - Politics
+  - Skepticism
 tags:
+  - Politics
   - Trump
 ---
 

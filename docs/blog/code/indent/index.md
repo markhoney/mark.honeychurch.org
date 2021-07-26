@@ -100,13 +100,13 @@ As a way of illustrating what code indenting is, here's some of my software with
 
 The beauty of this is that although it shows here with a four space indenting, when I edit the code I only see two spaces of indenting per tab.
 
-<<< @/docs/.vuepress/components/code/cyphers/caesar.js
+<<< @/components/code/cyphers/caesar.js
 
 :::
 
 ::: tab "Tab (Vue SFC)"
 
-<<< @/docs/.vuepress/components/code/divider/voltage.vue
+<<< @/components/code/divider/voltage.vue
 
 :::
 

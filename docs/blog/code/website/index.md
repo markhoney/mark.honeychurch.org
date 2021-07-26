@@ -76,13 +76,13 @@ This can come in handy for clever hacks like using window.location.search to off
 
 Here's the component I used above to get the window.location object:
 
-<<< @/docs/.vuepress/components/code/vuepress/location.vue
+<<< @/components/code/vuepress/location.vue
 
 ### Category Page
 
 For example, to list a single category of posts on this site, I have a reactive data object called "category" which is initialised as null. Then, on mounted(), I get the URL query from window.location.search to find out what category I need to show, and dynamically compute a list of pages that match that category:
 
-<<< @/docs/.vuepress/theme/components/post/categories.vue
+<<< @/.vuepress/theme/components/post/categories.vue
 
 <!--
 ## This page

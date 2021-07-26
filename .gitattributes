@@ -1,2 +1,2 @@
 * text=auto eol=lf
-# docs/.vuepress/lfs filter=lfs diff=lfs merge=lfs -text
+# .vuepress/lfs filter=lfs diff=lfs merge=lfs -text

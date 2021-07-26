@@ -1,0 +1,137 @@
+body {
+	overflow-x: hidden;
+	/* https://www.heropatterns.com/ */
+	background-color: #f9f9f9;
+	background-image: url("data:image/svg+xml,%3Csvg width='84' height='48' viewBox='0 0 84 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h12v6H0V0zm28 8h12v6H28V8zm14-8h12v6H42V0zm14 0h12v6H56V0zm0 8h12v6H56V8zM42 8h12v6H42V8zm0 16h12v6H42v-6zm14-8h12v6H56v-6zm14 0h12v6H70v-6zm0-16h12v6H70V0zM28 32h12v6H28v-6zM14 16h12v6H14v-6zM0 24h12v6H0v-6zm0 8h12v6H0v-6zm14 0h12v6H14v-6zm14 8h12v6H28v-6zm-14 0h12v6H14v-6zm28 0h12v6H42v-6zm14-8h12v6H56v-6zm0-8h12v6H56v-6zm14 8h12v6H70v-6zm0 8h12v6H70v-6zM14 24h12v6H14v-6zm14-8h12v6H28v-6zM14 8h12v6H14V8zM0 8h12v6H0V8z' fill='%23eeeeee' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+}
+
+/*.content {
+	max-width: 840px !important;
+}*/
+
+.page, .home {
+	background-color: #ffffff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar {
+	opacity: 0.9;
+}
+
+.navbar * {
+	opacity: 1;
+}
+
+main {
+	margin-bottom: 2em !important;
+	padding-bottom: 2em !important;
+}
+
+.content {
+	/*padding-top: 0 !important;*/
+	padding-bottom: 0 !important;
+}
+
+/*.page p {
+	text-align: justify;
+}*/
+
+.theme-default-content:not(.custom) > *:first-child {
+	margin-top: 0 !important;
+}
+
+h3 {
+	font-size: 1.4em;
+}
+
+h4 {
+	font-size: 1.2em;
+}
+
+h5 {
+	font-size: 1.1em;
+}
+
+.sidebar {
+	box-shadow: 4px 0 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.home .content {
+	box-shadow: none;
+}
+
+.page {
+	// margin-top: 3.6rem;
+	margin-top: 3.6rem;
+}
+
+.page, .content {
+	padding-bottom: 0;
+}
+
+img.medium-zoom-image:not(.nomedium):not(.medium-zoom-image--open):not([alt="CVLogo"]) {
+	width: 50%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+img[alt="CVLogo"] {
+	width: 16px;
+	margin-right: 0.3em;
+}
+
+.embed-responsive iframe {
+	display: block;
+	margin: 2em auto;
+	max-width: 100%;
+}
+
+blockquote {
+	color: inherit !important;
+}
+
+blockquote p {
+	margin: inherit !important;
+	white-space: pre-wrap;
+}
+
+.title {
+	font-size: inherit;
+}
+
+.dropdown-item {
+	padding: 0;
+}
+
+img + .icon.outbound {
+  display: none;
+}
+
+@media print {
+	header.navbar, aside.sidebar, footer {
+		display: none;
+	}
+	.content {
+		font-size: 0.6em !important;
+	}
+	main.page {
+		box-shadow: none;
+	}
+	h1 {
+		padding-top: 1rem !important;
+	}
+}
+
+.vue-typer .custom.char.typed {
+  color: inherit;
+}
+
+.vue-typer .custom.caret {
+	color: inherit;
+}
+
+@require '~vuepress-plugin-tabs/dist/themes/default.styl'

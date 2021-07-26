@@ -95,7 +95,7 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
 
-<<< @/docs/.vuepress/components/code/cyphers/caesar_encode.vue
+<<< @/components/code/cyphers/caesar_encode.vue
 
 :::
 
@@ -103,7 +103,7 @@ This vue component uses a computed property to calculate the encrypted text, giv
 
 This Vue component computes the most likely rotation of a piece of encrypted text, and then displays that rotation. It also computes and displays the plain text, using the computed rotation value.
 
-<<< @/docs/.vuepress/components/code/cyphers/caesar_decode.vue
+<<< @/components/code/cyphers/caesar_decode.vue
 
 :::
 
@@ -111,7 +111,7 @@ This Vue component computes the most likely rotation of a piece of encrypted tex
 
 This function is based on one written by me as part of a [CodeWars Kata](https://www.codewars.com/kata/530e15517bc88ac656000716), and performs both the rotation and decryption.
 
-<<< @/docs/.vuepress/components/code/cyphers/caesar.js
+<<< @/components/code/cyphers/caesar.js
 
 :::
 
@@ -119,7 +119,7 @@ This function is based on one written by me as part of a [CodeWars Kata](https:/
 
 This is the data set of letter frequencies in English that I use for decryption.
 
-<<< @/docs/.vuepress/components/code/cyphers/caesar.js
+<<< @/components/code/cyphers/caesar.js
 
 :::
 

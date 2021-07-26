@@ -24,4 +24,4 @@ Hover over the charts to see numbers, percents and any missing labels.
 
 Here's the source data for the graphs, in JSON format:
 
-<<< @/docs/.vuepress/components/code/astrology/astrology.json
+<<< @/components/code/astrology/astrology.json

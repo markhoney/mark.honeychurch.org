@@ -32,7 +32,7 @@ The tables below are the fruits of my labour. I'm sure there must be a better wa
 
 The JavaScript code that created this data is:
 
-<<< @/docs/.vuepress/components/code/times/times.js
+<<< @/components/code/times/times.js
 
 :::
 
@@ -40,7 +40,7 @@ The JavaScript code that created this data is:
 
 This is the data file (times.json) that is used by the code. It is a list of times and their reflection in the different directions:
 
-<<< @/docs/.vuepress/components/code/times/times.json
+<<< @/components/code/times/times.json
 
 :::
 

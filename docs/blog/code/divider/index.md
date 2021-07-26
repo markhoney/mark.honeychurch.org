@@ -39,11 +39,11 @@ In order to be able to help my friend with his assignment, I decided to get my h
 
 This is the Node.js code I came up with initially to complete the task. It's not pretty, but it tries to follow the rules (e.g. passing by reference) and variable names set by the assignment:
 
-<<< @/docs/.vuepress/components/code/divider/index.js
+<<< @/components/code/divider/index.js
 
 Here's a more JavaScript native way of doing the same task:
 
-<<< @/docs/.vuepress/components/code/divider/better.js
+<<< @/components/code/divider/better.js
 
 :::
 
@@ -51,7 +51,7 @@ Here's a more JavaScript native way of doing the same task:
 
 This is what the code looks like when converted into a vue component.
 
-<<< @/docs/.vuepress/components/code/divider/voltage.vue
+<<< @/components/code/divider/voltage.vue
 
 :::
 

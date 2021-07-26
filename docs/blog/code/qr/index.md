@@ -25,4 +25,4 @@ The result is a PNG image, so you can right click on it and save it locally.
 
 Here's the code I wrote, a [Single File Component (SFC)](https://vuejs.org/v2/guide/single-file-components.html) that generates the QR Code. The \<qriously\> tag loads the vue-qriously plugin, which performs the magic of creating the QR code.
 
-<<< @/docs/.vuepress/components/code/qr/dynamic.vue
+<<< @/components/code/qr/dynamic.vue

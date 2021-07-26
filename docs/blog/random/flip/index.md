@@ -49,13 +49,13 @@ Here's the Vue I put together to make this happen.
 
 ::: tab "Coin Flip"
 
-<<< @/docs/.vuepress/components/code/coin/flip.vue
+<<< @/components/code/coin/flip.vue
 
 :::
 
 ::: tab "Roll a d20"
 
-<<< @/docs/.vuepress/components/code/coin/d20.vue
+<<< @/components/code/coin/d20.vue
 
 :::
 

@@ -40,7 +40,7 @@ Here's the Vue component I put together to make this happen.
 
 ## Voice Recorder
 
-<<< @/docs/.vuepress/components/code/evp/recorder.vue
+<<< @/components/code/evp/recorder.vue
 
 ## Spirit Box
 
@@ -50,7 +50,7 @@ Here's the Vue component I put together to make this happen.
 
 Here's the Vue code:
 
-<<< @/docs/.vuepress/components/code/evp/spiritbox.vue
+<<< @/components/code/evp/spiritbox.vue
 
 :::
 
@@ -58,7 +58,7 @@ Here's the Vue code:
 
 This JS script makes the list of stations:
 
-<<< @/docs/.vuepress/components/code/evp/getstations.js
+<<< @/components/code/evp/getstations.js
 
 :::
 
@@ -66,7 +66,7 @@ This JS script makes the list of stations:
 
 Here's the JSON output of the above script:
 
-<<< @/docs/.vuepress/components/code/evp/stations.json
+<<< @/components/code/evp/stations.json
 
 :::
 

@@ -24,12 +24,10 @@ yarn-error.log*
 thumbs.db
 
 # Large Media
-.vuepress/lfs
-.vuepress-next/lfs
+lfs
 
 # Build folder
-.vuepress/dist/*
-.vuepress-next/dist/*
+dist/*
 
 # Lock files
 # package-lock.json
@@ -38,9 +36,11 @@ thumbs.db
 # Local files
 # _posts
 
+.cache
+.temp
 .vuepress/.temp
+docs/.vuepress/.temp
 .vuepress-next/.temp
 .vuepress/.cache
+docs/.vuepress/.cache
 .vuepress-next/.cache
-
-dist/*

@@ -3,7 +3,7 @@ const existsSync = require('fs');
 // const {resolve} = require('path');
 // const csp = readFileSync(resolve(__dirname, 'website', 'csp.txt'), 'utf8').replace("Content-Security-Policy:", "").trim().replace(/\s\s+/g, ' ');
 
-const blog = require('../website/blog.json');
+const blog = require('../../website/blog.json');
 //const blogsidebar = blog.map(x => x.link);
 
 const site = 'https://mark.honeychurch.org';
@@ -21,9 +21,10 @@ module.exports = {
 	author: 'Mark Honeychurch',
 	shouldPrefetch: () => true,
 	evergreen: true,
-	temp: '.vuepress/.temp',
+	temp: '.temp',
 	dest: 'dist',
-	patterns: ['docs/**/*.md'],
+	// patterns: ['docs/**/*.md'],
+	// base: '/docs/',
 	themeConfig: {
 		//repo: 'markhoney/mark.honeychurch.org',
 		// docsDir: 'docs',

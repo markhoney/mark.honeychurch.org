@@ -1,8 +1,8 @@
 const seespee = require('seespee');
 // const fs = require('fs');
 
-seespee('./docs/index.html', {
-	root: './docs/',
+seespee('./dist/index.html', {
+	root: './dist/',
 	ignoreMeta: true
 }).then(function (result) {
 	//fs.writeFile('./docs/components/code/website/csp.txt', result.contentSecurityPolicy);

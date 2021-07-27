@@ -10,6 +10,17 @@ The site is built using [Vuepress](https://vuepress.vuejs.org/), markdown files 
 
 This solution allows me to have both the source and build for the website in the one GitHub repo, which is clean and simple. All that's needed is for Vuepress to be installed globally, along with the markdown-it extensions I use (video, fontawesome, abbr, sup, sub and attrs), and then for the NODE_PATH environment variable to point to the global node_modules folder.
 
+## Symlinks
+
+Symlinks are needed to allow shared resources to be used by different static site builders. Run the following commands:
+
+### Windows
+
+```powershell
+cmd /c mklink docs\.vuepress .vuepress
+cmd /c mklink .vuepress\public public
+```
+
 ### Commands
 
 Before committing to GitHub, Large File Support (LFS) is needed. This can be installed with:

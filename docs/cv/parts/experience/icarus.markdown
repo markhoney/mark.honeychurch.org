@@ -1,6 +1,6 @@
 ### Network Analyst
 
-![CVLogo](../logos/work/icarus.jpg) [Icarus Computer Systems](http://www.icarus.org.uk/) _London, England_ (2002-05 - 2003-12)
+![CVLogo](../../logos/work/icarus.jpg) [Icarus Computer Systems](http://www.icarus.org.uk/) _London, England_ (2002-05 - 2003-12)
 
 During my time working for Icarus, I mainly supported the London Borough of Waltham Forest’s Lifelong Learning department.
 

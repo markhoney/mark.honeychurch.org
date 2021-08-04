@@ -1,6 +1,6 @@
 ### Software Developer
 
-![CVLogo](./logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
+![CVLogo](../../logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
 
 At Telesmart I develop software products for both in-house and customer consumption, using modern tooling and libraries to deliver high quality solutions.
 

@@ -8,4 +8,4 @@
 
 **Code:** [git.io/markh](https://git.io/markh)
 
-**Nationality:** [British](#) & [New Zealand](#) Citizenship
+**Nationality:** [British](/blog/random/travel/) & [New Zealand](/blog/random/travel/) Citizenship

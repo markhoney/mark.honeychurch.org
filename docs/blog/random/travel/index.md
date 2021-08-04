@@ -37,6 +37,8 @@ I've spent some time travelling around a few parts of the world, although there'
 
 <!-- more -->
 
+The following visas are all in UK passports, from before my time as a New Zealand citizen.
+
 ## 1998
 
 :::: tabs
@@ -198,6 +200,8 @@ Although our original Iranian visa was for one month, it was cheap and easy to t
 ::::
 
 ## 2005 - Now
+
+Some of these visas were in my shiny new New Zealand passport, which is pretty useful to have as Kiwis can travel to a lot of places and get some visas a lot cheaper than other countries do!
 
 :::: tabs
 

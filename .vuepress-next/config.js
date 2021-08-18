@@ -22,11 +22,11 @@ module.exports = {
 	author: 'Mark Honeychurch',
 	// dest: 'docs',
 	shouldPrefetch: () => true,
-	theme: path.resolve('./.vuepress/theme'),
-	dest: '.vuepress/dist',
-	temp: '.vuepress/.temp',
-	cache: '.vuepress/.cache',
-	public: 'public',
+	theme: path.resolve('./.vuepress-next/theme'),
+	dest: 'dist',
+	temp: '.temp',
+	cache: '.cache',
+	public: 'docs/.vuepress/public',
 	themeConfig: {
 		//repo: 'markhoney/mark.honeychurch.org',
 		// docsDir: 'docs',
@@ -157,7 +157,7 @@ module.exports = {
 			tagIndexPageUrl: '/tag/',
 			permalink: '/blogtest/:slug'
 		},*/
-		['@vuepress/google-analytics', {
+		['@vuepress-next/google-analytics', {
 			id: 'G-S83CDZMMH1',
 		}],
 		/* ['minimal-analytics', {
@@ -170,8 +170,8 @@ module.exports = {
 		}], */
 		// '@vuepress/medium-zoom': {},
 		// '@vuepress/pagination': {},
-		'@vuepress/register-components',
-		['@vuepress/pwa', {
+		'@vuepress-next/register-components',
+		['@vuepress-next/pwa', {
 			serviceWorker: false,
 			updatePopup: {
 				message: "New content is available.",
@@ -183,7 +183,7 @@ module.exports = {
 			normalSuffix: '',
 			indexSuffix: '',
 		},*/
-		['@vuepress/search', {
+		['@vuepress-next/search', {
 			searchMaxSuggestions: 10,
 		}],
 		/* ['sitemap', {

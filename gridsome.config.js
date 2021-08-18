@@ -10,5 +10,13 @@ module.exports = {
 				typeName: 'Post'
 			},
 		},
+		{
+			use: '@gridsome/vue-remark',
+			options: {
+				typeName: 'Documentation',
+				baseDir: './docs',
+				// template: './src/templates/Documentation.vue',
+			},
+		},
 	],
 };

@@ -82,7 +82,7 @@ Here's the component I used above to get the window.location object:
 
 For example, to list a single category of posts on this site, I have a reactive data object called "category" which is initialised as null. Then, on mounted(), I get the URL query from window.location.search to find out what category I need to show, and dynamically compute a list of pages that match that category:
 
-<<< @/.vuepress/theme/components/post/categories.vue
+<<< @/docs/.vuepress/theme/components/post/categories.vue
 
 <!--
 ## This page

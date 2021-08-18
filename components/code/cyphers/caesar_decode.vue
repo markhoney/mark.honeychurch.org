@@ -1,9 +1,9 @@
 <template>
 	<form>
-		<label for="caesar">Rotation</label>
-		<input readonly id="caesar" v-model="rotation">
-		<textarea id="cypher" v-model="cypher" />
-		<textarea id="plain" v-model="plain" readonly />
+		<label for="caesar_decode">Guessed Rotation</label>
+		<input readonly id="caesar_decode" v-model="rotation">
+		<textarea class="cypher" v-model="cypher" />
+		<textarea class="plain" v-model="plain" readonly />
 	</form>
 </template>
 
@@ -31,7 +31,7 @@
 		margin-top: 4em;
 	}
 
-	#caesar {
+	#caesar_decode {
 		display: block;
 		width: 2.5em;
 		padding: 0.5em;
@@ -40,8 +40,8 @@
 		margin-bottom: 2em;
 	}
 
-	#cypher,
-	#plain {
+	.cypher,
+	.plain {
 		width: 40%;
 		height: 5em;
 	}

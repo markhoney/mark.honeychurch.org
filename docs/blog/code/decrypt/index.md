@@ -119,7 +119,7 @@ This function is based on one written by me as part of a [CodeWars Kata](https:/
 
 This is the data set of letter frequencies in English that I use for decryption.
 
-<<< @/components/code/cyphers/caesar.js
+<<< @/components/code/cyphers/frequencies.json
 
 :::
 

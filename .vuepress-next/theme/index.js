@@ -1,3 +1,3 @@
 module.exports = {
-	extends: '@vuepress/theme-default',
+	extends: '@vuepress-next/theme-default',
 };

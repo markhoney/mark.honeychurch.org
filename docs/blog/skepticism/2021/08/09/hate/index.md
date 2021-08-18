@@ -10,13 +10,13 @@ tags:
   - Free Speech
 ---
 
-A couple of weeks ago I talked about the NZ Skeptics putting together a submission for the Ministry of Justice in response to their new Hate Speech proposals. You can read our submission on our website, but I thought it would be fun to use EleutherAI's free online GPT-J-6G deep learning model to write a submission for us. I gave the software the first few paragraphs of our real submission, and then clicked the button to guess the next hundred or so words. I then fed the result back into the algorithm so that it could create the next block of text, and so on.
+The NZ Skeptics put together a submission for the Ministry of Justice in response to their new Hate Speech proposals. You can [read the submission](https://skeptics.nz/submissions/hate-speech) on our website, but I thought it would be fun to use EleutherAI's [free online GPT-J-6G](https://6b.eleuther.ai/) deep learning model to write a submission for us. I gave the software the first few paragraphs of our real submission, and then clicked the button to guess the next hundred or so words. I then fed the result back into the algorithm so that it could create the next block of text, and so on.
 
 <!-- more -->
 
 Eventually the text started getting repetitive, and veering off track, but for a while what I was being given by this trained algorithm made sense and looked pretty believable. I didn't agree with its arguments, but at least it seemed to be creating text that reads like a coherent argument. Please be aware that the pieces of legislation it mentions probably don't exist - this software is just trying to emulate the kinds of language it's been trained on, writing in blogs and on forums from all across the internet.
 
-In the text below, everything in bold comes from our actual proposal. The ensuing text that is not in bold, starting at "We also acknowledge that there is a public interest", is written by the deep learning algorithm. Have a read and see if, like me, you're more than a little bit impressed with how well it did:
+In the text below, everything **in bold** comes from our actual proposal. The ensuing text that is not in bold, starting at "We also acknowledge that there is a public interest", is written by the deep learning algorithm. Have a read and see if, like me, you're more than a little bit impressed with how well it did:
 
 ## NZ Skeptics submission on the Ministry of Justice Proposals against incitement of hatred and discrimination
 

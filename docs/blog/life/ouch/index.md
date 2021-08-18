@@ -57,7 +57,6 @@ And here it is translated:
 >
 > **and Time demands his due.**
 
-
 ## The Magus
 
 ### John Fowles

@@ -1,6 +1,6 @@
 ### Hardware Engineer, Software Engineer
 
-![CVLogo](./logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
+![CVLogo](../../logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
 
 My primary role at Interactive was in hardware support, providing a first class service to our New Zealand customers. I covered **HP**, **IBM**, **Dell** and **Sun** servers, as well as **Cisco** networking equipment and **NetApp** and **PureStorage** storage hardware. I installed and supported hardware for many major customers across New Zealand.
 

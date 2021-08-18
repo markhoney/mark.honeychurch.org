@@ -12,5 +12,5 @@ if (process.argv.length > 2) {
 			doc += "\n" + section + "\n\n";
 		}
 	});
-	fs.writeFileSync('./docs/cv/' + process.argv[2] + ".md", doc.trim().replace(/\.\n\#/g, '.\n\n#').replace(/\r\n/g, '\n').replace(/\n{3,}/g, '\n\n') + "\n");
+	fs.writeFileSync('./docs/cv/' + process.argv[2] + ".md", doc.trim().replace(/\.\n\#/g, '.\n\n#').replace(/\r\n/g, '\n').replace(/\n{3,}/g, '\n\n').replace(/\.\.\/\.\.\/logo/g, './logo') + "\n");
 }

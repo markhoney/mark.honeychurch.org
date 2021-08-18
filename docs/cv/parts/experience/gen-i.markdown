@@ -1,6 +1,6 @@
 ### Systems Engineer, Server Team Lead
 
-![CVLogo](./logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)
+![CVLogo](../../logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)
 
 When I started with gen-i, I provided 2nd and 3rd level support for the ANZ National Bank throughout New Zealand. This support involved both completing work requests and fault fixing. Work requests included maintaining the **Active Directory** environment, providing network shares, building PCs and installing software. Fault fixing covered the whole range of the bank's IT hardware and software, with the hardware mainly consisting of **Compaq/HP** and **Dell** servers, PCs and Laptops, and software running to hundreds of packages. Issues dealt with ranged from dial-up and broadband problems, through OS and application faults to **Exchange** and Active Directory problems.
 

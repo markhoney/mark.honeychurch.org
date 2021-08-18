@@ -1,6 +1,6 @@
 ### Network Analyst
 
-![CVLogo](../logos/work/stgeorge.jpg) [St. George Bank](https://www.stgeorge.com.au/) _Sydney, Australia_ (1999-04 - 1999-11)
+![CVLogo](../../logos/work/stgeorge.jpg) [St. George Bank](https://www.stgeorge.com.au/) _Sydney, Australia_ (1999-04 - 1999-11)
 
 My role at St. George was providing third level support for the Client Server Technical Systems (CSTS) Department. As such I was part of a team delivering support to the Core Network File Servers and associated software using **Novell Netware** servers and **Novell Directory Services**. This support was both for the Kogarah Head Office (2500 users), and a distributed branch infrastructure across Queensland, New South Wales, Victoria and South Australia (8000 users).
 

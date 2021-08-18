@@ -14,13 +14,13 @@ sidebar: auto
 
 **Code:** [git.io/markh](https://git.io/markh)
 
-**Nationality:** [British](#) & [New Zealand](#) Citizenship
+**Nationality:** [British](/blog/random/travel/) & [New Zealand](/blog/random/travel/) Citizenship
 
 ## Background
 
 The last twelve years have been spent working for an Australian company, Interactive, both as a hardware support engineer and a fullstack software developer. Prior to that I worked as a systems support engineer. Interactive have decided to close their Wellington office, therefore I am looking for a full-time permanent or contract role, working in development or support.
 
-## Competencies
+### Competencies
 
 - **Critical thinker** - Able to critically analyse ideas and offer constructive criticisms.
 - **Creative problem solver** - Enjoy being given challenging tasks, and will come up with novel but practical solutions to complex problems.
@@ -28,12 +28,12 @@ The last twelve years have been spent working for an Australian company, Interac
 - **Methodical worker** - Able to see projects through design and implementation to completion, and happy working to deadlines.
 - **Capable communicator** - Comfortable building and maintaining relationships with both internal and external stakeholders.
 
-## Technical
+### Technical Skills
 
-- A wide experience and knowledge of operating systems, software and hardware.
+- Wide experience and knowledge of operating systems, software and hardware.
 - Certified on both Windows and Linux
 - Experience with cloud services and container based virtualisation.
-- Have coded solutions in [PHP](https://www.php.net/) and [Python](https://www.python.org/), but in recent years have been developing [JavaScript](https://en.wikipedia.org/wiki/JavaScript) software using [Node.js](https://nodejs.org/).
+- Coded solutions in [PHP](https://www.php.net/) and [Python](https://www.python.org/), but in recent years have been developing [JavaScript](https://en.wikipedia.org/wiki/JavaScript) software using [Node.js](https://nodejs.org/).
 - Experienced using libraries such as [Express](https://expressjs.com/), [Socket.IO](https://socket.io/), [Axios](https://github.com/axios/axios), [Vue](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/) and [VuePress](https://vuepress.vuejs.org/).
 - Can use both SQL and NoSQL databases ([MS SQL](https://www.microsoft.com/en-us/sql-server), [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/), [MongoDB](https://www.mongodb.com/))
 - Knowledgeable in [HTML5](https://en.wikipedia.org/wiki/HTML5) and [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), along with several popular HTML/CSS frameworks (including [Bootstrap](https://getbootstrap.com/) and [Material](https://material.io/)).
@@ -44,27 +44,33 @@ The last twelve years have been spent working for an Australian company, Interac
 
 ### Certifications
 
-|         Cert | Details                                                 |
-| -----------: | ------------------------------------------------------- |
-|     **LPIC** | LPI Linux Levels 1 & 2 Certified                        |
-|      **UCP** | Ubuntu Certified Professional                           |
-|     **ITIL** | ITIL Foundation Certified                               |
-|      **MCP** | Microsoft Certified Professional - Windows & Clustering |
-|    **MCITP** | Microsoft Certified Information Technology Professional |
-|     **MCTS** | Microsoft Certified Technical Specialist - MS SQL       |
-| **W3C HTML** | W3C Certified HTML Developer                            |
-|     **ASAP** | NetApp Accredited Storage Architect Professional        |
-|     **NCDA** | NetApp Certified Data Management Administrator          |
+|         Cert | Details                                                  |
+| -----------: | -------------------------------------------------------- |
+|     **LPIC** | LPI Linux Levels 1 & 2 Certified                         |
+|      **UCP** | Ubuntu Certified Professional                            |
+|     **ITIL** | ITIL Foundation Certified                                |
+|      **MCP** | Microsoft Certified Professional - Windows & Clustering  |
+|    **MCITP** | Microsoft Certified Information Technology Professional  |
+|     **MCTS** | Microsoft Certified Technical Specialist - MS SQL        |
+| **W3C HTML** | W3C Certified HTML Developer                             |
+|     **ASAP** | NetApp Accredited Storage Architect Professional         |
+|     **NCDA** | NetApp Certified Data Management Administrator           |
 
-### M.Eng (Hons)
+### Degree: M.Eng (Hons)
 
 ![CVLogo](./logos/education/bristol.jpg) [_University of Bristol_](http://www.bristol.ac.uk/engineering/) **Master's Degree with Honours in Mechanical Engineering** (1994 - 1998)
 
-**Chess Playing Robot.** In the third year of my degree, I completed my thesis on a chess-playing robot. This involved extensive programming in Borland Delphi, as well as VAL, a language used to control the PUMA 450 robot arm. During the project I had to work with a CCD camera and video capture software/hardware.
-
-**FEA Software.** My fourth year thesis was on the writing of a Finite Element Analysis package for use within the University. It primarily involved programming in Borland C++ Builder, although parts of a previous year’s program in Visual C++ were also integrated.
-
 ## Work Experience
+
+### Software Developer
+
+![CVLogo](./logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
+
+At Telesmart I develop software products for both in-house and customer consumption, using modern tooling and libraries to deliver high quality solutions.
+
+#### Projects
+
+**_Customer Portal._** I designed and developed a Customer Portal utilising a **NuxtJS** and **Vuetify** frontend, with secure authorisation using **JSON Web Tokens**. The backend infrastructure consists of a set of **Federated** Apollo **GraphQL** Microservices, with PassportJS and third party **OAuth** authentication strategies. **Lerna** is used for monorepo management, along with **MongoDB** and **Redis** for data storage. All The code is deployed to **virtualisation** containers hosted on a **Docker Swarm**, using an automated build pipeline. All together, the project contains 11 scalable microservices and 14 custom written private Node modules.
 
 ### Hardware Engineer, Software Engineer
 
@@ -96,7 +102,7 @@ As well as supporting the environment, I supported the other server engineers on
 
 #### Projects
 
-**_RightFax Upgrade._** I ran a project to migrate existing RightFax users to a new infrastructure. This process involved the building of new RightFax servers, installation of **Microsoft SQL clusters** (including setup of SAN disks) in both Production and DR environments, and the subsequent migration of fax mailboxes between servers.
+**_RightFax Upgrade._** I ran a project to migrate existing RightFax users to a new infrastructure. This process involved the building of new RightFax servers, installation of **Microsoft SQL clusters** (including setup of SAN disks) in both Production and DR environments and the subsequent migration of Fax mailboxes between servers.
 
 ### Technician
 
@@ -116,7 +122,7 @@ I have dedicated much of my spare time to working for charities, and have held t
 - **Treasurer** of **[Making Sense of Fluoride](http://msof.nz/)**
 - **Co-founder** of **[CoderDojo New Zealand](http://coderdojo.nz/)**
 
-Many of these roles have involved protecting the public against untrue claims made by psychics, conspiracy theorists and purveyors of alternative medicine, and has involved regularly talking with the media (newspapers, radio and TV). From 2015 to 2018 I had a regular radio segment on RadioLive called [Skeptical Thoughts with Mark Honeychurch](https://www.radiolive.co.nz/home/shows/weekend-variety-wireless-with-graeme-hill/skeptical-thoughts.html), where I talked about scientific skepticism and critical thinking.
+These roles have involved people management, strategic planning, meeting statutory reporting requirements, overseeing projects, organising events, managing IT systems and protecting the public. As part of my voluntary work I have regularly talked with the media (newspapers, radio and TV), and from 2015 to 2018 I appeared on a regular radio segment on RadioLive called [Skeptical Thoughts with Mark Honeychurch](https://www.radiolive.co.nz/home/shows/weekend-variety-wireless-with-graeme-hill/skeptical-thoughts.html), where I talked about scientific skepticism and critical thinking.
 
 ## Referees
 

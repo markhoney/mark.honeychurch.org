@@ -49,7 +49,7 @@ What I find amazing about the next piece is that, given that it was written arou
 
 -- Seikilos Epitaph
 
-The next is the end of a book a good friend recommended to me many years ago - has an other-worldly feel, and the ending felt profound to me:
+The next is the end of a book a good friend recommended to me many years ago - the book has an other-worldly feel, and the ending felt profound to me.
 
 > She is silent, she will never speak, never forgive, never reach a hand, never leave this frozen present tense. All waits, suspended. Suspend the autumn trees, the autumn sky, anonymous people. A blackbird, poor fool, sings out of season from the willows by the lake. A flight of pigeons over the houses; fragments of freedom, hazard, an anagram made flesh. And somewhere the stinging smell of burning leaves.
 >
@@ -63,7 +63,7 @@ The next is the end of a book a good friend recommended to me many years ago - h
 
 -- John Fowles, The Magus
 
-The last is from another book recommended to me, just a few years ago. I'm not sure how I hadn't read it before then. It's beautiful, but somehow unobtainable - full of heartache and pain, but with glimpses of hope.
+The last is from another book recommended to me, just a few years ago - I'm not sure how I hadn't read it before then. It's beautiful in places, and leaves my heart aching.
 
 > _Ambos evocaban entonces como un estorbo las parrandas desatinadas, la riqueza aparatosa y la fornicación sin frenos, y se lamentaban de cuánta vida les había costado encontrar el paraíso de la soledad compartida. Locamente enamorados al cabo de tantos años de complicidad estéril, gozaban con el milagro de quererse tanto en la mesa como en la cama, y llegaron a ser tan felices, que todavía cuando eran dos ancianos agotados seguían retozando como conejitos y peleándose como perros._
 >

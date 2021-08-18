@@ -6,7 +6,6 @@ layout: Post
 categories:
   - Life
 tags:
-  - Life
   - Exercise
 ---
 
@@ -50,16 +49,24 @@ What I find amazing about the next piece is that, given that it was written arou
 
 -- Seikilos Epitaph
 
-The next is from a book a good friend recommended to me many years ago - the book was filled with great thoughts, and this is one of several that felt profound to me:
+The next is the end of a book a good friend recommended to me many years ago - has an other-worldly feel, and the ending felt profound to me:
 
-> I did not pray for her, because prayer has no efficacy; I did not cry for her, or for myself, because only extroverts cry twice; but I sat in the silence of that night, that infinite hostility to man, to permanence, to love, remembering her, remembering her.
+> She is silent, she will never speak, never forgive, never reach a hand, never leave this frozen present tense. All waits, suspended. Suspend the autumn trees, the autumn sky, anonymous people. A blackbird, poor fool, sings out of season from the willows by the lake. A flight of pigeons over the houses; fragments of freedom, hazard, an anagram made flesh. And somewhere the stinging smell of burning leaves.
+>
+> _eras amet qui numquam amavit_
+>
+> _quique amavit eras amet_
+>
+> Let those love now who’ve never loved;
+>
+> let those who’ve loved, love yet again.
 
 -- John Fowles, The Magus
 
-The last is from a book I wish I'd read sooner in life. It's beautiful, but somehow unobtainable - full of heartache and pain, but with glimpses of hope.
+The last is from another book recommended to me, just a few years ago. I'm not sure how I hadn't read it before then. It's beautiful, but somehow unobtainable - full of heartache and pain, but with glimpses of hope.
 
-> _Fueron dos novios dichosos entre la muchedumbre, y hasta llegaron a sospechar que el amor podía ser un sentimiento más reposado y profundo que la felicidad de- saforada pero momentánea de sus noches secretas._
+> _Ambos evocaban entonces como un estorbo las parrandas desatinadas, la riqueza aparatosa y la fornicación sin frenos, y se lamentaban de cuánta vida les había costado encontrar el paraíso de la soledad compartida. Locamente enamorados al cabo de tantos años de complicidad estéril, gozaban con el milagro de quererse tanto en la mesa como en la cama, y llegaron a ser tan felices, que todavía cuando eran dos ancianos agotados seguían retozando como conejitos y peleándose como perros._
 >
-> They were two happy lovers among the crowd, and they even came to suspect that love could be a feeling that was more relaxing and deep than the happiness, wild but momentary, of their secret nights.
+> Both looked back then on the wild revelry, the gaudy wealth, and the unbridled fornication as an annoyance and they lamented that it had cost them so much of their lives to fund the paradise of shared solitude. Madly in love after so many years of sterile complicity, they enjoyed the miracle of loving each other as much at the table as in bed, and they grew to be so happy that even when they were two worn-out old people they kept on blooming like little children and playing together like dogs.
 
 -- Gabriel Garcí­a Márquez, One Hundred Years of Solitude

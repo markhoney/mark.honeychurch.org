@@ -20,7 +20,7 @@
 					<a v-if="event.eventurl" :href="event.eventurl" target="_blank" rel="noopener noreferrer">{{event.event}}</a>
 					<template v-else>{{event.event}}</template>
 				</td>
-				<td>{{[event.venue, event.location, event.country].join(", ")}}</td>
+				<td>{{[event.venue, event.location, event.country].filter(Boolean).join(', ')}}</td>
 			</tr>
 		</tbody>
 	</table>
@@ -39,4 +39,3 @@ export default {
 	},
 }
 </script>
-

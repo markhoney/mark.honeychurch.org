@@ -6,6 +6,7 @@ layout: Post
 categories:
   - Random
 tags:
+  - Lists
   - Words
   - Homophone
   - Alphabet

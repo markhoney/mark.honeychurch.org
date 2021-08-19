@@ -20,7 +20,7 @@ India is also well known for its widespread use of a variety of unproven therapi
 
 In line with India’s fascination with cows, cow dung, urine and milk are gaining in popularity as treatments - smearing yourself in dung and milk, and drinking diluted urine.
 
-<template-embed-tweet value="https://twitter.com/yadavakhilesh/status/1392377613780279297" />
+<embed-tweet value="https://twitter.com/yadavakhilesh/status/1392377613780279297" />
 
 The Indian Medical Association has warned that not only will these treatments not cure COVID, but they carry the very real risk of spreading other diseases. And the last thing you want when your body is busy fighting a potentially deadly virus is more disease.
 

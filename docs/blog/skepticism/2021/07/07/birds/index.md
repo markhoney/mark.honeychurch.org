@@ -36,4 +36,4 @@ In this case, the kinds of views that are being parodied include QAnon and the F
 
 What I love is that Peter doesn’t seem to ever break character, as can be heard in this interview from a couple of years ago where, true to Poe’s Law, it’s obvious the TV presenters aren’t sure whether he’s sincere in his belief:
 
-<template-embed-tweet value="https://twitter.com/birdsarentreal/status/1153810131911467010)" />
+<embed-tweet value="https://twitter.com/birdsarentreal/status/1153810131911467010)" />

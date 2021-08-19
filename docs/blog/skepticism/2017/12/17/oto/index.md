@@ -34,7 +34,7 @@ Last night we turned up at 7:15pm - there were about a dozen attendees, and for 
 
 We were then walked in to the building, past an upright coffin to our seats. We each had a [run-sheet for the evening](/docs/skepticism/Missal.pdf) on our chairs.
 
-<!--<template-embed-pdf src="/docs/skepticism/Missal.pdf" />-->
+<!--<embed-pdf src="/docs/skepticism/Missal.pdf" />-->
 
 <object data="/docs/skepticism/Missal.pdf" width="100%" height="600px" />
 

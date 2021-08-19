@@ -4,6 +4,7 @@ slug: exams
 date: 2008-06-30
 layout: Post
 categories:
+  - Lists
   - Life
 tags:
   - Software

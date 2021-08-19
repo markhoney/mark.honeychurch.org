@@ -6,6 +6,7 @@ layout: Post
 categories:
   - Life
 tags:
+  - Lists
   - Games
   - Arcade
   - Console

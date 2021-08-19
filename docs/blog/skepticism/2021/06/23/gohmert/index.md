@@ -15,7 +15,7 @@ US Senator Louie Gohmert, from Texas, has recently asked the country’s Forestr
 
 <!-- more -->
 
-<template-embed-tweet value="https://twitter.com/Forbes/status/1402388019420741633" />
+<embed-tweet value="https://twitter.com/Forbes/status/1402388019420741633" />
 
 I guess Louie skipped astronomy class, and doesn’t have a good grasp of just how massive the moon and earth are. Of course I looked it up, as the internet has answers to all sorts of daft questions. The energy needed to be able to move the moon out of earth’s orbit is around 2x10<sup>28</sup> joules (around 3 trillion megatons of TNT, or 6 billion large fusion bombs), so even moving the moon a little is going to take a fraction of that - probably millions of nukes.
 

@@ -2,14 +2,14 @@
 	<section>
 		<ul>
 			<template v-for="postdate in postdates">
-				<li v-if="dates" class="date">
+				<li v-if="dates" :key="postdate" class="date">
 					<h2>
 						<router-link
 							:to="'/blog/skepticism/' + new Date(postdate).toISOString().slice(0, 10).split('-').join('/') + '/'"
 						>{{new Date(postdate).toLocaleDateString("en-NZ", {year: 'numeric', month: 'long', day: 'numeric'})}}</router-link>
 					</h2>
 				</li>
-				<li v-for="post in posts" v-if="post.frontmatter.date == postdate" :key="post.path">
+				<li v-for="post in posts.filter((post) => post.frontmatter.date === postdate)" :key="post.path">
 					<h3>
 						<router-link :to="post.path">{{post.title}}</router-link>
 					</h3>

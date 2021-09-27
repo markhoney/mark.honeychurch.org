@@ -4,6 +4,7 @@ slug: psychic
 date: 2021-06-16
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

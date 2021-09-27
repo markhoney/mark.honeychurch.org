@@ -4,6 +4,7 @@ slug: fyi
 date: 2016-07-17
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

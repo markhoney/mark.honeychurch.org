@@ -4,6 +4,7 @@ slug: better
 date: 2016-09-18
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

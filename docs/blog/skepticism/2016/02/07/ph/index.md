@@ -4,6 +4,7 @@ slug: ph
 date: 2016-02-07
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

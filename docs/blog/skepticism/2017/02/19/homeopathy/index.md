@@ -4,6 +4,7 @@ slug: homeopathy
 date: 2017-02-19
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

@@ -4,6 +4,7 @@ slug: bobby
 date: 2016-06-12
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

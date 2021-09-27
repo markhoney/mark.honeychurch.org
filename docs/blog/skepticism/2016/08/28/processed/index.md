@@ -4,6 +4,7 @@ slug: processed
 date: 2016-08-28
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

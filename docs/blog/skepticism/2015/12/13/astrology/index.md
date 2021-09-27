@@ -4,6 +4,7 @@ slug: astrology
 date: 2015-12-13
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

@@ -4,6 +4,7 @@ slug: clinic
 date: 2016-09-25
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

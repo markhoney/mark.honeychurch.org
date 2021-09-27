@@ -4,6 +4,7 @@ slug: voltex
 date: 2021-06-02
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

@@ -4,6 +4,7 @@ slug: underground
 date: 2021-05-05
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

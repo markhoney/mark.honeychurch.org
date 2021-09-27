@@ -4,6 +4,7 @@ slug: prayers
 date: 2021-03-24
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

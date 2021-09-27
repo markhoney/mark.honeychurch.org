@@ -4,6 +4,7 @@ slug: gmo
 date: 2016-07-03
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

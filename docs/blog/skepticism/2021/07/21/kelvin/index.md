@@ -4,6 +4,7 @@ slug: kelvin
 date: 2021-07-21
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

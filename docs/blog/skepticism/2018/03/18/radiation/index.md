@@ -4,6 +4,7 @@ slug: radiation
 date: 2018-03-18
 host: Ryan Bradley
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

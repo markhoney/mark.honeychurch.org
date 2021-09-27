@@ -4,6 +4,7 @@ slug: sue
 date: 2021-04-14
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

@@ -4,6 +4,7 @@ slug: ufos
 date: 2016-06-26
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

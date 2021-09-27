@@ -4,6 +4,7 @@ slug: earthquake
 date: 2016-11-27
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

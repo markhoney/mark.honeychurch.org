@@ -4,6 +4,7 @@ slug: scientology
 date: 2017-01-22
 host: Graeme Hill
 outlet: RadioLive
+program: Weekend Variety Wireless
 layout: Post
 categories:
   - Skepticism

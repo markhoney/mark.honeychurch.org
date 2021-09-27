@@ -4,6 +4,7 @@ slug: gohmert
 date: 2021-06-23
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

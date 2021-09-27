@@ -4,6 +4,7 @@ slug: birds
 date: 2021-07-07
 host: Graeme Hill
 outlet: MagicTalk
+program: Magic Nights
 layout: Post
 categories:
   - Skepticism

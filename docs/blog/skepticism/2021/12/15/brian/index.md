@@ -18,7 +18,7 @@ Just over a week ago I attended an online sermon from Destiny Church with a few 
 
 Brian continued a series of sermons he’s been giving for a few weeks now, about Revelation and the End of Days. Hilariously, when I checked the previous week’s sermon on YouTube this morning it came up with exactly 666 views (bottom left):
 
-![666 Views](images/image2.png)
+![666 Views](./image2.png)
 
 @[youtube](https://www.youtube.com/watch?v=yaq2IKPjy0g&t=2134s)
 

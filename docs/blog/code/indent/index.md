@@ -65,7 +65,6 @@ For now, I stand by my choice of using a single tab for indenting. I think that 
 
 ![Spaces](./1_Aaqc9L1Hc62hBg_dpNgBKg.png)
 
-
 ## This is serious
 
 In case anyone's unsure of the importance of this question, here's a clip from Silicon Valley showing just how serious a disagreement over Tabs vs Spaces can be.

@@ -93,7 +93,7 @@ To check or update the current status of religious instruction in your school, c
 
 ---
 
-These guidelines are targeting schools that allow Religious Instruction classes - and currently those classes operate under a loophole added to recent Education Acts where one or more classes in a school “close” for half an hour to allow religious leaders to come in and teach the kids about their religious belief as if it was fact. The fact that a classroom is considered “closed” for the time that the instruction happens is a compromise that was added after the government apparently found it was having to deal with a lot of schools who were already offering religious instruction illegally.
+These guidelines are targeting schools that allow Religious Instruction classes - and currently those classes operate under a loophole added to recent Education Acts where one or more classes in a school "close" for half an hour to allow religious leaders to come in and teach the kids about their religious belief as if it was fact. The fact that a classroom is considered "closed" for the time that the instruction happens is a compromise that was added after the government apparently found it was having to deal with a lot of schools who were already offering religious instruction illegally.
 
 The [law change](https://www.education.govt.nz/school/boards-information/religious-instruction-guidelines/), in essence, means that whereas schools used to be able to run a Religious Instruction with either an opt-in or opt-out parental approval system, they must now explicitly receive written opt-in permission from a parent or guardian.
 

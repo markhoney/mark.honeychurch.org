@@ -21,7 +21,7 @@ The Satanic Temple has used some interesting tactics in the past to fight agains
 
 @[youtube](https://www.youtube.com/watch?v=81AfAzef4U4)
 
-Other projects have included “Menstruatin' with Satan” (a menstrual product drive), “Educatin’ with Satan” (including several [after school Satanist clubs](https://en.wikipedia.org/wiki/After_School_Satan) and a [Satanist colouring book](https://www.vox.com/xpress/2014/9/19/6526963/happy-friday-heres-a-coloring-book-about-satan), as a way to challenge the legitimacy of Christian after school clubs), and a Pink Mass (at the grave site of Fred Phelps’ mother). And the local [New Zealand Satanists](https://www.stuff.co.nz/national/108905682/devil-in-its-detail-inside-the-world-of-new-zealands-satanists) have even joined in, running Soles for Satan (raising money to buy socks for those in need) and Blood for Satan (a blood drive).
+Other projects have included "Menstruatin' with Satan" (a menstrual product drive), "Educatin’ with Satan" (including several [after school Satanist clubs](https://en.wikipedia.org/wiki/After_School_Satan) and a [Satanist colouring book](https://www.vox.com/xpress/2014/9/19/6526963/happy-friday-heres-a-coloring-book-about-satan), as a way to challenge the legitimacy of Christian after school clubs), and a Pink Mass (at the grave site of Fred Phelps’ mother). And the local [New Zealand Satanists](https://www.stuff.co.nz/national/108905682/devil-in-its-detail-inside-the-world-of-new-zealands-satanists) have even joined in, running Soles for Satan (raising money to buy socks for those in need) and Blood for Satan (a blood drive).
 
 It’s obvious that The Satanic Temple is being used by its members as a tool to fight for religious equality, ensuring that the privilege often afforded to Christianity in western countries, especially the US, is challenged wherever possible. Rather than argue for Christian privilege to be revoked, the group argues for inclusion - that their Satanist beliefs are promoted alongside those of Christian groups by government organisations. I’ve even taken a leaf out of their book in the past, and organised a counter-protest when the Jesus for NZ group were arguing on the lawn of parliament that the name of Jesus should be re-added to the parliamentary prayer. Instead of us protesting for the status quo, we carried signs arguing for the inclusion of all gods in the prayer. After all, if Jesus is able to get a mention every day in our parliament, why shouldn’t Ganesh, or Thor, or Cthulhu?
 
@@ -43,6 +43,6 @@ VII. Every tenet is a guiding principle designed to inspire nobility in action a
 
 The last tenet I especially like, as it seems to me to be a direct challenge to the claims of major religions that their rules should be followed whatever the cost, and however much our understanding of the world may change.
 
-If you’re interested in learning more about The Satanic Temple and what they do, there’s a great documentary on Netflix called “Hail Satan?”.
+If you’re interested in learning more about The Satanic Temple and what they do, there’s a great documentary on Netflix called "Hail Satan?".
 
 @[youtube](https://www.youtube.com/watch?v=27RtJp-rhHk)

@@ -35,7 +35,7 @@ I’m sure most people will have heard of QAnon by now - the anonymously named Q
 > PATRIOTS in FULL CONTROL.
 > We will make more public.
 > SA was strategic.
-> “We know” “Do as we say or face consequences”
+> "We know" "Do as we say or face consequences"
 > These people are stupid!
 
 Early on in the Q timeline, an IT security analyst performed an analysis of the codes Q uses, and found that they were consistent with someone just alternating tapping keys on the left and right sides of the keyboard, much as someone would do if they were just trying to type in random text. QAnon’s ramblings remind me of the writing of Nostradamus - obscure and vague enough that readers are left to join the dots themselves, and make their own narrative out of the mess he writes.

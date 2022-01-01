@@ -16,7 +16,7 @@ I wish I was making this news story up - partially because it’s getting a litt
 
 <!-- more -->
 
-There’s a lot to unpack in what Marjorie has said in recent years, including that 9/11 was a hoax, Obama is a Muslim, the Clintons killed JFK Jr, and recent school shootings in the US were “false flag” operations. However, the most out there of them all has to be the idea that has made headlines around the world - that the 2018 California wildfires were caused by a satellite mounted laser which is controlled by the Rothschild family. This has now been dubbed the Jewish Space Laser.
+There’s a lot to unpack in what Marjorie has said in recent years, including that 9/11 was a hoax, Obama is a Muslim, the Clintons killed JFK Jr, and recent school shootings in the US were "false flag" operations. However, the most out there of them all has to be the idea that has made headlines around the world - that the 2018 California wildfires were caused by a satellite mounted laser which is controlled by the Rothschild family. This has now been dubbed the Jewish Space Laser.
 
 Thankfully many in the Jewish community in the US have given this outlandish, evidence-free, racist idea the level of response I believe it deserves - ridicule. Twitter has many funny comments and images, making light of the idea and turning it into something very kitsch. However, I think that the conspiratorial undertones of making Jewish people out to be an evil conniving race cannot be ignored, and I hope that the House of Representatives, and the Republican Party in particular, are able to do something to tackle those within their ranks - not just Greene - who harbour these kinds of dangerously wrong-headed ideas.
 

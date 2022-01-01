@@ -18,7 +18,7 @@ While trawling conspiracy websites and videos, as I tend to do for fun, I stumbl
 
 @[youtube](https://youtu.be/Rq06A1ielMU?t=60)
 
-[Peter Vaughan](https://www.petervaughan.net/) is a modest man - modest enough to have named his technique after himself (the Vaughan Method). Peter writes of himself “He’s often thought of as having a ‘gift’ but say’s he’s no more gifted than any other person”.
+[Peter Vaughan](https://www.petervaughan.net/) is a modest man - modest enough to have named his technique after himself (the Vaughan Method). Peter writes of himself "He’s often thought of as having a ‘gift’ but say’s he’s no more gifted than any other person".
 
 Anyway, on to The Vaughan Method. Peter believes that the sounds within your name affect you as a baby:
 
@@ -32,7 +32,7 @@ Then I tried inputting different text to see what would happen. CAPS or lowercas
 
 Well, what about names that sound the same but are spelled differently - homonyms? Sean and Shaun, Aiden and Aidan, Isabel and Isobel. It turns out that the generator produces totally different results for each spelling, despite the fact that they would sound the same to a baby, and presumably therefore trigger the same emotions. And of course all of this is ignoring that each baby will hear their name at different times, and with different accents, and many will be called by shortened names or nicknames at times. None of this idea makes any sense!
 
-One of Peter Vaughan’s websites, numerology.org.nz, charges $75 for a full reading, but has a free name analyser that can tell you your personality from a first name alone. So I’ve put your first name - “Graeme” - into the analyser and have an accurate reading. It starts off:
+One of Peter Vaughan’s websites, numerology.org.nz, charges $75 for a full reading, but has a free name analyser that can tell you your personality from a first name alone. So I’ve put your first name - "Graeme" - into the analyser and have an accurate reading. It starts off:
 
 > You are in many ways gifted and capable and have an edge over others due to your ability to grasp things and understand them fairly quickly. You have a inclination to learn about real life matters and your knowledge and experience will continue to grow because of your willingness to engage your mind with whatever you become involved in.
 >
@@ -42,6 +42,6 @@ One of Peter Vaughan’s websites, numerology.org.nz, charges $75 for a full rea
 
 Now, to the uninitiated these may feel like hits - wow, they really feel like they describe us so well. But it turns out that we’re seeing nothing more exciting than a set of Barnum Statements - part of the Barnum, or Forer, Effect. This effect is named for both the circus showman who used to use these statements, and a psychologist called Bertram Forer who used these kinds of statements in a simple experiment to show that most people will rate them as a good fit for their personality.
 
-Sadly it all gets weirder from there. Peter has invented a new technique called [lettrology](https://www.petervaughan.net/introduction-to-lettrology/), and for only $6,000 you can learn his secrets, which will allow you to read the “state of a Stock on the Market”, figure out “which party will win national elections” and “detect fraud”. Apparently the letter A “causes people to have major changes in their life at certain times”, knowing someone’s birth name and date of birth allows you to calculate their “Ultimate Destiny”, and “yellow”, “death”, “Jesus” and “covid 2019” all equal the number 2. What?
+Sadly it all gets weirder from there. Peter has invented a new technique called [lettrology](https://www.petervaughan.net/introduction-to-lettrology/), and for only $6,000 you can learn his secrets, which will allow you to read the "state of a Stock on the Market", figure out "which party will win national elections" and "detect fraud". Apparently the letter A "causes people to have major changes in their life at certain times", knowing someone’s birth name and date of birth allows you to calculate their "Ultimate Destiny", and "yellow", "death", "Jesus" and "covid 2019" all equal the number 2. What?
 
 Peter’s [YouTube channel](https://www.youtube.com/channel/UCgA94U5pUrZAGiGKZL-ZqYQ) includes testimonials from clients who are happy with his $75 readings, but I’m hoping nobody has been sucked in by the $6,000 course. Not only is it a waste of money, but it would mean there are more people out there perpetuating Peter’s method of fortune telling, and trying to take people’s money in return for a set of feel-good, but useless, platitudes. And let’s just hope that nobody’s making any investment decisions based on his [stock market predictions](https://www.petervaughan.net/stockflow/).

@@ -31,13 +31,13 @@ The advert is quick to name-drop Nikola Tesla, who is a favourite of conspiracy 
 
 The site claims that electricity companies (Big Energy) are ripping us all off by overcharging for electricity, and suppressing their Tesla-inspired devices. Although there are legitimate claims of over-charging for power in this country, I don’t think the companies are too worried about these devices ruining their business!
 
-An image in the ad shows a meter supposedly reduced from $251 a month to $15 a month, which is even more than the promised “up to” 90%. If we add the protection of appliances to this, the device should easily pay for itself in the first month!
+An image in the ad shows a meter supposedly reduced from $251 a month to $15 a month, which is even more than the promised "up to" 90%. If we add the protection of appliances to this, the device should easily pay for itself in the first month!
 
 There are images of Facebook conversations where everyone just loves their Voltex devices - although weirdly they’re just screenshots, and a quick search on FB doesn’t uncover any of the people who supposedly commented on how amazing the device is. My guess is that the screenshots are simple fakes, easily made if you know how to use the Chrome Inspector for developers.
 
-The advert says the device is “100% legal”, which is not surprising given that it appears to be nothing more than a white box with a funky looking green LED. I was thinking of ordering one to test it out and pull it apart, but at $74 and with no guarantee that the scammers would even bother to send me one, it didn’t seem like a prudent use of my money.
+The advert says the device is "100% legal", which is not surprising given that it appears to be nothing more than a white box with a funky looking green LED. I was thinking of ordering one to test it out and pull it apart, but at $74 and with no guarantee that the scammers would even bother to send me one, it didn’t seem like a prudent use of my money.
 
-Thankfully a friend told me yesterday about a YouTuber called Big Clive who reviews fake electrical devices. It didn’t take long to find a video where he tests and disassembles a device identical to the Voltex device, in a video titled “Worst fake "power saver" plug yet” - which gives you a clue as to what he thought of the device:
+Thankfully a friend told me yesterday about a YouTuber called Big Clive who reviews fake electrical devices. It didn’t take long to find a video where he tests and disassembles a device identical to the Voltex device, in a video titled "Worst fake "power saver" plug yet" - which gives you a clue as to what he thought of the device:
 
 @[youtube](https://youtu.be/yA5G7kR_xa8?t=456)
 

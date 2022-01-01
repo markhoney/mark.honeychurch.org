@@ -13,7 +13,7 @@ tags:
   - COVID
 ---
 
-An article was published by Stuff the other day about [cosmetic acupuncture](https://www.newshub.co.nz/home/lifestyle/2021/04/going-under-the-needle-is-cosmetic-acupuncture-the-new-botox.html) - a discredited idea that sticking needles in your face can be an alternative to paying for a face lift. Half way through reading the article it started to feel really familiar, like I’d already read it but on the topic of a different unproven therapy. Sure enough, a quick search for the reporter’s previous work turned up a recent article in stuff [about reiki](https://www.newshub.co.nz/home/lifestyle/2021/01/auckland-reiki-healer-says-guided-energy-healing-on-the-rise-for-stressed-burnt-out-kiwis.html) - a “therapy” where someone heals you by holding their hands near you.
+An article was published by Stuff the other day about [cosmetic acupuncture](https://www.newshub.co.nz/home/lifestyle/2021/04/going-under-the-needle-is-cosmetic-acupuncture-the-new-botox.html) - a discredited idea that sticking needles in your face can be an alternative to paying for a face lift. Half way through reading the article it started to feel really familiar, like I’d already read it but on the topic of a different unproven therapy. Sure enough, a quick search for the reporter’s previous work turned up a recent article in stuff [about reiki](https://www.newshub.co.nz/home/lifestyle/2021/01/auckland-reiki-healer-says-guided-energy-healing-on-the-rise-for-stressed-burnt-out-kiwis.html) - a "therapy" where someone heals you by holding their hands near you.
 
 <!-- more -->
 
@@ -21,8 +21,8 @@ Both articles are heavy on the insinuation that these therapies work, and totall
 
 If I have to choose between believing in the magic of acupuncture and reiki, and as a result throwing out huge swathes of well established science, or believing in the scientific method as the best way we have to ascertain the truth of the physical world (while not giving my money to acupuncturists or reiki masters), I’m pretty sure I’m choosing the science and binning the nonsense.
 
-I also know that a member of the NZ Skeptics committee recently complained to Stuff about the reiki article being unbalanced. The response from Stuff was that they don’t need to provide balance, because their article was part of a wider conversation about the efficacy of these kinds of therapies, but they did admit that they’d “forgotten” to mention that the reporter was given a free session before writing her article. And sure enough, at the bottom of the cosmetic acupuncture article, there’s a disclaimer that:
+I also know that a member of the NZ Skeptics committee recently complained to Stuff about the reiki article being unbalanced. The response from Stuff was that they don’t need to provide balance, because their article was part of a wider conversation about the efficacy of these kinds of therapies, but they did admit that they’d "forgotten" to mention that the reporter was given a free session before writing her article. And sure enough, at the bottom of the cosmetic acupuncture article, there’s a disclaimer that:
 
-> “Sarah was gifted the first cosmetic acupuncture treatment she tried for review purposes, but paid for subsequent sessions.“
+> "Sarah was gifted the first cosmetic acupuncture treatment she tried for review purposes, but paid for subsequent sessions."
 
 So, at least Stuff seems to have learned one lesson from the complaint, even if it wasn’t the important one about reporting the truth rather than thinly veiled adverts for people selling therapies that don’t work.

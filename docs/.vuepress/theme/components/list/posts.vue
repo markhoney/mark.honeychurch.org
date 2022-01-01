@@ -19,6 +19,7 @@
 						:sections="sections"
 						:categories="categories"
 						:tags="tags"
+						style="text-align: left"
 					/>
 					<template v-if="excerpt && post.excerpt">
 						<p v-html="post.excerpt"/>

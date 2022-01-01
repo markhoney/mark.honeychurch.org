@@ -37,14 +37,14 @@ Here are the questions I was asked, and the answers I provided:
 >
 > Psychics use a variety of tricks to appear as if they have a connection to the supernatural. Barnum statements (using the Barnum Effect, also called the Forer Effect) are often used for personal readings. These are statements that feel profound, but that apply to most people. Examples of these kinds of statements are:
 >
-> - “You feel a need for people to like you”
-> - “You have unused potential that you have not tapped into yet”
-> - “Although you can be outgoing at times, you often feel shy”
-> - “You tend to be overly critical of yourself”
+> - "You feel a need for people to like you"
+> - "You have unused potential that you have not tapped into yet"
+> - "Although you can be outgoing at times, you often feel shy"
+> - "You tend to be overly critical of yourself"
 >
-> Psychics can also use statements in the form of questions that are true whatever the answer is. For example, a psychic could ask “You don’t like boats, do you?”. If someone answers “Yes”, the psychic could respond with “Yes, I’m getting through that you enjoy boating”. If, however, someone answers “No”, the psychic may respond with “No, I didn’t think so - the spirits are telling me that you don’t like being on water”. Either way, the psychic’s initial question can be turned into a successful “reading” of a customer.
+> Psychics can also use statements in the form of questions that are true whatever the answer is. For example, a psychic could ask "You don’t like boats, do you?". If someone answers "Yes", the psychic could respond with "Yes, I’m getting through that you enjoy boating". If, however, someone answers "No", the psychic may respond with "No, I didn’t think so - the spirits are telling me that you don’t like being on water". Either way, the psychic’s initial question can be turned into a successful "reading" of a customer.
 >
-> Knowledge of a case can help psychics. Psychics and mystics have been known in the past to use information gleaned from google searches, public records, newspaper articles, local knowledge and even in-ear radios to provide information that they claim has been psychically divined, but that actually has a much more mundane source. Once the psychic has “proven” their abilities to someone in this way, people are much more likely to be invested in the reading and give positive feedback to the psychic. This feedback can help a psychic to make more educated guesses about the subject they are focussing on.
+> Knowledge of a case can help psychics. Psychics and mystics have been known in the past to use information gleaned from google searches, public records, newspaper articles, local knowledge and even in-ear radios to provide information that they claim has been psychically divined, but that actually has a much more mundane source. Once the psychic has "proven" their abilities to someone in this way, people are much more likely to be invested in the reading and give positive feedback to the psychic. This feedback can help a psychic to make more educated guesses about the subject they are focussing on.
 >
 > Confirmation bias on the part of the person employing the psychic also has an effect. People tend to discard information that doesn’t fit with their existing knowledge, and remember information that accords with the picture they have in their minds. Therefore when it comes to psychics, who tend to make many, many guesses in the course of a reading, some of these guesses will be accurate purely by chance. People are much more likely to remember the guesses that are close to the truth, or that can be made somehow to fit the truth, and will tend to forget the statements that seem random or just plain wrong.
 >
@@ -56,7 +56,7 @@ Here are the questions I was asked, and the answers I provided:
 >
 > The police have previously told us that they:
 >
-> > “base their investigations and any subsequent prosecutions on tangible fact. They do not pay for Mediums, Clairvoyants, or other Psychics to provide them with information. Police will listen to information offered by any member of the public. Any follow-up action is based on what factual corroborating information can be used to support the information provided.”
+> > "base their investigations and any subsequent prosecutions on tangible fact. They do not pay for Mediums, Clairvoyants, or other Psychics to provide them with information. Police will listen to information offered by any member of the public. Any follow-up action is based on what factual corroborating information can be used to support the information provided."
 >
 > https://www.fyi.org.nz/request/979-use-of-psychics-by-nz-police
 >

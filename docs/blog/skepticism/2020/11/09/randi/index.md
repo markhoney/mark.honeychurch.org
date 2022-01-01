@@ -11,13 +11,13 @@ tags:
   - Randi
 ---
 
-If the US election hasn’t caused you enough stress, you could read a recent “take down” of James Randi titled [The man who destroyed skepticism](https://boingboing.net/2020/10/26/the-man-who-destroyed-skepticism.html), published soon after his death on the popular Boing Boing blog, that is sure to make your blood boil. I for one was very surprised and disappointed to see the Boing Boing website, which normally has a reputation for good quality reporting, hosting this hit piece written by Mitch Horowitz. Mitch is a believer in the spiritual realm, and [his own website](https://mitchhorowitz.com/) describes him as “a historian of alternative spirituality and one of today's most literate voices of esoterica, mysticism, and the occult”. The article includes such gems as:
+If the US election hasn’t caused you enough stress, you could read a recent "take down" of James Randi titled [The man who destroyed skepticism](https://boingboing.net/2020/10/26/the-man-who-destroyed-skepticism.html), published soon after his death on the popular Boing Boing blog, that is sure to make your blood boil. I for one was very surprised and disappointed to see the Boing Boing website, which normally has a reputation for good quality reporting, hosting this hit piece written by Mitch Horowitz. Mitch is a believer in the spiritual realm, and [his own website](https://mitchhorowitz.com/) describes him as "a historian of alternative spirituality and one of today's most literate voices of esoterica, mysticism, and the occult". The article includes such gems as:
 
 <!-- more -->
 
-> “In the end, the feted researcher was no skeptic. He was to skepticism what Senator Joseph McCarthy was to anticommunism — a showman, a bully, and, ultimately, the very thing he claimed to fight against: a fraud.”
+> "In the end, the feted researcher was no skeptic. He was to skepticism what Senator Joseph McCarthy was to anticommunism — a showman, a bully, and, ultimately, the very thing he claimed to fight against: a fraud."
 
-> “Randi's legacy should serve as a cautionary tale and a call to restore sound practices when discussing or writing about contentious topics in science or any field”
+> "Randi's legacy should serve as a cautionary tale and a call to restore sound practices when discussing or writing about contentious topics in science or any field"
 
 The thrust of Horowitz’s argument seems to be that Randi wasn’t polite enough when debunking fraudsters, and that sometimes he preferred using witty soundbites when talking with the media rather than using more nuanced, and technically correct, wording.
 

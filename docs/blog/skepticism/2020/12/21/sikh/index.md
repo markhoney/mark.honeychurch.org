@@ -12,7 +12,7 @@ tags:
   - Evangelicals
 ---
 
-I mentioned three weeks ago that I was going to visit the Ancient Mystical Order of Rosicrucians, and I can report that I survived the meeting intact. My friend Tim and I had a great chat with three of the group’s members about their beliefs, and about the history of the organisation. Much of what we heard sounded very familiar, with an organisational structure that reminded me of Scientology (making your way up the “Bridge”) and a belief in visualisation that was akin to Rhonda Byrne’s “The Secret”, where if you imagine something enough it will come true for you.
+I mentioned three weeks ago that I was going to visit the Ancient Mystical Order of Rosicrucians, and I can report that I survived the meeting intact. My friend Tim and I had a great chat with three of the group’s members about their beliefs, and about the history of the organisation. Much of what we heard sounded very familiar, with an organisational structure that reminded me of Scientology (making your way up the "Bridge") and a belief in visualisation that was akin to Rhonda Byrne’s "The Secret", where if you imagine something enough it will come true for you.
 
 <!-- more -->
 

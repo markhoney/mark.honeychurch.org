@@ -16,7 +16,7 @@ The Outdoors Party's health spokesperson recently [shared a video clip](https://
 
 <!-- more -->
 
-So, in a nutshell the codename the Secret Service used for Hillary when they protected her was “Evergreen”, and the Ever Given’s callsign was H3RC, which is similar to Hillary Rodham Clinton’s initials of HRC.
+So, in a nutshell the codename the Secret Service used for Hillary when they protected her was "Evergreen", and the Ever Given’s callsign was H3RC, which is similar to Hillary Rodham Clinton’s initials of HRC.
 
 Never mind that [Evergreen Marine](https://en.wikipedia.org/wiki/Evergreen_Marine) is the fifth largest shipping company in the world, so spurious connections with TV shows, news stories, code names and the like are bound to happen. What should we read into the fact that a truck carrying an Evergreen container recently found itself [stuck on the Shenzhen highway](https://www.nzherald.co.nz/world/first-ship-now-truck-carrying-evergreen-container-in-china-causes-traffic-jam-goes-viral/6U6W7MSNEPIFQTJSPAYUO4IIYM/) in China, blocking traffic? Surely it’s not coincidence if they block traffic twice? And what about the incident in 1992 where an Evergreen ship [lost a container](https://www.businessinsider.in/science/news/the-company-behind-the-suez-canal-blockage-once-spilled-28800-plastic-toys-into-the-ocean-in-the-1990s/articleshow/81708512.cms) that let loose thousands of rubber ducks into the ocean? Maybe these ducks were a secret messaging system used by human traffickers, much like homing pigeons?
 

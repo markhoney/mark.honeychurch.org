@@ -1,5 +1,5 @@
 ---
-title: Proof of UFOs is “just around the corner”...
+title: Proof of UFOs is "just around the corner"...
 slug: ufos
 date: 2021-06-23
 host: Graeme Hill
@@ -22,7 +22,7 @@ In a recent video, host Layman Pascal interviews Sean Esbjörn-Hargens on his th
 
 Promises of new evidence coming to light are not new. Since the 1950s, UFO believers have talked about how it’s only a matter of time before the government releases proof of UFOS, and they have hoped for a president that might do this for them. Despite these presidents coming to power, including JFK and more recently Donald Trump, no such trove has been forthcoming.
 
-This is something I see not just with UFO believers, but with a lot of people who have unproven beliefs. I’ve met with an acupuncturist who claimed that solid evidence that acupuncture works would be published soon - it’s now five years later, and it hasn’t happened yet. Vaccine deniers are constantly pushing “whistleblowers” in front of the camera to talk about cover-ups and the dangers of vaccination, and promising damning evidence. Unsurprisingly they always turn out to be lying, and the evidence is always a damp squib - either made up, or misrepresenting innocent documents.
+This is something I see not just with UFO believers, but with a lot of people who have unproven beliefs. I’ve met with an acupuncturist who claimed that solid evidence that acupuncture works would be published soon - it’s now five years later, and it hasn’t happened yet. Vaccine deniers are constantly pushing "whistleblowers" in front of the camera to talk about cover-ups and the dangers of vaccination, and promising damning evidence. Unsurprisingly they always turn out to be lying, and the evidence is always a damp squib - either made up, or misrepresenting innocent documents.
 
 But for many people this promise of evidence coming soon is enough. Just hearing someone say that the evidence exists, and that its release is imminent, gets translated into their minds into proof that the evidence is there, and that the strange idea the evidence is supposed to prove is real. They won’t think to set a calendar reminder for 6 months’ time to check up on whether this proof ever materialises, instead they’ll jump the gun and use the promise of the evidence to back up the belief they already hold. We should always be skeptical of people who make these kinds of promises, and make sure we hold them to account.
 
@@ -46,7 +46,7 @@ Although occasionally secret military technology, around real testing sites like
 
 It’s okay to see something in the sky and not know what it is - it happened to me just last week. I saw a yellow light hovering over Porirua, with no sound. As a skeptic I was happy to accept that maybe it was far enough away that I couldn’t hear the noise, and it was a helicopter. Or maybe it was moving, and I couldn’t judge its position well because I was in a moving car. It was quite possibly the moon. But, given everything we understand about the problems with interstellar travel, the Drake Equation, etc, I refrained from concluding that it was visiting aliens.
 
-It’s okay to say “I don’t know” when we’re faced with something strange - unless we’re in danger, we probably don’t need to know what the thing is. This is the case for lights in the sky and for “mutilated” cattle. Those cases are probably just scavengers feeding on dead livestock and normal decomposition, but we don’t need to know for certain to be fairly sure it’s not aliens.
+It’s okay to say "I don’t know" when we’re faced with something strange - unless we’re in danger, we probably don’t need to know what the thing is. This is the case for lights in the sky and for "mutilated" cattle. Those cases are probably just scavengers feeding on dead livestock and normal decomposition, but we don’t need to know for certain to be fairly sure it’s not aliens.
 
 As for the more direct evidence that aliens are visiting us - abductions, implants, meetings, etc - we’re usually expected to take people at their word that these events happened. Given how fantastical the claims are, it’s not enough to accept someone’s word. It’s much more likely that they are either mistaken or lying.
 

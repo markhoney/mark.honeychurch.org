@@ -18,7 +18,7 @@ Following on from the NZ Skeptics' submission to the Justice Select Committee a 
 
 ![Talking to MPs](./Submission.jpg)
 
-The submissions were all online, and we were given 10 minutes to talk - sandwiched between a coalition of Korean churches (who said that being gay is “wrong”, and that it should be their right to use a disproven, harmful therapy on their children) and the Young Nationals (who told MPs their membership were totally on board with the banning of conversion therapy, due to how harmful it can be and the lack of evidence of efficacy).
+The submissions were all online, and we were given 10 minutes to talk - sandwiched between a coalition of Korean churches (who said that being gay is "wrong", and that it should be their right to use a disproven, harmful therapy on their children) and the Young Nationals (who told MPs their membership were totally on board with the banning of conversion therapy, due to how harmful it can be and the lack of evidence of efficacy).
 
 As skeptics we detailed some of the evidence that conversion therapy does not work, and also made sure to mention its harms. We then went on to talk about our broad approval of the new legislation, and mentioned some of the changes we would like to see made to it.
 

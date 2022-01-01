@@ -1,6 +1,6 @@
 ---
-title:
-slug:
+title: Were Sodom and Gomorrah destroyed by an Asteroid?
+slug: sodom
 date: 2021-10-20
 host: Graeme Hill
 outlet: MagicTalk
@@ -13,90 +13,38 @@ tags:
   - Religion
 ---
 
-<!-- Output copied to clipboard! -->
-
-
-
-## Doctors Speaking Out with Science
-
-A few months ago Voices for Freedom, an anti-vaccine group of Multi-Level-Marketing Mums, created a group called [New Zealand Doctors Speaking Out with Science](https://nzdsos.com/) - with a website address of nzdsos.com. The group has 56 doctors as members who have apparently signed an open letter that erroneously states the following concerns:
-
-
-
-1. _The following are unknown:_
-    * _Effectiveness at preventing the individual from contracting COVID-19_
-    * _Effectiveness at preventing the spread of COVID-19_
-    * _Effectiveness of mitigating the clinical illness in those who do contract COVID-19_
-    * _The adverse events profile_
-2. _The legality of prescribing and administering a medication which is only provisionally approved. Once the New Zealand government was found to be in breach of the Medicines Act, it hastily changed the law without consultation_
-3. _The unknowns of this intervention in assessing and discussing the risks and benefits when counselling patients_
-4. _The use of lay vaccinators who would not be competent to undertake informed consent procedures with individuals_
-
-Many years ago in the US a group of Creationists, who believe the world could only have been created by a Christian God, put together a list of academics who support their position. In response, the National Center for Science Education made [a longer list](https://en.wikipedia.org/wiki/Project_Steve) of scientists called Steve who support evolution rather than creationism - the list currently has 1,465 names, and over half of them are biologists. This is many more than the total number of scientists (most of whom aren’t biologists) on the creationists’ list.
-
-The reason I mention this is because of a recent open letter that was penned in response to the Voices for Freedom anti-vaxx declaration and its signatories. The new open letter speaks out in support of the COVID vaccine, saying:
-
-
-    _We wish to present a united and evidence-based voice to the people of Aotearoa New Zealand in support of vaccination against COVID-19 for all eligible New Zealanders... We overwhelmingly support vaccination against COVID-19 and other public health measures such as mask use in public areas, physical distancing and hand hygiene. These measures are not just an individual choice: when we undertake these measures, we do so for our whānau, friends, work colleagues and the entire country._
-
-The letter has so far been signed by 6,535 New Zealand doctors who support vaccination - a group titled “[Doctors Stand Up For Vaccination](https://www.doctors-stand-up-for-vaccination.com/)”. Sadly when this letter was first published, it didn’t have a public list of names. But now, they’ve released a verified list of all six and a half thousand doctors - with their full names and specialties.
-
-It took a little while to convert the list to a spreadsheet and clean it up, but now I have a list of names I can process - and it turns out that there are a few popular New Zealand names in the list.
-
-There are 102 Davids, 95 Sarahs and 78 Andrews on the list. If we Include Daves and Saras, we have 109 Davids and 105 Sarahs. That’s almost double the 56 doctors who have apparently signed the NZDSOS list - if that number is even accurate. It turns out that the NZDSOS signatures aren’t public, and so are impossible to verify, and most doctors probably didn’t sign the open letter but just a “declaration” that mentions support of the Hippocratic oath, informed consent and the Bill of Rights.
-
-So, like the list in the US of Steves in support of the science of evolution outnumbering the number of scientists who think God created us, New Zealand has a list of doctors called Sarah who support mass vaccination that outnumbers the total number of doctors who have publicly supported an anti-vaccine group.
-
-So, I’m wondering what to do with this list. Maybe I’ll buy the domain name nzdssos.com - New Zealand Doctors called Sarah Speaking Out with Science, or nzdsoas.com - New Zealand Doctors Speaking Out with Actual Science - and put the list of doctors up there.
-
-
-## When Doctors go wrong
-
-One of the signatories to the NZD SOS declaration, Dr Matt Shelton, is an interesting case - he made the news a few weeks ago when he sent a text message to his patients saying:
-
-
-    _“Hi ---, your GP Dr Matt here. I cannot in conscience support of Covid vaccination of particularly, children, and pregnant and fertile women, from my assessment of current risks and benefits.”_
-
-The Medical Council received several complaints about Dr Shelton after this text message, and his employer, Tū Ora Compass Health, has now “[terminated his contract](https://www.stuff.co.nz/national/126234156/doctor-who-sent-antivax-text-to-patients-says-his-contract-has-been-terminated)” - fired him. When talking to the press, he’s sent some mixed messages; both regret for having upset some of his patients by sending them the text, and disappointment that he didn’t send it to even more patients.
-
-Elsewhere on the internet, I’ve been keeping an eye on Leighton Baker, who used to be head of the New Conservative political party. The party made the news before the last election with a policy stating that solo mothers would be placed either with their wider family or a “suitably trained/experienced couple” - this policy sounds like it’s straight out of The Handmaid’s Tale.
-
-I’ve been to see Leighton speaking live to a small group in Wellington before the election, and although he’s a nice enough guy he seems to think that the 1930s were the glory days of New Zealand, and that we need to return to the laws and morals of that era.
-
-Since Leighton was ousted from the New Conservatives, he’s been working hard to keep himself relevant. And he’s roped in one of his daughters to help - Leighton and Chantelle host regular video chats on Facebook. Recently the conversations have gone from decrying lockdowns to doubting vaccination, and Leighton - a builder by trade - has been sharing his “expert knowledge” with tips such as saying that because tradesmen are fit, they don’t need the vaccine. It truly is cringeworthy watching Leighton and Chantelle trying to court science deniers to build support. I’ve never been a fan of the New Conservatives or their vision, but at least Leighton seemed to be somewhat level headed while he was the head of the party.
-
-So now, in a meeting of minds, Leighton’s daughter Chantelle interviewed anti-vaccine doctor Matt Shelton a few days ago. The topic?
-
-
-    “_what could be causing magnetism in certain people and how Doctors are being told to treat those suffering_”.
-
-Audio from 1:56 to 2:58:
-
-[https://www.facebook.com/watch/?v=1300585417073572](https://www.facebook.com/watch/?v=1300585417073572)
-
-Dr Shelton’s right that there’s a Wikipedia page about [Human Magnetism](https://en.wikipedia.org/wiki/Human_magnetism), but he neglects to mention that it’s under the category of Paranormal, not medical science.
-
-Egged on by Chantelle, Dr Shelton goes on to say that he thinks Graphene Oxide may be responsible, and then finishes by postulating about how the vaccine may actually contain a tracking microchip:
-
-Audio from 34:18 to 34:52:
-
-[https://www.facebook.com/watch/?v=1300585417073572](https://www.facebook.com/watch/?v=1300585417073572)
-
-Hearing a registered doctor talking like this is so distressing! This is someone who is entrusted with people’s health and wellbeing, and he’s believing in vaccine conspiracies. I worry for his patients, and I even messaged a friend of mine who lives up the road from me in Plimmerton the other day to see if Dr Shelton had been his GP. Thankfully not, but who knows how many people’s heads he’s filled with his nonsense while chatting with them during consults.
-
-
-## Mike Adams behind mass misinformation campaign
-
-Mike Adams is well known to skeptics. For many years he’s run the Natural News website, which started out as a source of medical misinformation paired with a shop selling expensive, useless supplements. Some of his sillier posts included using a microscope to take zoomed-in photos of McDonald’s chicken nuggets as a way to make them look unappealing.
-
-Audio from 1:28 to 2:28
-
-[https://www.youtube.com/watch?v=N-7iULRLp3I&t=88s](https://www.youtube.com/watch?v=N-7iULRLp3I&t=88s)
-
-(Spoiler - the fibers and other structures are just small pieces of herbs, spices and other seasonings in the batter that look really weird when under extreme magnification)
-
-On Monday someone sent me a [fascinating article](https://arstechnica.com/information-technology/2021/10/hacker-x-the-american-who-built-a-pro-trump-fake-news-empire-unmasks-himself/) from Ars Technica titled _“Hacker X”—the American who built a pro-Trump fake news empire—unmasks himself_. The article talked about an IT engineer called Rob Willis who started work for an unnamed company back in 2015. Rob was tasked with setting up a social media wing of the company, posting regular news articles to the company’s website and other places. But after a while the kinds of stories he was asked to post  - chemtrails, the healing properties of lemons - were supplemented with political stories. The tactics changed as well, using techniques such as astroturfing - which is creating the illusion of a grassroots movement. This involves setting up lots of websites, Facebook groups, Twitter accounts, etc to make the original website’s messaging look more authentic and widespread. They also carefully chose what time of day to post different kinds of news stories, in order  to maximise engagement - an upbeat item in the morning, the day’s big story at 11am, and fringe conspiracy content late in the evening. The political stories also started to change, being less about the evils of government and more about the evils of Hillary Clinton and the genius of Donald Trump. Rob managed to increase the website’s reach to cover 30 million people a week, before he eventually quit in 2017.
-
-Well, now a [follow-up article](https://arstechnica.com/tech-policy/2021/10/disinformation-guru-hacker-x-names-his-employer-naturalnews-com/) from Ars Technica has named the company behind this massive misinformation campaign - and, surprise surprise, it was Mike Adams’ Natural News. Mike’s website selling brain boosters and other snake oil had morphed into a political juggernaut. Thankfully at some point after the 2016 US election, Google and other companies started delisting Natural News and Mike Adams’ other websites, ensuring that they no longer showed up in search results or were promoted to users. But it seems a lot of the damage had been done already. Along with Russian misinformation campaigns and other interests, in hindsight it appears that effective domestic social media marketing was also used to sway an election.
+[Retraction Watch](https://retractionwatch.com/2021/10/01/criticism-engulfs-paper-claiming-an-asteroid-destroyed-biblical-sodom-and-gomorrah/) has documented a recent debacle where an open access journal from Nature, called Scientific Reports, [published an article](https://www.nature.com/articles/s41598-021-97778-3) titled "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea". Tunguska, for those who’ve never heard of it, is the site in Russia where there was a suspected asteroid airburst 100 years ago. I love the Tunguska event - it’s one of those mysteries that looks so cool. Scientists were expecting an impact crater, but what they found was burned upright trees at the epicentre, and 80 million trees further out that had been knocked down - all facing away from the epicentre.
 
 <!-- more -->
+
+The article argued that bone and pot fragments found in Jordan by the [Tall el-Hammam Excavation Project](https://tallelhammam.com/) constitute good evidence that an asteroid exploded over the site around 3,600 years ago, and that this is evidence of the truth of the bible.
+
+This is one of many biblical archaeology papers that are written not as a search for the truth, but as an attempt to prove the existence of the Christian god. And it’s not good when science gets subverted in this way.
+
+Thankfully there have been some who have been willing to critique this paper and its conclusions. Mark Boslough, who wrote an older paper on asteroid air bursts that this Sodom paper references, had a lot to say about the legitimacy of this paper, especially as it’s been published in a journal owned by the prestigious Nature.
+
+Boslough pointed out [issues with the science](https://threadreaderapp.com/thread/1440816755161518082.html) in the paper, and I have no reason to doubt that he knows what he’s talking about. But what interested me more was how he detailed his [history of interactions](https://threadreaderapp.com/thread/1440378973309968391.html) with some of the scholars involved in writing the paper, [the authors’ credentials](https://threadreaderapp.com/thread/1440490620854800385.html), and the [specifics of the University](https://threadreaderapp.com/thread/1440099032001507329.html) which has been organising the archaeological dig in Jordan.
+
+Boslough listed each of the paper’s authors, saying for each of them "...is not a geologist", followed by details such as:
+
+* _"his PhD is in polymer science from University of Southern Mississippi"_
+* _"his PhD is from an unaccredited evangelical Christian institution that currently operates out of a small strip mall office with no evidence of students or faculty"; and_
+* _"He is a blogger from North Carolina. His blog profile says he has a BA in political science from U. North Carolina"_
+
+The only exception to this is a single geologist, and I love the way that Boslough worded the description of his colleague:
+
+> "_All his degrees are in earth science from reputable universities. I've done fieldwork with him at Tunguska & he is a careful & competent field researcher. I respectfully disagree with his interpretations._"
+
+This is such a polite put-down of a colleague, and I respect that.
+
+Other scientists with relevant expertise have jumped in, including Dr Chris Santis [who wrote](https://threadreaderapp.com/thread/1440404380386160646.html):
+
+> "_The authors have created this story of a blast wave incinerating and flaying exposed flesh, shattering bones into small fragments that scattered and were buried in a destruction layer, and charred anything exposed._
+>
+> _What do I see? I see a few bodies intercut by new building over time, no secure dating, and small bones of indeterminate species that are more likely to be dominantly local animals._"
+
+On top of all this, it turns out that someone helped to make the images in the paper look pretty by filling in unsightly gaps using a cloning tool in a piece of image manipulation software. As much as this looks like a genuine mistake rather than a deliberate effort to doctor the evidence, it shows how rookie the team are that they thought it was okay to just edit the images without disclosing their changes.
+
+Looking at the group that has been running the excavation project, their website says that the project is run by Trinity Southwest University’s College of Archaeology. What I’m having problems understanding is how a University with a "campus" and "departments" is run out of a shop front in a strip mall in Albuquerque. [Wikipedia](https://en.wikipedia.org/wiki/Trinity_Southwest_University) to the rescue, describing this particular university as an "_unaccredited evangelical Christian institution of higher education_". It all makes sense now - this is a quirk of the US education system, one of those religious diploma mills that are somehow legal to operate, even if the degrees they produce aren’t worth the paper they’re written on (let alone the thousands of dollars it likely costs to enrol).
+
+So it’s looking very much like this paper is a bust. The science is shoddy, the evidence has been compromised and misinterpreted, and the authors have a fixed conclusion that they’re working towards - the bible is the true word of god, and the site they’ve been working on for fifteen or more years is proof of one of its stories.

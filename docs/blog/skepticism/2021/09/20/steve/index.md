@@ -26,12 +26,11 @@ On the back of this, there has been some online speculation that Steve left the 
 
 I think the last one in particular gives the game away, given the rude pseudonym.
 
-There was also an image shared to Instagram that showed a screenshot of Steve in the show, wearing his signature green striped shirt and with a badly photoshopped US military vest and patches pasted on it. However, when you open the image you now see a blurred version with a warning saying “False Information. Reviewed by independent fact-checkers”:
+There was also an image shared to Instagram that showed a screenshot of Steve in the show, wearing his signature green striped shirt and with a badly photoshopped US military vest and patches pasted on it. However, when you open the image you now see a blurred version with a warning saying "False Information. Reviewed by independent fact-checkers":
 
 ![Blurred Image](./Blurred.jpg)
 
-
-Clicking on the See Post link opens the image, which has another link to the fact-check warning saying “See why fact-checkers say this is false”:
+Clicking on the See Post link opens the image, which has another link to the fact-check warning saying "See why fact-checkers say this is false":
 
 ![Steve](./Steve.jpg)
 
@@ -49,11 +48,11 @@ The text of the warning, from USA Today, lets people know that the image is not 
 >
 > Learn more about how Instagram is working with independent fact-checkers to reduce false information.
 
-Although in this case it seems obvious that the image is fake, and that maybe a “fact check” was not needed to debunk a badly photoshopped internet joke, it’s still great to see that there are news agencies who have the ability, and staff, to add these kinds of warnings to Instagram images. I’m sure many of you have seen similar warnings on Facebook, Twitter and other social media sites as well.
+Although in this case it seems obvious that the image is fake, and that maybe a "fact check" was not needed to debunk a badly photoshopped internet joke, it’s still great to see that there are news agencies who have the ability, and staff, to add these kinds of warnings to Instagram images. I’m sure many of you have seen similar warnings on Facebook, Twitter and other social media sites as well.
 
 In the age of weaponised misinformation being used against entire countries, tools like this that allow the countering of misinformation are going to be an important part of the effort to help people avoid falling down rabbit holes of misinformation. I’m sure most of us have at least one family member who, through social media, has gone from just believing in one pseudoscientific idea to spreading all kinds of nonsense through their posts and shares.
 
-Of course, this is not to say that this kind of fact checking is sufficient to fix the problem of disinformation campaigns. And these fact checking services don’t excuse the harm that social media companies often cause when they feed people nonsense as a way to keep them engaged and maximise the number of adverts they’re able to show you. But it’s a start at least, and it’s fascinating to see that even silly internet jokes need to be debunked, lest people actually believe them and end up with a warped world view where the “mainstream media” are hiding the truth from them.
+Of course, this is not to say that this kind of fact checking is sufficient to fix the problem of disinformation campaigns. And these fact checking services don’t excuse the harm that social media companies often cause when they feed people nonsense as a way to keep them engaged and maximise the number of adverts they’re able to show you. But it’s a start at least, and it’s fascinating to see that even silly internet jokes need to be debunked, lest people actually believe them and end up with a warped world view where the "mainstream media" are hiding the truth from them.
 
 I’ll leave you all with the wise words of Steve and Blue:
 

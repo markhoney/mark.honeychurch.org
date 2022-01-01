@@ -20,7 +20,7 @@ A MetService meteorologist has suggested the sightings may be of lenticular clou
 
 Green and red lights are also used by aeroplanes to let people know where the left (red) and right (green) sides of the plane are, much the same as boats have - red for port and green for starboard.
 
-Descriptions of “unexplainable” motion are often caused by movement of the person observing the object in the sky, rather than movement of the object itself. This is especially true when these objects are filmed on a phone - shaky hand-held cameras can add the appearance of very erratic movement.
+Descriptions of "unexplainable" motion are often caused by movement of the person observing the object in the sky, rather than movement of the object itself. This is especially true when these objects are filmed on a phone - shaky hand-held cameras can add the appearance of very erratic movement.
 
 Although none of this is proof that people in Hawkes Bay saw clouds and aeroplanes rather than UFOs, on the balance of probabilities it seems like a much more likely explanation.
 
@@ -42,4 +42,4 @@ A third has tracked down the type of night vision camera that has a triangular a
 
 @[youtube](https://youtu.be/-r2oaQWmqkk)
 
-It’s not okay for the media to not do their job properly, especially when it doesn’t take long to find reasonable explanations for these “unexplained phenomena” online with a simple google search. And interviewing people who believe in UFOs, treating them as “experts”, is just unacceptable. At least our local paper, in this case the Hawkes Bay Today, managed to do a half-decent job of asking someone who knew what they were talking about if there was a possible terrestrial explanation for the recent New Zealand sightings.
+It’s not okay for the media to not do their job properly, especially when it doesn’t take long to find reasonable explanations for these "unexplained phenomena" online with a simple google search. And interviewing people who believe in UFOs, treating them as "experts", is just unacceptable. At least our local paper, in this case the Hawkes Bay Today, managed to do a half-decent job of asking someone who knew what they were talking about if there was a possible terrestrial explanation for the recent New Zealand sightings.

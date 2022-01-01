@@ -14,4 +14,4 @@ Or, at the very least he’s [apparently quit politics](https://www.rnz.co.nz/ne
 
 <!-- more -->
 
-Of course, the void left by this conspiracy driven political movement will likely quickly be filled by the Outdoors Party and others. It wouldn’t surprise me if Mothers Who Stand for Freedom (Renee Argyros and Laura Surrich), Voices for Freedom (Claire Deeks), the Brave Truth Society (Damien De Ment), the Maori Ranger Security Division (Monica Eastick and Peter Martic) or some other conspiracy minded group tried to start a political party, in an effort to capture those voters who want to give their vote to an “alternative” party.
+Of course, the void left by this conspiracy driven political movement will likely quickly be filled by the Outdoors Party and others. It wouldn’t surprise me if Mothers Who Stand for Freedom (Renee Argyros and Laura Surrich), Voices for Freedom (Claire Deeks), the Brave Truth Society (Damien De Ment), the Maori Ranger Security Division (Monica Eastick and Peter Martic) or some other conspiracy minded group tried to start a political party, in an effort to capture those voters who want to give their vote to an "alternative" party.

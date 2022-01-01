@@ -22,7 +22,7 @@ Anway, here's the scary email in full:
 >
 > It would be highly beneficial to your privacy if you didn’t ignore it.
 >
-> I have placed a Malware on an adult website (…P…0…r…n site) and as you visited and watched the video your device has been affected, placing a spyware on your machine. Which has recorded you both with webcam and screen capture while you had your “fun Time” allowing me to see exactly what you see.
+> I have placed a Malware on an adult website (…P…0…r…n site) and as you visited and watched the video your device has been affected, placing a spyware on your machine. Which has recorded you both with webcam and screen capture while you had your "fun Time" allowing me to see exactly what you see.
 >
 > This has also affected your smartphone via an exploit. So do not think for one minute you can circumvent this by reinstalling your OS. You have already been recorded.
 >
@@ -34,7 +34,7 @@ Anway, here's the scary email in full:
 >
 > The address to make the payment is: 333vDCcYipberH4wKgMnXppaBeauRPoNH7
 >
-> If you don’t understand bitcoin, go on youtube and search for “how to buy bitcoin” or google for “localbitcoins”, its pretty easy to do it.
+> If you don’t understand bitcoin, go on youtube and search for "how to buy bitcoin" or google for "localbitcoins", its pretty easy to do it.
 >
 > You have only 48 hours after reading this e-mail to send payment (Be warned i know when you have opened and read this email, i have placed a pixel image inside it. Which enables me to know when you have opened the messaged on exactly what day and time)
 >
@@ -46,4 +46,4 @@ Anway, here's the scary email in full:
 >
 > Do not try to make contact with me because am using a victim email that was hacked and exposed.
 >
-> If you don't believe and want proof just reply to this email with “PROOF” and i will send your video to 5 of your contacts via email, and post on your Facebook wall. In which you will be able to remove it once, not forever.
+> If you don't believe and want proof just reply to this email with "PROOF" and i will send your video to 5 of your contacts via email, and post on your Facebook wall. In which you will be able to remove it once, not forever.

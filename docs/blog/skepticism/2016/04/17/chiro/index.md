@@ -57,25 +57,25 @@ Here is the full text of the letter:
 >
 > In March 2016, the Chiropractic Board of Australia—the Australian regulator of chiropractors—published a Statement on advertising relating to unsubstantiated claims made by many Australian chiropractors:
 >
-> > “Claims suggesting that manual therapy for spinal problems can assist with general wellness and/or benefit a variety of paediatric syndromes and organic conditions are not supported by satisfactory evidence. This includes claims relating to developmental and behavioural disorders, ADHD, autistic spectrum disorders, asthma, infantile colic, bedwetting, ear infections and digestive problems.”[^1]
+> > "Claims suggesting that manual therapy for spinal problems can assist with general wellness and/or benefit a variety of paediatric syndromes and organic conditions are not supported by satisfactory evidence. This includes claims relating to developmental and behavioural disorders, ADHD, autistic spectrum disorders, asthma, infantile colic, bedwetting, ear infections and digestive problems."[^1]
 >
 > The phenomenon of chiropractors making claims that are not supported by evidence is not new, nor is it restricted to Australia. In 2010, Ernst and Gilbey evaluated 200 websites advertising chiropractors based in Australia, Canada, New Zealand, the UK, and the US, and found that 190 of them made unsubstantiated claims regarding one or more of the specific conditions they were looking for.[^2]
 >
-> In 2015, we systematically evaluated 137 websites for chiropractic clinics based in New Zealand, taken from the first 30 pages of Google search results for “Chiropractor New Zealand”. We looked for claims that chiropractic manipulation can treat or improve ADHD, allergies, bed wetting, colic, or ear infections, as well as for any health testimonials used to promote their services.
+> In 2015, we systematically evaluated 137 websites for chiropractic clinics based in New Zealand, taken from the first 30 pages of Google search results for "Chiropractor New Zealand". We looked for claims that chiropractic manipulation can treat or improve ADHD, allergies, bed wetting, colic, or ear infections, as well as for any health testimonials used to promote their services.
 >
 > These conditions were chosen because we had previously observed chiropractors failing, when challenged via complaints to the Advertising Standards Authority, to provide evidence to substantiate claims that these conditions can be treated with chiropractic. Our own review of the literature also failed to find satisfactory evidence to substantiate any of these claims.
 >
 > There is regulation in place to prevent misleading and unsubstantiated claims being made in advertisements. Both the Fair Trading Act 1986[^3] and the Advertising Standards Authority’s Codes of practice[^4] have clauses prohibiting misleading and unsubstantiated claims. The New Zealand Chiropractic Board’s Advertising Policy also requires that:
 >
-> > “All advertising must… be presented in a manner that is accurate, balanced, and not misleading”[^5]
+> > "All advertising must… be presented in a manner that is accurate, balanced, and not misleading"[^5]
 >
 > Health testimonials were included in the search, as they can be both very convincing and very misleading. They are prohibited in this context by the Medicines Act 1981 Section 58(1)(c)(iii),[^6] as noted in the New Zealand Chiropractic Board’s Advertising Policy:
 >
-> > “A chiropractor shall not advertise any material which relates to the chiropractor’s qualifications, practices, treatment or the premises where they practice chiropractic if the material…uses testimonials whether from patients or any other person (see section on Medicines Act)”
+> > "A chiropractor shall not advertise any material which relates to the chiropractor’s qualifications, practices, treatment or the premises where they practice chiropractic if the material…uses testimonials whether from patients or any other person (see section on Medicines Act)"
 >
 > Interestingly, the Medical Council of New Zealand, whose role as the statutory regulator of medical professionals is equivalent to the New Zealand Chiropractic Board, notes in its recent proposal to amend their statement on advertising that:
 >
-> > “Council is proposing to prohibit the use of testimonials in medical advertising because they can be unreliable and misleading”[^7] [emphasis ours]
+> > "Council is proposing to prohibit the use of testimonials in medical advertising because they can be unreliable and misleading"[^7] [emphasis ours]
 >
 > | Claim                         | Quantity | Proportion |
 > | ----------------------------- | -------- | ---------- |

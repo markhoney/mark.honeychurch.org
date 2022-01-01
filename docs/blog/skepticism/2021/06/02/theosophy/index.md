@@ -12,7 +12,7 @@ tags:
   - Religion
 ---
 
-Last night I visited the [Theosophical Society](https://theosophy.nz/centres/wellington)’s building in Wellington to hear their National President, John Vorstermans, give a talk titled “The Ageless Wisdom”. The Society has a great little building on Marion Street, with a comfortable library of esoteric mystical books at the front, and a large main room with lots of wood and painted mystical symbols, and a particularly Masonic feel to it.
+Last night I visited the [Theosophical Society](https://theosophy.nz/centres/wellington)’s building in Wellington to hear their National President, John Vorstermans, give a talk titled "The Ageless Wisdom". The Society has a great little building on Marion Street, with a comfortable library of esoteric mystical books at the front, and a large main room with lots of wood and painted mystical symbols, and a particularly Masonic feel to it.
 
 <!-- more -->
 
@@ -22,7 +22,7 @@ John’s talk started by covering the basics of Theosophy - that the Society is 
 
 ![Freedom](./IMG_0406.jpg)
 
-Although the society’s motto is “There is no religion higher than Truth”, the fact that they seem to accept pretty much any spiritual belief without good evidence suggests that the truth is not particularly important to them. In a way it felt like the members were tourists, dabbling in spiritual ideas without actually committing to them beyond maybe just learning the basics and memorising a few quotes.
+Although the society’s motto is "There is no religion higher than Truth", the fact that they seem to accept pretty much any spiritual belief without good evidence suggests that the truth is not particularly important to them. In a way it felt like the members were tourists, dabbling in spiritual ideas without actually committing to them beyond maybe just learning the basics and memorising a few quotes.
 
 ![Objects](./IMG_0406.jpg)
 

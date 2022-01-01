@@ -18,7 +18,7 @@ A new astronomy paper suggests that the strange object named Oumuamua that passe
 
 Scientists have been genuinely baffled by what they saw when [Oumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua) passed through our solar system, in a trajectory and speed that didn’t match those of an object which originated from our solar system. It was also shiny, and accelerated as it went past, which was a little odd given that there was no visible tail from outgassing.
 
-Although most scientists accept that the most likely answer to this riddle is that the object is natural but unknown, Avi Loeb from Harvard insists that it’s aliens. In fact he seems impervious to alternative answers, even though they’re more plausible than his alien solar sail idea. This may be because he recently published a book called “Extraterrestrial: The First Sign of Intelligent Life Beyond Earth”, and accepting a natural origin makes the thesis of his book wrong.
+Although most scientists accept that the most likely answer to this riddle is that the object is natural but unknown, Avi Loeb from Harvard insists that it’s aliens. In fact he seems impervious to alternative answers, even though they’re more plausible than his alien solar sail idea. This may be because he recently published a book called "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth", and accepting a natural origin makes the thesis of his book wrong.
 
 This new paper suggests that the gas which propelled Oumuamua was nitrogen, and this would explain why no comet-like tail was visible.
 

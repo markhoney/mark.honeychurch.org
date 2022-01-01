@@ -17,7 +17,7 @@ Rebecca Booth, from Fairlie in the South Island, recently [found a seven leaf cl
 
 <!-- more -->
 
-A quick google search for Rebecca took me to the competition results for the 2019 Mackenzie A&P show, where among other accolades in the Home Produce section Rebecca won second place in the “Collection of Weeds” contest and first place in the “Bunch of Herbs, in a vase no more than 8 varieties” contest. This leads me to believe that Rebecca is somewhat in tune with the local greenery, something backed up by a quote in the Stuff article where she says “All my life, I’ve been pretty lucky finding multi-leaf clovers”.
+A quick google search for Rebecca took me to the competition results for the 2019 Mackenzie A&P show, where among other accolades in the Home Produce section Rebecca won second place in the "Collection of Weeds" contest and first place in the "Bunch of Herbs, in a vase no more than 8 varieties" contest. This leads me to believe that Rebecca is somewhat in tune with the local greenery, something backed up by a quote in the Stuff article where she says "All my life, I’ve been pretty lucky finding multi-leaf clovers".
 
 It’s great that Rebecca has such luck finding these rare clovers - a four leaf clover occurs about [once in every 5,000 plants](https://en.wikipedia.org/wiki/Four-leaf_clover). However, I’m guessing that her daily focus on clover and other plants means that she’s more likely than most to find these rarities.
 

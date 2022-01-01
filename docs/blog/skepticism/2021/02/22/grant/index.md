@@ -10,7 +10,7 @@ tags:
   - Politics
 ---
 
-MP Grant Robertson was on Peter Williams’ Magic Talk radio show this week when he was asked about the “Great Reset”. His immediate reaction was to quit the interview early. He has subsequently let Magic Talk know that he won’t be returning for his regular weekly slot with Williams. So, what’s going on in this drama that’s of interest to skeptics?
+MP Grant Robertson was on Peter Williams’ Magic Talk radio show this week when he was asked about the "Great Reset". His immediate reaction was to quit the interview early. He has subsequently let Magic Talk know that he won’t be returning for his regular weekly slot with Williams. So, what’s going on in this drama that’s of interest to skeptics?
 
 <!-- more -->
 
@@ -18,7 +18,7 @@ The Great Reset, for those who’ve not heard about this conspiracy theory, was 
 
 Unfortunately the conspiracy minded have decided that, like the UN’s Agenda 21 and 2030 before it, the Great Reset is secretly a global plan to take away our freedoms and impose a socialist prison state system that will enslave us all. Of course, these plans have never been proclaimed outright - you have to read between the lines of the documents to see the nefarious nature of these insidious ideas.
 
-As a backdrop to this event, Peter Williams has already been in the news recently for promoting anti-vaxx views. He recommended that viewers visit the Voices for Freedom website to find out more about the COVID vaccine. Unfortunately Voices for Freedom is a new group in New Zealand who have been hosting what they call “courageous conversations” around COVID, conversations which skeptics would be more likely to call “total and utter nonsense”. This includes claiming that masks are ineffective, casting doubt on PCR tests and vaccines, and promoting Ivermectin, vitamins and zinc as effective treatments/prophylactics for COVID.
+As a backdrop to this event, Peter Williams has already been in the news recently for promoting anti-vaxx views. He recommended that viewers visit the Voices for Freedom website to find out more about the COVID vaccine. Unfortunately Voices for Freedom is a new group in New Zealand who have been hosting what they call "courageous conversations" around COVID, conversations which skeptics would be more likely to call "total and utter nonsense". This includes claiming that masks are ineffective, casting doubt on PCR tests and vaccines, and promoting Ivermectin, vitamins and zinc as effective treatments/prophylactics for COVID.
 
 So when Peter asked Grant about the Great Reset, I’m guessing that Grant was well aware of Peter’s recent controversy and was primed for a silly question coming his way.
 

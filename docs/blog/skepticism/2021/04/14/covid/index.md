@@ -17,9 +17,9 @@ tags:
 
 <!-- more -->
 
-![Leaflet 1](images/image1.png)
+![Leaflet 1](./image1.png)
 
-![Leaflet 2](images/image2.png)
+![Leaflet 2](./image2.png)
 
 Thankfully the claims in this pamphlet are pretty easy to debunk:
 

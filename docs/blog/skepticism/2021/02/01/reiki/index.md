@@ -11,7 +11,7 @@ tags:
   - Reiki
 ---
 
-Or at least that’s what NewsHub would have us believe, with an [article published](https://www.newshub.co.nz/home/lifestyle/2021/01/auckland-reiki-healer-says-guided-energy-healing-on-the-rise-for-stressed-burnt-out-kiwis.html) on Tuesday about the benefits of Reiki, an energy healing technique that involves the practitioner manipulating your “energy field” by waving their hands around your body.
+Or at least that’s what NewsHub would have us believe, with an [article published](https://www.newshub.co.nz/home/lifestyle/2021/01/auckland-reiki-healer-says-guided-energy-healing-on-the-rise-for-stressed-burnt-out-kiwis.html) on Tuesday about the benefits of Reiki, an energy healing technique that involves the practitioner manipulating your "energy field" by waving their hands around your body.
 
 <!-- more -->
 
@@ -29,4 +29,4 @@ Anyway, the Reiki did nothing positive for me, beyond being nice and relaxing. O
 
 Back to the article - sadly it reads a lot like a paid advertisement for Olivia Scott’s Reiki practice in Auckland. Many claims are made, about Reiki’s efficacy and mechanism of action, as well as about its increase in popularity, but absolutely no evidence is given for any of this, and no time is given to the opposing, prevailing view of science that Reiki is bunkum. The article even finishes with a cringeworthy push for people to give up their hard-earned cash and try this ludicrous treatment:
 
-> “Whether you're looking for healing, more energy or just a sublime cozy nap - maybe skip the next F45 session and head to Scott's clinic for a session instead. Your cortisol levels will thank you.“
+> "Whether you're looking for healing, more energy or just a sublime cozy nap - maybe skip the next F45 session and head to Scott's clinic for a session instead. Your cortisol levels will thank you."

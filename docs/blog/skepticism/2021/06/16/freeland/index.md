@@ -34,21 +34,21 @@ Now, I’ve done this all at home - I had my 7 year old daughter make a flag, gr
 
 > This Facebook post is an official notice to the New Zealand government, and Porirua Council, that the land at 78 Mercury Way is now under Allodial Title, exclusively owned by the Honeychurch family. Please cease the charging of all rates and other fees, as the property is no longer under New Zealand jurisdiction.
 
-![alt_text](images/IMG_0474.jpg)
+![alt_text](./IMG_0474.jpg)
 
-![alt_text](images/IMG_0475.jpg)
+![alt_text](./IMG_0475.jpg)
 
-![alt_text](images/IMG_0477.jpg)
+![alt_text](./IMG_0477.jpg)
 
-![alt_text](images/IMG_0480.jpg)
+![alt_text](./IMG_0480.jpg)
 
-I suspect that, outside of having made my Facebook friends a little confused, this is not going to mean that Porirua Council stops sending me rates bills, and of course I’m not stupid enough to stop paying them. After we had done this, I explained to my daughters that we would no longer have to pay the council rates, or the bank a mortgage. My middle daughter said that was just “silly”, and that the council will probably just charge me more if I don’t pay, and might come round and knock my flag down as well.
+I suspect that, outside of having made my Facebook friends a little confused, this is not going to mean that Porirua Council stops sending me rates bills, and of course I’m not stupid enough to stop paying them. After we had done this, I explained to my daughters that we would no longer have to pay the council rates, or the bank a mortgage. My middle daughter said that was just "silly", and that the council will probably just charge me more if I don’t pay, and might come round and knock my flag down as well.
 
 Using this legal trick, Liz Lambert, the Counterspin host Kelvyn Alp, Damien De Ment and others have [claimed Abel Tasman](https://www.facebook.com/permalink.php?story_fbid=104897801538636&id=104863411542075) National Park as their new property, and renamed it New Freeland. They have invited people to move onto the land, and build properties, businesses, etc, with no rates or other fees to be paid.
 
 This whole daft idea is a lot like the Maori Ranger ID cards we looked into a month ago, with someone’s half-cocked idea of the law being used to magically override the legal system by supposedly leaving New Zealand’s jurisdiction. And, like the silly ID cards, there are already people being harmed by these ideas. A recent question from someone on the [New Freeland Facebook page](https://www.facebook.com/New-Freeland-Official-104863411542075/) asked:
 
-> “[I] Have refused to pay rates this last 1/4 now got a new rate DEMAND ( they are SO arrogant demanding not asking nicely!) with the added penalty on. What has anyone else done? replied or ignored?”
+> "[I] Have refused to pay rates this last 1/4 now got a new rate DEMAND ( they are SO arrogant demanding not asking nicely!) with the added penalty on. What has anyone else done? replied or ignored?"
 
 In the end this is going to cost some people a lot of money - and I suspect it will be those least able to pay the fees, fines, and legal bills that will accumulate the longer they refuse to pay their dues.
 

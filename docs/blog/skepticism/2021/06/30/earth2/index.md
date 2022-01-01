@@ -25,7 +25,7 @@ And that’s all there is. People are speculating by buying virtual land and hop
 
 Given the inexperience of the people running this project, and the gaming industry’s history of crowd funded projects either delivering a very bad product or no product at all (known as Vaporware), I suspect that this game is never going to see the light of day, and when everything crashes a lot of people will have lost their money. Just reading the promises they make sets alarm bells ringing:
 
-> “The Earth 2 terrain engine is able to render the entire Earth with extreme terrain and vegetation details not seen before in any game, where movement is without loading and popping artifacts at scale. This all with high performance and the ability to down-scale to lower hardware.”
+> "The Earth 2 terrain engine is able to render the entire Earth with extreme terrain and vegetation details not seen before in any game, where movement is without loading and popping artifacts at scale. This all with high performance and the ability to down-scale to lower hardware."
 
 This description just reads like the holy grail - and apparently a group of inexperienced developers in Melbourne, some with a history of making big promises and delivering sub-par games, are able to deliver this amazing product where the world’s largest, most experienced game development companies can’t.
 

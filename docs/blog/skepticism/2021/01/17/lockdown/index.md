@@ -32,24 +32,23 @@ Mary Byrne spoke briefly - she’s the head of **Fluoride Free NZ**, and her mis
 
 ### Antoinette James
 
-Antoinette James spoke as well - she’s a New Zealand author of a range of horrible books, including “**Call Us a Biblical Christian Family**”, about the importance of home schooling for Christians, and “**We Are Revolting**”, about secretive groups who control the world and want to destroy Christianity:
+Antoinette James spoke as well - she’s a New Zealand author of a range of horrible books, including "**Call Us a Biblical Christian Family**", about the importance of home schooling for Christians, and "**We Are Revolting**", about secretive groups who control the world and want to destroy Christianity:
 
-> “Ever wondered why there is no real desire from the ruling class to hold onto the ancient cultural landmarks? Why over 70 genders exist? Why populations are highly polarised as communities? And why the elite performed a multi-cultural social experiment across the West in the mid-1900s? A New World Order is coming. The world's nations even now are in freefall. When the oligarchy is organised enough, have control enough, they will speed-up their agenda.”
+> "Ever wondered why there is no real desire from the ruling class to hold onto the ancient cultural landmarks? Why over 70 genders exist? Why populations are highly polarised as communities? And why the elite performed a multi-cultural social experiment across the West in the mid-1900s? A New World Order is coming. The world's nations even now are in freefall. When the oligarchy is organised enough, have control enough, they will speed-up their agenda."
 
-
-> “**White genocide is not a new phenomenon. Hundreds of millions of white predominantly Christian individuals were sent to their deaths in pre-arranged wars and revolutions in the 20th Century**. That is more than the total count of all of history. In just 100 years the earth's white demographics went from 30% to 10% of the world's population. The globalists agenda for the 21st Century is not war, but a disenfranchising of white nations and cultures by managed food, water and health protocols.“
+> "**White genocide is not a new phenomenon. Hundreds of millions of white predominantly Christian individuals were sent to their deaths in pre-arranged wars and revolutions in the 20th Century**. That is more than the total count of all of history. In just 100 years the earth's white demographics went from 30% to 10% of the world's population. The globalists agenda for the 21st Century is not war, but a disenfranchising of white nations and cultures by managed food, water and health protocols."
 
 [https://www.amazon.com/WE-ARE-REVOLTING-Pill-Read/dp/1791752950](https://www.amazon.com/WE-ARE-REVOLTING-Pill-Read/dp/1791752950)
 
 ### Billy TK
 
-At the Wellington rally Billy talked about a range of topics, including “purple pink-haired communist“ Dr **Siouxie Wiles**, **Ashley “Doomfield”**, Agenda 21 & Agenda 2030, the **Great Reset** and schools teaching about **masturbation**:
+At the Wellington rally Billy talked about a range of topics, including "purple pink-haired communist" Dr **Siouxie Wiles**, **Ashley "Doomfield"**, Agenda 21 & Agenda 2030, the **Great Reset** and schools teaching about **masturbation**:
 
 @[youtube(https://youtu.be/ABXJ5-Mxu8I?t=2775)
 
 ### Rashid Buttar
 
-After talking, Billy phoned “Dr” Rashid Buttar and let him speak to the crowd. We were then told **11 reasons** why we should **refuse **the COVID vaccine. Those reasons included some of the rules for after you have been vaccinated:
+After talking, Billy phoned "Dr" Rashid Buttar and let him speak to the crowd. We were then told **11 reasons** why we should **refuse **the COVID vaccine. Those reasons included some of the rules for after you have been vaccinated:
 
 * You have to keep wearing a mask
 * You still have to social distance
@@ -93,7 +92,7 @@ The Auckland and Wellington rallies included many **signs **with silly messages 
 * I will not be muzzled, tested, tracked, [chipped](https://en.wikipedia.org/wiki/ID2020#COVID-19_conspiracy_theory) or vaccinated to support this orchestrated lie
 * COVID-19 is a manipulated UN/World/Media Instalment of a ‘[Global Reset](https://en.wikipedia.org/wiki/Great_Reset)’ for Socialist/Communist Totalitarian Control By the 1% Elite. We Do Not Consent
 
-The **march** in Auckland, down and back up Queen Street, included YouTube conspiracy video star **Vinny Eastwood** (whose channel was recently “demonetised”, causing him great consternation) shouting a variety of daft **chants** that the crowd (of maybe 150) echoed:
+The **march** in Auckland, down and back up Queen Street, included YouTube conspiracy video star **Vinny Eastwood** (whose channel was recently "demonetised", causing him great consternation) shouting a variety of daft **chants** that the crowd (of maybe 150) echoed:
 
 * No 1080, no fluoridation, no chemtrails, no Agenda 21
 * No more Labour, no more Greens, they’re corrupt

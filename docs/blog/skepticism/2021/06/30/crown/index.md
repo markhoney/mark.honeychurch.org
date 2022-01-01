@@ -26,9 +26,9 @@ Apparently the initials JC, from someone at the PMO (Prime Minister’s office),
 
 What this conspiracy fails to mention, which is obvious at the bottom of the page, is that, regardless of who may have signed it (with all the pomp and circumstance of purple thumb prints, names with colons and brackets, etc), the page is just a delivery receipt - nothing more. It seems that copies of this official looking document were delivered to the government a while ago, and that representatives were asked to sign to confirm they’d received their copies. This isn’t a signed agreement, as Liz seems to be telling everyone - just some senior government employees being polite to a group of conspiracy minded people who have no grasp of the law, and who have ended up writing pages and pages of pseudo-legal wiffle:
 
-> “The New Zealand Treasury, representative of HER MAJESTY THE QUEEN IN RIGHT OF NEW ZEALAND SEC CIK #0000216105 have failed to [re]spond/[re]but to the [o]rders,  claims/[de]mands; this qualifies tacit-[a]dmission, which is consent, a]ccepted-by-[e]quitable-[e]stoppel-by-[a]cquiescence;”
+> "The New Zealand Treasury, representative of HER MAJESTY THE QUEEN IN RIGHT OF NEW ZEALAND SEC CIK #0000216105 have failed to [re]spond/[re]but to the [o]rders,  claims/[de]mands; this qualifies tacit-[a]dmission, which is consent, a]ccepted-by-[e]quitable-[e]stoppel-by-[a]cquiescence;"
 
-However, Liz is at least correct that, if this was an agreement to hand over the rights to New Zealand to Lady Crown, it would be a bad thing for New Zealand. Apparently, as of November last year, the Queen of England and her family and staff (presumably including all government employees) are trespassing and are to be “jailed for the term of your natural life without mercy”.
+However, Liz is at least correct that, if this was an agreement to hand over the rights to New Zealand to Lady Crown, it would be a bad thing for New Zealand. Apparently, as of November last year, the Queen of England and her family and staff (presumably including all government employees) are trespassing and are to be "jailed for the term of your natural life without mercy".
 
 The queen is also required to pay back a rather large sum of money - nine hundred and eighty nine quattuordecillion Australian dollars:
 

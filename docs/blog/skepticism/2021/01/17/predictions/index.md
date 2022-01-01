@@ -41,7 +41,7 @@ These are a mix of the **silly** (what scientific reason could there be for stor
 
 The internet is awash with the idea that now dead psychic Sylvia Browne, a well known and much despised con artist, **predicted COVID** in a book many years ago:
 
-> “In around 2020 a severe pneumonia-like illness will spread throughout the globe, attacking the lungs and the bronchial tubes and resisting all known treatments.”
+> "In around 2020 a severe pneumonia-like illness will spread throughout the globe, attacking the lungs and the bronchial tubes and resisting all known treatments."
 > _End of Days: Predictions and prophecies about the end of the world, 2008._
 
 However, the book is filled with a scattershot-like list of wide-ranging predictions, most of which have not come to pass. For example, Sylvia asserted that **blindness would be cured by 2012** (showing a gross misunderstanding of blindness, with its many different biological causes) and that **paralysis and Parkinson’s would be eradicated by 2020**.
@@ -54,7 +54,7 @@ Unsurprisingly, many psychics are predicting continuing **turmoil** around the w
 
 ### June Field
 
-The “**world’s greatest psychic medium**” (the winner of a psychic TV show) has predicted, in the Guardian, that **2021** is “**a stepping stone to something better**” and that financially “**2022 feels lighter and brighter than 2021**”. It all felt a little too **nebulous** to be of any practical use.
+The "**world’s greatest psychic medium**" (the winner of a psychic TV show) has predicted, in the Guardian, that **2021** is "**a stepping stone to something better**" and that financially "**2022 feels lighter and brighter than 2021**". It all felt a little too **nebulous** to be of any practical use.
 
 Of course, it’s a common tactic of fortune tellers to speak in **vague platitudes** that make people feel better without ever saying anything concrete or useful.
 
@@ -64,7 +64,7 @@ Of course, it’s a common tactic of fortune tellers to speak in **vague platitu
 
 Apparently Nostradamus has predicted **zombies** for 2021, writing:
 
-> “**Few young people: half−dead to give a start**. Dead through spite, he will cause the others to shine, And in an exalted place some great evils to occur: Sad concepts will come to harm each one, Temporal dignified, the Mass to succeed. Fathers and mothers dead of infinite sorrows, Women in mourning, the pestilent she−monster: The Great One to be no more, all the world to end.”
+> "**Few young people: half−dead to give a start**. Dead through spite, he will cause the others to shine, And in an exalted place some great evils to occur: Sad concepts will come to harm each one, Temporal dignified, the Mass to succeed. Fathers and mothers dead of infinite sorrows, Women in mourning, the pestilent she−monster: The Great One to be no more, all the world to end."
 
 Nostradamus wrote a lot of vague quatrains of text, which people have spent countless hours retrospectively fitting to historical events. Other predictions for 2021, which people have tried to make from Nostradamus’ word salad, include **muslims** taking over the world, a large **comet** hitting earth, **famine**, **solar storms**, California destroyed by an **earthquake** and soldiers with **microchips** in their brains.
 

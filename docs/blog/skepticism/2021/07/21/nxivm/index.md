@@ -28,7 +28,7 @@ When Keith was eventually caught he was hiding in a closet in a rental property 
 
 Just last week Allison Mack was sentenced to 3 years in prison. She recently apologised for her part in the cult - something many senior members have never done. She said:
 
-> “I am so sorry to those of you that I brought into NXIVM. I am sorry I ever exposed you to the nefarious and emotionally abusive schemes of a twisted man. I am sorry that I encouraged you to use your resources to participate in something that was ultimately so ugly.”
+> "I am so sorry to those of you that I brought into NXIVM. I am sorry I ever exposed you to the nefarious and emotionally abusive schemes of a twisted man. I am sorry that I encouraged you to use your resources to participate in something that was ultimately so ugly."
 
 I highly recommend the Uncover podcast for anyone who’s interested in learning more about NXIVM. The creator of the podcast bumped into an old friend just after they had left the cult, and the ensuing recordings do a great job of laying bare what it was like to have been in the group.
 

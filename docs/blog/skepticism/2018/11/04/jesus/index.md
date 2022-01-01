@@ -16,7 +16,7 @@ tags:
   - Parliament
 ---
 
-There were hundreds of Christians at Parliament on Tuesday calling for the reinstatement of the name of Jesus in parliament’s prayer. There were people wearing Make America Great Again hats, bikers in leathers proclaiming the lord, and some pretty horrendous banners - including one calling Speaker of the House Trevor Mallard a “dishonourable Judas”.
+There were hundreds of Christians at Parliament on Tuesday calling for the reinstatement of the name of Jesus in parliament’s prayer. There were people wearing Make America Great Again hats, bikers in leathers proclaiming the lord, and some pretty horrendous banners - including one calling Speaker of the House Trevor Mallard a "dishonourable Judas".
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ The organisers seemed to be well bankrolled, with a stage and two large screens.
 
 @[youtube](https://youtu.be/7bTYpmLXVsU)
 
-Thomas Manch mentioned us in an [article for Stuff](https://www.stuff.co.nz/national/politics/108210971/parliamentary-prayer-rally-calls-for-speaker-to-reinstate-references-of-jesus), but I was surprised that he called us “hecklers”. To me, heckling is harassment of a speaker in order to try to stop them speaking. We in no way tried to cause issues for the organisers, speakers or attendees - we simply stood on the pavement outside of parliament and waved our banners while occasionally shouting out slogans like “all gods or none” or “separation of church and state”. Many people laughed at our signs and took pictures, nobody seemed to have any problems with us being there, some of us were prayed for, and we talked with several Christians in a friendly, understanding way.
+Thomas Manch mentioned us in an [article for Stuff](https://www.stuff.co.nz/national/politics/108210971/parliamentary-prayer-rally-calls-for-speaker-to-reinstate-references-of-jesus), but I was surprised that he called us "hecklers". To me, heckling is harassment of a speaker in order to try to stop them speaking. We in no way tried to cause issues for the organisers, speakers or attendees - we simply stood on the pavement outside of parliament and waved our banners while occasionally shouting out slogans like "all gods or none" or "separation of church and state". Many people laughed at our signs and took pictures, nobody seemed to have any problems with us being there, some of us were prayed for, and we talked with several Christians in a friendly, understanding way.
 
 One thing that surprised me in conversations we had with several of the Christians that had attended was that they agreed with our idea that parliament should be fair, and accepted that having just Jesus mentioned in prayer was not fair to other faiths. It struck me as funny that people would turn up to support a rally like this when they disagree with its central message. My guess is that their desire to show their devotion to their belief, and maybe some pressure from religious leaders, is enough to get them to turn up - and that in their heads they’re there to show their love for Jesus, not because of an issue with the parliamentary prayer.
 
@@ -40,7 +40,7 @@ Of course, this may be the case - not least because a hundred and fifty years ag
 
 There was an earthquake later in the day, which has been claimed as evidence that God is not happy about the prayer change:
 
-> “Seems the Lord chose to remind Parliament who is in control with a big earthquake that caused them to suspend business”
+> "Seems the Lord chose to remind Parliament who is in control with a big earthquake that caused them to suspend business"
 
 - [Source](https://www.facebook.com/events/226692421389621/permalink/298162054242657/)
 

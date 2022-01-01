@@ -12,7 +12,7 @@ tags:
   - Conspiracy
 ---
 
-A work colleague reached out to me the other day with an interesting question. One of his close family members has fallen down a conspiracy rabbit hole, and now spends a lot of time talking about QAnon, the “Deep State”, etc. Unfortunately, as is so often the case with these kinds of rabbit holes, it’s not entirely benign - the family member has now branched into COVID vaccine denial, which has a real chance of negatively impacting on their health.
+A work colleague reached out to me the other day with an interesting question. One of his close family members has fallen down a conspiracy rabbit hole, and now spends a lot of time talking about QAnon, the "Deep State", etc. Unfortunately, as is so often the case with these kinds of rabbit holes, it’s not entirely benign - the family member has now branched into COVID vaccine denial, which has a real chance of negatively impacting on their health.
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ So, what can you do when this happens to you? How do you counter the misinformat
 
 Firstly, you have to decide if it’s even worth engaging with them at all. It might well be that more damage would be done by trying to argue with them, where there’s a real risk of severing the bond you have. Often, when challenged about their world view, people will seek to minimise the discomfort of cognitive dissonance - being shown facts that don’t align with how they see the world. One way to minimise this discomfort is to sever ties with whatever, or whoever, is causing it. So there’s a real risk that if you try to challenge your dad about his crazy ideas, he might stop talking to you.
 
-However, something that helps with trying to engage with someone who is an ardent believer in conspiracy theories is that they’re often keen to talk about what they’ve learned, to show people that they are right and have discovered an important truth. Like so many people with a warped view of the world (psychics, alt-med sellers, etc), conspiracy theorists are generally “true believers”, and are convinced of the truth of the ideas they propagate. They often feel that it is important to convince other people of the truth of their ideas. Many conspiracy theories involve not just governments lying to us (about the moon landings or 9/11) but actively harming us, as is the case with chemtrails, vaccines, water fluoridation and the like - so it can becomes important for believers to help save others by convincing them that their welfare, or even their life, is at risk.
+However, something that helps with trying to engage with someone who is an ardent believer in conspiracy theories is that they’re often keen to talk about what they’ve learned, to show people that they are right and have discovered an important truth. Like so many people with a warped view of the world (psychics, alt-med sellers, etc), conspiracy theorists are generally "true believers", and are convinced of the truth of the ideas they propagate. They often feel that it is important to convince other people of the truth of their ideas. Many conspiracy theories involve not just governments lying to us (about the moon landings or 9/11) but actively harming us, as is the case with chemtrails, vaccines, water fluoridation and the like - so it can becomes important for believers to help save others by convincing them that their welfare, or even their life, is at risk.
 
 So, if you’re comfortable that you’re not going to be shunned or disinherited by speaking up, what can you do?
 

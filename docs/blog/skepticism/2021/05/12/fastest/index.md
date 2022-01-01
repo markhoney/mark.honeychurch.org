@@ -12,7 +12,7 @@ tags:
   - Trickery
 ---
 
-A video from “LADbible” has been doing the rounds recently, showing members of a Russian fitness group performing feats of amazing speed. The video shows several clips of them punching something or someone so quickly that you barely see any movement, punching in circles in front of their body with a speed that makes their arms blur, and repeatedly punching something in front of them at an unbelievable rate.
+A video from "LADbible" has been doing the rounds recently, showing members of a Russian fitness group performing feats of amazing speed. The video shows several clips of them punching something or someone so quickly that you barely see any movement, punching in circles in front of their body with a speed that makes their arms blur, and repeatedly punching something in front of them at an unbelievable rate.
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ A video from “LADbible” has been doing the rounds recently, showing members 
 
 [https://www.facebook.com/watch/?v=744481686247106](https://www.facebook.com/watch/?v=744481686247106)
 
-Each clip has some kind of “evidence” in it to show that it’s not faked - a timer running on a mobile phone, a TV playing at normal speed in the background, or a pendulum swinging, for example.
+Each clip has some kind of "evidence" in it to show that it’s not faked - a timer running on a mobile phone, a TV playing at normal speed in the background, or a pendulum swinging, for example.
 
 Of course, despite their assurances to the contrary, these guys are just trying to trick people. This becomes obvious when you replay the video at normal speed and look out for anomalies. For each apparent trick of superhuman speed, there will be telltale signs of video manipulation. So, how are they doing this?
 

@@ -22,9 +22,7 @@ When challenged he deleted his original tweet, but later [posted a clarification
 
 <embed-tweet value="https://twitter.com/spoiledtechie/status/1447572348475957253" />
 
-```
-“When you take things out of bath water, the bath water decreases, does it not? Got a lot of hate from your group for asking a question about taking things out of the water. Curious when you stopped believing in pure physics? I guess you don’t believe in science experiments?”
-```
+> "When you take things out of bath water, the bath water decreases, does it not? Got a lot of hate from your group for asking a question about taking things out of the water. Curious when you stopped believing in pure physics? I guess you don’t believe in science experiments?"
 
 So, someone was good enough to do the maths on this one, and calculated that if every vessel was removed from the ocean, the sea level would drop by about 0.006mm - and after about 16 hours warming will have caused the sea level to rise back to its original height.
 

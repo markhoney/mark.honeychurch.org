@@ -28,12 +28,12 @@ As part of this, SleepDrops needed to open up their books for potential investor
 
 The Stuff article also mentions that the Commerce Commission are dealing with a complaint about SleepDrops as well. I actually helped to write the complaint, which details illegal medical claims being made by the company, and also points out places where SleepDrops try to use sneaky wording to make claims without getting into trouble. Kirsten Taylor, who owns SleepDrops, admits in an article:
 
-> “We can’t even use the word insomnia on our website or in any of our marketing material… We’ve adapted though and it just means we have to be a bit more creative with our marketing and PR”
+> "We can’t even use the word insomnia on our website or in any of our marketing material… We’ve adapted though and it just means we have to be a bit more creative with our marketing and PR"
 
 This makes some of the claims on their website make sense:
 
-> “Due to New Zealand law we can't legally refer to them as a cure for insomnia but we are confident you will sleep better!”
+> "Due to New Zealand law we can't legally refer to them as a cure for insomnia but we are confident you will sleep better!"
 
-> “Legally (due to NZ med safe regulations) I am not allowed to go into any detail at all about what results people can expect from my SLEEP DROPS but the name of the product pretty much covers it.”
+> "Legally (due to NZ med safe regulations) I am not allowed to go into any detail at all about what results people can expect from my SLEEP DROPS but the name of the product pretty much covers it."
 
 Hopefully this spotlight on SleepDrops will help to expose the fact that there is no evidence that their products do anything at all to help you sleep, and that sneaky marketing is not okay.

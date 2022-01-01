@@ -57,7 +57,7 @@ Attaching a stick with a weight on it to the back end of a chicken makes it walk
 
 People who drive themselves to hospital and go over speed bumps may be able to diagnose appendicitis from the pain it causes.
 
-The high sensitivity of pain over speed bumps gives it a strong “rule-out value” and makes it a useful tool to use in excluding appendicitis and other important abdominal diagnoses. The low specificity, however, means that many patients with pain over speed bumps will not necessarily have appendicitis
+The high sensitivity of pain over speed bumps gives it a strong "rule-out value" and makes it a useful tool to use in excluding appendicitis and other important abdominal diagnoses. The low specificity, however, means that many patients with pain over speed bumps will not necessarily have appendicitis
 
 ## Hemolytic Activities of Stinging Insect Venoms
 
@@ -69,14 +69,14 @@ From Schmidt's descriptions:
 
 ### Bald-faced hornet
 
-> “rich, hearty, slightly crunchy. Similar to getting your hand mashed in a revolving door.”
+> "rich, hearty, slightly crunchy. Similar to getting your hand mashed in a revolving door."
 
 ### Yellowjacket
-> “hot and smoky, almost irreverent. Imagine WC Fields extinguishing a cigar on your tongue.” Both rate a two.
+> "hot and smoky, almost irreverent. Imagine WC Fields extinguishing a cigar on your tongue." Both rate a two.
 
 ### Bullet ant
 
-> “pure, intense, brilliant pain, like fire-walking over flaming charcoal with a three-inch rusty nail grinding into your heel”.
+> "pure, intense, brilliant pain, like fire-walking over flaming charcoal with a three-inch rusty nail grinding into your heel".
 Smith
 
 The most painful parts to be stung on: the nostril, the upper lip, the shaft of the penis.

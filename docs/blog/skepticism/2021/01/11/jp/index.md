@@ -15,4 +15,4 @@ I’m sure many skeptics have enjoyed JP Sears’ [parody videos](https://www.yo
 
 <!-- more -->
 
-The article talks about “conspirituality” - a mixture of conspiracy and spirituality. We’ve seen this recently in NZ, with some of the weirder summer festivals embracing conspiracy thinking, hosting conspiracy lectures and workshops, etc. At least it’s been good to see that some in the local spiritual community are concerned enough about this shift that they’re actively trying to combat it, both in the media and at the festival events.
+The article talks about "conspirituality" - a mixture of conspiracy and spirituality. We’ve seen this recently in NZ, with some of the weirder summer festivals embracing conspiracy thinking, hosting conspiracy lectures and workshops, etc. At least it’s been good to see that some in the local spiritual community are concerned enough about this shift that they’re actively trying to combat it, both in the media and at the festival events.

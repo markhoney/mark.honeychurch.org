@@ -13,7 +13,7 @@ tags:
   - COVID
 ---
 
-The Exclusive Brethren is a “high control” church run from Sydney by Bruce Hales, the “Elect Vessel”. “High control” is a term used to describe groups where the leadership exert a high degree of control over members’ private lives, including their finances, friendships and sex lives.
+The Exclusive Brethren is a "high control" church run from Sydney by Bruce Hales, the "Elect Vessel". "High control" is a term used to describe groups where the leadership exert a high degree of control over members’ private lives, including their finances, friendships and sex lives.
 
 The Exclusive Brethren are a breakaway group of Brethren who split from the Open Brethren many years ago, and are much more [insular and strict](https://en.wikipedia.org/wiki/Exclusive_Brethren#Criticism) that their Open cousins, including limiting members’ internet access.
 

@@ -13,11 +13,6 @@
 					<h3>
 						<router-link :to="post.path">{{post.title}}</router-link>
 					</h3>
-					<template v-if="excerpt && post.excerpt">
-						<span v-html="post.excerpt"/>
-						<em v-if="post.readingTime">{{post.readingTime.text}}, {{post.readingTime.words}} words.</em>
-						<router-link :to="post.path">Continue Reading...</router-link>
-					</template>
 					<taxonomy
 						v-if="taxonomy"
 						:post="post"
@@ -25,6 +20,11 @@
 						:categories="categories"
 						:tags="tags"
 					/>
+					<template v-if="excerpt && post.excerpt">
+						<p v-html="post.excerpt"/>
+						<p style="text-align: right"><em v-if="post.readingTime">{{post.readingTime.text}}, {{post.readingTime.words}} words.</em>
+						<router-link :to="post.path">Continue Reading...</router-link></p>
+					</template>
 				</li>
 				<!--<post v-for="post in posts" v-if="post.frontmatter.date == postdate" :key="post.path" :post="post" :excerpt="excerpt" :taxonomy="taxonomy" :sections="sections" :categories="categories" :tags="tags" />-->
 			</template>

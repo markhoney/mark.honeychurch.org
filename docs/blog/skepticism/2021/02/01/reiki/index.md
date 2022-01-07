@@ -2,7 +2,7 @@
 title: Reiki is here to save us all
 slug: reiki
 date: 2021-02-01
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

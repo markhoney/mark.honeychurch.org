@@ -2,7 +2,7 @@
 title: The Satanists are doing god’s work
 slug: satanists
 date: 2021-09-06
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

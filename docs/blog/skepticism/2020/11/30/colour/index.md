@@ -2,7 +2,7 @@
 title: Colour Therapy
 slug: colour
 date: 2020-11-30
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

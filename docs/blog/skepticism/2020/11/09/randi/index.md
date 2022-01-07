@@ -2,7 +2,7 @@
 title: Not everyone loved Randi
 slug: randi
 date: 2020-11-09
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

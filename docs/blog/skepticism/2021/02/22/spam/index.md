@@ -2,7 +2,7 @@
 title: Conspiracy spam
 slug: spam
 date: 2021-02-22
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

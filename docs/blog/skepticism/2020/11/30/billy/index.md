@@ -2,7 +2,7 @@
 title: Billy TK’s Religious Influences
 slug: billy
 date: 2020-11-30
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

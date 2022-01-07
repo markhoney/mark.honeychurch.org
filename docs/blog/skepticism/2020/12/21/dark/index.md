@@ -2,7 +2,7 @@
 title: Does anyone know what Dark DNA is?
 slug: dark
 date: 2020-12-21
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

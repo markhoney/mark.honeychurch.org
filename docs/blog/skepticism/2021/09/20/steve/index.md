@@ -2,7 +2,7 @@
 title: No, Steve from Blue’s Clues did not leave to join the Army
 slug: steve
 date: 2021-09-20
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

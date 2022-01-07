@@ -2,7 +2,7 @@
 title: Conversion Conversation
 slug: satanists
 date: 2021-09-20
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

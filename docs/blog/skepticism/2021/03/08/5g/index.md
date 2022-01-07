@@ -2,7 +2,7 @@
 title: Worried about 5G? There’s a pill for that!
 slug: 5g
 date: 2021-03-08
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

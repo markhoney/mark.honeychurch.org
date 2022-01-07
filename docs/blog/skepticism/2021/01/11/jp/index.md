@@ -2,7 +2,7 @@
 title: Beware of JP Sears
 slug: jp
 date: 2021-01-11
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

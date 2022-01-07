@@ -2,7 +2,7 @@
 title: Musical Vaccine
 slug: vaccine
 date: 2021-01-11
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

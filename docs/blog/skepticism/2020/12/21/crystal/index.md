@@ -2,7 +2,7 @@
 title: Crystal Healing that works?
 slug: crystal
 date: 2020-12-21
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

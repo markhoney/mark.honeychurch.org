@@ -2,7 +2,7 @@
 title: WWG1WGA
 slug: wwg1wga
 date: 2020-11-09
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

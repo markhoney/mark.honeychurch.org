@@ -2,7 +2,7 @@
 title: An alternative legal opinion
 slug: opinion
 date: 2021-08-22
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

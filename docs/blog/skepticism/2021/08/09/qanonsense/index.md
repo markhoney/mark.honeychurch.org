@@ -2,7 +2,7 @@
 title: QAnonsense
 slug: qanonsense
 date: 2021-08-09
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

@@ -2,7 +2,7 @@
 title: Grant Robertson has Had Enough
 slug: grant
 date: 2021-02-22
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

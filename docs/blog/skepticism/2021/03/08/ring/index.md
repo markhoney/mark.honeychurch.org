@@ -2,7 +2,7 @@
 title: Skeptics 0, Ken Ring 1
 slug: ring
 date: 2021-03-08
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

@@ -2,7 +2,7 @@
 title: Lockdown Bingo
 slug: bingo
 date: 2021-08-22
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

@@ -2,7 +2,7 @@
 title: Rush Limbaugh has Died
 slug: rush
 date: 2021-02-22
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

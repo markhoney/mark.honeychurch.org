@@ -2,7 +2,7 @@
 title: Don’t take Horse Dewormer
 slug: dewormer
 date: 2021-09-06
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

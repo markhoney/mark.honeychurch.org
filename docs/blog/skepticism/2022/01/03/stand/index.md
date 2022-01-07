@@ -2,7 +2,7 @@
 title: Lotus-Heart fined for "taking a stand"
 slug: stand
 date: 2022-01-03
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

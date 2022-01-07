@@ -2,7 +2,7 @@
 title: Jewish space laser
 slug: laser
 date: 2021-02-01
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

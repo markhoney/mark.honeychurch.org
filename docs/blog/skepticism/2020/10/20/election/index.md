@@ -2,7 +2,7 @@
 title: Election Special
 slug: election
 date: 2020-10-19
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

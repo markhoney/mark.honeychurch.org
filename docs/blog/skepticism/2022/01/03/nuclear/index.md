@@ -2,7 +2,7 @@
 title: Nuclear Gandhi
 slug: nuclear
 date: 2022-01-03
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

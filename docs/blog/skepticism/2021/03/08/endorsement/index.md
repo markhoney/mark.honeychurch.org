@@ -2,7 +2,7 @@
 title: An unexpected endorsement for the COVID vaccine
 slug: endorsement
 date: 2021-03-08
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

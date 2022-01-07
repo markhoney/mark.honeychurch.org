@@ -8,9 +8,11 @@
 <script>
 	export default {
 		mounted() {
-			let twitter = document.createElement("script");
-			twitter.setAttribute("src", "https://platform.twitter.com/widgets.js");
-			document.head.appendChild(twitter);
+			if (typeof window !== 'undefined') {
+				let twitter = window.document.createElement('script');
+				twitter.setAttribute('src', 'https://platform.twitter.com/widgets.js');
+				window.document.head.appendChild(twitter);
+			}
 		}
 	};
 </script>

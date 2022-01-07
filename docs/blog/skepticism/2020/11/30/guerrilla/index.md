@@ -2,7 +2,7 @@
 title: Guerrilla Skeptics strike again
 slug: guerrilla
 date: 2020-11-30
-outlet: Newsletter
+outlet: NZ Skeptics Newsletter
 layout: Post
 categories:
   - Skepticism

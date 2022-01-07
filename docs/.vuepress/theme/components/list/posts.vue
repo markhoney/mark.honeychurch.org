@@ -22,7 +22,9 @@
 						style="text-align: left"
 					/>
 					<template v-if="excerpt && post.excerpt">
-						<p v-html="post.excerpt"/>
+						<client-only>
+							<p v-html="post.excerpt"/>
+						</client-only>
 						<p style="text-align: right"><em v-if="post.readingTime">{{post.readingTime.text}}, {{post.readingTime.words}} words.</em>
 						<router-link :to="post.path">Continue Reading...</router-link></p>
 					</template>

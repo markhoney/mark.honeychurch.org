@@ -11,7 +11,9 @@
 			:tags="tags"
 		/>
 		<div v-if="excerpt && post.excerpt">
-			<span v-html="post.excerpt"/>
+			<client-only>
+				<span v-html="post.excerpt"/>
+			</client-only>
 			<router-link :to="post.path">Continue Reading...</router-link>
 		</div>
 	</li>

@@ -14,7 +14,9 @@
 						<router-link :to="post.path">{{post.title}}</router-link>
 					</h3>
 					<template v-if="excerpt && post.excerpt">
-						<span v-html="post.excerpt"/>
+						<client-only>
+							<span v-html="post.excerpt"/>
+						</client-only>
 						<em v-if="post.readingTime">{{post.readingTime.text}}, {{post.readingTime.words}} words.</em>
 						<router-link :to="post.path">Continue Reading...</router-link>
 					</template>

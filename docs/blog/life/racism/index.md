@@ -14,7 +14,7 @@ This week I have been in Brisbane, Australia on a training course. Yesterday eve
 
 <!-- more -->
 
-My colleague asserted that the Aboriginal community are given preferential treatment, which he has seen with his own eyes. When I asked about general numbers to back up hi assertions, I was told that Aborigines constitute 2% of the Australian population but are given 33% of total government spending. I was informed that this was a simple fact, and had been publicised on the Q&A TV program.
+My colleague asserted that the Aboriginal community are given preferential treatment, which he has seen with his own eyes. When I asked about general numbers to back up his assertions, I was told that Aborigines constitute 2% of the Australian population but are given 33% of total government spending. I was informed that this was a simple fact, and had been publicised on the Q&A TV program.
 
 Of course, I chose to immediately pull out my mobile phone and attempt to verify these facts.
 

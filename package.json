@@ -85,5 +85,9 @@
 		"vuepress-plugin-tabs": "^0.3.0",
 		"walk-sync": "^3.0.0",
 		"xmlhttprequest": "^1.8.0"
+	},
+	"dependencies": {
+		"cbor": "^8.1.0",
+		"vue-qrcode-reader": "^3.1.0"
 	}
 }

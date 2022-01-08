@@ -23,6 +23,7 @@ module.exports = {
 	evergreen: true,
 	temp: '.temp',
 	dest: 'dist',
+	port: 80,
 	// patterns: ['docs/**/*.md'],
 	// base: '/docs/',
 	themeConfig: {

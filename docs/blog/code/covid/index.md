@@ -10,7 +10,7 @@ tags:
   - QR
 ---
 
-
+I've been interested in the technology the government in New Zealand has chosen to use to help combat the spread of COVID-19. It's obvious that they are walking a tight rope between making effective tools and not unduly compromising the privacy of our citizens.
 
 <!-- more -->
 

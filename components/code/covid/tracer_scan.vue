@@ -3,7 +3,10 @@
 		<!--<qrcode-stream />
 		<qrcode-drop-zone />
 		<qrcode-capture />-->
-		<qrcode-stream @decode="onDecode" />
+		<client-only>
+			<qrcode-stream @decode="onDecode" />
+		</client-only>
+		<div>{{data}}</div>
 	</div>
 </template>
 

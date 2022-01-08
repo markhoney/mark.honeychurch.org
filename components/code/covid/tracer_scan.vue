@@ -1,8 +1,5 @@
 <template>
 	<div>
-		<!--<qrcode-stream />
-		<qrcode-drop-zone />
-		<qrcode-capture />-->
 		<client-only>
 			<qrcode-stream @decode="onDecode" />
 		</client-only>
@@ -11,12 +8,10 @@
 </template>
 
 <script>
-	import {QrcodeStream, QrcodeDropZone, QrcodeCapture} from 'vue-qrcode-reader';
+	import {QrcodeStream} from 'vue-qrcode-reader';
 	export default {
 		components: {
 			QrcodeStream,
-			QrcodeDropZone,
-			QrcodeCapture,
 		},
 		data() {
 			return {
@@ -24,13 +19,9 @@
 			};
 		},
 		methods: {
-			onDecode (decodedString) {
+			onDecode(decodedString) {
 				this.data = decodedString;
 			},
 		},
 	};
 </script>
-
-<style>
-
-</style>

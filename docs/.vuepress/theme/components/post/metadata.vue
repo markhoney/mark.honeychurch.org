@@ -9,6 +9,8 @@
 				domain: "https://mark.honeychurch.org" // this.$site.sitemap.domain
 			}
 		},
+		// head: {
+		// 	meta() {
 		metaInfo () {
 			return {
 				meta: [
@@ -34,23 +36,5 @@
 				return image;
 			}
 		},*/
-	/*	head: {
-			meta: function () {
-				return [
-					{property: 'og:locale', content: 'en_NZ'},
-					{property: 'og:type', content: 'website'},
-					{name: 'twitter:card', content: 'summary'},
-					{name: 'twitter:creator', content: '@markhoney'},
-					{name: 'author', content: 'Mark Honeychurch'},
-					{property: 'og:site_name', content: this.$site.title},
-					{property: 'og:title', content: this.$page.title},
-					{property: 'og:url', content: this.domain + this.$page.path},
-					{property: 'og:image', content: this.domain + this.image},
-					{property: 'og:description', content: this.$page.excerpt.replace(/<(?:.|\n)*?>/gm, '').trim()},
-					{name: 'description', content: this.$page.excerpt.replace(/<(?:.|\n)*?>/gm, '').trim()},
-					{name: 'keywords', content: this.$page.frontmatter.categories.concat(this.$page.frontmatter.tags).join(", ")}
-				]
-			}
-		}*/
 	};
 </script>

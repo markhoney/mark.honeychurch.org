@@ -35,7 +35,7 @@ Billy’s silly ideas are wide-ranging, although he seems particularly enamoured
 
 ### Siggi Henry
 
-Siggy Henry, Advance NZ’s Hamilton East candidate, has made the news in recent years as a Hamilton councillor, with such antics as trying to get free flu jabs for council staff defunded, being rabidly anti-vax and anti-fluoride, claiming that tampons and mammograms cause cancer and saying that overweight people are a health hazard because because they might fall on you. More on her dangerous views can be read at The Spinoff, in an article titled "Is Siggi Henry New Zealand’s most dangerous city councillor?". She received just 211 votes.
+Siggy Henry, Advance NZ’s Hamilton East candidate, has made the news in recent years as a Hamilton councillor, with such antics as trying to get free flu jabs for council staff defunded, being rabidly anti-vax and anti-fluoride, claiming that tampons and mammograms cause cancer and saying that overweight people are a health hazard because they might fall on you. More on her dangerous views can be read at The Spinoff, in an article titled "Is Siggi Henry New Zealand’s most dangerous city councillor?". She received just 211 votes.
 
 ### Nigel Antony Gray
 

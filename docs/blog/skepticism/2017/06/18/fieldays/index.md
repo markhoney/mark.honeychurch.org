@@ -15,7 +15,7 @@ tags:
   - Vet
 ---
 
-An [article in the Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11873100) this week talked about several innovations that were showcased at the Hamilton Fieldays event. Unfortunately, one of the products, [DermaShield](http://www.voxy.co.nz/business/5/275039), appears to be be very much pseudo-scientific.
+An [article in the Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11873100) this week talked about several innovations that were showcased at the Hamilton Fieldays event. Unfortunately, one of the products, [DermaShield](http://www.voxy.co.nz/business/5/275039), appears to be very much pseudo-scientific.
 
 <!-- more -->
 

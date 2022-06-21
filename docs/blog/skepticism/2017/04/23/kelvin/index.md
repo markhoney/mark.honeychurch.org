@@ -25,7 +25,7 @@ However, the Herald article contains several suggestions that Kelvin had more to
 
 Barely being able to see someone is a different thing to being unable to see someone.
 
-So what we have here is a psychic who knew Jonah Lomu well, was most likely able to see and recognise his brother in the audience, and gave out a mix of information that either he knew already from his friendship with Jonah or was somewhat generic - "him he didn't get the chance to say goodbye". Those kinds of statements will probably fit most people who have lost a loved one. How many people really really feel when they've lost someone close to them that they were able to say goodbye properly? I bet not many do. In fact, Kelvin himself says in the book:
+So what we have here is a psychic who knew Jonah Lomu well, was most likely able to see and recognise his brother in the audience, and gave out a mix of information that either he knew already from his friendship with Jonah or was somewhat generic - "him he didn't get the chance to say goodbye". Those kinds of statements will probably fit most people who have lost a loved one. How many people really feel when they've lost someone close to them that they were able to say goodbye properly? I bet not many do. In fact, Kelvin himself says in the book:
 
 > "It's not unusual for me to say those words – people are rarely able to say their farewells to their loved ones before they pass over, and this guy was no exception."
 

@@ -51,8 +51,6 @@ We handed out several flyers - an overview of Religious Instruction in schools a
 
 ### The Policy
 
-####
-
 > Religious Clubs
 >
 > A part of Hauora recognises the need for spiritual well-being. This encompasses the values and beliefs that determine the way people live, the search for meaning and purpose in life, and personal identity and self-awareness (For some individuals and communities, spiritual well-being is linked to a particular religion; for others, it is not).

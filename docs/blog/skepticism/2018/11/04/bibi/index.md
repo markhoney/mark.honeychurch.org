@@ -16,7 +16,7 @@ tags:
   - Pakistan
 ---
 
-Asia Bibi, who has been on death row in Pakistan for blasphemy for nearly 10 years, has  been acquitted this week. Unsurprisingly, this is far from the the end of her troubles.
+Asia Bibi, who has been on death row in Pakistan for blasphemy for nearly 10 years, has been acquitted this week. Unsurprisingly, this is far from the end of her troubles.
 
 <!-- more -->
 

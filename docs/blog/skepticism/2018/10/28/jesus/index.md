@@ -46,7 +46,7 @@ Their [press release](http://www.scoop.co.nz/stories/PO1810/S00258/protest-again
 
 Given that the changes that have been made to the prayer make it so that it retains the idea of god, but avoids mention of any specific god, it seems to me that rather than marginalising all faiths and religions, the changes open up the prayer to be meaningful to many other - but not all - faiths and religions.
 
-And, of course, we mustn't forget those of us who are are no faith or religion - the growing group of people in New Zealand who consider themselves in the census to be of "No religion". This demographic made up 42% of all kiwis in the 2012 census, and has been rising at a steady rate of 1% per year for the last 20 years or more - while the number of Christians has been dropping by about 1% per year, and was at 49% in the 2012 census
+And, of course, we mustn't forget those of us who are of no faith or religion - the growing group of people in New Zealand who consider themselves in the census to be of "No religion". This demographic made up 42% of all kiwis in the 2012 census, and has been rising at a steady rate of 1% per year for the last 20 years or more - while the number of Christians has been dropping by about 1% per year, and was at 49% in the 2012 census
 
 Of course, it shouldn't matter what the dominant religion is. Civil society should be secular, and stay neutral, in order to be welcoming of people of all beliefs - and that includes non-belief. Having Jesus in our parliamentary prayer was small issue, but it was an issue. It's good that's the Speaker of the House, Trevor Mallard, has fixed the problem, and sad to see people wanting to roll back progress so that their particular belief gets special treatment.
 

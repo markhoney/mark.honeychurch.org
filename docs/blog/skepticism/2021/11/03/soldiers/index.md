@@ -34,7 +34,7 @@ Obviously none of this is happening, but I was interested to find out where the 
 
 [https://www.bitchute.com/video/kRHjsy9m9KE3](https://www.bitchute.com/video/kRHjsy9m9KE3)
 
-Simon is known in the UK for having been a Labour councillor in Whitby... and for having having claimed that his adoptive mother was a 9ft tall alien, and that he fathered an alien baby with an alien called the Cat Queen. He’s also a QAnon believer and thinks that Electromagnetic Frequencies are making us all sick. He runs a YouTube channel called Connecting Consciousness where he just asserts all sorts of nonsense without any evidence - and this one particular video, mentioning New Zealand, seems to have been swallowed hook, line and sinker by our local conspiracy theorists.
+Simon is known in the UK for having been a Labour councillor in Whitby... and for having claimed that his adoptive mother was a 9ft tall alien, and that he fathered an alien baby with an alien called the Cat Queen. He’s also a QAnon believer and thinks that Electromagnetic Frequencies are making us all sick. He runs a YouTube channel called Connecting Consciousness where he just asserts all sorts of nonsense without any evidence - and this one particular video, mentioning New Zealand, seems to have been swallowed hook, line and sinker by our local conspiracy theorists.
 
 Although Simon says he’s not going to give a date, the date of November the 28th has been widely circulated through social media. And his words have been added to in online transcripts of the video, saying:
 

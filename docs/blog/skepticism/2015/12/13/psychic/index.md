@@ -20,7 +20,7 @@ Former accountant turned psychic [took $250 thousand](http://www.stuff.co.nz/nat
 
 Just lost his appeal for continued name suppression.
 
-Terence Harnett first had the couple hand over blank cheques, and then convinced them to to sign an "appointment of agent" document giving him direct access to their bank accounts.
+Terence Harnett first had the couple hand over blank cheques, and then convinced them to sign an "appointment of agent" document giving him direct access to their bank accounts.
 
 The couple's daughter became suspicious when the rest home bill was not paid, and on checking the accounts found that they had been cleared out. The daughter also said that she'd always considered Terence to be a bad clairvoyant as he was always getting things wrong (like every other psychic?!!)
 

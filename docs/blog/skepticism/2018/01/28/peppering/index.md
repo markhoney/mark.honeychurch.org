@@ -33,6 +33,6 @@ In Moeraki, they have a rabbit problem and are impatient to wait for the upcomin
 
 Local farmer Doug Stalker said he was "one of the keenest advocates of giving it a chance" but is not so sure as the rabbit population was pretty similar to what it was.
 
-Lincoln-based Landcare Research research leader Bruce Warburton said he, too, was a skeptic:
+Lincoln-based Landcare Research's research leader Bruce Warburton said he, too, was a skeptic:
 
 > "I would like to think that I am reasonably open-minded, so if somebody can set up an experiment and apply Western science to it, and show that it works, then great. But that hasn't been done"

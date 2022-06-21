@@ -15,7 +15,7 @@ tags:
   - HRV
 ---
 
-HRV has [had to pay out $400k](https://www.stuff.co.nz/business/108037249/water-filter-company-hrv-fined-400000-for-false-claims) for bad claims it made about its water filters. The interesting thing about this case, in my opinion, is that the the fine was given because it was shown that HRV didn't have the evidence for its claims when it made them.
+HRV has [had to pay out $400k](https://www.stuff.co.nz/business/108037249/water-filter-company-hrv-fined-400000-for-false-claims) for bad claims it made about its water filters. The interesting thing about this case, in my opinion, is that the fine was given because it was shown that HRV didn't have the evidence for its claims when it made them.
 
 <!-- more -->
 

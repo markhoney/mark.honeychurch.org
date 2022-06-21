@@ -52,7 +52,7 @@ async function getAll() {
 			cors.push(station);
 		} catch (e) {}
 	}
-	console.log('Wirting to', stationsFile);
+	console.log('Writing to', stationsFile);
 	writeFileSync(stationsFile, JSON.stringify(cors, null, '\t'));
 }
 

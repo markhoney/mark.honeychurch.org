@@ -1,11 +1,15 @@
 <template>
 	<form>
-		<button type='button' @click="start()">{{status}}</button>
-		<h2>Station: <a :href="stations[station].website">{{stations[station].name}}</a></h2>
+		<button type='button' @click="play = !play">{{play ? 'Stop' : 'Play'}}</button>
+		<h2>Station: <a v-if="station" :href="station.website">{{station.name}}</a></h2>
 		<h2>Number of Stations: {{number}}</h2>
 		<input id="number" type="range" min="2" max="16" v-model.number="number" :title="stations.slice(0, number).map((station) => station.name).join('\n')" />
-		<h2>Switches per second: {{rate}}</h2>
-		<input id="rate" type="range" min="1" max="10" v-model.number="rate" :title="(1 / rate).toFixed(2) + ' seconds per station'" />
+		<h2>Switches per {{per}} seconds: {{rate}}</h2>
+		<input id="rate" type="range" min="1" max="10" v-model.number="rate" :title="(per / rate).toFixed(2) + ' seconds per station'" />
+		{{index}}
+		<div v-if="play">
+			<audio v-for="(details, id) in stations" :key="id" :ref="'audio-' + id" controls autoplay disabled :src="details.url" />
+		</div>
 	</form>
 </template>
 
@@ -15,151 +19,52 @@
 			return {
 				number: 6,
 				rate: 2,
-				station: 0,
-				source: null,
-				//stations: [{name: '', url: ''}],
-				stations: require('./stations.json'),
-				audioCtx: null,
-				source: null,
-				audio: null,
-				buffer: null,
-				//streams: {},
-				status: 'Play'
+				per: 5,
+				index: 0,
+				allStations: require('./stations.json'),
+				interval: null,
+				play: false,
 			};
 		},
 		mounted() {
-			//this.stations = require('./stations.json');
+			this.retune();
+		},
+		computed: {
+			stations() {
+				return this.allStations.slice(0, this.number).sort(() => Math.random() - 0.5);
+			},
+			station() {
+				return this.stations[this.index];
+			},
 		},
 		methods: {
-			openSource: function() {
-				this.audio.src = this.stations[this.station].url;
-				//this.audio.play();
+			retune() {
+				clearInterval(this.interval);
+				if (this.play) this.interval = setInterval(() => {
+					this.index = Math.floor(Math.random() * this.number);
+				}, this.per * 1000 / this.rate);
 			},
-			openStreamAsync: function() {
-				const request = new XMLHttpRequest();
-				//request.responseType = 'arraybuffer';
-				request.open('GET', this.stations[this.station].url, false);
-				request.send();
-				this.source.buffer = this.audioCtx.createBuffer(request.response, false);
-				this.source.start(0);
-				//this.source.noteOn(0);
-			},
-			openStream: function() {
-				const request = new XMLHttpRequest();
-				request.open('GET', this.stations[this.station].url, true);
-				request.responseType = 'arraybuffer';
-				request.onload = function() {
-					this.audioCtx.decodeAudioData(request.response, function(buffer) {
-						this.source.buffer = buffer;
-					}, onError);
+			unmute(index) {
+				for (const [index, station] of this.stations.entries()) {
+					this.$refs['audio-' + index][0].muted = true;
 				}
-				request.send();
+				this.$refs['audio-' + index][0].muted = false;
 			},
-			startStream: function(id) {
-				if (!this.stations[id].stream) {
-					const request = new XMLHttpRequest();
-					request.open('GET', this.stations[id].url, true);
-					request.responseType = 'arraybuffer';
-					request.onerror = function() {
-						delete this.stations[id];
-					};
-					request.onload = function() {
-						this.stations[id].stream = request.response;
-						this.audioCtx.decodeAudioData(request.response, function(buffer) {
-							this.source.buffer = buffer;
-						}, console.log("Oops"));
-					}
-					request.send();
-				} else {
-					this.audioCtx.decodeAudioData(this.urls[id], function(buffer) {
-						this.source.buffer = buffer;
-					}, console.log("Oops"));
-				}
-			},
-			playStream: function(id) {
-				this.audioCtx.decodeAudioData(this.urls[id], function(buffer) {
-					this.source.buffer = buffer;
-				}, console.log("Oops"));
-			},
-			pauseStream: function(id) {
-				//this.urls[id].onload = null;
-			},
-			getStreamAsync: function(id) {
-				const source = this.audioCtx.createBufferSource();
-				const request = new XMLHttpRequest();
-				//request.responseType = 'arraybuffer';
-				request.open('GET', this.stations[this.station].url, false);
-				request.send();
-				source.buffer = this.audioCtx.createBuffer(request.response, false);
-				//source.start(0);
-				//source.noteOn(0);
-				return source;
-			},
-			getStream: function(id) {
-				const source = this.audioCtx.createBufferSource();
-				const request = new XMLHttpRequest();
-				request.open('GET', this.stations[this.station].url, true);
-				request.responseType = 'arraybuffer';
-				request.onload = function() {
-					this.audioCtx.decodeAudioData(request.response, function(buffer) {
-						source.buffer = buffer;
-					}, console.log("Oops"));
-				}
-				request.send();
-				return source;
-			},
-			startProper: function() {
-				if (this.status == 'Play') {
-					if (!this.audioCtx) {
-						this.audioCtx = new AudioContext();
-						this.source = this.audioCtx.createBufferSource();
-						//this.audio = new Audio();
-						//this.source = this.audioCtx.createMediaElementSource(this.audio);
-						//this.audio.play();
-						this.source.connect(this.audioCtx.destination);
-						this.source.start(0);
-						//this.source.noteOn(0);
-					}
-					this.status = "Pause";
-					this.loop();
-				} else {
-					this.status = "Play";
-				}
-			},
-			start: function() {
-				this.audioCtx = new AudioContext();
-				this.source = this.audioCtx.createBufferSource();
-				// this.audio = new Audio();
-				// this.source = this.audioCtx.createMediaElementSource(this.audio);
-				const request = new XMLHttpRequest();
-				request.open('GET', this.stations[15].url, true);
-				request.responseType = 'arraybuffer';
-				request.onload = function() {
-					this.audioCtx.decodeAudioData(request.response, function(buffer) {
-						this.source.buffer = buffer;
-					}, console.log("Oops"));
-				}
-				request.send();
-				// this.audio.play();
-				this.source.connect(this.audioCtx.destination);
-				// this.source.start(0);
-				//this.source.noteOn(0);
-				this.status = "Pause";
-			},
-			loop: function() {
-				setTimeout(() => {
-					this.station = Math.floor(Math.random() * this.number);
-					if (this.status == 'Pause') this.loop();
-				}, 10000 / this.rate);
-			}
 		},
 		watch: {
-			station: function(id, old) {
-				this.startStream(id);
-				//this.pauseStream(old);
-				//this.playStream(id);
+			number() {
+				this.retune();
+			},
+			rate() {
+				this.retune();
+			},
+			play() {
+				this.retune();
+			},
+			index() {
+				this.unmute(this.index);
 			}
-		}
+		},
 	};
 </script>
 

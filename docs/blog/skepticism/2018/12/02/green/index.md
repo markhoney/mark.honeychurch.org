@@ -1,5 +1,5 @@
 ---
-title: Go Green Expo
+title: Go Green Expo full of woo yet again
 slug: green
 date: 2018-12-02
 host: Graeme Hill

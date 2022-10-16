@@ -14,19 +14,20 @@
 		<h2>{{$page.title}}</h2>
 		<h4 v-if="$page.title && $page.frontmatter.date">{{date}}</h4>
 		<taxonomy :post="$page"/>
-		<!--<metadata :image="image" />-->
+		<metadata :image="image" />
 	</div>
 </template>
 
 <script>
 import Parallax from "vue-parallaxy";
 import Taxonomy from '@theme/components/post/taxonomy.vue';
-//import Metadata from "../post/metadata.vue";
+import Metadata from "../post/metadata.vue";
 export default {
-	components: {Parallax, Taxonomy}, //, Metadata
+	components: {Parallax, Taxonomy, Metadata},
 	computed: {
 		image() {
-			const image = this.$page.frontmatter.meta.find(p => p.property === 'og:image');
+			// console.log(this.$page.frontmatter);
+			const image = this.$page.frontmatter.meta && this.$page.frontmatter.meta.find(p => p.property === 'og:image');
 			/*'/media/images' +
 				(this.$page.path.startsWith('/blog/skepticism/')
 					? [

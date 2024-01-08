@@ -21,7 +21,7 @@
 		"dev:gridsome": "gridsome develop",
 		"dev:gridsome:info": "gridsome info",
 		"build": "yarn build:vuepress",
-		"build:vuepress": "cross-env NODE_OPTIONS='--max-old-space-size=4096' vuepress build docs",
+		"build:vuepress": "cross-env NODE_OPTIONS='--openssl-legacy-provider' vuepress build docs",
 		"serve": "vuepress serve docs",
 		"kill": "taskkill /IM node.exe /F",
 		"upgrade:major": "yarn upgrade-interactive --latest"

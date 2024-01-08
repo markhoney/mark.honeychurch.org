@@ -16,9 +16,6 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Override NODE options
-        run: echo "NODE_OPTIONS=--openssl-legacy-provider" >> $GITHUB_ENV
-
       - name: Get Yarn Cache
         id: yarn-cache
         run: echo "::set-output name=dir::$(yarn cache dir)"

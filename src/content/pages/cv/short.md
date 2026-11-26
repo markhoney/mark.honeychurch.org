@@ -1,6 +1,5 @@
 ---
 sidebar: auto
-permalink: /cv/short/
 ---
 
 # Mark Honeychurch

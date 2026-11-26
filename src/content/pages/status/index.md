@@ -1,6 +1,5 @@
 ---
 layout: Page
-permalink: /status/
 ---
 
 # My Status Online

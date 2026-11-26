@@ -6,5 +6,4 @@ categories:
 tags:
   - Software
   - Automation
-permalink: /blog/projects/automation/
 ---

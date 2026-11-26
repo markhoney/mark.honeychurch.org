@@ -7,5 +7,4 @@ tags:
   - HowTo
   - Mirror
   - Dashboard
-permalink: /blog/projects/mirror/
 ---

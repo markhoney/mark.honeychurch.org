@@ -1,6 +1,5 @@
 ---
 layout: Page
-permalink: /status/steam/
 ---
 
 # My Steam Account

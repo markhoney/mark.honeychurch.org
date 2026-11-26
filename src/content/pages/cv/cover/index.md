@@ -1,5 +1,4 @@
 ---
-permalink: /cv/cover/
 ---
 
 # Remember Inigo Montoya

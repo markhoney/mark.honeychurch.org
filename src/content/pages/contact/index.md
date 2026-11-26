@@ -1,6 +1,5 @@
 ---
 layout: Page
-permalink: /contact/
 ---
 
 # Contact

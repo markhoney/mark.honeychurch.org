@@ -125,7 +125,6 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: Title, name: title, widget: string, required: false}
-      - {label: URL, name: permalink, widget: string, hint: 'Absolute site path, for example /contact/ or /cv/full/'}
       - {label: Description, name: description, widget: string, required: false}
       - {label: Body, name: body, widget: markdown}
 
@@ -144,7 +143,6 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: Title, name: title, widget: string, required: false}
-      - {label: URL, name: permalink, widget: string}
       - label: Body
         name: body
         widget: markdown

@@ -1,6 +1,5 @@
 ---
 layout: Page
-permalink: /media/me/
 ---
 
 # Pictures of me

@@ -9,5 +9,4 @@
 #   - title: PLAY
 #     details: I am an active Skeptic and Humanist, with a common sense view of the world. I work to inform the public and protect them from nonsense.
 layout: Page
-permalink: /
 ---

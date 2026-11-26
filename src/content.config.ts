@@ -27,7 +27,7 @@ const blog = defineCollection({
 	loader: glob({
 		pattern: '**/*.{md,mdx}',
 		base: './src/content/blog',
-		generateId: ({entry}) => entry.replaceAll('\\', '/').replace(/\.md$/, ''),
+		generateId: ({entry}) => entry.replaceAll('\\', '/').replace(/\.(?:md|mdx)$/, ''),
 	}),
 	schema: sharedSchema,
 });
@@ -36,7 +36,7 @@ const pages = defineCollection({
 	loader: glob({
 		pattern: '**/*.{md,mdx}',
 		base: './src/content/pages',
-		generateId: ({entry}) => entry.replaceAll('\\', '/').replace(/\.md$/, ''),
+		generateId: ({entry}) => entry.replaceAll('\\', '/').replace(/\.(?:md|mdx)$/, ''),
 	}),
 	schema: sharedSchema,
 });

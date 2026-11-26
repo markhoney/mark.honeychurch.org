@@ -1,6 +1,5 @@
 ---
 layout: Page
-permalink: /test/
 ---
 
 # Handy Tests

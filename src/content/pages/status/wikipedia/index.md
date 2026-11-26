@@ -1,6 +1,5 @@
 ---
 layout: Page
-permalink: /status/wikipedia/
 ---
 
 # My Wikipedia Edits

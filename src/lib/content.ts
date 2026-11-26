@@ -10,7 +10,7 @@ export function pagePath(entry: ContentEntry): string {
 		return `/blog/${taxonomySlug(category)}/${entry.data.slug ?? entry.id}/`;
 	}
 	if (entry.data.permalink) return entry.data.permalink;
-	const path = entry.id.replace(/\.md$/, '').replace(/(^|\/)index$/, '$1');
+	const path = entry.id.replace(/\.(?:md|mdx)$/, '').replace(/(^|\/)index$/, '$1');
 	return `/${path}`.replace(/\/+$/, '') + '/';
 }
 

@@ -39,11 +39,6 @@ The length difference will become bigger for larger numbers, but the divergence 
 ### Live Conversion
 
 You can use the form below to see how long a decimal number is in both octal and binary. Edit the decimal number in the upper box, and the octal and binary conversions will happen automagically.
-
-<code-octal-dectooct />
-
 ### Code
 
 Here's the Vue I put together to do the conversion - this was about 5 minutes of coding, which is why I love Vue so much!
-
-<<< @/components/code/octal/dectooct.vue

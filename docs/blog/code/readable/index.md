@@ -90,8 +90,6 @@ I used the mathematical quotient (`//`) and modulus (`%`) to work out which row 
 
 I coded this blind, but of course people nearly always make mistakes when they code - and I'm no exception! I figured out how `tkinter` worked, so that I could get a fully working example up and running and iron out my mistakes. For the final code I also saved a pointer to each button in the source data array (at `number['button']`), so that the button can be referenced easily if needed. Here's the final tested script that, if you're using a [recent version of Python](https://www.python.org/downloads/release/python-381/) with `tkinter` bundled, should work out of the box:
 
-<<< @/docs/blog/code/readable/buttons.py
-
 ## Lessons
 
 I guess the point of this post is that making code that is readable is important. I've been guilty in the past of using short variable names, arrays instead of objects and run-on lines of code to save a few bytes, but - especially in this day and age, when storage is cheap - there's really no need to be saving a minuscule amount of space. It's much better to aim for clarity. Name your variables so that it's obvious to others - and to you, when you come back to your code after 6 months of doing other things - what data the variable holds. Similarly, use objects (dicts in Python) rather than arrays to hold heterogeneous data (data that's not all of the same type/use), and pick sensible key names for your object. You'll thank yourself for doing this. Given that you're using a data object, don't be scared to use sub-objects.

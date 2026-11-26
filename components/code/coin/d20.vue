@@ -1,42 +1,52 @@
 <template>
-	<div class="cube" @click="roll">
-		<div :class="side">
-			<figure class="face01">1</figure>
-			<figure class="face02">2</figure>
-			<figure class="face03">3</figure>
-			<figure class="face04">4</figure>
-			<figure class="face05">5</figure>
-			<figure class="face06">6</figure>
-			<figure class="face07">7</figure>
-			<figure class="face08">8</figure>
-			<figure class="face09">9</figure>
-			<figure class="face10">10</figure>
-			<figure class="face11">11</figure>
-			<figure class="face12">12</figure>
-			<figure class="face13">13</figure>
-			<figure class="face14">14</figure>
-			<figure class="face15">15</figure>
-			<figure class="face16">16</figure>
-			<figure class="face17">17</figure>
-			<figure class="face18">18</figure>
-			<figure class="face19">19</figure>
-			<figure class="face20">20</figure>
+	<div>
+		<div class="cube" @click="roll">
+			<div :class="side">
+				<figure class="face01">1</figure>
+				<figure class="face02">2</figure>
+				<figure class="face03">3</figure>
+				<figure class="face04">4</figure>
+				<figure class="face05">5</figure>
+				<figure class="face06">6</figure>
+				<figure class="face07">7</figure>
+				<figure class="face08">8</figure>
+				<figure class="face09">9</figure>
+				<figure class="face10">10</figure>
+				<figure class="face11">11</figure>
+				<figure class="face12">12</figure>
+				<figure class="face13">13</figure>
+				<figure class="face14">14</figure>
+				<figure class="face15">15</figure>
+				<figure class="face16">16</figure>
+				<figure class="face17">17</figure>
+				<figure class="face18">18</figure>
+				<figure class="face19">19</figure>
+				<figure class="face20">20</figure>
+			</div>
 		</div>
+		<p v-if="error" role="alert">{{error}}</p>
 	</div>
 </template>
 
 <script>
-	const axios = require("axios");
+	import axios from "axios";
 	export default {
 		data() {
 			return {
-				side: "show-1"
+				side: "show-1",
+				error: ""
 			};
 		},
 		methods: {
 			roll: async function () {
-				//this.side = "show-" + (Math.floor((await axios.get("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).data.data[0] / (256 / 20)) + 1);
-				this.side = "show-" + (Math.floor((await axios.get("https://www.random.org/cgi-bin/randbyte?nbytes=1&format=d")).data / (256 / 20)) + 1);
+				this.error = "";
+				try {
+					//this.side = "show-" + (Math.floor((await axios.get("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).data.data[0] / (256 / 20)) + 1);
+					this.side = "show-" + (Math.floor((await axios.get("https://www.random.org/cgi-bin/randbyte?nbytes=1&format=d")).data / (256 / 20)) + 1);
+				} catch (error) {
+					this.error = "The Random.org atmospheric-noise service could not be reached.";
+					console.error(error);
+				}
 			}
 		}
 	};

@@ -1,0 +1,12 @@
+---
+import ArticlePage from '../../components/ArticlePage.astro';
+import CodeSource from '../../components/CodeSource.astro';
+import TwitterProfile from '../../../components/embed/twitter.vue';
+import source from '../../../components/embed/twitter.vue?raw';
+import {requiredEntry} from '../../lib/page';
+const entry = await requiredEntry('status/twitter/index');
+---
+<ArticlePage entry={entry}>
+	<TwitterProfile client:visible />
+	<CodeSource name="embed/twitter.vue" source={source} />
+</ArticlePage>

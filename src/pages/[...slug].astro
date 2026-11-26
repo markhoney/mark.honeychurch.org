@@ -1,0 +1,46 @@
+---
+import {getCollection} from 'astro:content';
+import type {GetStaticPaths} from 'astro';
+import ArticlePage from '../components/ArticlePage.astro';
+import type {PageEntry} from '../lib/content';
+import {pagePath} from '../lib/content';
+
+export const getStaticPaths = (async () => {
+	const interactivePages = new Set([
+		'/blog/random/octal/',
+		'/blog/code/divider/',
+		'/blog/code/decrypt/',
+		'/blog/code/tone/',
+		'/blog/code/qr/',
+		'/blog/code/covid/',
+		'/blog/random/flip/',
+		'/blog/random/times/',
+		'/blog/random/evp/',
+		'/test/webcam/',
+		'/blog/random/music/',
+		'/blog/random/astrology/',
+		'/status/facebook/',
+		'/status/twitter/',
+		'/status/steam/',
+		'/status/wikipedia/',
+		'/blog/code/website/',
+		'/blog/code/website/site/',
+		'/blog/code/website/route/',
+	]);
+	const entries = (await getCollection('pages')).filter(
+		entry => pagePath(entry) !== '/' && !interactivePages.has(pagePath(entry)),
+	);
+	return entries.map(entry => ({
+		params: {slug: pagePath(entry).replace(/^\/|\/$/g, '')},
+		props: {entry},
+	}));
+}) satisfies GetStaticPaths;
+
+interface Props {
+	entry: PageEntry;
+}
+
+const {entry} = Astro.props;
+---
+
+<ArticlePage entry={entry} />

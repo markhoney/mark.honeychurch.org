@@ -23,12 +23,7 @@ If the Game mode worked as I'd hoped, I could possibly write plugins for newer g
 So, to test this, I borrowed a friend's intact shaker and sat on it - with it still embedded in the foam insert of the backpack. Then, with laptop in hand and the audio output of my laptop plugged into the audio in of the Aura amp, I started looking online for a simple tone generator. Unfortunately I couldn't find what I needed on the interwebs, but I figured that with modern JS Audio functions in the browser, it shouldn't be too hard to code one.
 
 So, without further ado, here's the result of a few minutes' effort while sitting on a triangle shaped vibrating pillow:
-
-<code-audio-tone />
-
 And here's the (relatively) simple code that generates these tones:
-
-<<< @/components/code/audio/tone.vue
 
 In the end, it appeared that the Game mode was somewhat more mundane. From what I could tell, because some early gaming systems like the Nintendo SNES didn't output much in the way of low frequency sound (which is understandable, given how cruddy most TV speakers were), the Game mode is likely to have simply shifted frequencies just above those that the Aura usually reacted to (maybe 50-100Hz) down to frequencies that the shaker would output (around 25-50Hz).
 

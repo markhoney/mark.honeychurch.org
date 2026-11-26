@@ -10,6 +10,8 @@
 </template>
 
 <script>
+	import stations from './stations.json';
+
 	export default {
 		data() {
 			return {
@@ -18,7 +20,7 @@
 				station: 0,
 				source: null,
 				//stations: [{name: '', url: ''}],
-				stations: this.shuffle(require('./stations.json')),
+				stations: this.shuffle(stations),
 				source: null,
 				audio: null,
 				buffer: null,
@@ -51,6 +53,7 @@
 					const j = Math.floor(Math.random() * (i + 1));
 					[array[i], array[j]] = [array[j], array[i]];
 				}
+				return array;
 			},
 			getStream: function(url) {
 				const request = new XMLHttpRequest();

@@ -1,4 +1,4 @@
-var fs = require('fs');
+import timesData from './times.json';
 
 function saveTime(output, type, time, newtime) {
 	if (!(time in output)) output[time] = {};
@@ -49,8 +49,8 @@ function buildTimes(output, type, times) {
 	});
 }
 
-module.exports = (clock = 24, format = 'js') => {
-	const times = require('./times.json');
+export default (clock = 24, format = 'js') => {
+	const times = timesData;
 	var output = {};
 	
 	buildTimes(output, 'vertical', times);

@@ -1,26 +1,36 @@
 <template>
-	<div id="coin" :class="side" @click="flip">
-		<div class="side-a"></div>
-		<div class="side-b"></div>
+	<div>
+		<div id="coin" :class="side" @click="flip">
+			<div class="side-a"></div>
+			<div class="side-b"></div>
+		</div>
+		<p v-if="error" role="alert">{{error}}</p>
 	</div>
 </template>
 
 
 <script>
-	const axios = require("axios");
+	import axios from "axios";
 	export default {
 		data() {
 			return {
-				side: ""
+				side: "",
+				error: ""
 			};
 		},
 		methods: {
 			flip: async function () {
 				this.side = "";
-				if ((await axios.get("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).data.data[0] % 2) {
-					this.side = "heads";
-				} else {
-					this.side = "tails";
+				this.error = "";
+				try {
+					if ((await axios.get("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).data.data[0] % 2) {
+						this.side = "heads";
+					} else {
+						this.side = "tails";
+					}
+				} catch (error) {
+					this.error = "The ANU quantum random number service could not be reached.";
+					console.error(error);
 				}
 			}
 		}

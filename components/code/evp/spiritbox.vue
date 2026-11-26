@@ -14,6 +14,7 @@
 </template>
 
 <script>
+	import stations from './stations.json';
 	export default {
 		data() {
 			return {
@@ -21,7 +22,7 @@
 				rate: 2,
 				per: 5,
 				index: 0,
-				allStations: require('./stations.json'),
+				allStations: stations,
 				interval: null,
 				play: false,
 			};
@@ -46,9 +47,13 @@
 			},
 			unmute(index) {
 				for (const [index, station] of this.stations.entries()) {
-					this.$refs['audio-' + index][0].muted = true;
+					const audio = this.$refs['audio-' + index];
+					if (Array.isArray(audio)) audio[0].muted = true;
+					else if (audio) audio.muted = true;
 				}
-				this.$refs['audio-' + index][0].muted = false;
+				const audio = this.$refs['audio-' + index];
+				if (Array.isArray(audio)) audio[0].muted = false;
+				else if (audio) audio.muted = false;
 			},
 		},
 		watch: {

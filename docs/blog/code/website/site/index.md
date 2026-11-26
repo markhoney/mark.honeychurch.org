@@ -4,5 +4,3 @@ slug: site
 ---
 
 # $site
-
-<code-vuepress-site />

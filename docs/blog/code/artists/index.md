@@ -20,13 +20,9 @@ Of course, I quickly realised that this would take a while to complete, so I sea
 
 So, after adding a list item for Album Art Downloader to the Wikipedia page, I downloaded installed the software. The Discogs plugin is capable of downloading album art images, which is great, but doesn't download artist images. As Album Art Downloader uses a plugin architecture, I figured it wouldn't be too hard to hack the existing Discogs script to use it for artist images. The existing plugin is at C:\Program Files\AlbumArtDownloader\Scripts\discogs.boo, and it consists of the following code:
 
-<<< @/docs/blog/code/artists/discogs.cs
-
 Well, I figured it wouldn't be too hard to make a copy of this and edit it to download artist images. The main changes need to be to change the Class name (to DiscogsArtist), change the plugin details, make the first search look for artists only (change _query as string = artist + " " + album_ to _query as string = album_), remove the extra code between the artist/album search and the image search and change the RegEx search for images within the page to search for files beginning with _A-_ (Artist) instead of _R-_ (Release).
 
 What we come up with is the following script:
-
-<<< @/docs/blog/code/artists/discogartists.cs
 
 I saved this as _discogartists.boo_ and copied it to the plugins directory. When I first started up Album Art Downloader, I received complaints about indenting - as it turns out that indenting is used to mark loops and the like in the plugin. After fixing the indenting, Album Art Downloader ran without any complaints - woo hoo!
 

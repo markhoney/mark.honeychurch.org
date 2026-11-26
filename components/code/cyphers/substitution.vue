@@ -6,7 +6,7 @@
 </template>
 
 <script>
-	const substitution = require("./substitution");
+	import substitution from "./substitution.js";
 	export default {
 		data() {
 			return {

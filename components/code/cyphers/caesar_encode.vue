@@ -10,7 +10,7 @@
 </template>
 
 <script>
-	const caesar = require("./caesar");
+	import caesar from "./caesar.js";
 	export default {
 		data() {
 			return {

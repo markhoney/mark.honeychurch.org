@@ -6,7 +6,7 @@
 		<ul>
 			<li v-for="page in pages">
 				<a
-					:href="'http://en.wikipedia.org/?curid=' + page.pageid"
+					:href="'https://en.wikipedia.org/?curid=' + page.pageid"
 					:title="page.comment"
 				>{{page.title}}</a>
 			</li>
@@ -17,7 +17,7 @@
 
 <script>
 // https://www.mediawiki.org/wiki/API:Usercontribs
-const axios = require('axios');
+import axios from 'axios';
 
 export default {
 	data() {
@@ -28,7 +28,7 @@ export default {
 			total: 0
 		};
 	},
-	async beforeMount() {
+	async mounted() {
 		this.edits = (await axios.get(
 			'https://en.wikipedia.org/w/api.php?action=query&list=usercontribs&format=json&origin=*&uclimit=500&ucuser=' + this.account
 		)).data.query.usercontribs;

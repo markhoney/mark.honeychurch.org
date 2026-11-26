@@ -74,17 +74,11 @@ Of course clever things could be done with dictionary lookups, first/last letter
 Type some text in the left text box, and choose your rotation amount. Remember to type something in English - gobbledygook won't be decypherable.
 
 The encrypted text will show in the right text box. Copy this text.
-
-<code-cyphers-caesar_encode />
-
 ## Decryption
 
 Paste the text from above into the left box below. An algorithm will attempt to use letter frequencies to calculate what rotation was used to encrypt the text, and will show both the rotation and the original text.
 
 The code used for the text boxes below is not connected to the text boxes above in any way, so no cheating is going on! (If you don't believe me, [go here](http://theblob.org/rot.cgi) to create some rotated text and paste it into the bottom left box for decoding, without using the top encoding text boxes)
-
-<code-cyphers-caesar_decode />
-
 Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 ## Code
@@ -95,15 +89,11 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
 
-<<< @/components/code/cyphers/caesar_encode.vue
-
 :::
 
 ::: tab decode.vue
 
 This Vue component computes the most likely rotation of a piece of encrypted text, and then displays that rotation. It also computes and displays the plain text, using the computed rotation value.
-
-<<< @/components/code/cyphers/caesar_decode.vue
 
 :::
 
@@ -111,23 +101,17 @@ This Vue component computes the most likely rotation of a piece of encrypted tex
 
 This function is based on one written by me as part of a [CodeWars Kata](https://www.codewars.com/kata/530e15517bc88ac656000716), and performs both the rotation and decryption.
 
-<<< @/components/code/cyphers/caesar.js
-
 :::
 
 ::: tab frequencies.json
 
 This is the data set of letter frequencies in English that I use for decryption.
 
-<<< @/components/code/cyphers/frequencies.json
-
 :::
 
 ::: tab rotx.php
 
 Out of interest, here's the original code I wrote in PHP. It took me an hour or so to convert this to the Vue example above.
-
-<<< @/docs/blog/code/decrypt/rotx.php
 
 :::
 
@@ -136,5 +120,3 @@ Out of interest, here's the original code I wrote in PHP. It took me an hour or 
 ## Substitution Cypher
 
 Taking this idea further, a piece of text could be encoded by randomly switching letters, rather than just shunting the alphabet. This would be harder to decrypt than a Caesar cypher, but with enough text we should still be able to decode a message by calculating letter frequencies and comparing them to our reference frequencies.
-
-<!--<code-cyphers-substitution />-->

@@ -1,0 +1,30 @@
+---
+import media from '../data/media.json';
+---
+
+<div class="table-scroll">
+	<table>
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Publication</th>
+				<th>Article</th>
+			</tr>
+		</thead>
+		<tbody>
+			{
+				media.map(article => (
+					<tr>
+						<td>{article.date}</td>
+						<td>{article.publication}</td>
+						<td>
+							<a href={article.url} target="_blank" rel="noopener noreferrer">
+								{article.title}
+							</a>
+						</td>
+					</tr>
+				))
+			}
+		</tbody>
+	</table>
+</div>

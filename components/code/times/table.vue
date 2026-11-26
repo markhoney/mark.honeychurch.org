@@ -12,20 +12,22 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr v-for="time in times" v-if="time && 'time' in time">
-					<td>{{time.time}}</td>
-					<td>{{time.vertical || ''}}</td>
-					<td>{{time.horizontal || ''}}</td>
-					<td>{{time.rotated || ''}}</td>
-					<td>{{time.reversed || ''}}</td>
-				</tr>
+				<template v-for="time in times">
+					<tr v-if="time && 'time' in time" :key="time.time">
+						<td>{{time.time}}</td>
+						<td>{{time.vertical || ''}}</td>
+						<td>{{time.horizontal || ''}}</td>
+						<td>{{time.rotated || ''}}</td>
+						<td>{{time.reversed || ''}}</td>
+					</tr>
+				</template>
 			</tbody>
 		</table>
 	</section>
 </template>
 
 <script>
-	const times = require("./times");
+	import times from "./times.js";
 	export default {
 		props: ["clock"],
 		computed: {

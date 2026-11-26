@@ -13,6 +13,7 @@
 				power: -1,
 				filter: null,
 				destination: null,
+				stream: null,
 				status: 'Play'
 			};
 		},
@@ -28,10 +29,10 @@
 			start: function() {
 				if (this.status == 'Play') {
 					if (!this.destination) {
-						if (navigator.getUserMedia) {
-							navigator.getUserMedia(
-								{audio: true},
-								(stream) => {
+						if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+							navigator.mediaDevices.getUserMedia({audio: true})
+								.then((stream) => {
+									this.stream = stream;
 									const audioCtx = new AudioContext();
 									const source = audioCtx.createMediaStreamSource(stream);
 									this.filter = audioCtx.createGain();
@@ -40,11 +41,11 @@
 									source.connect(this.filter);
 									this.filter.connect(this.destination);
 									this.status = "Pause";
-								},
-								function() {
-									console.log("Error");
-								}
-							);
+								})
+								.catch((error) => {
+									this.status = "Microphone unavailable";
+									console.error(error);
+								});
 						}
 					} else {
 						this.filter.connect(this.destination);
@@ -60,6 +61,9 @@
 			gain: function(val, old) {
 				if (this.filter) this.filter.gain.value = val;
 			}
+		},
+		beforeUnmount() {
+			if (this.stream) this.stream.getTracks().forEach(track => track.stop());
 		}
 	};
 </script>

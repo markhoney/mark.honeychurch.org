@@ -1,5 +1,6 @@
-exports.decrypt = (text) => {
-	const frequencies = require("./frequencies.json");
+import frequencies from "./frequencies.json";
+
+export const decrypt = (text) => {
 	const order = Object.keys(frequencies).sort((a, b) => frequencies[a] - frequencies[b]);
 	let letters = {};
 	text = text.toLowerCase();
@@ -10,3 +11,5 @@ exports.decrypt = (text) => {
 	const docOrder = Object.keys(letters).sort((a, b) => letters[a] - letters[b]);
 	
 };
+
+export default {decrypt};

@@ -1,0 +1,16 @@
+---
+import ArticlePage from '../../../components/ArticlePage.astro';
+import CodeSource from '../../../components/CodeSource.astro';
+import EvpRecorder from '../../../../components/code/evp/recorder.vue';
+import recorderSource from '../../../../components/code/evp/recorder.vue?raw';
+import SpiritBox from '../../../../components/code/evp/spiritbox.vue';
+import spiritBoxSource from '../../../../components/code/evp/spiritbox.vue?raw';
+import {requiredEntry} from '../../../lib/page';
+const entry = await requiredEntry('blog/random/evp/index');
+---
+<ArticlePage entry={entry}>
+	<EvpRecorder client:load />
+	<CodeSource name="code/evp/recorder.vue" source={recorderSource} />
+	<SpiritBox client:load />
+	<CodeSource name="code/evp/spiritbox.vue" source={spiritBoxSource} />
+</ArticlePage>

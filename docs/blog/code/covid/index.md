@@ -15,5 +15,3 @@ I've been interested in the technology the government in New Zealand has chosen 
 <!-- more -->
 
 ## Decoding tracer app QR codes
-
-<code-covid-tracer_scan />

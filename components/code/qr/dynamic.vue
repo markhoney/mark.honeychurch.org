@@ -9,16 +9,13 @@
 		</select>
 		<input id="slider" type="range" min="100" max="700" v-model.number="size" :title="size + ' px'" />
 		<input type="color" v-model="colour">
-		<qriously id="qr" :value="text" :size="size" :level="error" :foreground="colour" title="Right click to save" />
+		<canvas ref="qr" id="qr" :width="size" :height="size" title="Right click to save" />
 	</form>
 </template>
 
 <script>
-	//import {qriously} from 'vue-qriously'
+	import QRCode from 'qrcode';
 	export default {
-		/*components: {
-			qriously
-		},*/
 		data() {
 			return {
 				text: "https://mark.honeychurch.org/",
@@ -26,6 +23,25 @@
 				error: "L",
 				colour: "#000000"
 			};
+		},
+		mounted() {
+			this.render();
+		},
+		watch: {
+			text() { this.render(); },
+			size() { this.render(); },
+			error() { this.render(); },
+			colour() { this.render(); }
+		},
+		methods: {
+			async render() {
+				await QRCode.toCanvas(this.$refs.qr, this.text, {
+					width: this.size,
+					errorCorrectionLevel: this.error,
+					margin: 2,
+					color: {dark: this.colour, light: '#ffffff'}
+				});
+			}
 		}
 	};
 </script>

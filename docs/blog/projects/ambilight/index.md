@@ -39,7 +39,6 @@ And here's a video of the finished product.
 
 @[youtube](https://youtu.be/mUPjq1NMdJc)
 
-<!--<video controls src="/media/video/Ambilight.mov" style="width: 100%;" />-->
 
 ## Previous attempt
 

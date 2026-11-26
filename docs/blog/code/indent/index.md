@@ -79,19 +79,13 @@ As a way of illustrating what code indenting is, here's some of my software with
 
 ::: tab "Single Space (PHP)"
 
-<<< @/docs/blog/code/decrypt/rotx.php
-
 :::
 
 ::: tab "Single Space (Python)"
 
-<<< @/docs/blog/code/kodi/Convert-to-MKV.py
-
 :::
 
 ::: tab "Tab (Python)"
-
-<<< @/docs/blog/code/kodi/Resize-Album-Art.py
 
 :::
 
@@ -99,13 +93,9 @@ As a way of illustrating what code indenting is, here's some of my software with
 
 The beauty of this is that although it shows here with a four space indenting, when I edit the code I only see two spaces of indenting per tab.
 
-<<< @/components/code/cyphers/caesar.js
-
 :::
 
 ::: tab "Tab (Vue SFC)"
-
-<<< @/components/code/divider/voltage.vue
 
 :::
 

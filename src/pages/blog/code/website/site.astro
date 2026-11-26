@@ -1,0 +1,17 @@
+---
+import ArticlePage from '../../../../components/ArticlePage.astro';
+import CodeSource from '../../../../components/CodeSource.astro';
+import SiteMetadata from '../../../../../components/code/vuepress/site.vue';
+import source from '../../../../../components/code/vuepress/site.vue?raw';
+import {requiredEntry} from '../../../../lib/page';
+const entry = await requiredEntry('blog/code/website/site/index');
+const site = {
+	title: 'Mark Honeychurch',
+	site: 'https://mark.honeychurch.org',
+	generator: 'Astro with Vue islands',
+};
+---
+<ArticlePage entry={entry}>
+	<SiteMetadata client:visible site={site} />
+	<CodeSource name="SiteMetadata.vue" source={source} />
+</ArticlePage>

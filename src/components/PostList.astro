@@ -1,0 +1,39 @@
+---
+import type {PageEntry} from '../lib/content';
+import {articleDescription, pagePath} from '../lib/content';
+
+interface Props {
+	entries: PageEntry[];
+	showDates?: boolean;
+	showTaxonomy?: boolean;
+}
+
+const {entries, showDates = true, showTaxonomy = true} = Astro.props;
+---
+
+<ul class="post-list">
+	{
+		entries.map(entry => (
+			<li>
+				<h3><a href={pagePath(entry)}>{entry.data.title}</a></h3>
+				{showDates && entry.data.date && (
+					<time datetime={entry.data.date.toISOString()}>
+						{entry.data.date.toLocaleDateString('en-NZ', {
+							year: 'numeric',
+							month: 'long',
+							day: 'numeric',
+						})}
+					</time>
+				)}
+				{showTaxonomy && entry.data.categories.length > 0 && (
+					<p class="taxonomy">
+						{entry.data.categories.join(', ')}
+						{entry.data.tags.length > 0 && ` · ${entry.data.tags.join(', ')}`}
+					</p>
+				)}
+				<p>{articleDescription(entry)}</p>
+				<p class="continue"><a href={pagePath(entry)}>Continue Reading...</a></p>
+			</li>
+		))
+	}
+</ul>

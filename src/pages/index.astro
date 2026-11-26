@@ -1,0 +1,44 @@
+---
+import {getCollection} from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostList from '../components/PostList.astro';
+import {sortNewest} from '../lib/content';
+
+const recent = sortNewest(
+	(await getCollection('pages')).filter(entry => entry.data.title && entry.data.date),
+).slice(0, 16);
+---
+
+<BaseLayout>
+	<main class="home page-card" aria-labelledby="main-title">
+		<header class="hero">
+			<img
+				src="/media/images/icons/android-chrome-512x512.png"
+				alt=""
+				class="hero-logo"
+				width="192"
+				height="192"
+			/>
+			<h1 id="main-title">Mark Honeychurch</h1>
+			<p class="description">Coder, Skeptic, Humanist</p>
+		</header>
+		<section class="features">
+			<div class="feature">
+				<h2><a href="/cv/">WORK</a></h2>
+				<p>I am an IT professional with 20 years in the field, focusing on both support and development. I have a passion for technology.</p>
+			</div>
+			<div class="feature">
+				<h2><a href="/blog/code/">CODE</a></h2>
+				<p>I write software for work and for fun, using modern tools. I like helping people to adopt new technologies, and I teach kids how to code.</p>
+			</div>
+			<div class="feature">
+				<h2><a href="/blog/projects/">PLAY</a></h2>
+				<p>I enjoy building things, solving unusual problems, and sharing useful projects and ideas.</p>
+			</div>
+		</section>
+		<section class="recent">
+			<h2>My Recent Ramblings</h2>
+			<PostList entries={recent} showTaxonomy={false} />
+		</section>
+	</main>
+</BaseLayout>

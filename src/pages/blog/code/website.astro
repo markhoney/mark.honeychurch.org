@@ -1,12 +1,12 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import LocationMetadata from '../../../../components/code/vuepress/location.vue';
-import locationSource from '../../../../components/code/vuepress/location.vue?raw';
-import PageMetadata from '../../../../components/code/vuepress/page.vue';
-import pageSource from '../../../../components/code/vuepress/page.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/code/website/index');
+import LocationMetadata from '../../../components/demos/code/vuepress/location.vue';
+import locationSource from '../../../components/demos/code/vuepress/location.vue?raw';
+import PageMetadata from '../../../components/demos/code/vuepress/page.vue';
+import pageSource from '../../../components/demos/code/vuepress/page.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('website');
 const page = {path: '/blog/code/website/', title: entry.data.title ?? 'This Website'};
 ---
 <ArticlePage entry={entry}>

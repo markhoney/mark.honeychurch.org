@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import OctalConverter from '../../../../components/code/octal/dectooct.vue';
-import source from '../../../../components/code/octal/dectooct.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/random/octal/index');
+import OctalConverter from '../../../components/demos/code/octal/dectooct.vue';
+import source from '../../../components/demos/code/octal/dectooct.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('octal');
 ---
 <ArticlePage entry={entry}>
 	<OctalConverter client:load />

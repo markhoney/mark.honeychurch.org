@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import QrScanner from '../../../components/vue/QrScanner.vue';
-import source from '../../../components/vue/QrScanner.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/code/covid/index');
+import QrScanner from '../../../components/demos/code/covid/scanner.vue';
+import source from '../../../components/demos/code/covid/scanner.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('covid');
 ---
 <ArticlePage entry={entry}>
 	<QrScanner client:load />

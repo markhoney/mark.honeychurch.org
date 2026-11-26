@@ -13,96 +13,40 @@ public_folder: /media/uploads
 publish_mode: editorial_workflow
 
 collections:
-  - name: general
-    label: Pages
-    files:
-      - name: home
-        label: Home
-        file: docs/index.md
-        fields:
-          - {label: Title, name: title, widget: string, required: false}
-          - {label: Body, name: body, widget: markdown}
-      - name: contact
-        label: Contact
-        file: docs/contact/index.md
-        fields:
-          - {label: Title, name: title, widget: string, default: Contact}
-          - {label: Body, name: body, widget: markdown}
-      - name: cv
-        label: CV
-        file: docs/cv/index.md
-        fields:
-          - {label: Title, name: title, widget: string, default: CV}
-          - {label: Body, name: body, widget: markdown}
-      - name: media
-        label: Media
-        file: docs/media/index.md
-        fields:
-          - {label: Title, name: title, widget: string, default: Media}
-          - {label: Body, name: body, widget: markdown}
-
-  - name: code
-    label: Code
-    folder: docs/blog/code
-    nested:
-      depth: 2
+  - name: posts
+    label: Blog Posts
+    label_singular: Blog Post
+    folder: src/content/blog
     create: true
     extension: md
     format: frontmatter
-    path: '{{slug}}/index'
+    path: '{{slug}}'
     slug: '{{slug}}'
-    fields: &article_fields
+    fields:
       - {label: Title, name: title, widget: string}
-      - {label: Slug, name: slug, widget: string, required: false}
+      - {label: Slug, name: slug, widget: string}
       - {label: Date, name: date, widget: datetime, format: YYYY-MM-DD, date_format: YYYY-MM-DD, time_format: false}
-      - {label: Categories, name: categories, widget: list, field: {label: Category, name: category, widget: string}}
+      - label: Categories
+        name: categories
+        widget: list
+        hint: The first category determines the URL section, for example Code or Random.
+        field: {label: Category, name: category, widget: string}
       - {label: Tags, name: tags, widget: list, field: {label: Tag, name: tag, widget: string}, required: false}
       - {label: Body, name: body, widget: markdown}
 
-  - name: life
-    label: Life
-    folder: docs/blog/life
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: src/content/pages
     nested:
-      depth: 2
+      depth: 5
     create: true
     extension: md
     format: frontmatter
     path: '{{slug}}/index'
     slug: '{{slug}}'
-    fields: *article_fields
-
-  - name: random
-    label: Random
-    folder: docs/blog/random
-    nested:
-      depth: 2
-    create: true
-    extension: md
-    format: frontmatter
-    path: '{{slug}}/index'
-    slug: '{{slug}}'
-    fields: *article_fields
-
-  - name: howto
-    label: How To
-    folder: docs/blog/howto
-    nested:
-      depth: 2
-    create: true
-    extension: md
-    format: frontmatter
-    path: '{{slug}}/index'
-    slug: '{{slug}}'
-    fields: *article_fields
-
-  - name: projects
-    label: Projects
-    folder: docs/blog/projects
-    nested:
-      depth: 2
-    create: true
-    extension: md
-    format: frontmatter
-    path: '{{slug}}/index'
-    slug: '{{slug}}'
-    fields: *article_fields
+    fields:
+      - {label: Title, name: title, widget: string, required: false}
+      - {label: URL, name: permalink, widget: string, hint: 'Absolute site path, for example /contact/ or /cv/full/'}
+      - {label: Description, name: description, widget: string, required: false}
+      - {label: Body, name: body, widget: markdown}

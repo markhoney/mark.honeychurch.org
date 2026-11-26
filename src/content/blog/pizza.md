@@ -1,0 +1,34 @@
+---
+title: Server in a Pizza Box
+slug: pizza
+date: 2003-05-12
+layout: Post
+categories:
+  - Projects
+tags:
+  - Hack
+  - Pizza
+  - Server
+---
+
+My first web server was a 233MHz Pentium PC squeezed into a small Pizza Hut pizza box.
+
+<!-- more -->
+
+![Box](/media/content/blog/projects/pizza/Img2_0023.jpg)
+
+## Rear
+
+I mounted the rear ports to the back of the pizza box.
+
+![Ports](/media/content/blog/projects/pizza/Img_0010.jpg)
+
+## Front
+
+The power supply was disassembled to make it easier to fit and attached to the front of the box. I also added a network card to the ISA riser and internally routed the network port to the front of the case, next to the power connector.
+
+![Inside](/media/content/blog/projects/pizza/Img2_0009.jpg)
+
+On the other side of the front of the case, I mounted the power and HDD LEDs, as well as the power and reset switches.
+
+![Front](/media/content/blog/projects/pizza/Img2_0030.jpg)

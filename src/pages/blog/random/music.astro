@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import MusicEvents from '../../../../components/embed/music/events.vue';
-import source from '../../../../components/embed/music/events.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/random/music/index');
+import MusicEvents from '../../../components/demos/embed/music/events.vue';
+import source from '../../../components/demos/embed/music/events.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('music');
 ---
 <ArticlePage entry={entry}>
 	<MusicEvents client:visible />

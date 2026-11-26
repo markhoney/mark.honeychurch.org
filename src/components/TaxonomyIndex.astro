@@ -10,7 +10,7 @@ const {type} = Astro.props;
 const field = type === 'category' ? 'categories' : 'tags';
 const values = [
 	...new Set(
-		(await getCollection('pages')).flatMap(entry => entry.data[field]),
+		(await getCollection('blog')).flatMap(entry => entry.data[field]),
 	),
 ].sort((a, b) => a.localeCompare(b));
 ---

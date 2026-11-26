@@ -6,7 +6,7 @@ import PostList from '../../../components/PostList.astro';
 import {sortNewest, taxonomySlug} from '../../../lib/content';
 
 export const getStaticPaths = (async () => {
-	const entries = await getCollection('pages');
+	const entries = await getCollection('blog');
 	const categories = [...new Set(entries.flatMap(entry => entry.data.categories))];
 
 	return categories.map(name => ({

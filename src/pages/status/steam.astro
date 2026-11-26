@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
-import SteamProfile from '../../../components/embed/steam.vue';
-import source from '../../../components/embed/steam.vue?raw';
-import {requiredEntry} from '../../lib/page';
-const entry = await requiredEntry('status/steam/index');
+import SteamProfile from '../../components/demos/embed/steam.vue';
+import source from '../../components/demos/embed/steam.vue?raw';
+import {requiredPage} from '../../lib/page';
+const entry = await requiredPage('status/steam/index');
 ---
 <ArticlePage entry={entry}>
 	<SteamProfile client:visible />

@@ -1,0 +1,42 @@
+---
+import {getCollection} from 'astro:content';
+import type {GetStaticPaths} from 'astro';
+import ArticlePage from '../../../components/ArticlePage.astro';
+import {pagePath, taxonomySlug} from '../../../lib/content';
+import type {BlogEntry} from '../../../lib/content';
+
+export const getStaticPaths = (async () => {
+	const dedicatedRoutes = new Set([
+		'/blog/code/covid/',
+		'/blog/code/decrypt/',
+		'/blog/code/divider/',
+		'/blog/code/qr/',
+		'/blog/code/tone/',
+		'/blog/code/website/',
+		'/blog/random/astrology/',
+		'/blog/random/evp/',
+		'/blog/random/flip/',
+		'/blog/random/music/',
+		'/blog/random/octal/',
+		'/blog/random/times/',
+	]);
+	const entries = await getCollection('blog');
+	return entries
+		.filter(entry => !dedicatedRoutes.has(pagePath(entry)))
+		.map(entry => ({
+			params: {
+				section: taxonomySlug(entry.data.categories[0] ?? 'random'),
+				slug: String(entry.data.slug ?? entry.id),
+			},
+			props: {entry},
+		}));
+}) satisfies GetStaticPaths;
+
+interface Props {
+	entry: BlogEntry;
+}
+
+const {entry} = Astro.props;
+---
+
+<ArticlePage entry={entry} />

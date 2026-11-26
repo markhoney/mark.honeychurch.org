@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
-import WebcamTest from '../../../components/code/video/webcam.vue';
-import source from '../../../components/code/video/webcam.vue?raw';
-import {requiredEntry} from '../../lib/page';
-const entry = await requiredEntry('test/webcam/index');
+import WebcamTest from '../../components/demos/code/video/webcam.vue';
+import source from '../../components/demos/code/video/webcam.vue?raw';
+import {requiredPage} from '../../lib/page';
+const entry = await requiredPage('test/webcam/index');
 ---
 <ArticlePage entry={entry}>
 	<WebcamTest client:load />

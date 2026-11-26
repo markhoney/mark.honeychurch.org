@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
-import WikipediaEdits from '../../../components/embed/wikipedia.vue';
-import source from '../../../components/embed/wikipedia.vue?raw';
-import {requiredEntry} from '../../lib/page';
-const entry = await requiredEntry('status/wikipedia/index');
+import WikipediaEdits from '../../components/demos/embed/wikipedia.vue';
+import source from '../../components/demos/embed/wikipedia.vue?raw';
+import {requiredPage} from '../../lib/page';
+const entry = await requiredPage('status/wikipedia/index');
 ---
 <ArticlePage entry={entry}>
 	<WikipediaEdits client:load />

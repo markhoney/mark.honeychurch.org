@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import ToneGenerator from '../../../../components/code/audio/tone.vue';
-import source from '../../../../components/code/audio/tone.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/code/tone/index');
+import ToneGenerator from '../../../components/demos/code/audio/tone.vue';
+import source from '../../../components/demos/code/audio/tone.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('tone');
 ---
 <ArticlePage entry={entry}>
 	<ToneGenerator client:load />

@@ -1,10 +1,10 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import VoltageDivider from '../../../../components/code/divider/voltage.vue';
-import source from '../../../../components/code/divider/voltage.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/code/divider/index');
+import VoltageDivider from '../../../components/demos/code/divider/voltage.vue';
+import source from '../../../components/demos/code/divider/voltage.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('divider');
 ---
 <ArticlePage entry={entry}>
 	<VoltageDivider client:load />

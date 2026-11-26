@@ -1,12 +1,12 @@
 ---
 import ArticlePage from '../../../components/ArticlePage.astro';
 import CodeSource from '../../../components/CodeSource.astro';
-import CaesarDecoder from '../../../../components/code/cyphers/caesar_decode.vue';
-import decoderSource from '../../../../components/code/cyphers/caesar_decode.vue?raw';
-import CaesarEncoder from '../../../../components/code/cyphers/caesar_encode.vue';
-import encoderSource from '../../../../components/code/cyphers/caesar_encode.vue?raw';
-import {requiredEntry} from '../../../lib/page';
-const entry = await requiredEntry('blog/code/decrypt/index');
+import CaesarDecoder from '../../../components/demos/code/cyphers/caesar_decode.vue';
+import decoderSource from '../../../components/demos/code/cyphers/caesar_decode.vue?raw';
+import CaesarEncoder from '../../../components/demos/code/cyphers/caesar_encode.vue';
+import encoderSource from '../../../components/demos/code/cyphers/caesar_encode.vue?raw';
+import {requiredBlog} from '../../../lib/page';
+const entry = await requiredBlog('decrypt');
 ---
 <ArticlePage entry={entry}>
 	<CaesarEncoder client:load />

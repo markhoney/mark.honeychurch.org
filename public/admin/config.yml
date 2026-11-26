@@ -52,11 +52,63 @@ collections:
       - {label: Draft, name: draft, widget: boolean, default: false, hint: 'Draft posts remain in the repository but are not built or listed.'}
       - label: Categories
         name: categories
-        widget: list
+        widget: select
+        multiple: true
+        options:
+          - Alternatives
+          - Code
+          - COVID
+          - Cryptography
+          - Entertainment
+          - HowTo
+          - Life
+          - Lists
+          - Maths
+          - Projects
+          - Random
+          - Software
         hint: The first category determines the URL section, for example Code or Random.
-        field: {label: Category, name: category, widget: string}
-      - {label: Tags, name: tags, widget: list, field: {label: Tag, name: tag, widget: string}, required: false}
+      - {label: Tags, name: tags, widget: list, label_singular: Tag, required: false}
       - {label: Body, name: body, widget: markdown}
+  - name: interactive_posts
+    label: Interactive Blog Posts
+    label_singular: Interactive Blog Post
+    folder: src/content/blog
+    media_folder: /src/assets/content/blog
+    public_folder: ../../assets/content/blog
+    create: true
+    extension: mdx
+    format: frontmatter
+    path: '{{slug}}'
+    slug: '{{slug}}'
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Slug, name: slug, widget: string}
+      - {label: Date, name: date, widget: datetime, format: YYYY-MM-DD, date_format: YYYY-MM-DD, time_format: false}
+      - {label: Draft, name: draft, widget: boolean, default: false, hint: 'Draft posts remain in the repository but are not built or listed.'}
+      - label: Categories
+        name: categories
+        widget: select
+        multiple: true
+        options:
+          - Alternatives
+          - Code
+          - COVID
+          - Cryptography
+          - Entertainment
+          - HowTo
+          - Life
+          - Lists
+          - Maths
+          - Projects
+          - Random
+          - Software
+        hint: The first category determines the URL section, for example Code or Random.
+      - {label: Tags, name: tags, widget: list, label_singular: Tag, required: false}
+      - label: Body
+        name: body
+        widget: markdown
+        hint: 'Use an AppEmbed tag in source mode to place an interactive Vue demo, for example <AppEmbed app="code/coin/flip" />.'
 
   - name: pages
     label: Pages

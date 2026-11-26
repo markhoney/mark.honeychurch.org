@@ -1,0 +1,44 @@
+---
+import CodeSource from './CodeSource.astro';
+import AppEmbedRuntime from './AppEmbedRuntime.vue';
+
+interface Props {
+	app: string;
+	componentProps?: Record<string, unknown>;
+	client?: 'load' | 'visible';
+	showSource?: boolean;
+	sourceName?: string;
+	sourceOnly?: boolean;
+}
+
+const {
+	app,
+	componentProps = {},
+	client = 'visible',
+	showSource = false,
+	sourceName,
+	sourceOnly = false,
+} = Astro.props;
+
+const sources = import.meta.glob('./demos/**/*.vue', {
+	eager: true,
+	query: '?raw',
+	import: 'default',
+});
+const componentPath = `./demos/${app.replace(/\.vue$/, '')}.vue`;
+const source = sources[componentPath];
+
+if ((showSource || sourceOnly) && typeof source !== 'string') {
+	throw new Error(`AppEmbed "${app}" could not load its Vue source`);
+}
+---
+
+{!sourceOnly && client === 'load' && (
+	<AppEmbedRuntime app={app} componentProps={componentProps} client:load />
+)}
+{!sourceOnly && client === 'visible' && (
+	<AppEmbedRuntime app={app} componentProps={componentProps} client:visible />
+)}
+{(showSource || sourceOnly) && typeof source === 'string' && (
+	<CodeSource name={sourceName ?? `${app}.vue`} source={source} />
+)}

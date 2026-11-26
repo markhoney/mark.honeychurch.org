@@ -25,7 +25,7 @@ const sharedSchema = z
 
 const blog = defineCollection({
 	loader: glob({
-		pattern: '**/*.md',
+		pattern: '**/*.{md,mdx}',
 		base: './src/content/blog',
 		generateId: ({entry}) => entry.replaceAll('\\', '/').replace(/\.md$/, ''),
 	}),
@@ -34,7 +34,7 @@ const blog = defineCollection({
 
 const pages = defineCollection({
 	loader: glob({
-		pattern: '**/*.md',
+		pattern: '**/*.{md,mdx}',
 		base: './src/content/pages',
 		generateId: ({entry}) => entry.replaceAll('\\', '/').replace(/\.md$/, ''),
 	}),

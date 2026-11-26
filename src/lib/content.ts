@@ -33,7 +33,7 @@ export function articleDescription(entry: ContentEntry): string {
 	if (entry.data.description) return entry.data.description;
 
 	return (entry.body ?? '')
-		.split('<!-- more -->')[0]
+		.split(/\s*(?:<!-- more -->|\{\/\* more \*\/\})\s*/)[0]
 		.replace(/<[^>]*>/g, '')
 		.replace(/!\[[^\]]*]\([^)]*\)/g, '')
 		.replace(/\[([^\]]+)]\([^)]*\)/g, '$1')

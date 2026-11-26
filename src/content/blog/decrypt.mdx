@@ -2,7 +2,6 @@
 title: Decrypting encoded text
 slug: decrypt
 date: 2008-03-16
-layout: Post
 categories:
   - Code
   - Cryptography
@@ -17,7 +16,7 @@ tags:
 
 I became interested in cryptography a few years ago, and have been slowly working my way through Bruce Schneier's [Applied Cryptography](http://www.schneier.com/book-applied.html). From this, I became interested in simple forced decryption (cracking) of cyphers, and directed my attention to the ROT13 algorithm.
 
-<!-- more -->
+{/* more */}
 
 ## ROT13
 
@@ -75,11 +74,17 @@ Of course clever things could be done with dictionary lookups, first/last letter
 Type some text in the left text box, and choose your rotation amount. Remember to type something in English - gobbledygook won't be decypherable.
 
 The encrypted text will show in the right text box. Copy this text.
+
+<AppEmbed app="code/cyphers/caesar_encode" client="load" />
+
 ## Decryption
 
 Paste the text from above into the left box below. An algorithm will attempt to use letter frequencies to calculate what rotation was used to encrypt the text, and will show both the rotation and the original text.
 
 The code used for the text boxes below is not connected to the text boxes above in any way, so no cheating is going on! (If you don't believe me, [go here](http://theblob.org/rot.cgi) to create some rotated text and paste it into the bottom left box for decoding, without using the top encoding text boxes)
+
+<AppEmbed app="code/cyphers/caesar_decode" client="load" />
+
 Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 ## Code
@@ -90,11 +95,15 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
 
+<AppEmbed app="code/cyphers/caesar_encode" sourceOnly />
+
 :::
 
 ::: tab decode.vue
 
 This Vue component computes the most likely rotation of a piece of encrypted text, and then displays that rotation. It also computes and displays the plain text, using the computed rotation value.
+
+<AppEmbed app="code/cyphers/caesar_decode" sourceOnly />
 
 :::
 

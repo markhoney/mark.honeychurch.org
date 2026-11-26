@@ -2,7 +2,6 @@
 title: Voltage Divider
 slug: divider
 date: 2018-10-11
-layout: Post
 categories:
   - Code
 tags:
@@ -13,7 +12,7 @@ tags:
 
 A friend who is studying Engineering at university asked me for help tutoring him for one of his degree projects where he was tasked with writing a voltage divider calculator:
 
-<!-- more -->
+{/* more */}
 
 > You are required to design a program to calculate the best possible standard resistors to use for a voltage divider circuit to get the required circuit gain. The circuit will contain 2 to 4 resistors as in the following circuit diagram.
 >
@@ -28,6 +27,9 @@ A friend who is studying Engineering at university asked me for help tutoring hi
 There's some more explanation in the assignment, including information on how to calculate the resistance values p1 and p2, and the gain of the circuit.
 
 In order to be able to help my friend with his assignment, I decided to get my head around the problem by coding it in Javascript. It took about half an hour to throw together a program that somewhat closely resembled what the lecturer is after. I then figured that with the magic of Vue, I should be able to write a component that dynamically calculates the answers as you type in your required gain. Here is the end result:
+
+<AppEmbed app="code/divider/voltage" client="load" />
+
 ## Code
 
 :::: tabs
@@ -43,6 +45,8 @@ Here's a more JavaScript native way of doing the same task:
 ::: tab Vue
 
 This is what the code looks like when converted into a vue component.
+
+<AppEmbed app="code/divider/voltage" sourceOnly />
 
 :::
 

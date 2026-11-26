@@ -1,4 +1,5 @@
 import {defineConfig} from 'astro/config';
+import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import vue from '@astrojs/vue';
 import favicons from 'astro-favicons';
@@ -32,6 +33,7 @@ export default defineConfig({
 	trailingSlash: 'always',
 	integrations: [
 		sveltiaAdmin,
+		mdx(),
 		vue(),
 		sitemap(),
 		pagefind({
@@ -66,6 +68,7 @@ export default defineConfig({
 	},
 	markdown: {
 		processor: satteri({
+			features: {rawHtml: true},
 			mdastPlugins: [satteriYoutubePlugin()],
 		}),
 		syntaxHighlight: 'shiki',

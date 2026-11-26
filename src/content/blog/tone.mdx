@@ -2,7 +2,6 @@
 title: Tone Generator
 slug: tone
 date: 2019-03-24
-layout: Post
 categories:
   - Code
 tags:
@@ -12,7 +11,7 @@ tags:
 
 Thanks to the generosity of a friend, my lounge now not only has a 7.2 embedded wall speaker setup, but the sofa also vibrates when there is a low bass rumble in the audio of whatever media I'm consuming. This effect has been achieved with the (mis)use of an [Aura Interactor](https://en.wikipedia.org/wiki/Aura_Interactor) Shaker. The Aura Interactor was a device sold in the 1990s to gamers, and was a backpack with a low frequency speaker inside it. Rather than being designed to make noise, this speaker moves a large piece of metal back and forth without a diaphragm, and shakes whatever it's attached to. The rig comes with an amplifier, and takes a mono RCA input - which, thankfully, most subwoofers these days have an output for. My friend has collected a few of these devices over the years, removing the shaker from the backpack each time and bolting it to a piece of wood that is then bolted to the inside wooden frame of a sofa.
 
-<!-- more -->
+{/* more */}
 
 ![Aura Interactor](../../assets/content/blog/code/tone/1920px-Aura-Interactor-force-feedback-vest.jpg)
 
@@ -23,7 +22,12 @@ If the Game mode worked as I'd hoped, I could possibly write plugins for newer g
 So, to test this, I borrowed a friend's intact shaker and sat on it - with it still embedded in the foam insert of the backpack. Then, with laptop in hand and the audio output of my laptop plugged into the audio in of the Aura amp, I started looking online for a simple tone generator. Unfortunately I couldn't find what I needed on the interwebs, but I figured that with modern JS Audio functions in the browser, it shouldn't be too hard to code one.
 
 So, without further ado, here's the result of a few minutes' effort while sitting on a triangle shaped vibrating pillow:
+
+<AppEmbed app="code/audio/tone" client="load" />
+
 And here's the (relatively) simple code that generates these tones:
+
+<AppEmbed app="code/audio/tone" sourceOnly />
 
 In the end, it appeared that the Game mode was somewhat more mundane. From what I could tell, because some early gaming systems like the Nintendo SNES didn't output much in the way of low frequency sound (which is understandable, given how cruddy most TV speakers were), the Game mode is likely to have simply shifted frequencies just above those that the Aura usually reacted to (maybe 50-100Hz) down to frequencies that the shaker would output (around 25-50Hz).
 

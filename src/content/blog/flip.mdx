@@ -2,7 +2,6 @@
 title: Flipping a Quantum Coin
 slug: flip
 date: 2018-12-05
-layout: Post
 categories:
   - Random
 tags:
@@ -13,7 +12,7 @@ tags:
 
 I was watching a Sean Carroll video, and in the first few minutes Carroll used an Apple app to decide whether to hop left or right based on the results of a quantum event.
 
-<!-- more -->
+{/* more */}
 
 [![Watch on YouTube](https://img.youtube.com/vi/iXRLDatmbgA/hqdefault.jpg)](https://www.youtube.com/watch?v=iXRLDatmbgA)
 
@@ -28,9 +27,15 @@ Thankfully I then chanced upon [an API](https://qrng.anu.edu.au/API/api-demo.php
 ## Heads or Tails
 
 Putting the two together, and with a little bit of Vue magic, we get a simple coin toss that gives a truly random result for each flip. Click the coin to flip it (and be patient - sometimes the ANU website is a little slow!).
+
+<AppEmbed app="code/coin/flip" client="load" />
+
 ## Roll a d20
 
 Of course, this method isn't restricted to coin flips, or quantum events. We could also use random data from atmospheric noise, courtesy of [random.org](https://www.random.org/), borrow a [CSS d20](https://matthewlein.com/experiments/20-sided-die) example, and make it into a Vue component. Click on the die to roll it.
+
+<AppEmbed app="code/coin/d20" client="load" />
+
 Don't forget, if you have a Google Home or any device with Google Assistant, you can flip a coin, roll a die, roll a d20, etc:
 
 <audio controls src="/audio/blog/d20.m4a" />
@@ -43,9 +48,13 @@ Here's the Vue I put together to make this happen.
 
 ::: tab "Coin Flip"
 
+<AppEmbed app="code/coin/flip" sourceOnly />
+
 :::
 
 ::: tab "Roll a d20"
+
+<AppEmbed app="code/coin/d20" sourceOnly />
 
 :::
 

@@ -3,7 +3,7 @@ import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
 import WebcamTest from '../../components/demos/code/video/webcam.vue';
 import source from '../../components/demos/code/video/webcam.vue?raw';
-import {requiredPage} from '../../lib/page';
+import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('test/webcam/index');
 ---
 <ArticlePage entry={entry}>

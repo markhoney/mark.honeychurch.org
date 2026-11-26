@@ -3,7 +3,7 @@ const path = require('path');
 
 if (process.argv.length > 2) {
 	const sections = require('./' + process.argv[2]);
-	let doc = "---\nsidebar: auto\n---\n";
+	let doc = "";
 	sections.forEach(section => {
 		const filepath = "./docs/cv/parts/" + section + ".markdown";
 		if (fs.existsSync(filepath)) {

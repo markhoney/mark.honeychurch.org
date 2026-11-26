@@ -1,20 +1,12 @@
 ---
-import {getCollection} from 'astro:content';
-import {taxonomySlug} from '../lib/content';
+import {blogTaxonomyValues, taxonomySlug} from '../lib/content';
 
 interface Props {
 	type: 'category' | 'tag';
 }
 
 const {type} = Astro.props;
-const field = type === 'category' ? 'categories' : 'tags';
-const values = [
-	...new Set(
-		(await getCollection('blog'))
-			.filter(entry => !entry.data.draft)
-			.flatMap(entry => entry.data[field]),
-	),
-].sort((a, b) => a.localeCompare(b));
+const values = await blogTaxonomyValues(type);
 ---
 
 <section>

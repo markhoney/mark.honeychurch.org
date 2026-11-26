@@ -1,14 +1,9 @@
 import rss from '@astrojs/rss';
-import {getCollection} from 'astro:content';
 import type {APIRoute} from 'astro';
-import {articleDescription, pagePath, sortNewest} from '../lib/content';
+import {articleDescription, pagePath, publishedBlogArticles} from '../lib/content';
 
 export const GET: APIRoute = async context => {
-	const posts = sortNewest(
-		(await getCollection('blog')).filter(
-			entry => !entry.data.draft && entry.data.title && entry.data.date,
-		),
-	);
+	const posts = await publishedBlogArticles();
 
 	return rss({
 		title: 'Mark Honeychurch',

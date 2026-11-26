@@ -1,17 +1,18 @@
-const axios = require("axios");
 const $ = require('cheerio');
 const {writeFileSync} = require('fs');
 const {resolve} = require('path');
 
 async function getStations(url) {
-	const page = await axios.get(url);
+	const response = await fetch(url);
+	if (!response.ok) throw new Error(`Request failed with ${response.status}`);
+	const page = await response.text();
 	var matches = [];
 	var regex = /var stream([0-9]{1,2}) = {\n\t       mp3: "(.*?)"/g;
-	while (match = regex.exec(page.data)) {
+	while (match = regex.exec(page)) {
 		matches.push({id: match[1], url: match[2].replace('stream/1', '')});
 	}
 	//return page.data.match(/var stream([0-9]{1,2}) = {\n\t       mp3: "(.*?)"/g);
-	var stations = $('tr', page.data).get().map(item => {
+	var stations = $('tr', page).get().map(item => {
 		var id = $('td', item)[0].attribs.id.replace('play_nohtml5_', '');
 		if (matches.find(match => match.id == id)) {
 			return {
@@ -37,7 +38,8 @@ async function getAll() {
 	for (const station of stations) {
 		console.log('Testing', station.name);
 		try {
-			await axios.head(station.url);
+			const response = await fetch(station.url, {method: 'HEAD'});
+			if (!response.ok) throw new Error(`Request failed with ${response.status}`);
 			cors.push(station);
 		} catch (e) {}
 	}

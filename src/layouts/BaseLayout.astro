@@ -6,13 +6,40 @@ import '../styles/global.css';
 interface Props {
 	title?: string;
 	description?: string;
+	image?: string;
+	type?: 'website' | 'article';
+	publishedTime?: Date;
 }
 
 const {
 	title = 'Mark Honeychurch',
 	description = 'Coder, Tinkerer, Humanist',
+	image = '/media/images/icons/android-chrome-512x512.png',
+	type = 'website',
+	publishedTime,
 } = Astro.props;
 const fullTitle = title === 'Mark Honeychurch' ? title : `${title} | Mark Honeychurch`;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
+const imageUrl = new URL(image, Astro.site).href;
+const structuredData = type === 'article' ? {
+	'@context': 'https://schema.org',
+	'@type': 'BlogPosting',
+	headline: title,
+	description,
+	url: canonicalUrl,
+	image: imageUrl,
+	datePublished: publishedTime?.toISOString(),
+	author: {
+		'@type': 'Person',
+		name: 'Mark Honeychurch',
+		url: Astro.site?.href,
+	},
+	publisher: {
+		'@type': 'Person',
+		name: 'Mark Honeychurch',
+	},
+	mainEntityOfPage: canonicalUrl,
+} : undefined;
 ---
 
 <!doctype html>
@@ -21,11 +48,23 @@ const fullTitle = title === 'Mark Honeychurch' ? title : `${title} | Mark Honeyc
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="description" content={description} />
+		<link rel="canonical" href={canonicalUrl} />
+		<meta property="og:type" content={type} />
 		<meta property="og:locale" content="en_NZ" />
 		<meta property="og:site_name" content="Mark Honeychurch" />
 		<meta property="og:title" content={fullTitle} />
 		<meta property="og:description" content={description} />
-		<meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
+		<meta property="og:url" content={canonicalUrl} />
+		<meta property="og:image" content={imageUrl} />
+		<meta property="og:image:alt" content={title} />
+		{publishedTime && <meta property="article:published_time" content={publishedTime.toISOString()} />}
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={fullTitle} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content={imageUrl} />
+		{structuredData && (
+			<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+		)}
 		<title>{fullTitle}</title>
 	</head>
 	<body>

@@ -3,7 +3,7 @@ import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
 import FacebookProfile from '../../components/demos/embed/facebook.vue';
 import source from '../../components/demos/embed/facebook.vue?raw';
-import {requiredPage} from '../../lib/page';
+import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('status/facebook/index');
 ---
 <ArticlePage entry={entry}>

@@ -3,7 +3,7 @@ import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
 import SteamProfile from '../../components/demos/embed/steam.vue';
 import source from '../../components/demos/embed/steam.vue?raw';
-import {requiredPage} from '../../lib/page';
+import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('status/steam/index');
 ---
 <ArticlePage entry={entry}>

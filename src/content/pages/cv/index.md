@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 ---
 
 # Mark Honeychurch

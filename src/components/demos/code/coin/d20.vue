@@ -29,7 +29,6 @@
 </template>
 
 <script>
-	import axios from "axios";
 	export default {
 		data() {
 			return {
@@ -41,8 +40,11 @@
 			roll: async function () {
 				this.error = "";
 				try {
-					//this.side = "show-" + (Math.floor((await axios.get("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).data.data[0] / (256 / 20)) + 1);
-					this.side = "show-" + (Math.floor((await axios.get("https://www.random.org/cgi-bin/randbyte?nbytes=1&format=d")).data / (256 / 20)) + 1);
+					//this.side = "show-" + (Math.floor(((await (await fetch("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).json()).data[0]) / (256 / 20)) + 1);
+					const response = await fetch("https://www.random.org/cgi-bin/randbyte?nbytes=1&format=d");
+					if (!response.ok) throw new Error(`Random.org returned ${response.status}`);
+					const randomByte = Number(await response.text());
+					this.side = "show-" + (Math.floor(randomByte / (256 / 20)) + 1);
 				} catch (error) {
 					this.error = "The Random.org atmospheric-noise service could not be reached.";
 					console.error(error);

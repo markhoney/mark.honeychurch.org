@@ -13,13 +13,9 @@ const sharedSchema = z
 		description: z.string().optional(),
 		date: z.coerce.date().optional(),
 		draft: z.boolean().default(false),
-		layout: z.string().optional(),
 		slug: z.union([z.string(), z.number()]).optional(),
-		permalink: z.string().optional(),
 		categories: stringList,
 		tags: stringList,
-		sidebar: z.union([z.boolean(), z.string()]).optional(),
-		sidebarDepth: z.number().optional(),
 	})
 	.loose();
 

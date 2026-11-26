@@ -17,8 +17,6 @@
 
 <script>
 // https://www.mediawiki.org/wiki/API:Usercontribs
-import axios from 'axios';
-
 export default {
 	data() {
 		return {
@@ -29,9 +27,11 @@ export default {
 		};
 	},
 	async mounted() {
-		this.edits = (await axios.get(
+		const response = await fetch(
 			'https://en.wikipedia.org/w/api.php?action=query&list=usercontribs&format=json&origin=*&uclimit=500&ucuser=' + this.account
-		)).data.query.usercontribs;
+		);
+		if (!response.ok) throw new Error(`Wikipedia returned ${response.status}`);
+		this.edits = (await response.json()).query.usercontribs;
 		this.pages = Object.values(
 			this.edits.reduce((obj, item) => {
 				if (!obj[item.title]) obj[item.title] = item;

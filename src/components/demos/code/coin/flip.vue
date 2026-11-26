@@ -10,7 +10,6 @@
 
 
 <script>
-	import axios from "axios";
 	export default {
 		data() {
 			return {
@@ -23,7 +22,10 @@
 				this.side = "";
 				this.error = "";
 				try {
-					if ((await axios.get("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1")).data.data[0] % 2) {
+					const response = await fetch("https://qrng.anu.edu.au/API/jsonI.php?length=1&type=uint8&size=1");
+					if (!response.ok) throw new Error(`ANU QRNG returned ${response.status}`);
+					const result = await response.json();
+					if (result.data[0] % 2) {
 						this.side = "heads";
 					} else {
 						this.side = "tails";

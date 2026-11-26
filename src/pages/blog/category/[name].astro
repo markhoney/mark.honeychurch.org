@@ -1,25 +1,20 @@
 ---
-import {getCollection} from 'astro:content';
 import type {GetStaticPaths} from 'astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PostList from '../../../components/PostList.astro';
-import {sortNewest, taxonomySlug} from '../../../lib/content';
+import {
+	blogEntriesByTaxonomy,
+	blogTaxonomyValues,
+	taxonomySlug,
+} from '../../../lib/content';
 
 export const getStaticPaths = (async () => {
-	const entries = await getCollection('blog');
-	const publishedEntries = entries.filter(entry => !entry.data.draft);
-	const categories = [...new Set(publishedEntries.flatMap(entry => entry.data.categories))];
+	const categories = await blogTaxonomyValues('category');
 
-	return categories.map(name => ({
+	return Promise.all(categories.map(async name => ({
 		params: {name: taxonomySlug(name)},
-		props: {
-			name,
-			entries: sortNewest(
-				publishedEntries.filter(entry =>
-					entry.data.title && entry.data.categories.includes(name)),
-			),
-		},
-	}));
+		props: {name, entries: await blogEntriesByTaxonomy('category', name)},
+	})));
 }) satisfies GetStaticPaths;
 
 const {name, entries} = Astro.props;

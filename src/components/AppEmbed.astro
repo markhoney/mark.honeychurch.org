@@ -20,17 +20,17 @@ const {
 	sourceOnly = false,
 } = Astro.props;
 
-const sources = import.meta.glob('./demos/**/*.vue', {
-	eager: true,
+const sources = import.meta.glob<string>('./demos/**/*.vue', {
 	query: '?raw',
 	import: 'default',
 });
 const componentPath = `./demos/${app.replace(/\.vue$/, '')}.vue`;
-const source = sources[componentPath];
+const loadSource = sources[componentPath];
 
-if ((showSource || sourceOnly) && typeof source !== 'string') {
+if ((showSource || sourceOnly) && !loadSource) {
 	throw new Error(`AppEmbed "${app}" could not load its Vue source`);
 }
+const source = (showSource || sourceOnly) ? await loadSource() : undefined;
 ---
 
 {!sourceOnly && client === 'load' && (
@@ -39,6 +39,6 @@ if ((showSource || sourceOnly) && typeof source !== 'string') {
 {!sourceOnly && client === 'visible' && (
 	<AppEmbedRuntime app={app} componentProps={componentProps} client:visible />
 )}
-{(showSource || sourceOnly) && typeof source === 'string' && (
+{typeof source === 'string' && (
 	<CodeSource name={sourceName ?? `${app}.vue`} source={source} />
 )}

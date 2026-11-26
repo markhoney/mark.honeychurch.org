@@ -1,15 +1,12 @@
 ---
-import {getCollection} from 'astro:content';
 import type {GetStaticPaths} from 'astro';
 import ArticlePage from '../../../components/ArticlePage.astro';
-import {taxonomySlug} from '../../../lib/content';
+import {publishedBlogEntries, taxonomySlug} from '../../../lib/content';
 import type {BlogEntry} from '../../../lib/content';
 
 export const getStaticPaths = (async () => {
-	const entries = await getCollection('blog');
-	return entries
-		.filter(entry => !entry.data.draft)
-		.map(entry => ({
+	const entries = await publishedBlogEntries();
+	return entries.map(entry => ({
 			params: {
 				section: taxonomySlug(entry.data.categories[0] ?? 'random'),
 				slug: String(entry.data.slug ?? entry.id),

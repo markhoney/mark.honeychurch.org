@@ -15,26 +15,25 @@ const {
 	lang = inferLanguage(file),
 	label = 'Source',
 	name = file.replace(/^demos\//, ''),
-	open = true,
+	open = false,
 } = Astro.props;
-const demoSources = import.meta.glob('./demos/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
-	eager: true,
+const demoSources = import.meta.glob<string>('./demos/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
 	query: '?raw',
 	import: 'default',
 });
-const legacySources = import.meta.glob('../assets/code/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
-	eager: true,
+const legacySources = import.meta.glob<string>('../assets/code/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
 	query: '?raw',
 	import: 'default',
 });
 const key = file.startsWith('demos/')
 	? `./${file}`
 	: `../assets/code/${file}`;
-const source = demoSources[key] ?? legacySources[key];
+const loadSource = demoSources[key] ?? legacySources[key];
 
-if (typeof source !== 'string') {
+if (!loadSource) {
 	throw new Error(`CodeFile "${file}" was not found`);
 }
+const source = await loadSource();
 
 function inferLanguage(path: string) {
 	const extension = path.split('.').at(-1)?.toLowerCase();

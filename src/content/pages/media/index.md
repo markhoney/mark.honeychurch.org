@@ -1,6 +1,4 @@
 ---
-sidebar: auto
-sidebarDepth: 3
 ---
 
 # Media

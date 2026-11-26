@@ -21,7 +21,12 @@ const isPost = Boolean(entry.data.date);
 const title = entry.data.title ?? 'Mark Honeychurch';
 ---
 
-<BaseLayout title={title} description={articleDescription(entry)}>
+<BaseLayout
+	title={title}
+	description={articleDescription(entry)}
+	type={isPost ? 'article' : 'website'}
+	publishedTime={entry.data.date}
+>
 	<main class:list={['page', 'page-card', {'is-post': isPost}]}>
 		{isPost && <div class="post-banner" aria-hidden="true"></div>}
 		<article class="content">

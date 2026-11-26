@@ -30,7 +30,7 @@
 		},
 		computed: {
 			streams() {
-				for (const station = 0; station < this.number; station++) {
+				for (let station = 0; station < this.number; station++) {
 					do {
 						stations[station].stream = getStream(stations[station].url);
 					} while (!stations[station].stream);

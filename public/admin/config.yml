@@ -7,16 +7,39 @@ site_url: https://mark.honeychurch.org
 display_url: https://mark.honeychurch.org
 logo:
   src: /media/images/icons/android-chrome-192x192.png
-  alt: Mark Honeychurch
 media_folder: public/media/uploads
 public_folder: /media/uploads
 publish_mode: editorial_workflow
+
+asset_collections:
+  - name: audio
+    label: Audio
+    icon: audio_file
+    media_folder: /public/audio
+    public_folder: /audio
+  - name: video
+    label: Video
+    icon: video_file
+    media_folder: /public/media/video
+    public_folder: /media/video
+  - name: documents
+    label: Documents
+    icon: description
+    media_folder: /public/docs
+    public_folder: /docs
+  - name: programs
+    label: Programs
+    icon: package_2
+    media_folder: /public/programs
+    public_folder: /programs
 
 collections:
   - name: posts
     label: Blog Posts
     label_singular: Blog Post
     folder: src/content/blog
+    media_folder: /src/assets/content/blog
+    public_folder: ../../assets/content/blog
     create: true
     extension: md
     format: frontmatter
@@ -39,6 +62,8 @@ collections:
     label: Pages
     label_singular: Page
     folder: src/content/pages
+    media_folder: /src/assets/content/pages
+    public_folder: ../../assets/content/pages
     nested:
       depth: 5
     create: true

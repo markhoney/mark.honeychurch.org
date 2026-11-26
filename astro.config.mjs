@@ -7,10 +7,31 @@ import robotsTxt from 'astro-robots-txt';
 import {satteri} from '@astrojs/markdown-satteri';
 import satteriYoutubePlugin from './src/lib/satteri-youtube.mjs';
 
+const sveltiaAdmin = {
+	name: 'sveltia-admin',
+	hooks: {
+		'astro:server:setup': ({server}) => {
+			server.middlewares.use((request, response, next) => {
+				const path = request.url?.split('?', 1)[0];
+
+				if (path === '/admin' || path === '/admin/') {
+					response.statusCode = 302;
+					response.setHeader('Location', '/admin/index.html');
+					response.end();
+					return;
+				}
+
+				next();
+			});
+		},
+	},
+};
+
 export default defineConfig({
 	site: 'https://mark.honeychurch.org',
 	trailingSlash: 'always',
 	integrations: [
+		sveltiaAdmin,
 		vue(),
 		sitemap(),
 		pagefind({

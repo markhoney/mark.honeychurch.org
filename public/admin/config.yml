@@ -108,7 +108,7 @@ collections:
       - label: Body
         name: body
         widget: markdown
-        hint: 'Use an AppEmbed tag in source mode to place an interactive Vue example, for example <AppEmbed app="coin/flip" />.'
+        hint: 'Use <AppEmbed app="coin/flip" /> for a Vue example, add client="load" when it must start immediately, and add showSource or sourceOnly to display its source. Use <CodeFile file="divider/index.js" /> for non-embedded source files. Paths are relative to src/examples/.'
 
   - name: pages
     label: Pages

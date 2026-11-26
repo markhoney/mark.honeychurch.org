@@ -1,12 +1,9 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
-import CodeSource from '../../components/CodeSource.astro';
-import WikipediaEdits from '../../examples/embed/wikipedia.vue';
-import source from '../../examples/embed/wikipedia.vue?raw';
+import AppEmbed from '../../components/AppEmbed.astro';
 import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('status/wikipedia/index');
 ---
 <ArticlePage entry={entry}>
-	<WikipediaEdits client:load />
-	<CodeSource name="embed/wikipedia.vue" source={source} />
+	<AppEmbed app="embed/wikipedia" client="load" showSource />
 </ArticlePage>

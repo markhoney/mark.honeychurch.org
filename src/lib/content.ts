@@ -64,15 +64,6 @@ export function pagePath(entry: ContentEntry): string {
 	return `/${path}`.replace(/\/+$/, '') + '/';
 }
 
-export function sectionName(entry: ContentEntry): string {
-	if (entry.collection === 'blog') return taxonomySlug(entry.data.categories[0] ?? '');
-	return entry.id.split('/')[1] ?? '';
-}
-
-export function isArticle(entry: ContentEntry): boolean {
-	return Boolean(entry.data.date && entry.data.title);
-}
-
 export function sortNewest<T extends ContentEntry>(entries: T[]): T[] {
 	return [...entries].sort(
 		(a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0),

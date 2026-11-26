@@ -1,12 +1,9 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
-import CodeSource from '../../components/CodeSource.astro';
-import WebcamTest from '../../examples/video/webcam.vue';
-import source from '../../examples/video/webcam.vue?raw';
+import AppEmbed from '../../components/AppEmbed.astro';
 import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('test/webcam/index');
 ---
 <ArticlePage entry={entry}>
-	<WebcamTest client:load />
-	<CodeSource name="video/webcam.vue" source={source} />
+	<AppEmbed app="video/webcam" client="load" showSource />
 </ArticlePage>

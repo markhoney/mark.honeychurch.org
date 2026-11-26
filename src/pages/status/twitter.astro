@@ -1,12 +1,9 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
-import CodeSource from '../../components/CodeSource.astro';
-import TwitterProfile from '../../examples/embed/twitter.vue';
-import source from '../../examples/embed/twitter.vue?raw';
+import AppEmbed from '../../components/AppEmbed.astro';
 import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('status/twitter/index');
 ---
 <ArticlePage entry={entry}>
-	<TwitterProfile client:visible />
-	<CodeSource name="embed/twitter.vue" source={source} />
+	<AppEmbed app="embed/twitter" showSource />
 </ArticlePage>

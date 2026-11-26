@@ -21,15 +21,11 @@ const fullTitle = title === 'Mark Honeychurch' ? title : `${title} | Mark Honeyc
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="description" content={description} />
-		<meta name="theme-color" content="#b91d47" />
 		<meta property="og:locale" content="en_NZ" />
 		<meta property="og:site_name" content="Mark Honeychurch" />
 		<meta property="og:title" content={fullTitle} />
 		<meta property="og:description" content={description} />
 		<meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
-		<link rel="icon" href="/favicon.ico" />
-		<link rel="apple-touch-icon" href="/media/images/icons/apple-touch-icon.png" />
-		<link rel="manifest" href="/manifest.json" />
 		<title>{fullTitle}</title>
 	</head>
 	<body>

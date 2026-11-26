@@ -8,17 +8,14 @@ var EntropyCollector = ( function ( global ) {
         log = Math.log,
         pow = Math.pow,
         atan2 = Math.atan2,
-        sqrt = Math.sqrt,
         LN2 = Math.LN2,
         PI = Math.PI;
 
     var _date_now = global.Date.now,
         _perf = global.performance,
-        _perf_timing,
         _perf_now;
 
     if ( _perf ) {
-        _perf_timing = _perf.timing;
         _perf_now = _perf.now;
     }
 
@@ -33,7 +30,7 @@ var EntropyCollector = ( function ( global ) {
         _time_precision = 1;
     }
     else {
-        _time_start = ( _perf_timing ) ? _perf_timing.navigationStart : _date_now();
+        _time_start = _date_now();
         now = function () { return 1000 * ( _date_now() - _time_start ) | 0 };
         _time_precision = 1000;
     }
@@ -77,7 +74,7 @@ var EntropyCollector = ( function ( global ) {
         }
     }
 
-    function _keyboard_collector ( e ) {
+    function _keyboard_collector () {
         var i = _event_counter % _buffer_size,
             t = now();
 

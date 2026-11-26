@@ -1,18 +1,7 @@
-const {XMLHttpRequest} = require("xmlhttprequest");
 const axios = require("axios");
 const $ = require('cheerio');
-const {writeFileSync, existsSync} = require('fs');
+const {writeFileSync} = require('fs');
 const {resolve} = require('path');
-
-
-function testCORS(url) {
-	const request = new XMLHttpRequest();
-	request.open('GET', url, false);
-	if (request.status === 200) {
-		return true;
-	}
-	return false;
-}
 
 async function getStations(url) {
 	const page = await axios.get(url);

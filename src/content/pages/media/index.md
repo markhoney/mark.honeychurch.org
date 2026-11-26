@@ -24,13 +24,13 @@ As a part of the roles I've taken on working for charities such as the [NZ Skept
 
 ##### Protesters push to put Jesus back in Parliamentary prayer
 
-@[youtube](https://youtu.be/7bTYpmLXVsU)
+[![Watch on YouTube](https://img.youtube.com/vi/7bTYpmLXVsU/hqdefault.jpg)](https://www.youtube.com/watch?v=7bTYpmLXVsU)
 
 #### 7 Sharp
 
 ##### Religious education row splits Wellington state school community
 
-@[youtube](https://youtu.be/lpq7Mp-UEak)
+[![Watch on YouTube](https://img.youtube.com/vi/lpq7Mp-UEak/hqdefault.jpg)](https://www.youtube.com/watch?v=lpq7Mp-UEak)
 
 ### Radio
 

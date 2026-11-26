@@ -21,4 +21,4 @@ Today started with me staying up until 2am writing [the NZ Skeptics' submission]
 
 I now have a project deadline of Monday for a website frontend (which needs to integrate with a [Koa](http://koajs.com/) backend I've put together), [CoderDojo](http://coderdojo.nz/) this afternoon, where we're going to continue building an [AR sandbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/) with the kids and then I'll probably need to head back to Christchurch early next week to finish off the storage job I was there for.
 
-@[youtube](https://youtu.be/jbgCsKpnj7Q)
+[![Watch on YouTube](https://img.youtube.com/vi/jbgCsKpnj7Q/hqdefault.jpg)](https://www.youtube.com/watch?v=jbgCsKpnj7Q)

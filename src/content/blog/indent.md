@@ -69,7 +69,7 @@ For now, I stand by my choice of using a single tab for indenting. I think that 
 
 In case anyone's unsure of the importance of this question, here's a clip from Silicon Valley showing just how serious a disagreement over Tabs vs Spaces can be.
 
-@[youtube](https://youtu.be/SsoOG6ZeyUI)
+[![Watch on YouTube](https://img.youtube.com/vi/SsoOG6ZeyUI/hqdefault.jpg)](https://www.youtube.com/watch?v=SsoOG6ZeyUI)
 
 ## Examples
 

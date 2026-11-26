@@ -57,7 +57,7 @@ Surely we can improve on the names of some of the letters - `Double U`, for exam
 
 Again, it would be good to have letters where the shape of each letter relates to the sound it makes, but also where the letters are distinct enough that there's no confusion - including for direct brain wave reading:
 
-@[youtube](https://youtu.be/IUg-t609byg)
+[![Watch on YouTube](https://img.youtube.com/vi/IUg-t609byg/hqdefault.jpg)](https://www.youtube.com/watch?v=IUg-t609byg)
 
 ## Alphabet Name
 

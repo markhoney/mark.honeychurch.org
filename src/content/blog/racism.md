@@ -22,7 +22,7 @@ The first thing I found out was that the Aboriginal population in Australia make
 
 Next I tackled the 33% claim. It turns out that the figure mentioned on Q&A was \$30 billion, not 33% of government spending:
 
-@[youtube](https://youtu.be/cqVduXaslVc)
+[![Watch on YouTube](https://img.youtube.com/vi/cqVduXaslVc/hqdefault.jpg)](https://www.youtube.com/watch?v=cqVduXaslVc)
 
 To convert this to a percent, we need to know what the total government spend is in Australia. It turns out to be [just shy of \$500 billion](https://www.abc.net.au/news/2018-05-08/federal-budget-2018-sliced-diced-interactive/9723604#spending/breakdown/2019/general-public-services). This means that our 33% is now 30/500 = ~6% of total government spending.
 

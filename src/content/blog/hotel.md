@@ -20,7 +20,7 @@ Okay, so let's start by checking out what IP I've been given by the hotel DHCP, 
 
 The ipconfig command spits out a lot of text, but we're mainly interested in the Wireless LAN adapter and its Default Gateway (which I've highlighted below):
 
-```powershell{22}
+```powershell
 PS C:\> ipconfig
 
 Windows IP Configuration
@@ -60,7 +60,7 @@ Okay, so first things first - we can use [Angry IP Scanner](https://angryip.org/
 
 We can also use ```tracert``` to find out what devices there are beyond our local gateway. A traceroute can show us the IP of each device our data goes through on the way to a destination IP. In this instance, we'll start a traceroute to CloudFlare's DNS server at [1.1.1.1](https://1.1.1.1/), and we'll turn off resolution of IP addresses to host names with -d (because it slows traceroute down a lot).
 
-```powershell{6}
+```powershell
 PS C:\> tracert -d 1.1.1.1
 
 Tracing route to 1.1.1.1 over a maximum of 30 hops

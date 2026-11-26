@@ -19,7 +19,7 @@ Well, it didn't take long for the spam to appear on my blog - just a week or two
 
 My blog looked great when I saw it today - comments on each and every blog entry. This is where the dilemma comes from. I could delete the spam comments, which advertise online poker and insurance, and add CAPTCHAs to my forms, or I could leave the comments there and bask in the fake glory of having such a popular blog, at least with spammers. Spammers who are kind enough to leave insightful comments such as the following:
 
-```bbcode
+```text
 Submitted by homeowners insurance (not verified) on July 1, 2008 - 12:14am.
 
 aon4d2d-qfeguof-tw6q51c7-0 &lt;a href="http://urlser.com/?IQpnn#2"&gt;car insurance quotesM&lt;/a&gt;
@@ -39,7 +39,7 @@ http://urlser.com/?m6c0v#1
 [img]http://victor.freewebhostingpro.com/1.php[/img]
 ```
 
-```bbcode
+```text
 Submitted by car insurance (not verified) on July 1, 2008 - 12:20am.
 
 3b19rvq-y1nj0au-tw6q687a-0 &lt;a href="http://urlser.com/?5Nnno#2"&gt;progressive insurance&lt;/a&gt;
@@ -59,7 +59,7 @@ http://urlser.com/?aBCA5#1
 [img]http://victor.freewebhostingpro.com/1.php[/img]
 ```
 
-```bbcode
+```text
 Submitted by black jack (not verified) on July 1, 2008 - 3:56am.
 
 4331vd1-s5jy4k1-tw6qaabd-0 &lt;a href="http://black-jack-mo.lookera.net#2"&gt;black jack&lt;/a&gt;
@@ -79,7 +79,7 @@ http://urlser.com/?IQpnn#1
 [img]http://victor.freewebhostingpro.com/1.php[/img]
 ```
 
-```bbcode
+```text
 Submitted by best online casino (not verified) on July 1, 2008 - 12:14am.
 
 qwk4cgg-n4jvr9l-tw6q51c7-0 &lt;a href="http://urlser.com/?nm4rK#1" title="http://urlser.com/?nm4rK#1"&gt;http://urlser.com/?nm4rK#1&lt;/a&gt;
@@ -99,7 +99,7 @@ homeowners insurance
 [img]http://victor.freewebhostingpro.com/1.php[/img]
 ```
 
-```bbcode
+```text
 Submitted by life insurance (not verified) on July 1, 2008 - 3:56am.
 
 6yzt7f9-bbxagx5-tw6q5db6-0 &lt;a href="http://urlser.com/?m6c0v#2"&gt;auto insurance&lt;/a&gt;

@@ -80,7 +80,7 @@ This concept is really quite clever, making fine-grained control of what data yo
 
 For more information on how GraphQL came about, there's a great documentary:
 
-@[youtube](https://www.youtu.be/783ccP__No8)
+[![Watch on YouTube](https://img.youtube.com/vi/783ccP__No8/hqdefault.jpg)](https://www.youtube.com/watch?v=783ccP__No8)
 
 ### Graph DB
 

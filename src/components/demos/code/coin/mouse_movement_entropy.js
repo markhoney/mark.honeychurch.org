@@ -18,7 +18,6 @@
 *
 **/
 
-if(document.captureEvents) { document.captureEvents(Event.MOUSEMOVE); }
 document.onmousemove = MouseMove;
 
 window.entropy_pool = '';
@@ -34,10 +33,7 @@ MAXMAX = 0x1000000000000;
 // Add entropy to the pool with every mouse movement
 function MouseMove(e)
 {
-  // IE-centric hack.. if "e" is undefined, fudge in "event" object properties. I don't have to align them
-  // with the corner of the screen, because abs values don't matter just how different they are from the last
-  // values. Their "unpredictability".
-  if(e==null) { e = {"pageX": event.clientX, "pageY": event.clientY}; }
+  if (!e) return;
 
   window.entropy_pool = SHA256(window.entropy_pool + (new Date).getMilliseconds() +':'+ e.pageX +':'+ e.pageY);
   window.entropy_bits += BITS_PER_SAMPLE;

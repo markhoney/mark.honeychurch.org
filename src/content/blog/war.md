@@ -15,7 +15,7 @@ A friend recently let me know of a [tiny program](https://www.pouet.net/prod.php
 
 <!-- more -->
 
-@[youtube](https://youtu.be/CAAuIgjrZWY)
+[![Watch on YouTube](https://img.youtube.com/vi/CAAuIgjrZWY/hqdefault.jpg)](https://www.youtube.com/watch?v=CAAuIgjrZWY)
 
 ## DOSBox
 
@@ -49,7 +49,7 @@ The Reddit breakdown suggests that the audio is created from simply sending the 
 
 As far as my analysis is concerned, here's the code in hex (4 rows of 16 bytes), just to show that it's only 64 bytes:
 
-```hex
+```text
 14 13 BA 30 03 F3 6E CD 10 B8 4F 0C E6 40 E2 F7
 1F 68 00 A5 07 B8 CD CC F7 E7 89 E8 80 EE F6 F6
 F6 92 2C 7F F6 EA 02 16 6C 04 92 30 C6 F6 EE D4

@@ -1,4 +1,5 @@
-import {defineCollection, z} from 'astro:content';
+import {defineCollection} from 'astro:content';
+import {z} from 'astro/zod';
 import {glob} from 'astro/loaders';
 
 const stringList = z
@@ -20,7 +21,7 @@ const sharedSchema = z
 		sidebar: z.union([z.boolean(), z.string()]).optional(),
 		sidebarDepth: z.number().optional(),
 	})
-	.passthrough();
+	.loose();
 
 const blog = defineCollection({
 	loader: glob({

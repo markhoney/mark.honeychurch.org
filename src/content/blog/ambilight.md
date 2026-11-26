@@ -37,8 +37,7 @@ The LEDs come with an adhesive backing, which makes sticking them to the back of
 
 And here's a video of the finished product.
 
-@[youtube](https://youtu.be/mUPjq1NMdJc)
-
+[![Watch on YouTube](https://img.youtube.com/vi/mUPjq1NMdJc/hqdefault.jpg)](https://www.youtube.com/watch?v=mUPjq1NMdJc)
 
 ## Previous attempt
 

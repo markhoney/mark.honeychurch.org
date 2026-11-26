@@ -10,4 +10,4 @@ permalink: /cv/cover/
 
 ![Remember Inigo Montoya](../../../../assets/content/cv/cover/Inigo-Montoya-Remember.jpg)
 
-@[youtube](https://youtu.be/6JGp7Meg42U)
+[![Watch on YouTube](https://img.youtube.com/vi/6JGp7Meg42U/hqdefault.jpg)](https://www.youtube.com/watch?v=6JGp7Meg42U)

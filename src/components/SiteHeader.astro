@@ -1,4 +1,5 @@
 ---
+import Search from 'astro-pagefind/components/Search.astro';
 import {navigation} from '../data/navigation';
 const {pathname} = Astro.url;
 ---
@@ -28,4 +29,11 @@ const {pathname} = Astro.url;
 			}
 		</ul>
 	</nav>
+	<Search
+		className="site-search"
+		searchboxOptions={{
+			placeholder: 'Search the site',
+			'aria-label': 'Search the site',
+		}}
+	/>
 </header>

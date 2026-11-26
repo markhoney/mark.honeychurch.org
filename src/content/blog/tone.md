@@ -29,4 +29,4 @@ In the end, it appeared that the Game mode was somewhat more mundane. From what 
 
 As a bonus, here's a review with an unboxing of a set that will give you a good idea of how the whole thing works:
 
-@[youtube](https://youtu.be/K1Dzm7LeuGM)
+[![Watch on YouTube](https://img.youtube.com/vi/K1Dzm7LeuGM/hqdefault.jpg)](https://www.youtube.com/watch?v=K1Dzm7LeuGM)

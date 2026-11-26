@@ -15,7 +15,7 @@ I was watching a Sean Carroll video, and in the first few minutes Carroll used a
 
 <!-- more -->
 
-@[youtube](https://youtu.be/iXRLDatmbgA)
+[![Watch on YouTube](https://img.youtube.com/vi/iXRLDatmbgA/hqdefault.jpg)](https://www.youtube.com/watch?v=iXRLDatmbgA)
 
 This got me thinking that it would probably be fairly easy to write a Vue component that would flip a coin based on a quantum event. All I had to do was find some code to display an animated coin flip, and a way to get data from quantum events.
 

@@ -61,13 +61,13 @@ org.honeychurch
 
 Other issues crop up in places like Content Security Policies. For this site, because I've embedded a [Twitter feed](/status/twitter/) and I use a CSP to secure the site, I've needed to add this to my CSP:
 
-```csp
+```text
 img-src https://pbs.twimg.com https://ton.twimg.com; frame-src https://platform.twitter.com https://syndication.twitter.com;
 ```
 
 Now, if I was happy allowing any subdomain of Twitter's, and if domain names were reversed, I would have been able to shorten this to:
 
-```csp
+```text
 img-src https://com.twimg; frame-src https://com.twitter;
 ```
 

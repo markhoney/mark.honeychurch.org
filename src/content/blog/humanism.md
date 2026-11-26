@@ -42,4 +42,4 @@ As a skeptic, it's hard not to get behind these claims.
 
 Here's a video that YouTube promoted to me today and promted this rant:
 
-@[youtube](https://youtu.be/oQ1TJ7oUMHg)
+[![Watch on YouTube](https://img.youtube.com/vi/oQ1TJ7oUMHg/hqdefault.jpg)](https://www.youtube.com/watch?v=oQ1TJ7oUMHg)

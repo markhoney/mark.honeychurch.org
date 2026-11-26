@@ -40,4 +40,4 @@ Once this has been done, close and re-open iTunes, and then attempt the restore.
 
 For more details, there's a video showing how to do this:
 
-@[youtube](https://youtu.be/Ph5MGBeClv8)
+[![Watch on YouTube](https://img.youtube.com/vi/Ph5MGBeClv8/hqdefault.jpg)](https://www.youtube.com/watch?v=Ph5MGBeClv8)

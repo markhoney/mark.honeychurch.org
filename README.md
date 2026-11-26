@@ -29,17 +29,3 @@ Interactive examples retain the site's original behavior and presentation in Vue
 Sveltia CMS is available at `/admin/`. Its configuration is in `public/admin/config.yml` and exposes separate Blog Posts and Pages collections.
 
 GitHub Actions builds `master` and publishes `dist/` through GitHub Pages.
-
-## AI To Do
-
-I want my Vue code, and other code, to be coloured using whatever code formatting package makes sense. Also YouTube videos don't appear to be rendering properly - can you sort that out?
-
-Can you fix the Astro hints?
-
-Can you add and configure the following plugins?
-
-@astrojs/sitemap
-astro-pagefind
-astro-robots-txt
-@astrojs/partytown
-astro-favicons

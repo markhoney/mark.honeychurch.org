@@ -22,4 +22,4 @@ The project was a lesson in bad User Interface design, as the people at UC Davis
 
 Here's our sandbox in action:
 
-@[youtube](https://youtu.be/jbgCsKpnj7Q)
+[![Watch on YouTube](https://img.youtube.com/vi/jbgCsKpnj7Q/hqdefault.jpg)](https://www.youtube.com/watch?v=jbgCsKpnj7Q)

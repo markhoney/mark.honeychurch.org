@@ -1,6 +1,3 @@
-function Input() {
-}
-
 function Calculate(reqGain, stdR, R) { // Find the closest gain possible to the required value
 	var P1, P2, gain; // Create variables to hold our calculated values
 	var aclGain = 10;

@@ -17,9 +17,6 @@ If you've already talked to me and you're looking for a high quality photo to us
 ## Mentioned, quoted, interviewed
 
 As a part of the roles I've taken on working for charities such as the [NZ Skeptics](https://skeptics.nz), [Humanist NZ](https://humanist.nz) and the [Society for Science Based Healthcare](http://sbh.nz), I'm occasionally asked for my opinion on various topics. Sometimes a project I've been working on also makes it into the media. Here are the times that I've been mentioned in the media that I can find online:
-
-<page-media />
-
 ### TV
 
 #### 1 News
@@ -45,12 +42,6 @@ As a part of the roles I've taken on working for charities such as the [NZ Skept
 ##### Pharmacy Council moves to change code of ethics over homeopathy
 
 <p><audio controls src="https://podcast.radionz.co.nz/ntn/ntn-20151014-0908-pharmacy_council_moves_to_change_code_of_ethics_over_homeopathy-048.mp3" /></p>
-
-#### Skeptical Thoughts
-
-I have spoken regularly on the radio about skepticism with Graeme Hill, first on his Weekend Variety Wireless show on RadioLive, and more recently on MagicTalk. Here's a list of my appearances:
-
-<page-radiolist />
 
 ### Podcasts
 

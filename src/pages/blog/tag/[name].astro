@@ -1,0 +1,36 @@
+---
+import {getCollection} from 'astro:content';
+import type {GetStaticPaths} from 'astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostList from '../../../components/PostList.astro';
+import {sortNewest, taxonomySlug} from '../../../lib/content';
+
+export const getStaticPaths = (async () => {
+	const entries = await getCollection('pages');
+	const tags = [...new Set(entries.flatMap(entry => entry.data.tags))];
+
+	return tags.map(name => ({
+		params: {name: taxonomySlug(name)},
+		props: {
+			name,
+			entries: sortNewest(
+				entries.filter(entry =>
+					entry.data.title && entry.data.tags.includes(name)),
+			),
+		},
+	}));
+}) satisfies GetStaticPaths;
+
+const {name, entries} = Astro.props;
+---
+
+<BaseLayout title={`Tag: ${name}`}>
+	<main class="page page-card">
+		<article class="content">
+			<header class="page-heading">
+				<h1><a href="/blog/tag/">Tag</a>: {name}</h1>
+			</header>
+			<PostList entries={entries} />
+		</article>
+	</main>
+</BaseLayout>

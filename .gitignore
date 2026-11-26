@@ -1,5 +1,9 @@
 # Dependencies
-node_modules
+node_modules/
+
+# Astro
+dist/
+.astro/
 
 # local env files
 .env.local
@@ -26,21 +30,5 @@ thumbs.db
 # Large Media
 lfs
 
-# Build folder
-dist/*
-
-# Lock files
-# package-lock.json
-# yarn.lock
-
-# Local files
-# _posts
-
 .cache
 .temp
-.vuepress/.temp
-docs/.vuepress/.temp
-.vuepress-next/.temp
-.vuepress/.cache
-docs/.vuepress/.cache
-.vuepress-next/.cache

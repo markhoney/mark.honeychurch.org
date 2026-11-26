@@ -1,7 +1,0 @@
-<template>
-	<pre>
-		<code class="language-json">
-			{{JSON.stringify($route, null, '\t')}}
-		</code>
-	</pre>
-</template>

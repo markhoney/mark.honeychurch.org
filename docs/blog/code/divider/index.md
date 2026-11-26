@@ -28,9 +28,6 @@ A friend who is studying Engineering at university asked me for help tutoring hi
 There's some more explanation in the assignment, including information on how to calculate the resistance values p1 and p2, and the gain of the circuit.
 
 In order to be able to help my friend with his assignment, I decided to get my head around the problem by coding it in Javascript. It took about half an hour to throw together a program that somewhat closely resembled what the lecturer is after. I then figured that with the magic of Vue, I should be able to write a component that dynamically calculates the answers as you type in your required gain. Here is the end result:
-
-<code-divider-voltage />
-
 ## Code
 
 :::: tabs
@@ -38,29 +35,21 @@ In order to be able to help my friend with his assignment, I decided to get my h
 ::: tab Node.js
 
 This is the Node.js code I came up with initially to complete the task. It's not pretty, but it tries to follow the rules (e.g. passing by reference) and variable names set by the assignment:
-
-<<< @/components/code/divider/index.js
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 Here's a more JavaScript native way of doing the same task:
-
-<<< @/components/code/divider/better.js
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 :::
 
 ::: tab Vue
 
 This is what the code looks like when converted into a vue component.
-
-<<< @/components/code/divider/voltage.vue
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 :::
 
 ::: tab C++
 
 Here's the C++ version of the code, as required by the assignment.
-
-<<< @/docs/blog/code/divider/ConsoleApplication1.cpp
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 This code was written in Visual Studio Community 2017, but also compiles in mingw and produces a 64kB [executable file](/programs/divider.executable) (rename this to .exe if you download it) with this command:
 
 ```shell

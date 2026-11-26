@@ -17,11 +17,7 @@ Here are some graphs showing the results. It's interesting to see that, after I 
 And of course, there's been absolutely no effort to try to ensure that a representative sample of skeptics answered the questionnaire - maybe those who fit the already popular star signs were more compelled to add their data point to the spreadsheet and influence the result than those whose star signs were added by fewer skeptics early on in the project. Maybe skeptics lied about their star sign to invalidate the experiment, potentially because of a dislike of astrology.
 
 Hover over the charts to see numbers, percents and any missing labels.
-
-<code-astrology-charts />
-
 ## Data
 
 Here's the source data for the graphs, in JSON format:
-
-<<< @/components/code/astrology/astrology.json
+_The original Vue demo source has been superseded by the current Astro implementation on this page._

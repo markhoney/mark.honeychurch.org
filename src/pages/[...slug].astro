@@ -1,0 +1,74 @@
+---
+import {getCollection, render} from 'astro:content';
+import type {GetStaticPaths} from 'astro';
+import BlogOverview from '../components/BlogOverview.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import InteractiveWidgets from '../components/InteractiveWidgets.astro';
+import MediaList from '../components/MediaList.astro';
+import TaxonomyIndex from '../components/TaxonomyIndex.astro';
+import type {PageEntry} from '../lib/content';
+import {articleDescription, pagePath} from '../lib/content';
+
+export const getStaticPaths = (async () => {
+	const entries = (await getCollection('pages')).filter(
+		entry => pagePath(entry) !== '/',
+	);
+
+	return entries.map(entry => ({
+		params: {slug: pagePath(entry).replace(/^\/|\/$/g, '')},
+		props: {entry},
+	}));
+}) satisfies GetStaticPaths;
+
+interface Props {
+	entry: PageEntry;
+}
+
+const {entry} = Astro.props;
+const {Content} = await render(entry);
+const path = pagePath(entry);
+const section = /^\/blog\/(life|random|code|howto|projects)\/$/.exec(path)?.[1];
+const isBlogLanding = path === '/blog/';
+const isPost = Boolean(entry.data.date);
+const taxonomyType =
+	path === '/blog/category/' ? 'category'
+		: path === '/blog/tag/' ? 'tag'
+			: undefined;
+const title = entry.data.title ?? 'Mark Honeychurch';
+---
+
+<BaseLayout title={title} description={articleDescription(entry)}>
+	<main class:list={['page', 'page-card', {'is-post': isPost}]}>
+		{isPost && <div class="post-banner" aria-hidden="true"></div>}
+		<article class="content">
+			<header class="page-heading">
+				{entry.data.title && <h1>{entry.data.title}</h1>}
+				{
+					entry.data.date && (
+						<time datetime={entry.data.date.toISOString()}>
+							{entry.data.date.toLocaleDateString('en-NZ', {
+								year: 'numeric',
+								month: 'long',
+								day: 'numeric',
+							})}
+						</time>
+					)
+				}
+				{
+					(entry.data.categories.length > 0 || entry.data.tags.length > 0) && (
+						<p class="taxonomy">
+							{[...entry.data.categories, ...entry.data.tags].join(' · ')}
+						</p>
+					)
+				}
+			</header>
+			<div class="markdown-content">
+				<Content />
+			</div>
+			<InteractiveWidgets path={path} />
+			{(isBlogLanding || section) && <BlogOverview section={section} />}
+			{taxonomyType && <TaxonomyIndex type={taxonomyType} />}
+			{path === '/media/' && <MediaList />}
+		</article>
+	</main>
+</BaseLayout>

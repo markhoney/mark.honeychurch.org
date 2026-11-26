@@ -1,0 +1,29 @@
+---
+import {getCollection} from 'astro:content';
+import {taxonomySlug} from '../lib/content';
+
+interface Props {
+	type: 'category' | 'tag';
+}
+
+const {type} = Astro.props;
+const field = type === 'category' ? 'categories' : 'tags';
+const values = [
+	...new Set(
+		(await getCollection('pages')).flatMap(entry => entry.data[field]),
+	),
+].sort((a, b) => a.localeCompare(b));
+---
+
+<section>
+	<h2>{type === 'category' ? 'Categories' : 'Tags'}</h2>
+	<ul class="taxonomy-index">
+		{
+			values.map(value => (
+				<li>
+					<a href={`/blog/${type}/${taxonomySlug(value)}/`}>{value}</a>
+				</li>
+			))
+		}
+	</ul>
+</section>

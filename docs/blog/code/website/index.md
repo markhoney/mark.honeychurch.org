@@ -12,9 +12,11 @@ tags:
   - Markdown
 ---
 
-This website is built using [Vuepress](https://vuepress.vuejs.org/) and a little bit of Vue magic. The [entire source](https://github.com/markhoney/mark.honeychurch.org) for this site is on GitHub, and the config.js file has been set to build the site to the /docs folder. In GitHub this repository has been set to publish the site at /docs and has been given a custom domain name - mark.honeychurch.org.
+This website is now built using [Astro](https://astro.build/) and edited with [Sveltia CMS](https://github.com/sveltia/sveltia-cms). The [entire source](https://github.com/markhoney/mark.honeychurch.org) is on GitHub, and a GitHub Actions workflow builds the static site into `dist` and publishes it to the custom domain mark.honeychurch.org.
 
 <!-- more -->
+
+_The technical notes below describe the site's earlier VuePress implementation. They are retained as a historical account of how the site evolved._
 
 ![GitHub Pages](./Screenshot_1.jpg)
 
@@ -47,9 +49,6 @@ For a Vue component layout template that displays a single page, a &lt;Content /
 ### $page
 
 For Vue components, there's metadata available for a single page in the $page object:
-
-<code-vuepress-page />
-
 ### $site
 
 There's a $site object which holds metadata for the entire site. I've created a separate page for it, as it's pretty long:
@@ -67,27 +66,19 @@ There's a $route object as well:
 ### window.location
 
 We also have all the usual Javascript data available to us, such as window.location (but bear in mind the gotcha described below):
-
-<code-vuepress-location />
-
 This can come in handy for clever hacks like using window.location.search to offer a dynamic page that lists posts in a single category, for example. However, because the window object is only available in the browser, we have to make sure that the code is only run on the client side. This can be done by creating an empty reactive data object, and then populating it on mount with the frontend data.
 
 ### location.vue
 
 Here's the component I used above to get the window.location object:
-
-<<< @/components/code/vuepress/location.vue
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 ### Category Page
 
 For example, to list a single category of posts on this site, I have a reactive data object called "category" which is initialised as null. Then, on mounted(), I get the URL query from window.location.search to find out what category I need to show, and dynamically compute a list of pages that match that category:
-
-<<< @/docs/.vuepress/theme/components/post/categories.vue
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 <!--
 ## This page
 
 As an example, here is the markdown for this web page. There is a [Front Matter](https://jekyllrb.com/docs/front-matter/) section at the top of the page, followed by the page markdown.
-
-<<< @/docs/blog/code/website/index.md
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 -->

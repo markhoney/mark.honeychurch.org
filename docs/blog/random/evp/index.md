@@ -27,21 +27,13 @@ Supposedly ghosts can talk in a way that humans can't hear, but that can be pick
 This gain increase has the potential to cause the dictaphone to pick up more than just quiet voices. It will also amplify any internal electronics noise being created by the dictaphone's internal electronics. It is these spurious noises that are believed to be a common source of the "ghost voices" that ghost hunters end up capturing.
 
 I wondered if I could write a simple recreation of this by wiring a PC's microphone into its speakers, via a DSP filter to increase the gain. With modern day web technology, this can all be done in a browser. Below is my simple effort to recreate EVP, with a slider to change the gain of the incoming audio. Just slide the slider to the right to increase the volume, and if you don't want to hear ungodly noises (feedback) emanating from your PC, plug a pair of headphones into your PC before hitting play.
-
-<code-evp-recorder />
-
 ## Spirit Box
-
-<code-evp-spiritbox />
-
 ## Code
 
 Here's the Vue component I put together to make this happen.
 
 ## Voice Recorder
-
-<<< @/components/code/evp/recorder.vue
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 ## Spirit Box
 
 :::: tabs
@@ -49,25 +41,19 @@ Here's the Vue component I put together to make this happen.
 ::: tab Vue
 
 Here's the Vue code:
-
-<<< @/components/code/evp/spiritbox.vue
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 :::
 
 ::: tab JS
 
 This JS script makes the list of stations:
-
-<<< @/components/code/evp/getstations.js
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 :::
 
 ::: tab JSON
 
 Here's the JSON output of the above script:
-
-<<< @/components/code/evp/stations.json
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 :::
 
 ::::

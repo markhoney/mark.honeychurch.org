@@ -4,5 +4,3 @@ slug: route
 ---
 
 # $route
-
-<code-vuepress-route />

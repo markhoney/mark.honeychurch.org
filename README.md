@@ -1,44 +1,29 @@
 # mark.honeychurch.org
 
-## Content
+The personal website of Mark Honeychurch, built with [Astro](https://astro.build/) and managed with [Sveltia CMS](https://github.com/sveltia/sveltia-cms).
 
-This is the personal website of Mark Honeychurch, and hosts my CV, contact details and some of my writing - such as details of tech projects I've worked on, code that I've written, my thoughts on random topics and notes from my Skeptical Thoughts radio segment on RadioLive.
+The retained blog, CV, contact, and media content lives in `docs/` as Markdown with YAML frontmatter. Astro reads it through a content collection, while static assets live in `public/`.
 
-## Technical
-
-The site is built using [Vuepress](https://vuepress.vuejs.org/), markdown files for content and a little bit of Vue magic. I've added some components to display a header and footer, list categories and tags, and display lists of pages. The Vuepress config.js file has been configured to build the site to the /docs folder. This repository on GitHub has been set to publish the site found in the /docs folder via HTTPS, and has been given a custom domain name - [mark.honeychurch.org](https://mark.honeychurch.org).
-
-This solution allows me to have both the source and build for the website in the one GitHub repo, which is clean and simple. All that's needed is for Vuepress to be installed globally, along with the markdown-it extensions I use (video, fontawesome, abbr, sup, sub and attrs), and then for the NODE_PATH environment variable to point to the global node_modules folder.
-
-## Symlinks
-
-Symlinks are needed to allow shared resources to be used by different static site builders. Run the following commands:
-
-### Windows
-
-```powershell
-cmd /c mklink docs\.vuepress .vuepress
-cmd /c mklink .vuepress\public public
-```
-
-### Commands
-
-Before committing to GitHub, Large File Support (LFS) is needed. This can be installed with:
+## Development
 
 ```bash
-git lfs install
+yarn install
+yarn dev
 ```
 
-A development version of the site, with hot reloading, can be launched by running:
+The development site runs at `http://localhost:4321`.
+
+## Production build
 
 ```bash
-vuepress dev
+yarn build
+yarn preview
 ```
 
-To build the static files for the production website, all you need to run is:
+The build performs an Astro type/content check and generates the static site in `dist/`.
 
-```bash
-vuepress build
-```
+## Content management
 
-For more details about how this website is built, check out [this blog post](/blog/code/website/).
+Sveltia CMS is available at `/admin/`. Its configuration is in `public/admin/config.yml` and edits the Markdown collections in `docs/`.
+
+GitHub Actions builds `master` and publishes `dist/` to the `gh-pages` branch.

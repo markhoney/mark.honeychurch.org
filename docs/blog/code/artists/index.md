@@ -19,15 +19,11 @@ Of course, I quickly realised that this would take a while to complete, so I sea
 , there wasn't any cover art downloading software listed. After a search on google, I found a slightly shorter named piece of software called [Album Art Downloader](http://sourceforge.net/projects/album-art) on Sourceforge. This new piece of software does a similar job to Album Cover Art Downloader, but has a lot more plugins to search different sites for album art - including Discogs.
 
 So, after adding a list item for Album Art Downloader to the Wikipedia page, I downloaded installed the software. The Discogs plugin is capable of downloading album art images, which is great, but doesn't download artist images. As Album Art Downloader uses a plugin architecture, I figured it wouldn't be too hard to hack the existing Discogs script to use it for artist images. The existing plugin is at C:\Program Files\AlbumArtDownloader\Scripts\discogs.boo, and it consists of the following code:
-
-<<< @/docs/blog/code/artists/discogs.cs
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 Well, I figured it wouldn't be too hard to make a copy of this and edit it to download artist images. The main changes need to be to change the Class name (to DiscogsArtist), change the plugin details, make the first search look for artists only (change _query as string = artist + " " + album_ to _query as string = album_), remove the extra code between the artist/album search and the image search and change the RegEx search for images within the page to search for files beginning with _A-_ (Artist) instead of _R-_ (Release).
 
 What we come up with is the following script:
-
-<<< @/docs/blog/code/artists/discogartists.cs
-
+_The original Vue demo source has been superseded by the current Astro implementation on this page._
 I saved this as _discogartists.boo_ and copied it to the plugins directory. When I first started up Album Art Downloader, I received complaints about indenting - as it turns out that indenting is used to mark loops and the like in the plugin. After fixing the indenting, Album Art Downloader ran without any complaints - woo hoo!
 
 Using the plugin is a bit of a fudge! First, to make sure each artist's folder shows up we need to have at least one file in each of them. My quick fix was to browse through each of the folders containing artists in turn, turning on the _Thumbnails_ view. This causes windows to create a Thumbs.db file in each artist's folder.

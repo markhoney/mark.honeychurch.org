@@ -1,0 +1,31 @@
+---
+import {navigation} from '../data/navigation';
+const {pathname} = Astro.url;
+---
+
+<header class="site-header">
+	<a class="site-name" href="/">Mark Honeychurch</a>
+	<nav aria-label="Main navigation">
+		<ul>
+			{
+				navigation.map(item => (
+					<li class:list={{dropdown: 'children' in item}}>
+						<a
+							href={item.href}
+							aria-current={pathname === item.href ? 'page' : undefined}
+						>
+							{item.label}
+						</a>
+						{'children' in item && (
+							<ul class="dropdown-menu">
+								{item.children.map(child => (
+									<li><a href={child.href}>{child.label}</a></li>
+								))}
+							</ul>
+						)}
+					</li>
+				))
+			}
+		</ul>
+	</nav>
+</header>

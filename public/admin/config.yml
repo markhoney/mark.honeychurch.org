@@ -1,0 +1,108 @@
+backend:
+  name: github
+  repo: markhoney/mark.honeychurch.org
+  branch: master
+
+site_url: https://mark.honeychurch.org
+display_url: https://mark.honeychurch.org
+logo:
+  src: /media/images/icons/android-chrome-192x192.png
+  alt: Mark Honeychurch
+media_folder: public/media/uploads
+public_folder: /media/uploads
+publish_mode: editorial_workflow
+
+collections:
+  - name: general
+    label: Pages
+    files:
+      - name: home
+        label: Home
+        file: docs/index.md
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Body, name: body, widget: markdown}
+      - name: contact
+        label: Contact
+        file: docs/contact/index.md
+        fields:
+          - {label: Title, name: title, widget: string, default: Contact}
+          - {label: Body, name: body, widget: markdown}
+      - name: cv
+        label: CV
+        file: docs/cv/index.md
+        fields:
+          - {label: Title, name: title, widget: string, default: CV}
+          - {label: Body, name: body, widget: markdown}
+      - name: media
+        label: Media
+        file: docs/media/index.md
+        fields:
+          - {label: Title, name: title, widget: string, default: Media}
+          - {label: Body, name: body, widget: markdown}
+
+  - name: code
+    label: Code
+    folder: docs/blog/code
+    nested:
+      depth: 2
+    create: true
+    extension: md
+    format: frontmatter
+    path: '{{slug}}/index'
+    slug: '{{slug}}'
+    fields: &article_fields
+      - {label: Title, name: title, widget: string}
+      - {label: Slug, name: slug, widget: string, required: false}
+      - {label: Date, name: date, widget: datetime, format: YYYY-MM-DD, date_format: YYYY-MM-DD, time_format: false}
+      - {label: Categories, name: categories, widget: list, field: {label: Category, name: category, widget: string}}
+      - {label: Tags, name: tags, widget: list, field: {label: Tag, name: tag, widget: string}, required: false}
+      - {label: Body, name: body, widget: markdown}
+
+  - name: life
+    label: Life
+    folder: docs/blog/life
+    nested:
+      depth: 2
+    create: true
+    extension: md
+    format: frontmatter
+    path: '{{slug}}/index'
+    slug: '{{slug}}'
+    fields: *article_fields
+
+  - name: random
+    label: Random
+    folder: docs/blog/random
+    nested:
+      depth: 2
+    create: true
+    extension: md
+    format: frontmatter
+    path: '{{slug}}/index'
+    slug: '{{slug}}'
+    fields: *article_fields
+
+  - name: howto
+    label: How To
+    folder: docs/blog/howto
+    nested:
+      depth: 2
+    create: true
+    extension: md
+    format: frontmatter
+    path: '{{slug}}/index'
+    slug: '{{slug}}'
+    fields: *article_fields
+
+  - name: projects
+    label: Projects
+    folder: docs/blog/projects
+    nested:
+      depth: 2
+    create: true
+    extension: md
+    format: frontmatter
+    path: '{{slug}}/index'
+    slug: '{{slug}}'
+    fields: *article_fields

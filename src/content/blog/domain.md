@@ -16,8 +16,8 @@ Domain Registrars seem to be willing to resort to some pretty underhanded tactic
 
 Another nefarious tactic that registrars seem happy to use is that of sending out an "Invoice" for a domain that isn't currently registered under them. The invoice is actually a combination of invoice and domain transfer, and the companies in question seem to be hopeful that you won't notice that they're not your current registrar, and that the price they're charging is likely more than you're paying with your current registrar. Here's a sample of the kinds of invoices I've received for my honeychurch.org domain, from Nominet UK, the EU Registry and the Domain Registry of America:
 
-![Nominet UK](/media/content/blog/life/domain/nominet.jpg)
+![Nominet UK](../../assets/content/blog/life/domain/nominet.jpg)
 
-![EU Registry](/media/content/blog/life/domain/eu.jpg)
+![EU Registry](../../assets/content/blog/life/domain/eu.jpg)
 
-![Domain Registry of America](/media/content/blog/life/domain/america.jpg)
+![Domain Registry of America](../../assets/content/blog/life/domain/america.jpg)

@@ -12,7 +12,7 @@ tags:
 
 I picked up a $5 [microscope adapter](https://www.kmart.co.nz/product/smartphone-microscope-converter/1002307) for phones from Kmart.
 
-![Microscope](/media/content/blog/projects/microscope/42328698-1-f.jpg)
+![Microscope](../../assets/content/blog/projects/microscope/42328698-1-f.jpg)
 
 I was doubtful that it was going to be any good, but was pleasantly surprised by how well it worked.
 
@@ -20,20 +20,20 @@ The kids and I had fun taking pictures of various household objects and body par
 
 ## Guess What
 
-![My hair](/media/content/blog/projects/microscope/IMG_3127.jpg)
+![My hair](../../assets/content/blog/projects/microscope/IMG_3127.jpg)
 
-![T-shirt](/media/content/blog/projects/microscope/IMG_3130.jpg)
+![T-shirt](../../assets/content/blog/projects/microscope/IMG_3130.jpg)
 
-![Zip](/media/content/blog/projects/microscope/IMG_3131.jpg)
+![Zip](../../assets/content/blog/projects/microscope/IMG_3131.jpg)
 
-![Sequins](/media/content/blog/projects/microscope/IMG_3141.jpg)
+![Sequins](../../assets/content/blog/projects/microscope/IMG_3141.jpg)
 
-![Belly button](/media/content/blog/projects/microscope/IMG_3170.jpg)
+![Belly button](../../assets/content/blog/projects/microscope/IMG_3170.jpg)
 
-![Hair](/media/content/blog/projects/microscope/IMG_3175.jpg)
+![Hair](../../assets/content/blog/projects/microscope/IMG_3175.jpg)
 
-![Pepper corn](/media/content/blog/projects/microscope/IMG_3248.jpg)
+![Pepper corn](../../assets/content/blog/projects/microscope/IMG_3248.jpg)
 
-![Computer screen](/media/content/blog/projects/microscope/IMG_3257.jpg)
+![Computer screen](../../assets/content/blog/projects/microscope/IMG_3257.jpg)
 
-![Sea Salt](/media/content/blog/projects/microscope/IMG_3279.jpg)
+![Sea Salt](../../assets/content/blog/projects/microscope/IMG_3279.jpg)

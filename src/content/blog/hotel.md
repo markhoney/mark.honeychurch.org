@@ -54,7 +54,7 @@ Ethernet adapter Bluetooth Network Connection:
 
 Okay, so first things first - we can use [Angry IP Scanner](https://angryip.org/) to check for other machines on the network. This could be either other customers' devices or other hotel servers or devices.
 
-![Angry IP Scanner](/media/content/blog/projects/hotel/angry.jpg)
+![Angry IP Scanner](../../assets/content/blog/projects/hotel/angry.jpg)
 
 ## TraceRoute
 
@@ -137,17 +137,17 @@ It looks like this server is running not only a web server on ports 80 (HTTP) an
 
 Port 80 redirects us to the hotel's homepage:
 
-![Port 80](/media/content/blog/projects/hotel/80.jpg)
+![Port 80](../../assets/content/blog/projects/hotel/80.jpg)
 
 #### Port 81 - HTTP
 
 Port 81 tells us to sod off:
 
-![Port 81](/media/content/blog/projects/hotel/81.jpg)
+![Port 81](../../assets/content/blog/projects/hotel/81.jpg)
 
 A quick test of various paths (/admin, /login, /config, etc.) gives us a bunch of not found errors:
 
-![Port 81 /admin](/media/content/blog/projects/hotel/81admin.jpg)
+![Port 81 /admin](../../assets/content/blog/projects/hotel/81admin.jpg)
 
 #### Port 443 - Redirect
 
@@ -157,7 +157,7 @@ Port 443 does the same as port 80 above, redirecting us :(.
 
 Although port 444 redirects us to the hotel homepage, digging a little further shows that visiting the /admin path gives us a login page:
 
-![Port 444](/media/content/blog/projects/hotel/444.jpg)
+![Port 444](../../assets/content/blog/projects/hotel/444.jpg)
 
 Yay, we've finally got somewhere. At this point, we'll leave this and move on to the next set of ports, rather than risking getting in trouble.
 
@@ -165,7 +165,7 @@ Yay, we've finally got somewhere. At this point, we'll leave this and move on to
 
 Port 1001 doesn't give us anything useful in a browser, and ```telnet``` and ```netcat``` don't give us anything useful either:
 
-![Port 1001](/media/content/blog/projects/hotel/1001.jpg)
+![Port 1001](../../assets/content/blog/projects/hotel/1001.jpg)
 
 ```powershell
 PS C:\> nc 10.100.0.1 1001
@@ -177,17 +177,17 @@ PS C:\>
 
 Port 3128 gives us a Squid error page, and usefully it also gives us a server name.
 
-![Port 3128](/media/content/blog/projects/hotel/3128.jpg)
+![Port 3128](../../assets/content/blog/projects/hotel/3128.jpg)
 
 #### Port 8080
 
 Port 8080 gives us the same Squid error page as port 3128.
 
-![Port 8080](/media/content/blog/projects/hotel/8080.jpg)
+![Port 8080](../../assets/content/blog/projects/hotel/8080.jpg)
 
 A google search for the server name we just found at the bottom of the Squid error page turns up something interesting - a single result for an open iLO server:
 
-![Google Server Name Search](/media/content/blog/projects/hotel/google.jpg)
+![Google Server Name Search](../../assets/content/blog/projects/hotel/google.jpg)
 
 ### Integrated Lights Out
 

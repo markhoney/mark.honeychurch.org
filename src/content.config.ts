@@ -11,6 +11,7 @@ const sharedSchema = z
 		title: z.string().optional(),
 		description: z.string().optional(),
 		date: z.coerce.date().optional(),
+		draft: z.boolean().default(false),
 		layout: z.string().optional(),
 		slug: z.union([z.string(), z.number()]).optional(),
 		permalink: z.string().optional(),

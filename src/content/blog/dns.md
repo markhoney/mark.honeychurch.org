@@ -124,8 +124,8 @@ A cleaner to read, and easier to implement, scheme might move connection informa
 
 Currently, when a domain name is typed into a browser without a protocol (http or https) at the beginning, the browser defaults to assuming an http connection. The URL shown in the address bar for browsers will be **blank** for a regular HTTP request, and will show **https://** for a secure HTTPS request:
 
-![HTTP](/media/content/blog/random/dns/http.jpg)
+![HTTP](../../assets/content/blog/random/dns/http.jpg)
 
-![HTTPS](/media/content/blog/random/dns/https.jpg)
+![HTTPS](../../assets/content/blog/random/dns/https.jpg)
 
 Given the recent push towards encrypting pages by default by the [EFF](https://www.eff.org/), and the ease of obtaining an SSL certificate with [Let's Encrypt](https://letsencrypt.org/) and [Certbot](https://certbot.eff.org/), maybe it's time for this to be reversed. It would be good to see https as the default connection method, and for http sessions to be highlighted by showing the protocol in the address bar.

@@ -21,17 +21,17 @@ The first time I fixed this, I enlisted the help of a friend who borrowed an exp
 
 I purchased an OBDII to USB tool, and found some free software that could talk to Fiat computers.
 
-![OBDII](/media/content/blog/projects/airbag/IMG_2487.jpg)
+![OBDII](../../assets/content/blog/projects/airbag/IMG_2487.jpg)
 
 ## Improvise!
 
 Unfortunately the connector on the car was made before OBDII connectors were standardised, and I didn't have an adapter. Not letting that stop me, a couple of paper clips, some (green) blu tak
 and a couple of crocodile clips solved the problem.
 
-![Blu Tak](/media/content/blog/projects/airbag/IMG_2486.jpg)
+![Blu Tak](../../assets/content/blog/projects/airbag/IMG_2486.jpg)
 
 ## Setup
 
 Once my laptop was wired to the connector, clearing the fault code was pretty simple.
 
-![Wiring](/media/content/blog/projects/airbag/IMG_2488.jpg)
+![Wiring](../../assets/content/blog/projects/airbag/IMG_2488.jpg)

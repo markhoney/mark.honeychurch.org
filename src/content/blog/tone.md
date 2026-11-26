@@ -14,7 +14,7 @@ Thanks to the generosity of a friend, my lounge now not only has a 7.2 embedded 
 
 <!-- more -->
 
-![Aura Interactor](/media/content/blog/code/tone/1920px-Aura-Interactor-force-feedback-vest.jpg)
+![Aura Interactor](../../assets/content/blog/code/tone/1920px-Aura-Interactor-force-feedback-vest.jpg)
 
 The controls on the amplifier are pretty simple. There's a volume dial, a frequency dial (which adjusts a filter that cuts out high frequency sounds) and a switch to put the device in Game mode. I wondered what this mode did, and was hopeful that maybe it would filter a high frequency sound from specially crafted games and downshift the frequency to the bass range for the shaker. This would be a nice effect, as it would allow you to send shake events to the backpack not whenever there's a low frequency rumble, but rather when an event happens on the screen such as being punched in a beat 'em up, shot in an FPS or hitting an obstacle in an endless runner. The audio signal would be of a high enough frequency that it wouldn't be audible through the room's speakers, but once translated to low frequency by the Aura amplifier would shake the shaker and give you a thump.
 

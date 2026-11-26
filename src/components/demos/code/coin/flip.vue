@@ -57,12 +57,12 @@
 	}
 	.side-a {
 		background-color: #990000;
-		background: #990000 url(/media/images/blog/random/flip/2017_Gold-Coin-small.png) no-repeat top left;
+		background: #990000 url("./assets/2017_Gold-Coin-small.png") no-repeat top left;
 		z-index: 100;
 	}
 	.side-b {
 		background-color: #009900;
-		background: #009900 url(/media/images/blog/random/flip/2017_Gold-Coin_Back-small.png) no-repeat top left;
+		background: #009900 url("./assets/2017_Gold-Coin_Back-small.png") no-repeat top left;
 		transform: rotateX(-180deg);
 	}
 	#coin.heads {

@@ -18,7 +18,7 @@ tags:
 
 Here's an example of EVP, courtesy of Hayley Stevens (from her website [Hayley is a Ghost](https://hayleyisaghost.co.uk/examples-of-evp/)). Can you figure out what's supposedly being said?
 
-<p><audio controls src="/media/audio/skepticism/Keep-Out-EVP.mp3" /></p>
+<p><audio controls src="/audio/evp/keep-out.mp3" /></p>
 
 ## Voice Recorder
 

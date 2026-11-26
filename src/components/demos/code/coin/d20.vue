@@ -76,7 +76,7 @@
 		height: 188px;
 		display: block;
 		position: absolute;
-		background: url('/media/images/blog/random/flip/blue.png') top center no-repeat;
+		background: url('./assets/blue.png') top center no-repeat;
 		font-size: 70px;
 		line-height: 190px;
 		font-family: sans-serif;

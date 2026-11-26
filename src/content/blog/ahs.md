@@ -170,7 +170,7 @@ To help with visualising these files, there are several cool tools we can utilis
 
 Using the "scan" plot of binvis.io shows us some pretty patterns, which are caused by the use of fixed length strings:
 
-![binvis.io](/media/content/blog/projects/ahs/info/binvis.io.gif)
+![binvis.io](../../assets/content/blog/projects/ahs/info/binvis.io.gif)
 
 It looks like the largely blue areas at the top are the field names, and the messy area at the bottom holds the binary values (likely uint32 values).
 
@@ -178,17 +178,17 @@ It looks like the largely blue areas at the top are the field names, and the mes
 
 Taking this further, the BinVis Windows app makes us feel like we're in the Matrix, and also gives us more insight into the structures in our binary file:
 
-![BinVis](/media/content/blog/projects/ahs/info/BinVis.jpg)
+![BinVis](../../assets/content/blog/projects/ahs/info/BinVis.jpg)
 
 #### [Veles](https://codisec.com/veles/)
 
 Veles is a really nice tool, and we can take advantage of both the variable length Hex editor (with colour coded bytes, to align our fixed length fields):
 
-![VelesHex](/media/content/blog/projects/ahs/info/VelesHex.jpg)
+![VelesHex](../../assets/content/blog/projects/ahs/info/VelesHex.jpg)
 
 ...and a 3D plot that allows us to walk through the binary and see its structure:
 
-![Veles3D](/media/content/blog/projects/ahs/info/Veles3D.gif)
+![Veles3D](../../assets/content/blog/projects/ahs/info/Veles3D.gif)
 
 ----
 
@@ -1209,7 +1209,7 @@ IDAPython v1.7.0 final (serial 0) (c) The IDAPython Team <idapython@googlegroups
 The initial autoanalysis has been finished.
 ```
 
-![IDA](/media/content/blog/projects/ahs/info/IDA.jpg)
+![IDA](../../assets/content/blog/projects/ahs/info/IDA.jpg)
 
 However, as of yet I have no idea what to do in IDA in order to see some kind of readable code.
 
@@ -1219,4 +1219,4 @@ Ghidra can be pointed to the ```elf_main.bin``` file we extracted earlier, and w
 
 We can the filter the list of functions by Mem Block for ```.blackbox.elf.ro```, and then browse the functions we're interested in:
 
-![Ghidra](/media/content/blog/projects/ahs/info/Ghidra.jpg)
+![Ghidra](../../assets/content/blog/projects/ahs/info/Ghidra.jpg)

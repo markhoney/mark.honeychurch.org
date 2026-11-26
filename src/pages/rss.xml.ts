@@ -6,7 +6,7 @@ import {articleDescription, pagePath, sortNewest} from '../lib/content';
 export const GET: APIRoute = async context => {
 	const posts = sortNewest(
 		(await getCollection('blog')).filter(
-			entry => entry.data.title && entry.data.date,
+			entry => !entry.data.draft && entry.data.title && entry.data.date,
 		),
 	);
 

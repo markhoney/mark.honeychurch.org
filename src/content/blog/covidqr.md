@@ -16,7 +16,7 @@ While I was in the pub recently, at a [Puzzled Pint](http://www.puzzledpint.com/
 
 I first took a picture of the QR code:
 
-![Hotel Waterloo QR Code](/media/content/blog/random/covidqr/IMG_0473.jpg)
+![Hotel Waterloo QR Code](../../assets/content/blog/random/covidqr/IMG_0473.jpg)
 
 Then I searched online for a QR code reader, and [found one](https://zxing.org/w/decode.jspx) pretty quickly. The website had no problems reading my picture of the QR code, and gave me this parsed output:
 

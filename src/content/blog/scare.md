@@ -32,5 +32,5 @@ The pictures are a little blurry, so here's some of what they say:
 >
 > "Shall we get this all sorted then?"
 
-![AddIns](/media/content/blog/life/scare/IMG_1191.jpg)
-![Cash](/media/content/blog/life/scare/IMG_1192.jpg)
+![AddIns](../../assets/content/blog/life/scare/IMG_1191.jpg)
+![Cash](../../assets/content/blog/life/scare/IMG_1192.jpg)

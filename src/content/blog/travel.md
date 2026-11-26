@@ -47,7 +47,7 @@ The following visas are all in UK passports, from before my time as a New Zealan
 
 Unfortunately my passport was stolen just after crossing from Nepal into India, so this is all I have:
 
-![Nepal](/media/content/blog/random/travel/nepal.jpg)
+![Nepal](../../assets/content/blog/random/travel/nepal.jpg)
 
 :::
 
@@ -55,27 +55,27 @@ Unfortunately my passport was stolen just after crossing from Nepal into India, 
 
 In India we had problems getting accommodation, due to the lack of a valid visa because my passport was stolen. This is the solution that immigration came up with:
 
-![India](/media/content/blog/random/travel/india.jpg)
+![India](../../assets/content/blog/random/travel/india.jpg)
 
 :::
 
 ::: tab Singapore
 
-![Singapore](/media/content/blog/random/travel/singapore.jpg)
+![Singapore](../../assets/content/blog/random/travel/singapore.jpg)
 
 :::
 
 ::: tab Malaysia
 
-![Malaysia](/media/content/blog/random/travel/malaysia.jpg)
+![Malaysia](../../assets/content/blog/random/travel/malaysia.jpg)
 
-![Malaysia](/media/content/blog/random/travel/malaysia2.jpg)
+![Malaysia](../../assets/content/blog/random/travel/malaysia2.jpg)
 
 :::
 
 ::: tab Thailand
 
-![Thailand](/media/content/blog/random/travel/thailand.jpg)
+![Thailand](../../assets/content/blog/random/travel/thailand.jpg)
 
 :::
 
@@ -89,47 +89,47 @@ In India we had problems getting accommodation, due to the lack of a valid visa 
 
 I worked in Australia for a year on a Working Holiday Visa:
 
-![Australia](/media/content/blog/random/travel/australiawork.jpg)
+![Australia](../../assets/content/blog/random/travel/australiawork.jpg)
 
 :::
 
 ::: tab Indonesia
 
-![Indonesia](/media/content/blog/random/travel/indonesia.jpg)
+![Indonesia](../../assets/content/blog/random/travel/indonesia.jpg)
 
 :::
 
 ::: tab Laos
 
-![Laos](/media/content/blog/random/travel/laos.jpg)
+![Laos](../../assets/content/blog/random/travel/laos.jpg)
 
-![Laos](/media/content/blog/random/travel/laos2.jpg)
+![Laos](../../assets/content/blog/random/travel/laos2.jpg)
 
 :::
 
 ::: tab Cambodia
 
-![Cambodia](/media/content/blog/random/travel/cambodia.jpg)
+![Cambodia](../../assets/content/blog/random/travel/cambodia.jpg)
 
 :::
 
 ::: tab Vietnam
 
-![Vietnam](/media/content/blog/random/travel/vietnam.jpg)
+![Vietnam](../../assets/content/blog/random/travel/vietnam.jpg)
 
 :::
 
 ::: tab China
 
-![China](/media/content/blog/random/travel/china.jpg)
+![China](../../assets/content/blog/random/travel/china.jpg)
 
-![China](/media/content/blog/random/travel/china2.jpg)
+![China](../../assets/content/blog/random/travel/china2.jpg)
 
 :::
 
 ::: tab "Hong Kong"
 
-![Hong Kong](/media/content/blog/random/travel/hk.jpg)
+![Hong Kong](../../assets/content/blog/random/travel/hk.jpg)
 
 :::
 
@@ -147,53 +147,53 @@ I entered Greece on my UK passport, so there was no visa requirement and no stam
 
 ::: tab Turkey
 
-![Turkey](/media/content/blog/random/travel/turkey.jpg)
+![Turkey](../../assets/content/blog/random/travel/turkey.jpg)
 
 :::
 
 ::: tab Georgia
 
-![Georgia](/media/content/blog/random/travel/georgia.jpg)
+![Georgia](../../assets/content/blog/random/travel/georgia.jpg)
 
 :::
 
 ::: tab Azerbaijan
 
-![Azerbaijan](/media/content/blog/random/travel/azerbaijan.jpg)
+![Azerbaijan](../../assets/content/blog/random/travel/azerbaijan.jpg)
 
 :::
 
 ::: tab Iran
 
-![Iran](/media/content/blog/random/travel/iran.jpg)
+![Iran](../../assets/content/blog/random/travel/iran.jpg)
 
 Although our original Iranian visa was for one month, it was cheap and easy to then extend this for another month:
 
-![Iran](/media/content/blog/random/travel/iranextension.jpg)
+![Iran](../../assets/content/blog/random/travel/iranextension.jpg)
 
 :::
 
 ::: tab Syria
 
-![Syria](/media/content/blog/random/travel/syria.jpg)
+![Syria](../../assets/content/blog/random/travel/syria.jpg)
 
 :::
 
 ::: tab Lebanon
 
-![Lebanon](/media/content/blog/random/travel/lebanon.jpg)
+![Lebanon](../../assets/content/blog/random/travel/lebanon.jpg)
 
 :::
 
 ::: tab Jordan
 
-![Jordan](/media/content/blog/random/travel/jordan.jpg)
+![Jordan](../../assets/content/blog/random/travel/jordan.jpg)
 
 :::
 
 ::: tab Egypt
 
-![Egypt](/media/content/blog/random/travel/egypt.jpg)
+![Egypt](../../assets/content/blog/random/travel/egypt.jpg)
 
 :::
 
@@ -209,17 +209,17 @@ Some of these visas were in my shiny new New Zealand passport, which is pretty u
 
 I arrived in New Zealand on a one year Holiday Working visa:
 
-![New Zealand](/media/content/blog/random/travel/nzwork.jpg)
+![New Zealand](../../assets/content/blog/random/travel/nzwork.jpg)
 
 After a year, I transitioned to a sponsored Work visa, working for Telecom (now Spark):
 
-![New Zealand](/media/content/blog/random/travel/nzwork2.jpg)
+![New Zealand](../../assets/content/blog/random/travel/nzwork2.jpg)
 
 This was closely followed by a Returning Residence visa:
 
-![New Zealand](/media/content/blog/random/travel/nzreturning.jpg)
+![New Zealand](../../assets/content/blog/random/travel/nzreturning.jpg)
 
-![New Zealand](/media/content/blog/random/travel/nzresidence.jpg)
+![New Zealand](../../assets/content/blog/random/travel/nzresidence.jpg)
 
 Now I'm a New Zealand citizen, as can be seen from the change of passport when I visited South Africa.
 
@@ -227,13 +227,13 @@ Now I'm a New Zealand citizen, as can be seen from the change of passport when I
 
 ::: tab "South Korea"
 
-![South Korea](/media/content/blog/random/travel/korea.jpg)
+![South Korea](../../assets/content/blog/random/travel/korea.jpg)
 
 :::
 
 ::: tab "South Africa"
 
-![South Africa](/media/content/blog/random/travel/sa.jpg)
+![South Africa](../../assets/content/blog/random/travel/sa.jpg)
 
 :::
 

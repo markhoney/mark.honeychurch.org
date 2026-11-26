@@ -17,7 +17,7 @@ I've not been on the radio for a few weeks now, so instead of my regular skeptic
 
 I started my day, at midnight, in the middle of a rather painful run - the first in about a week and a half. It was good to be back out on the road, and not overly surprising to see lots of vehicles out on the road late at night. My guess is a lot of people have been making their way back home before lockdown began.
 
-![My Run](/media/content/blog/life/ouch/Screenshot_5.jpg)
+![My Run](../../assets/content/blog/life/ouch/Screenshot_5.jpg)
 
 While on my run I got to thinking about some of my favourite literary quotes.
 

@@ -18,24 +18,24 @@ I will add to this page as I find and snap number plates which tickle me.
 
 ### A bright red car whose number plate is the hex value for red
 
-![FF0000](/media/content/blog/life/plates/P1000495.jpg)
+![FF0000](../../assets/content/blog/life/plates/P1000495.jpg)
 
 ### Either existential angst or a pirate
 
-![AARGHH](/media/content/blog/life/plates/IMGP3936.jpg)
+![AARGHH](../../assets/content/blog/life/plates/IMGP3936.jpg)
 
 ### Seen outside of a Spiritualist church
 
-![2HEALU](/media/content/blog/life/plates/IMG_7472.jpg)
+![2HEALU](../../assets/content/blog/life/plates/IMG_7472.jpg)
 
 ### Seen outside of a Mind, Body, ~~Wallet~~ Spirit fair
 
-![5PIRIT](/media/content/blog/life/plates/IMG_8864.jpg)
+![5PIRIT](../../assets/content/blog/life/plates/IMG_8864.jpg)
 
 ### My favourite Operating System
 
-![UBUNTU](/media/content/blog/life/plates/IMG_2050.jpg)
+![UBUNTU](../../assets/content/blog/life/plates/IMG_2050.jpg)
 
 ### Wise words from the Police
 
-![SLOWDN](/media/content/blog/life/plates/IMG_0417.jpg)
+![SLOWDN](../../assets/content/blog/life/plates/IMG_0417.jpg)

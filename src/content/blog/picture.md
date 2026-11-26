@@ -15,6 +15,6 @@ I used a Raspberry Pi and old flatscreen monitor to build a picture frame. The i
 
 <!-- more -->
 
-![Consulting](/media/content/blog/projects/picture/IMG_2631.jpg)
+![Consulting](../../assets/content/blog/projects/picture/IMG_2631.jpg)
 
-![Distinction](/media/content/blog/projects/picture/IMG_2630.jpg)
+![Distinction](../../assets/content/blog/projects/picture/IMG_2630.jpg)

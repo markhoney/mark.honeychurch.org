@@ -59,13 +59,13 @@ The last twelve years have been spent working for an Australian company, Interac
 
 ### Degree: M.Eng (Hons)
 
-![CVLogo](/media/content/cv/logos/education/bristol.jpg) [_University of Bristol_](http://www.bristol.ac.uk/engineering/) **Master's Degree with Honours in Mechanical Engineering** (1994 - 1998)
+![CVLogo](../../../assets/content/cv/logos/education/bristol.jpg) [_University of Bristol_](http://www.bristol.ac.uk/engineering/) **Master's Degree with Honours in Mechanical Engineering** (1994 - 1998)
 
 ## Work Experience
 
 ### Software Developer
 
-![CVLogo](/media/content/cv/logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
+![CVLogo](../../../assets/content/cv/logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
 
 At Telesmart I develop software products for both in-house and customer consumption, using modern tooling and libraries to deliver high quality solutions.
 
@@ -75,7 +75,7 @@ At Telesmart I develop software products for both in-house and customer consumpt
 
 ### Hardware Engineer, Software Engineer
 
-![CVLogo](/media/content/cv/logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
+![CVLogo](../../../assets/content/cv/logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
 
 My primary role at Interactive was in hardware support, providing a first class service to our New Zealand customers. I covered **HP**, **IBM**, **Dell** and **Sun** servers, as well as **Cisco** networking equipment and **NetApp** and **PureStorage** storage hardware. I installed and supported hardware for many major customers across New Zealand.
 
@@ -93,7 +93,7 @@ During my time at Interactive I also created several software products for in-ho
 
 ### Systems Engineer, Server Team Lead
 
-![CVLogo](/media/content/cv/logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)
+![CVLogo](../../../assets/content/cv/logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)
 
 When I started with gen-i, I provided 2nd and 3rd level support for the ANZ National Bank throughout New Zealand. This support involved both completing work requests and fault fixing. Work requests included maintaining the **Active Directory** environment, providing network shares, building PCs and installing software. Fault fixing covered the whole range of the bank's IT hardware and software, with the hardware mainly consisting of **Compaq/HP** and **Dell** servers, PCs and Laptops, and software running to hundreds of packages. Issues dealt with ranged from dial-up and broadband problems, through OS and application faults to **Exchange** and Active Directory problems.
 
@@ -107,7 +107,7 @@ As well as supporting the environment, I supported the other server engineers on
 
 ### Technician
 
-![CVLogo](/media/content/cv/logos/work/dia.jpg) [Department of Internal Affairs](http://www.dia.govt.nz/) _Wellington, NZ_ (2005-11 - 2006-04)
+![CVLogo](../../../assets/content/cv/logos/work/dia.jpg) [Department of Internal Affairs](http://www.dia.govt.nz/) _Wellington, NZ_ (2005-11 - 2006-04)
 
 At the DIA I supported over 1,000 users in an **Active Directory** and **Lotus Notes** environment, both for the Department of Internal Affairs and the Ministry of Transport. Support was given over the telephone Nationwide, and additionally with site visits within the Wellington CBD area. PCs were generally Windows 2000, with some remote clients using **Citrix**, and the hardware used was mainly **HP/Compaq** Desktops and HP and Ricoh Printers. Supported applications included Microsoft Office, Oracle and Lotus Notes, with Checkpoint VPN-1 and iPass used for remote access.
 

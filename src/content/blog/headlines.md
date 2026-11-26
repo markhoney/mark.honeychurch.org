@@ -14,7 +14,7 @@ I read the BBC News to keep myself informed, and the BBC News app on my iPhone i
 
 <!-- more -->
 
-![Battery Usage](/media/content/blog/life/headlines/IMG_4955.png)
+![Battery Usage](../../assets/content/blog/life/headlines/IMG_4955.png)
 
 It's always good to be skeptical, and critical, of all news sources - not just the ones we love to hate (I'm looking at you, Fox News), but also the news sources we trust for our information. These trusted news sources have a hand to play in shaping how we view the world.
 
@@ -28,7 +28,7 @@ A couple of hours later, when I returned to the BBC News app to check the news a
 
 # [Russia considers 'unplugging' from internet](https://www.bbc.com/news/technology-47198426)
 
-![Alarmist](/media/content/blog/life/headlines/IMG_4953.png)
+![Alarmist](../../assets/content/blog/life/headlines/IMG_4953.png)
 
 I was convinced that, when I read the article, the headline was better - much more descriptive, and less misleading. The new title makes it sound like Russia is considering a permanent disconnection from the internet, not a temporary test. However, there was nothing in the article - either in my mobile app or on the BBC website - that mentioned an older headline.
 

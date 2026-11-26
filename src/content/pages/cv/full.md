@@ -65,7 +65,7 @@ I have a Master's degree in Engineering, and hold a variety of professional cert
 
 ### Degree: M.Eng (Hons)
 
-![CVLogo](/media/content/cv/logos/education/bristol.jpg) [_University of Bristol_](http://www.bristol.ac.uk/engineering/) **Master's Degree with Honours in Mechanical Engineering** (1994 - 1998)
+![CVLogo](../../../assets/content/cv/logos/education/bristol.jpg) [_University of Bristol_](http://www.bristol.ac.uk/engineering/) **Master's Degree with Honours in Mechanical Engineering** (1994 - 1998)
 
 **Chess Playing Robot.** In the third year, I completed my thesis on a chess-playing robot. This involved extensive programming in Borland Delphi, as well as VAL, a language used to control the PUMA 450 robot arm. During the project I had to work with a CCD camera and video capture software/hardware.
 
@@ -75,7 +75,7 @@ I have a Master's degree in Engineering, and hold a variety of professional cert
 
 ### Software Developer
 
-![CVLogo](/media/content/cv/logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
+![CVLogo](../../../assets/content/cv/logos/work/telesmart.jpg) [Telesmart](https://telesmart.co.nz/) _Wellington, NZ_ (2019-10 – )
 
 At Telesmart I develop software products for both in-house and customer consumption, using modern tooling and libraries to deliver high quality solutions.
 
@@ -85,7 +85,7 @@ At Telesmart I develop software products for both in-house and customer consumpt
 
 ### Hardware Engineer, Software Engineer
 
-![CVLogo](/media/content/cv/logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
+![CVLogo](../../../assets/content/cv/logos/work/interactive.jpg) [Interactive](https://interactive.com.au) _Wellington, NZ_ (2007-10 – 2019-10)
 
 My primary role at Interactive was in hardware support, providing a first class service to our New Zealand customers. I covered **HP**, **IBM**, **Dell** and **Sun** servers, as well as **Cisco** networking equipment and **NetApp** and **PureStorage** storage hardware. I installed and supported hardware for many major customers across New Zealand.
 
@@ -103,7 +103,7 @@ During my time at Interactive I also created several software products for in-ho
 
 ### Systems Engineer, Server Team Lead
 
-![CVLogo](/media/content/cv/logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)
+![CVLogo](../../../assets/content/cv/logos/work/geni.jpg) [gen-i](https://www.sparkdigital.co.nz/) _Wellington, NZ_ (2006-04 – 2007-10)
 
 When I started with gen-i, I provided 2nd and 3rd level support for the ANZ National Bank throughout New Zealand. This support involved both completing work requests and fault fixing. Work requests included maintaining the **Active Directory** environment, providing network shares, building PCs and installing software. Fault fixing covered the whole range of the bank's IT hardware and software, with the hardware mainly consisting of **Compaq/HP** and **Dell** servers, PCs and Laptops, and software running to hundreds of packages. Issues dealt with ranged from dial-up and broadband problems, through OS and application faults to **Exchange** and Active Directory problems.
 
@@ -117,13 +117,13 @@ As well as supporting the environment, I supported the other server engineers on
 
 ### Technician
 
-![CVLogo](/media/content/cv/logos/work/dia.jpg) [Department of Internal Affairs](http://www.dia.govt.nz/) _Wellington, NZ_ (2005-11 - 2006-04)
+![CVLogo](../../../assets/content/cv/logos/work/dia.jpg) [Department of Internal Affairs](http://www.dia.govt.nz/) _Wellington, NZ_ (2005-11 - 2006-04)
 
 At the DIA I supported over 1,000 users in an **Active Directory** and **Lotus Notes** environment, both for the Department of Internal Affairs and the Ministry of Transport. Support was given over the telephone Nationwide, and additionally with site visits within the Wellington CBD area. PCs were generally Windows 2000, with some remote clients using **Citrix**, and the hardware used was mainly **HP/Compaq** Desktops and HP and Ricoh Printers. Supported applications included Microsoft Office, Oracle and Lotus Notes, with Checkpoint VPN-1 and iPass used for remote access.
 
 ### Director
 
-![CVLogo](/media/content/cv/logos/work/spiral.jpg) [Spiral Technology](http://www.spiraltechnology.co.uk/) _London, England_ (2003-03 - 2004-11)
+![CVLogo](../../../assets/content/cv/logos/work/spiral.jpg) [Spiral Technology](http://www.spiraltechnology.co.uk/) _London, England_ (2003-03 - 2004-11)
 
 During my four years in London a business partner and I set up a company specialising in supplying cost effective IT solutions using mainly Open Source components. Through this work I have a solid understanding of Linux and Content Management Systems, eCommerce Solutions, Photo Galleries and other applications.
 
@@ -139,7 +139,7 @@ I have also been involved in the costing of contracts, responding to tenders, fi
 
 ### Support Analyst
 
-![CVLogo](/media/content/cv/logos/work/mungo.jpg) [St Mungo Association](https://www.mungos.org/) _London, England_ (2004-02 - 2004-10)
+![CVLogo](../../../assets/content/cv/logos/work/mungo.jpg) [St Mungo Association](https://www.mungos.org/) _London, England_ (2004-02 - 2004-10)
 
 At St Mungo's, London's largest charity for homeless people, I worked in an Infrastructure Support role. This involved a lot of network troubleshooting, as the organisation consisted of over 50 remote sites all connecting to the Head Office using VPN through ADSL. Problems were fixed using NetSupport, a remote desktop solution, where possible. I also resolved many networking issues, both LAN and WAN and helped to configure the **Debian** based firewalls at each site.
 
@@ -151,7 +151,7 @@ I wrote several pieces of in-house documentation for general staff covering topi
 
 ### Network Analyst
 
-![CVLogo](/media/content/cv/logos/work/icarus.jpg) [Icarus Computer Systems](http://www.icarus.org.uk/) _London, England_ (2002-05 - 2003-12)
+![CVLogo](../../../assets/content/cv/logos/work/icarus.jpg) [Icarus Computer Systems](http://www.icarus.org.uk/) _London, England_ (2002-05 - 2003-12)
 
 During my time working for Icarus, I mainly supported the London Borough of Waltham Forest’s Lifelong Learning department.
 
@@ -177,13 +177,13 @@ I was occasionally seconded to Edmonton Green College, where I administered a ne
 
 ### Installations Engineer
 
-![CVLogo](/media/content/cv/logos/work/ubs.jpg) [UBS Warburg](https://www.ubs.com/) _London, England_ (2000-11 - 2001-05)
+![CVLogo](../../../assets/content/cv/logos/work/ubs.jpg) [UBS Warburg](https://www.ubs.com/) _London, England_ (2000-11 - 2001-05)
 
 As a member of the trading floor desktop installations team, my primary role was the building, installation and support of Windows NT4 and Windows 2000 Workstations and Laptops. We supported several hundred traders and support staff, who would typically have several workstations each, including a primary NT4 workstation with quad-head display and dedicated **Bloomberg**, **NeXT** and **Sun** machines, along with 7 or 8 flat screen displays. I also installed and configured **Weytech** keyboards which allowed control of up to 6 workstations, as well as enabling workstation sharing, control of multiple screen switches, keyboard emulation (PC, Sun, Bloomberg, etc.) and key-press macro recording. The position also involved network troubleshooting, email support (**Outlook** and **CCMail**) and administration of NT user and resource domains.
 
 ### Network Analyst
 
-![CVLogo](/media/content/cv/logos/work/stgeorge.jpg) [St. George Bank](https://www.stgeorge.com.au/) _Sydney, Australia_ (1999-04 - 1999-11)
+![CVLogo](../../../assets/content/cv/logos/work/stgeorge.jpg) [St. George Bank](https://www.stgeorge.com.au/) _Sydney, Australia_ (1999-04 - 1999-11)
 
 My role at St. George was providing third level support for the Client Server Technical Systems (CSTS) Department. As such I was part of a team delivering support to the Core Network File Servers and associated software using **Novell Netware** servers and **Novell Directory Services**. This support was both for the Kogarah Head Office (2500 users), and a distributed branch infrastructure across Queensland, New South Wales, Victoria and South Australia (8000 users).
 
@@ -197,14 +197,14 @@ On top of this support I administered the ISYS helpdesk system, a database of he
 
 ### Systems Administrator
 
-![CVLogo](/media/content/cv/logos/work/rsa.jpg) [Rail Services Australia](https://transportnsw.info/) _Sydney, Australia_ (1999-01 - 1999-04)
+![CVLogo](../../../assets/content/cv/logos/work/rsa.jpg) [Rail Services Australia](https://transportnsw.info/) _Sydney, Australia_ (1999-01 - 1999-04)
 
 During my first contract with RSA I was responsible for the migration from WFW 3.11 to NT 4.0 at a range of sites in and around Sydney.
 My second contract involved the administration of RSA's New South Wales NT network. This included creating and administering user accounts and Microsoft Exchange mailboxes for employees, looking after the ARCserve backups on a day-to-day basis and writing Kixtart logon scripts to set up user profiles, registry settings and desktops, and map network drives.
 
 ### Officer, 2nd Lieutenant
 
-![CVLogo](/media/content/cv/logos/work/logistics.jpg) [HM Armed Forces](https://www.army.mod.uk/) _Surrey, England_ (1994-09 - 1998-02)
+![CVLogo](../../../assets/content/cv/logos/work/logistics.jpg) [HM Armed Forces](https://www.army.mod.uk/) _Surrey, England_ (1994-09 - 1998-02)
 
 Whilst serving my commission I was tasked with training potential Officers at the UOTC, as well as taking time off from my studies to work with the army on attachments to my Regiment in both England and Germany.
 

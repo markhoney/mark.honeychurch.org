@@ -5,7 +5,9 @@ import PostList from '../components/PostList.astro';
 import {sortNewest} from '../lib/content';
 
 const recent = sortNewest(
-	(await getCollection('blog')).filter(entry => entry.data.title && entry.data.date),
+	(await getCollection('blog')).filter(
+		entry => !entry.data.draft && entry.data.title && entry.data.date,
+	),
 ).slice(0, 16);
 ---
 

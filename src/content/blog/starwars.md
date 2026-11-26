@@ -16,20 +16,20 @@ I've purchased a few knock-off Lego Star Wars kits from AliExpress over the last
 
 ## T-16 Skyhopper
 
-![T-16 Skyhopper](/media/content/blog/projects/starwars/IMG_3560.jpg)
+![T-16 Skyhopper](../../assets/content/blog/projects/starwars/IMG_3560.jpg)
 
 ## Rey's Speeder
 
-![Rey's Speeder](/media/content/blog/projects/starwars/IMG_3566.jpg)
+![Rey's Speeder](../../assets/content/blog/projects/starwars/IMG_3566.jpg)
 
 ## T-47 Snowspeeder
 
-![T-47 Snowspeeder](/media/content/blog/projects/starwars/IMG_3574.jpg)
+![T-47 Snowspeeder](../../assets/content/blog/projects/starwars/IMG_3574.jpg)
 
 ## TIE Advanced Prototype
 
-![TIE Advanced Prototype](/media/content/blog/projects/starwars/IMG_3585.jpg)
+![TIE Advanced Prototype](../../assets/content/blog/projects/starwars/IMG_3585.jpg)
 
 ## X-Wing
 
-![X-Wing](/media/content/blog/projects/starwars/IMG_3588.jpg)
+![X-Wing](../../assets/content/blog/projects/starwars/IMG_3588.jpg)

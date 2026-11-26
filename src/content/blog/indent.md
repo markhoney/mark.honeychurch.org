@@ -15,7 +15,7 @@ Tabs vs Spaces - which one should be used when indenting code? I'm going to spoi
 
 <!-- more -->
 
-![Keyboard](/media/content/blog/code/indent/IMG_5276.jpg)
+![Keyboard](../../assets/content/blog/code/indent/IMG_5276.jpg)
 
 ## Primer
 
@@ -23,7 +23,7 @@ When writing computer code, there are parts of code that sit hierarchically insi
 
 There are many websites that will indent code for you, and most modern IDEs (Integrated Development Environments - software, akin to MS Word and LibreOffice Writer for writing documents, that coders use to write their software) come with plugins that will automagically indent and clean up your code for you. There's even a language - Python - that doesn't use bracketing to mark code hierarchy, and instead relies on indenting to tell it what the hierarchy of the code is. I have friends who hate that idea, but I quite like it - Python doesn't care what indenting scheme you use, as long as you remain consistent.
 
-![Both](/media/content/blog/code/indent/vOWAAUK.png)
+![Both](../../assets/content/blog/code/indent/vOWAAUK.png)
 
 ## My History
 
@@ -63,7 +63,7 @@ Tabs are the winner here, because of:
 
 For now, I stand by my choice of using a single tab for indenting. I think that this solution is the most flexible, and is also the most likely to allow easy adoption when sharing code in a team or publicly somewhere like GitHub. However, it appears that I am in the minority if this analysis of code on GitHub is accurate:
 
-![Spaces](/media/content/blog/code/indent/1_Aaqc9L1Hc62hBg_dpNgBKg.png)
+![Spaces](../../assets/content/blog/code/indent/1_Aaqc9L1Hc62hBg_dpNgBKg.png)
 
 ## This is serious
 

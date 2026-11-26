@@ -17,10 +17,10 @@ There's a lot of fun to be had with sticky googly eyes.
 
 Abi, Mia and I recently put googly eyes around the house as a surprise for the rest of the family:
 
-![Underpants](/media/content/blog/projects/eyes/IMG_2880.jpg)
+![Underpants](../../assets/content/blog/projects/eyes/IMG_2880.jpg)
 
-![Fruit Bowl](/media/content/blog/projects/eyes/IMG_2881.jpg)
+![Fruit Bowl](../../assets/content/blog/projects/eyes/IMG_2881.jpg)
 
-![Fridge](/media/content/blog/projects/eyes/IMG_2885.jpg)
+![Fridge](../../assets/content/blog/projects/eyes/IMG_2885.jpg)
 
-![Fridge Door](/media/content/blog/projects/eyes/IMG_2888.jpg)
+![Fridge Door](../../assets/content/blog/projects/eyes/IMG_2888.jpg)

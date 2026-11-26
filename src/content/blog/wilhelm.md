@@ -12,4 +12,4 @@ tags:
   - Scream
 ---
 
-<audio controls src="/media/audio/blog/wilhelm.mp3" />
+<audio controls src="/audio/blog/wilhelm.mp3" />

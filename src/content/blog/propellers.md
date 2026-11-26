@@ -17,11 +17,11 @@ While flying back from Christchurch to Wellington today on a prop plane, I took 
 
 ## At rest
 
-![Rest](/media/content/blog/random/propellers/IMG_4993.jpg)
+![Rest](../../assets/content/blog/random/propellers/IMG_4993.jpg)
 
 ## Rotating
 
-![Rotating](/media/content/blog/random/propellers/IMG_4998.jpg)
+![Rotating](../../assets/content/blog/random/propellers/IMG_4998.jpg)
 
 What is interesting about these pictures is that the propeller blades in the second image, where the propeller is rotating, are bent. This is not a true reflection of reality, as these blades don't actually bend. In fact, if the blades did bend you would expect them to all bend in the same direction radially. However, these blades all look like they are bending downwards - which means the blades to the left and right of the top blade are bent in opposite directions, rather than bending in the same direction around the circle.
 
@@ -31,4 +31,4 @@ The older the camera, the more pronounced the effect is likely to be. In a simil
 
 ## Pronounced
 
-![Bendy](/media/content/blog/random/propellers/IMG_1702.jpg)
+![Bendy](../../assets/content/blog/random/propellers/IMG_1702.jpg)

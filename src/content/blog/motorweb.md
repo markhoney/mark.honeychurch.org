@@ -28,4 +28,4 @@ This makes things very different. Now we're not talking about one in three vehic
 
 It seems to me, given this caveat has been given in small print, that MotorWeb are probably well aware that their poster is misleading.
 
-![Dodgy Stats](/media/content/blog/life/motorweb/IMG_1638.jpg)
+![Dodgy Stats](../../assets/content/blog/life/motorweb/IMG_1638.jpg)

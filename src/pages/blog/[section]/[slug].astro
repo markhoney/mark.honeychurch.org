@@ -22,7 +22,7 @@ export const getStaticPaths = (async () => {
 	]);
 	const entries = await getCollection('blog');
 	return entries
-		.filter(entry => !dedicatedRoutes.has(pagePath(entry)))
+		.filter(entry => !entry.data.draft && !dedicatedRoutes.has(pagePath(entry)))
 		.map(entry => ({
 			params: {
 				section: taxonomySlug(entry.data.categories[0] ?? 'random'),

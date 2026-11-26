@@ -8,6 +8,6 @@ permalink: /cv/cover/
 
 ### I work in IT. I'd like a job.
 
-![Remember Inigo Montoya](/media/content/cv/cover/Inigo-Montoya-Remember.jpg)
+![Remember Inigo Montoya](../../../../assets/content/cv/cover/Inigo-Montoya-Remember.jpg)
 
 @[youtube](https://youtu.be/6JGp7Meg42U)

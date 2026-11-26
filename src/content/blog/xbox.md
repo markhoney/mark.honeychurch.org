@@ -10,10 +10,10 @@ tags:
   - XBox
 ---
 
-![Hairdryer](/media/content/blog/projects/xbox/IMG_0238.jpg)
+![Hairdryer](../../assets/content/blog/projects/xbox/IMG_0238.jpg)
 
-![Removing Stickers](/media/content/blog/projects/xbox/IMG_0246.jpg)
+![Removing Stickers](../../assets/content/blog/projects/xbox/IMG_0246.jpg)
 
-![Peeling Back Feet](/media/content/blog/projects/xbox/IMG_0254.jpg)
+![Peeling Back Feet](../../assets/content/blog/projects/xbox/IMG_0254.jpg)
 
-![Cover Off](/media/content/blog/projects/xbox/IMG_0267.jpg)
+![Cover Off](../../assets/content/blog/projects/xbox/IMG_0267.jpg)

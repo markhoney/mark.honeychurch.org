@@ -26,6 +26,7 @@ collections:
       - {label: Title, name: title, widget: string}
       - {label: Slug, name: slug, widget: string}
       - {label: Date, name: date, widget: datetime, format: YYYY-MM-DD, date_format: YYYY-MM-DD, time_format: false}
+      - {label: Draft, name: draft, widget: boolean, default: false, hint: 'Draft posts remain in the repository but are not built or listed.'}
       - label: Categories
         name: categories
         widget: list

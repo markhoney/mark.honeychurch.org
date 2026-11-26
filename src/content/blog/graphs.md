@@ -24,7 +24,7 @@ Here is a very simple breakdown of what each of these technologies does, and wha
 
 We'll start with the simplest to explain, which is the Microsoft Graph API. This API is an effort by Microsoft to give customers a single place they can query their data across all of Microsoft's services - such as Active Directory (user accounts, permissions, etc), Office 365, Teams and Sharepoint. It's a work in progress, as there's still a lot that needs to be added, but it's a promising start.
 
-![Microsoft Graph](/media/content/blog/code/graphs/microsoft-graph.png)
+![Microsoft Graph](../../assets/content/blog/code/graphs/microsoft-graph.png)
 
 The API is a REST API, with endpoints such as `/me` (to get your own user info), `/users` (to see details of all users in your domain) and `/me/drive/root/children` (to list your oneDrive files). There are libraries for Node (Javascript) and other languages that make querying the API easier, and there is support for pagination, filtering, etc.
 

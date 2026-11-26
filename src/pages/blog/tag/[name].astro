@@ -7,14 +7,15 @@ import {sortNewest, taxonomySlug} from '../../../lib/content';
 
 export const getStaticPaths = (async () => {
 	const entries = await getCollection('blog');
-	const tags = [...new Set(entries.flatMap(entry => entry.data.tags))];
+	const publishedEntries = entries.filter(entry => !entry.data.draft);
+	const tags = [...new Set(publishedEntries.flatMap(entry => entry.data.tags))];
 
 	return tags.map(name => ({
 		params: {name: taxonomySlug(name)},
 		props: {
 			name,
 			entries: sortNewest(
-				entries.filter(entry =>
+				publishedEntries.filter(entry =>
 					entry.data.title && entry.data.tags.includes(name)),
 			),
 		},

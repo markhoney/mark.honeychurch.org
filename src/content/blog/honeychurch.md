@@ -18,11 +18,11 @@ I've always been interested in the history of my surname. Honeychurch is a villa
 
 I visited the village of Honeychurch, and took a few pictures with a very cheap and crappy digital camera.
 
-![Sign](/media/content/blog/random/honeychurch/Img_0045.jpg)
+![Sign](../../assets/content/blog/random/honeychurch/Img_0045.jpg)
 
-![Outside](/media/content/blog/random/honeychurch/Img_0036.jpg)
+![Outside](../../assets/content/blog/random/honeychurch/Img_0036.jpg)
 
-![Inside](/media/content/blog/random/honeychurch/Img_0017.jpg)
+![Inside](../../assets/content/blog/random/honeychurch/Img_0017.jpg)
 
 Here is the text of a pamphlet I picked up from inside the church, which tells a little of the history of the surname and the church:
 

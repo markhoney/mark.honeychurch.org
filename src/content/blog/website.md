@@ -18,7 +18,7 @@ This website is now built using [Astro](https://astro.build/) and edited with [S
 
 _The technical notes below describe the site's earlier VuePress implementation. They are retained as a historical account of how the site evolved._
 
-![GitHub Pages](/media/content/blog/code/website/Screenshot_1.jpg)
+![GitHub Pages](../../assets/content/blog/code/website/Screenshot_1.jpg)
 
 This solution allows me to have both the source and build for the website in the one GitHub repo, which is clean and simple. All that's needed is for Vuepress to be installed globally, along with the markdown-it extensions I use (video, fontawesome, abbr, sup, sub and attrs), and then for the NODE_PATH environment variable to point to the global node_modules folder.
 

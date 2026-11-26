@@ -14,4 +14,4 @@ I filled in yesterday for Siouxsie Wiles yesterday on Graeme Hill's show on Radi
 
 <!-- more -->
 
-![Radio](/media/content/blog/life/skeptical/232994.png)
+![Radio](../../assets/content/blog/life/skeptical/232994.png)

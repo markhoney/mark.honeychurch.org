@@ -17,7 +17,7 @@ A friend who is studying Engineering at university asked me for help tutoring hi
 
 > You are required to design a program to calculate the best possible standard resistors to use for a voltage divider circuit to get the required circuit gain. The circuit will contain 2 to 4 resistors as in the following circuit diagram.
 >
-> ![Circuit](/media/content/blog/code/divider/circuit.jpg)
+> ![Circuit](../../assets/content/blog/code/divider/circuit.jpg)
 >
 > ...
 >

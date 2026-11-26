@@ -16,38 +16,38 @@ I have a server at home dedicated to media. It holds media files for TV shows an
 
 ## Sky Card
 
-![Sky Card](/media/content/blog/projects/sky/IMG_4019.jpg)
+![Sky Card](../../assets/content/blog/projects/sky/IMG_4019.jpg)
 
 JayCar in NZ sell a DIY card reader that does the job for the older cards, so I purchased one and set about putting it together:
 
 ## Work Bench
 
-![My Work Bench](/media/content/blog/projects/sky/IMG_1065.jpg)
+![My Work Bench](../../assets/content/blog/projects/sky/IMG_1065.jpg)
 
 ## Resistors
 
 Here are the resistors in place and ready to be soldered.
 
-![Resistors Added](/media/content/blog/projects/sky/IMG_1067.jpg)
+![Resistors Added](../../assets/content/blog/projects/sky/IMG_1067.jpg)
 
 ## Soldered
 
 The resistors have been soldered and just need the ends of the legs snipping off.
 
-![Resistors Soldered](/media/content/blog/projects/sky/IMG_1068.jpg)
+![Resistors Soldered](../../assets/content/blog/projects/sky/IMG_1068.jpg)
 
 ## Capacitors and Crystals
 
 More components in their right places:
 
-![Capacitors Added](/media/content/blog/projects/sky/IMG_1070.jpg)
+![Capacitors Added](../../assets/content/blog/projects/sky/IMG_1070.jpg)
 
 ## Finished Product
 
 This is the finished product, with a serial connection and a power molex connector for powering it. I ended up mounting it inside a 3.5" floppy drive case, which made it neater and also easier to mount inside the PC case.
 
-![Completed Reader](/media/content/blog/projects/sky/IMG_1073.jpg)
+![Completed Reader](../../assets/content/blog/projects/sky/IMG_1073.jpg)
 
 Eventually I moved to the new Sky system, for which this reader was not able to decode the cards. Instead I maaged to purchase a USB card reader for about $20 from Israel which did the job.
 
-![USB Reader](/media/content/blog/projects/sky/IMG_3461.jpg)
+![USB Reader](../../assets/content/blog/projects/sky/IMG_3461.jpg)

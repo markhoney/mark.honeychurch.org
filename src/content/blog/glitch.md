@@ -15,13 +15,13 @@ This was a fun hack, although unfortunately I don't have many decent quality ima
 
 <!-- more -->
 
-![Speaker](/media/content/blog/projects/glitch/Img_0036-1.jpg)
+![Speaker](../../assets/content/blog/projects/glitch/Img_0036-1.jpg)
 
 ## Prototyping
 
 The aim of the project is to make the keyboard glitch - to make noises that it wasn't designed to output, along with feedback loops, etc. This is done by re-wiring the internals of the keyboard with some crocodile clips, switches, potentiometers, and even a knife switch!
 
-![Potentiometer](/media/content/blog/projects/glitch/Img_0038.jpg)
+![Potentiometer](../../assets/content/blog/projects/glitch/Img_0038.jpg)
 
 ## Testing
 
@@ -29,12 +29,12 @@ Through iterative testing, we found that targeting the few microchips inside the
 
 A couple of places worked well with potentiometers (variable resistors), which allowed for a degree of control over the resulting sounds.
 
-![Wiring](/media/content/blog/projects/glitch/Img_0042.jpg)
+![Wiring](../../assets/content/blog/projects/glitch/Img_0042.jpg)
 
 ## Finished Product
 
 Once we'd figured out what components worked well attached to which parts of the circuit board, we mounted the components to the front of the keyboard and replaced the crocodile clip wires with soldered wires. We also fitted a 3.5mm headphone jack, so that the keyboard could be attached to an amplifier. Once the back was re-attached, we were ready to go.
 
-![Keyboard](/media/content/blog/projects/glitch/Img1_0002.jpg)
+![Keyboard](../../assets/content/blog/projects/glitch/Img1_0002.jpg)
 
 Ben, another housemate and musician, spent a while making some very cool music with the keyboard. With the feedback, a single key would sometimes end up making sounds for 10 seconds or more.

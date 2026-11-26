@@ -3,7 +3,6 @@ title: BOINC LCS 3.0 Beta
 date: 2008-03-13
 slug: boinc
 draft: true
-layout: Post
 categories:
   - Life
 ---

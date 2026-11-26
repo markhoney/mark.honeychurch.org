@@ -2,7 +2,6 @@
 title: JWs and Vue
 slug: jws
 date: 2018-08-18
-layout: Post
 categories:
   - Life
 tags:

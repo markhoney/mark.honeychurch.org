@@ -2,7 +2,6 @@
 title: Trademe Complaint
 slug: trademe
 date: 2008-03-13
-layout: Post
 categories:
   - Life
 tags:

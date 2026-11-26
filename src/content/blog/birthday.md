@@ -2,7 +2,6 @@
 title: Happy Birthday
 slug: birthday
 date: 2015-08-18
-layout: Post
 categories:
   - Life
 tags:

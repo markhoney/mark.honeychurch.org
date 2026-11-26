@@ -2,7 +2,6 @@
 title: Ticking On
 slug: ticking
 date: 2020-08-18
-layout: Post
 categories:
   - Life
 tags:

@@ -2,7 +2,6 @@
 title: Smart Picture Frame
 slug: picture
 date: 2018-09-14
-layout: Post
 categories:
   - Projects
 tags:

@@ -2,7 +2,6 @@
 title: Glitching a Yamaha Keyboard
 slug: glitch
 date: 2004-06-05
-layout: Post
 categories:
   - Projects
 tags:

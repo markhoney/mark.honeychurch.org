@@ -2,7 +2,6 @@
 title: Games of my Youth
 slug: arcade
 date: 2020-07-27
-layout: Post
 categories:
   - Life
 tags:
@@ -28,7 +27,7 @@ I played this table top arcade at the Old Town Cafe on the Isles of Scilly when 
 
 This arcade, also at the Old Town Cafe, was one where I once stole some loose change from a dresser at home to play it, when I was maybe 8. Needless to say it was not the perfect crime - my brother very quickly ratted me out, and I had a stern telling off when I got home.
 
-@[youtube](https://www.youtu.be/) -->
+-->
 
 ## 720°
 

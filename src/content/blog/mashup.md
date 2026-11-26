@@ -2,7 +2,6 @@
 title: MashUp
 slug: mashup
 date: 2016-08-18
-layout: Post
 categories:
   - Life
 tags:

@@ -2,7 +2,6 @@
 title: It's been a busy weekend
 slug: busyday
 date: 2019-08-18
-layout: Post
 categories:
   - Life
 tags:

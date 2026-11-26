@@ -2,7 +2,6 @@
 title: Picking Locks the Movie Way
 slug: picking
 date: 2021-06-29
-layout: Post
 categories:
   - Random
 tags:

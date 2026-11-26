@@ -1,5 +1,4 @@
 ---
-layout: Page
 ---
 
 # Pictures of me

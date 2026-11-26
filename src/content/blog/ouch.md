@@ -2,7 +2,6 @@
 title: Ouch!
 slug: ouch
 date: 2021-08-18
-layout: Post
 categories:
   - Life
 tags:

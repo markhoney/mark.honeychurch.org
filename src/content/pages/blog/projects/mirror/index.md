@@ -1,6 +1,5 @@
 ---
 title: Smart Mirror
-layout: Post
 categories:
   - Projects
 tags:

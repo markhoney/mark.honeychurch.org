@@ -2,7 +2,6 @@
 title: The importance of readable data structures
 slug: readable
 date: 2020-01-26
-layout: Post
 categories:
   - Code
 tags:
@@ -15,7 +14,7 @@ tags:
 
 A friend asked for help on Facebook the other day with a programming problem. He needed to dynamically create a set of buttons, and was having problems looping through his variables that stored the data used to create his buttons, to create each button dynamically.
 
-<!-- more -->
+{/* more */}
 
 ## The Code
 
@@ -89,6 +88,8 @@ for number in self.numbers:
 I used the mathematical quotient (`//`) and modulus (`%`) to work out which row and column the button should sit on in the parent grid, and added an `offset` variable so that I could start the grid row at 0, even though the object numerical values started at 2. Being a smart ass, I also included a `columns` variable to allow for any number of columns to be specified.
 
 I coded this blind, but of course people nearly always make mistakes when they code - and I'm no exception! I figured out how `tkinter` worked, so that I could get a fully working example up and running and iron out my mistakes. For the final code I also saved a pointer to each button in the source data array (at `number['button']`), so that the button can be referenced easily if needed. Here's the final tested script that, if you're using a [recent version of Python](https://www.python.org/downloads/release/python-381/) with `tkinter` bundled, should work out of the box:
+
+<CodeFile file="code/readable/buttons.py" name="code/readable/buttons.py" />
 
 ## Lessons
 

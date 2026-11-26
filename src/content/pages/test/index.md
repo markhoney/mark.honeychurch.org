@@ -1,5 +1,4 @@
 ---
-layout: Page
 ---
 
 # Handy Tests

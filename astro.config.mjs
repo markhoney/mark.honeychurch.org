@@ -7,6 +7,7 @@ import pagefind from 'astro-pagefind';
 import robotsTxt from 'astro-robots-txt';
 import {satteri} from '@astrojs/markdown-satteri';
 import satteriYoutubePlugin from './src/lib/satteri-youtube.mjs';
+import satteriTabsPlugin from './src/lib/satteri-tabs.mjs';
 
 const sveltiaAdmin = {
 	name: 'sveltia-admin',
@@ -70,6 +71,7 @@ export default defineConfig({
 		processor: satteri({
 			features: {rawHtml: true},
 			mdastPlugins: [satteriYoutubePlugin()],
+			hastPlugins: [satteriTabsPlugin()],
 		}),
 		syntaxHighlight: 'shiki',
 		shikiConfig: {

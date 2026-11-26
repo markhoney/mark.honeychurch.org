@@ -2,7 +2,6 @@
 title: A food kind of day
 slug: food
 date: 2019-02-18
-layout: Post
 categories:
   - Life
 tags:

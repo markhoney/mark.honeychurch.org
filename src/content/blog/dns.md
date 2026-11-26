@@ -2,7 +2,6 @@
 title: Domain Names are backwards
 slug: dns
 date: 2008-03-23
-layout: Post
 categories:
   - Random
   - Alternatives

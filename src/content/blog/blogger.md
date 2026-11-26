@@ -2,7 +2,6 @@
 title: Moving to Blogger
 slug: blogger
 date: 2013-04-03
-layout: Post
 categories:
   - Life
 tags:

@@ -2,7 +2,6 @@
 title: Stay off the Roads!!
 slug: roads
 date: 2008-07-17
-layout: Post
 categories:
   - Life
 tags:

@@ -2,7 +2,6 @@
 title: The Hard Sell
 slug: scare
 date: 2011-07-04
-layout: Post
 categories:
   - Life
 tags:

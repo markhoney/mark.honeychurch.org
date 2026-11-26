@@ -10,7 +10,6 @@ tags:
   - smb
 slug: raidlvm
 draft: true
-layout: Post
 categories:
   - HowTo
 ---

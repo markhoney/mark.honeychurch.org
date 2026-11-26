@@ -1,15 +1,25 @@
 ---
 import {Code} from 'astro:components';
+import type {CodeLanguage} from 'astro';
 
 interface Props {
 	name: string;
 	source: string;
+	lang?: CodeLanguage;
+	label?: string;
+	open?: boolean;
 }
 
-const {name, source} = Astro.props;
+const {
+	name,
+	source,
+	lang = 'vue',
+	label = 'Vue component',
+	open = true,
+} = Astro.props;
 ---
 
-<details class="component-source" open>
-	<summary>Vue component: <code>{name}</code></summary>
-	<Code code={source} lang="vue" theme="nord" wrap />
+<details class="component-source" open={open}>
+	<summary>{label}: <code>{name}</code></summary>
+	<Code code={source} lang={lang} theme="nord" wrap />
 </details>

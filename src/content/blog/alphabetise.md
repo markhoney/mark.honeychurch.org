@@ -2,7 +2,6 @@
 title: Reordering the Alphabet
 slug: alphabetise
 date: 2021-02-15
-layout: Post
 categories:
   - Random
 tags:

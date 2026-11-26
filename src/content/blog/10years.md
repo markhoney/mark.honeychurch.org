@@ -3,7 +3,6 @@ title: 10 years!
 date: 2008-07-25
 slug: 10years
 draft: true
-layout: Post
 categories:
   - Life
 ---

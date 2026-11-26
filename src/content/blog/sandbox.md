@@ -2,7 +2,6 @@
 title: Augmented Reality Sandbox
 slug: sandbox
 date: 2017-08-18
-layout: Post
 categories:
   - Projects
 tags:

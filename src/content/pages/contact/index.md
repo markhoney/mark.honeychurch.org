@@ -1,12 +1,11 @@
 ---
-layout: Page
 ---
 
 # Contact
 
 If you need to contact me, you can email me at [mark@honeychurch.org](mailto:mark@honeychurch.org).
 
-If it's important or urgent, feel free to call me at home ([+64 4 235 7086](tel:+6442357086)) or on my mobile: ([+64 21 885 216](tel:+6421885216)).
+If it's important or urgent, feel free to call me on my mobile at ([+64 21 885 216](tel:+6421885216)).
 
 I live in [Whitby](https://www.google.co.nz/maps/place/Whitby,+Porirua), a suburb of Porirua in Wellington, New Zealand.
 

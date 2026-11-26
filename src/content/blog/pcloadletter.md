@@ -2,7 +2,6 @@
 title: Make Your Printer Display PC Load Letter
 slug: pcloadletter
 date: 2008-04-01
-layout: Post
 categories:
   - HowTo
 tags:

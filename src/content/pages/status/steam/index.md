@@ -1,5 +1,4 @@
 ---
-layout: Page
 ---
 
 # My Steam Account

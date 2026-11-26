@@ -1,7 +1,6 @@
 ---
 sidebar: auto
 sidebarDepth: 3
-layout: Page
 ---
 
 # Media

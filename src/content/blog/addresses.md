@@ -2,7 +2,6 @@
 title: Availability of Internet Addresses
 slug: addresses
 date: 2007-05-30
-layout: Post
 categories:
   - Random
 tags:

@@ -79,6 +79,14 @@ export function sortNewest<T extends ContentEntry>(entries: T[]): T[] {
 	);
 }
 
+export function formatDate(date: Date): string {
+	return date.toLocaleDateString('en-NZ', {
+		year: 'numeric',
+		month: 'long',
+		day: 'numeric',
+	});
+}
+
 export function articleDescription(entry: ContentEntry): string {
 	if (entry.data.description) return entry.data.description;
 

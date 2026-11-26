@@ -75,7 +75,7 @@ Type some text in the left text box, and choose your rotation amount. Remember t
 
 The encrypted text will show in the right text box. Copy this text.
 
-<AppEmbed app="code/cyphers/caesar_encode" client="load" />
+<AppEmbed app="cyphers/caesar_encode" client="load" />
 
 ## Decryption
 
@@ -83,7 +83,7 @@ Paste the text from above into the left box below. An algorithm will attempt to 
 
 The code used for the text boxes below is not connected to the text boxes above in any way, so no cheating is going on! (If you don't believe me, [go here](http://theblob.org/rot.cgi) to create some rotated text and paste it into the bottom left box for decoding, without using the top encoding text boxes)
 
-<AppEmbed app="code/cyphers/caesar_decode" client="load" />
+<AppEmbed app="cyphers/caesar_decode" client="load" />
 
 Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
@@ -95,7 +95,7 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
 
-<AppEmbed app="code/cyphers/caesar_encode" sourceOnly />
+<AppEmbed app="cyphers/caesar_encode" sourceOnly />
 
 :::
 
@@ -103,7 +103,7 @@ This vue component uses a computed property to calculate the encrypted text, giv
 
 This Vue component computes the most likely rotation of a piece of encrypted text, and then displays that rotation. It also computes and displays the plain text, using the computed rotation value.
 
-<AppEmbed app="code/cyphers/caesar_decode" sourceOnly />
+<AppEmbed app="cyphers/caesar_decode" sourceOnly />
 
 :::
 
@@ -111,7 +111,7 @@ This Vue component computes the most likely rotation of a piece of encrypted tex
 
 This function is based on one written by me as part of a [CodeWars Kata](https://www.codewars.com/kata/530e15517bc88ac656000716), and performs both the rotation and decryption.
 
-<CodeFile file="demos/code/cyphers/caesar.js" name="code/cyphers/caesar.js" />
+<CodeFile file="cyphers/caesar.js" />
 
 :::
 
@@ -119,7 +119,7 @@ This function is based on one written by me as part of a [CodeWars Kata](https:/
 
 This is the data set of letter frequencies in English that I use for decryption.
 
-<CodeFile file="demos/code/cyphers/frequencies.json" name="code/cyphers/frequencies.json" />
+<CodeFile file="cyphers/frequencies.json" />
 
 :::
 
@@ -127,7 +127,7 @@ This is the data set of letter frequencies in English that I use for decryption.
 
 Out of interest, here's the original code I wrote in PHP. It took me an hour or so to convert this to the Vue example above.
 
-<CodeFile file="code/decrypt/rotx.php" name="code/decrypt/rotx.php" />
+<CodeFile file="decrypt/rotx.php" />
 
 :::
 

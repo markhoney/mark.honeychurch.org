@@ -14,21 +14,14 @@ const {
 	file,
 	lang = inferLanguage(file),
 	label = 'Source',
-	name = file.replace(/^demos\//, ''),
+	name = file,
 	open = false,
 } = Astro.props;
-const demoSources = import.meta.glob<string>('./demos/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
+const sources = import.meta.glob<string>('../examples/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
 	query: '?raw',
 	import: 'default',
 });
-const legacySources = import.meta.glob<string>('../assets/code/**/*.{cjs,cpp,cs,js,json,md,mdx,php,py,vue}', {
-	query: '?raw',
-	import: 'default',
-});
-const key = file.startsWith('demos/')
-	? `./${file}`
-	: `../assets/code/${file}`;
-const loadSource = demoSources[key] ?? legacySources[key];
+const loadSource = sources[`../examples/${file}`];
 
 if (!loadSource) {
 	throw new Error(`CodeFile "${file}" was not found`);

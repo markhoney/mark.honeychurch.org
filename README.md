@@ -22,7 +22,9 @@ npm run preview
 
 The build performs an Astro type/content check and generates the static site in `dist/`.
 
-Interactive examples retain the site's original behavior and presentation in Vue 3 components under `src/components/demos/`. They use Vue 3's supported Options API for continuity with the existing component structure. Astro hydrates only the demos used by each page, and each page renders the component's current source beneath the running example.
+Interactive and historical code examples live under `src/examples/`, grouped by topic. They use Vue 3's supported Options API for continuity with the existing component structure. Astro hydrates only the demos used by each page, and each page renders the component's current source beneath the running example.
+
+Files intended for direct download live under `public/downloads/`, grouped by project.
 
 ## Content management
 

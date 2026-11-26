@@ -6,12 +6,12 @@ const props = defineProps<{
 	componentProps?: Record<string, unknown>;
 }>();
 
-const apps = import.meta.glob('./demos/**/*.vue');
-const loader = apps[`./demos/${props.app.replace(/\.vue$/, '')}.vue`];
+const apps = import.meta.glob('../examples/**/*.vue');
+const loader = apps[`../examples/${props.app.replace(/\.vue$/, '')}.vue`];
 
 if (!loader) {
 	throw new Error(
-		`AppEmbed "${props.app}" was not found in src/components/demos`,
+		`AppEmbed "${props.app}" was not found in src/examples`,
 	);
 }
 

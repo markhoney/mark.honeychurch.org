@@ -27,11 +27,11 @@ This gain increase has the potential to cause the dictaphone to pick up more tha
 
 I wondered if I could write a simple recreation of this by wiring a PC's microphone into its speakers, via a DSP filter to increase the gain. With modern day web technology, this can all be done in a browser. Below is my simple effort to recreate EVP, with a slider to change the gain of the incoming audio. Just slide the slider to the right to increase the volume, and if you don't want to hear ungodly noises (feedback) emanating from your PC, plug a pair of headphones into your PC before hitting play.
 
-<AppEmbed app="code/evp/recorder" client="load" />
+<AppEmbed app="evp/recorder" client="load" />
 
 ## Spirit Box
 
-<AppEmbed app="code/evp/spiritbox" client="load" />
+<AppEmbed app="evp/spiritbox" client="load" />
 
 ## Code
 
@@ -47,8 +47,8 @@ Here's the Vue component I put together to make this happen.
 
 Here's the Vue code:
 
-<AppEmbed app="code/evp/recorder" sourceOnly />
-<AppEmbed app="code/evp/spiritbox" sourceOnly />
+<AppEmbed app="evp/recorder" sourceOnly />
+<AppEmbed app="evp/spiritbox" sourceOnly />
 
 :::
 
@@ -56,7 +56,7 @@ Here's the Vue code:
 
 This JS script makes the list of stations:
 
-<CodeFile file="demos/code/evp/getstations.cjs" name="code/evp/getstations.cjs" />
+<CodeFile file="evp/getstations.cjs" />
 
 :::
 
@@ -64,7 +64,7 @@ This JS script makes the list of stations:
 
 Here's the JSON output of the above script:
 
-<CodeFile file="demos/code/evp/stations.json" name="code/evp/stations.json" />
+<CodeFile file="evp/stations.json" />
 
 :::
 

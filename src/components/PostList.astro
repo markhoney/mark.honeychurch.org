@@ -1,6 +1,6 @@
 ---
 import type {BlogEntry} from '../lib/content';
-import {articleDescription, pagePath} from '../lib/content';
+import {articleDescription, formatDate, pagePath} from '../lib/content';
 
 interface Props {
 	entries: BlogEntry[];
@@ -18,11 +18,7 @@ const {entries, showDates = true, showTaxonomy = true} = Astro.props;
 				<h3><a href={pagePath(entry)}>{entry.data.title}</a></h3>
 				{showDates && entry.data.date && (
 					<time datetime={entry.data.date.toISOString()}>
-						{entry.data.date.toLocaleDateString('en-NZ', {
-							year: 'numeric',
-							month: 'long',
-							day: 'numeric',
-						})}
+						{formatDate(entry.data.date)}
 					</time>
 				)}
 				{showTaxonomy && entry.data.categories.length > 0 && (

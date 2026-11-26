@@ -8,7 +8,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import MediaList from './MediaList.astro';
 import TaxonomyIndex from './TaxonomyIndex.astro';
 import type {ContentEntry} from '../lib/content';
-import {articleDescription, pagePath} from '../lib/content';
+import {articleDescription, formatDate, pagePath} from '../lib/content';
 
 interface Props {
 	entry: ContentEntry;
@@ -35,11 +35,7 @@ const title = entry.data.title ?? 'Mark Honeychurch';
 				{
 					entry.data.date && (
 						<time datetime={entry.data.date.toISOString()}>
-							{entry.data.date.toLocaleDateString('en-NZ', {
-								year: 'numeric',
-								month: 'long',
-								day: 'numeric',
-							})}
+							{formatDate(entry.data.date)}
 						</time>
 					)
 				}

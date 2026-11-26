@@ -20,11 +20,11 @@ const {
 	sourceOnly = false,
 } = Astro.props;
 
-const sources = import.meta.glob<string>('./demos/**/*.vue', {
+const sources = import.meta.glob<string>('../examples/**/*.vue', {
 	query: '?raw',
 	import: 'default',
 });
-const componentPath = `./demos/${app.replace(/\.vue$/, '')}.vue`;
+const componentPath = `../examples/${app.replace(/\.vue$/, '')}.vue`;
 const loadSource = sources[componentPath];
 
 if ((showSource || sourceOnly) && !loadSource) {

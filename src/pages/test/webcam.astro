@@ -1,12 +1,12 @@
 ---
 import ArticlePage from '../../components/ArticlePage.astro';
 import CodeSource from '../../components/CodeSource.astro';
-import WebcamTest from '../../components/demos/code/video/webcam.vue';
-import source from '../../components/demos/code/video/webcam.vue?raw';
+import WebcamTest from '../../examples/video/webcam.vue';
+import source from '../../examples/video/webcam.vue?raw';
 import {requiredPage} from '../../lib/content';
 const entry = await requiredPage('test/webcam/index');
 ---
 <ArticlePage entry={entry}>
 	<WebcamTest client:load />
-	<CodeSource name="code/video/webcam.vue" source={source} />
+	<CodeSource name="video/webcam.vue" source={source} />
 </ArticlePage>

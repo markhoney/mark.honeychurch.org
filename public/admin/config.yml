@@ -27,11 +27,11 @@ asset_collections:
     icon: description
     media_folder: /public/docs
     public_folder: /docs
-  - name: programs
-    label: Programs
+  - name: downloads
+    label: Downloads
     icon: package_2
-    media_folder: /public/programs
-    public_folder: /programs
+    media_folder: /public/downloads
+    public_folder: /downloads
 
 collections:
   - name: posts
@@ -108,7 +108,7 @@ collections:
       - label: Body
         name: body
         widget: markdown
-        hint: 'Use an AppEmbed tag in source mode to place an interactive Vue demo, for example <AppEmbed app="code/coin/flip" />.'
+        hint: 'Use an AppEmbed tag in source mode to place an interactive Vue example, for example <AppEmbed app="coin/flip" />.'
 
   - name: pages
     label: Pages

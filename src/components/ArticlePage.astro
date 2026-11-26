@@ -1,5 +1,6 @@
 ---
 import {render} from 'astro:content';
+import BlogPostList from './BlogPostList.astro';
 import BlogOverview from './BlogOverview.astro';
 import AppEmbed from './AppEmbed.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -15,8 +16,6 @@ interface Props {
 const {entry} = Astro.props;
 const {Content} = await render(entry);
 const path = pagePath(entry);
-const section = /^\/blog\/(life|random|code|howto|projects)\/$/.exec(path)?.[1];
-const isBlogLanding = path === '/blog/';
 const isPost = Boolean(entry.data.date);
 const title = entry.data.title ?? 'Mark Honeychurch';
 ---
@@ -47,10 +46,9 @@ const title = entry.data.title ?? 'Mark Honeychurch';
 				}
 			</header>
 			<div class="markdown-content">
-				<Content components={{AppEmbed, TaxonomyIndex}} />
+				<Content components={{AppEmbed, BlogOverview, BlogPostList, TaxonomyIndex}} />
 			</div>
 			<slot />
-			{(isBlogLanding || section) && <BlogOverview section={section} />}
 			{path === '/media/' && <MediaList />}
 		</article>
 	</main>

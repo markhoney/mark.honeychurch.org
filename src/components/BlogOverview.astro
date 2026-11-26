@@ -1,35 +1,12 @@
 ---
-import {getCollection} from 'astro:content';
 import {blogSections} from '../data/navigation';
-import {pagePath, sortNewest} from '../lib/content';
-import PostList from './PostList.astro';
-
-interface Props {
-	section?: string;
-}
-
-const {section} = Astro.props;
-const entries = sortNewest(
-	(await getCollection('blog')).filter(entry =>
-		!entry.data.draft &&
-		entry.data.title &&
-		entry.data.date &&
-		(!section || pagePath(entry).startsWith(`/blog/${section}/`)),
-	),
-);
 ---
 
-{
-	section ? (
-		<PostList entries={entries} />
-	) : (
-		<ul class="blog-sections">
-			{blogSections.map(item => (
-				<li>
-					<h2><a href={item.href}>{item.label}</a></h2>
-					<p>{item.description}</p>
-				</li>
-			))}
-		</ul>
-	)
-}
+<ul class="blog-sections">
+	{blogSections.map(item => (
+		<li>
+			<h2><a href={item.href}>{item.label}</a></h2>
+			<p>{item.description}</p>
+		</li>
+	))}
+</ul>

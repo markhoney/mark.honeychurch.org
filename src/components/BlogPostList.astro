@@ -1,0 +1,22 @@
+---
+import {getCollection} from 'astro:content';
+import {sortNewest, taxonomySlug} from '../lib/content';
+import PostList from './PostList.astro';
+
+interface Props {
+	category: string;
+}
+
+const {category} = Astro.props;
+const categorySlug = taxonomySlug(category);
+const entries = sortNewest(
+	(await getCollection('blog')).filter(entry =>
+		!entry.data.draft &&
+		entry.data.title &&
+		entry.data.date &&
+		taxonomySlug(entry.data.categories[0] ?? '') === categorySlug,
+	),
+);
+---
+
+<PostList entries={entries} />

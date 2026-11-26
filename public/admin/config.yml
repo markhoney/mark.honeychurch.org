@@ -128,3 +128,24 @@ collections:
       - {label: URL, name: permalink, widget: string, hint: 'Absolute site path, for example /contact/ or /cv/full/'}
       - {label: Description, name: description, widget: string, required: false}
       - {label: Body, name: body, widget: markdown}
+
+  - name: interactive_pages
+    label: Interactive Pages
+    label_singular: Interactive Page
+    folder: src/content/pages
+    media_folder: /src/assets/content/pages
+    public_folder: ../../assets/content/pages
+    nested:
+      depth: 5
+    create: false
+    extension: mdx
+    format: frontmatter
+    path: '{{slug}}/index'
+    slug: '{{slug}}'
+    fields:
+      - {label: Title, name: title, widget: string, required: false}
+      - {label: URL, name: permalink, widget: string}
+      - label: Body
+        name: body
+        widget: markdown
+        hint: 'Interactive page components can be placed explicitly in source mode.'

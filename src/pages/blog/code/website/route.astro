@@ -1,0 +1,12 @@
+---
+import ArticlePage from '../../../../components/ArticlePage.astro';
+import CodeSource from '../../../../components/CodeSource.astro';
+import LocationMetadata from '../../../../../components/code/vuepress/location.vue';
+import source from '../../../../../components/code/vuepress/location.vue?raw';
+import {requiredEntry} from '../../../../lib/page';
+const entry = await requiredEntry('blog/code/website/route/index');
+---
+<ArticlePage entry={entry}>
+	<LocationMetadata client:load />
+	<CodeSource name="LocationMetadata.vue" source={source} />
+</ArticlePage>

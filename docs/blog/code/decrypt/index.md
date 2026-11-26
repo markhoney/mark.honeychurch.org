@@ -88,31 +88,31 @@ Okay, that was pretty cool! Want to see how I did it? Here's my code:
 ::: tab encode.vue
 
 This vue component uses a computed property to calculate the encrypted text, given some plain text and a rotation value.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab decode.vue
 
 This Vue component computes the most likely rotation of a piece of encrypted text, and then displays that rotation. It also computes and displays the plain text, using the computed rotation value.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab rot.js
 
 This function is based on one written by me as part of a [CodeWars Kata](https://www.codewars.com/kata/530e15517bc88ac656000716), and performs both the rotation and decryption.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab frequencies.json
 
 This is the data set of letter frequencies in English that I use for decryption.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab rotx.php
 
 Out of interest, here's the original code I wrote in PHP. It took me an hour or so to convert this to the Vue example above.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::::

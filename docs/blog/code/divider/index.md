@@ -35,21 +35,21 @@ In order to be able to help my friend with his assignment, I decided to get my h
 ::: tab Node.js
 
 This is the Node.js code I came up with initially to complete the task. It's not pretty, but it tries to follow the rules (e.g. passing by reference) and variable names set by the assignment:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 Here's a more JavaScript native way of doing the same task:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab Vue
 
 This is what the code looks like when converted into a vue component.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab C++
 
 Here's the C++ version of the code, as required by the assignment.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 This code was written in Visual Studio Community 2017, but also compiles in mingw and produces a 64kB [executable file](/programs/divider.executable) (rename this to .exe if you download it) with this command:
 
 ```shell

@@ -78,25 +78,25 @@ As a way of illustrating what code indenting is, here's some of my software with
 :::: tabs
 
 ::: tab "Single Space (PHP)"
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab "Single Space (Python)"
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab "Tab (Python)"
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab "Tab (JavaScript)"
 
 The beauty of this is that although it shows here with a four space indenting, when I edit the code I only see two spaces of indenting per tab.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab "Tab (Vue SFC)"
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::::

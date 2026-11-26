@@ -1,0 +1,12 @@
+---
+import ArticlePage from '../../../components/ArticlePage.astro';
+import CodeSource from '../../../components/CodeSource.astro';
+import Charts from '../../../../components/code/astrology/charts.vue';
+import source from '../../../../components/code/astrology/charts.vue?raw';
+import {requiredEntry} from '../../../lib/page';
+const entry = await requiredEntry('blog/random/astrology/index');
+---
+<ArticlePage entry={entry}>
+	<Charts client:visible />
+	<CodeSource name="code/astrology/charts.vue" source={source} />
+</ArticlePage>

@@ -24,7 +24,7 @@ So, to test this, I borrowed a friend's intact shaker and sat on it - with it st
 
 So, without further ado, here's the result of a few minutes' effort while sitting on a triangle shaped vibrating pillow:
 And here's the (relatively) simple code that generates these tones:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 In the end, it appeared that the Game mode was somewhat more mundane. From what I could tell, because some early gaming systems like the Nintendo SNES didn't output much in the way of low frequency sound (which is understandable, given how cruddy most TV speakers were), the Game mode is likely to have simply shifted frequencies just above those that the Aura usually reacted to (maybe 50-100Hz) down to frequencies that the shaker would output (around 25-50Hz).
 
 As a bonus, here's a review with an unboxing of a set that will give you a good idea of how the whole thing works:

@@ -1,0 +1,13 @@
+---
+interface Props {
+	name: string;
+	source: string;
+}
+
+const {name, source} = Astro.props;
+---
+
+<details class="component-source" open>
+	<summary>Vue component: <code>{name}</code></summary>
+	<pre><code class="language-vue">{source}</code></pre>
+</details>

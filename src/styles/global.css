@@ -277,6 +277,27 @@ a:hover {
 	margin: 0.4rem 0 1rem;
 }
 
+.component-source {
+	margin: 0 0 3rem;
+	border: 1px solid var(--border);
+	border-radius: 4px;
+	background: #fff;
+}
+
+.component-source summary {
+	padding: 0.75rem 1rem;
+	cursor: pointer;
+	font-weight: 600;
+	background: #f3f6f5;
+}
+
+.component-source pre {
+	max-height: 32rem;
+	margin: 0;
+	overflow: auto;
+	border-radius: 0 0 4px 4px;
+}
+
 .interactive-widget :is(input:not([type="range"]), textarea, select) {
 	width: 100%;
 	padding: 0.45rem;

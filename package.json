@@ -20,13 +20,15 @@
 		"@astrojs/check": "^0.9.4",
 		"@astrojs/rss": "^4.0.12",
 		"@astrojs/sitemap": "^3.6.0",
-		"@astrojs/vue": "^5.1.1",
+		"@astrojs/vue": "^7.1.6",
 		"@types/qrcode": "^1.5.6",
-		"astro": "^5.15.2",
+		"astro": "^7.4.13",
 		"typescript": "^5.9.3",
 		"vue": "^3.5.22"
 	},
 	"dependencies": {
-		"qrcode": "^1.5.4"
+		"axios": "^1.21.1",
+		"qrcode": "^1.5.4",
+		"vue-google-charts": "^1.1.1"
 	}
 }

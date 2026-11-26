@@ -26,13 +26,13 @@ The tables below are the fruits of my labour. I'm sure there must be a better wa
 ::: tab times.js
 
 The JavaScript code that created this data is:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab times.json
 
 This is the data file (times.json) that is used by the code. It is a list of times and their reflection in the different directions:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::::

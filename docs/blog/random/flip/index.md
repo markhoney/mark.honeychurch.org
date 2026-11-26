@@ -42,11 +42,11 @@ Here's the Vue I put together to make this happen.
 :::: tabs
 
 ::: tab "Coin Flip"
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab "Roll a d20"
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::::

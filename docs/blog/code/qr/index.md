@@ -20,5 +20,4 @@ As you edit the text, the QR code will update automagically. You can also resize
 The result is a PNG image, so you can right click on it and save it locally.
 ## Code
 
-The original Vue component has been replaced with a small Astro and TypeScript widget.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+The demo is the original Vue component, preserved with its Options API and rendered as an Astro Vue island. Its current Single File Component source is shown below.

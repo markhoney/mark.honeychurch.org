@@ -20,4 +20,3 @@ Hover over the charts to see numbers, percents and any missing labels.
 ## Data
 
 Here's the source data for the graphs, in JSON format:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._

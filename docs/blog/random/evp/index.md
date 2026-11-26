@@ -33,7 +33,7 @@ I wondered if I could write a simple recreation of this by wiring a PC's microph
 Here's the Vue component I put together to make this happen.
 
 ## Voice Recorder
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 ## Spirit Box
 
 :::: tabs
@@ -41,19 +41,19 @@ _The original Vue demo source has been superseded by the current Astro implement
 ::: tab Vue
 
 Here's the Vue code:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab JS
 
 This JS script makes the list of stations:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::: tab JSON
 
 Here's the JSON output of the above script:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 :::
 
 ::::

@@ -71,14 +71,14 @@ This can come in handy for clever hacks like using window.location.search to off
 ### location.vue
 
 Here's the component I used above to get the window.location object:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 ### Category Page
 
 For example, to list a single category of posts on this site, I have a reactive data object called "category" which is initialised as null. Then, on mounted(), I get the URL query from window.location.search to find out what category I need to show, and dynamically compute a list of pages that match that category:
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 <!--
 ## This page
 
 As an example, here is the markdown for this web page. There is a [Front Matter](https://jekyllrb.com/docs/front-matter/) section at the top of the page, followed by the page markdown.
-_The original Vue demo source has been superseded by the current Astro implementation on this page._
+
 -->
